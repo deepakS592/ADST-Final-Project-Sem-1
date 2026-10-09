@@ -1,0 +1,890 @@
+Season,Round,Race,EventName,OfficialEventName,Circuit,Country,Location,EventDate,RaceLaps,Driver,DriverName,DriverNumber,Team,Compound,LapNumber,TyreLife,Stint,LapTime,IsAccurate,Deleted,TrackStatus
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,1.0,4.0,1.0,92.608,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,2.0,5.0,1.0,87.139,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,3.0,6.0,1.0,86.536,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,4.0,7.0,1.0,86.255,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,5.0,8.0,1.0,86.196,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,6.0,9.0,1.0,86.364,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,7.0,10.0,1.0,86.16,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,8.0,11.0,1.0,86.485,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,9.0,12.0,1.0,86.229,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,10.0,13.0,1.0,86.157,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,11.0,14.0,1.0,86.2,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,12.0,15.0,1.0,86.047,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,13.0,16.0,1.0,86.432,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,14.0,17.0,1.0,86.308,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,15.0,18.0,1.0,86.35,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,16.0,19.0,1.0,86.266,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,17.0,20.0,1.0,86.281,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,18.0,21.0,1.0,86.519,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,19.0,22.0,1.0,90.727,False,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,20.0,1.0,2.0,134.173,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,21.0,2.0,2.0,116.545,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,22.0,3.0,2.0,107.466,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,23.0,4.0,2.0,117.108,False,,41
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,24.0,5.0,2.0,86.016,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,25.0,6.0,2.0,117.481,False,,124
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,28.0,2.0,3.0,139.007,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,29.0,3.0,3.0,84.607,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,30.0,4.0,3.0,84.707,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,31.0,5.0,3.0,84.642,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,32.0,6.0,3.0,84.257,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,33.0,7.0,3.0,84.044,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,34.0,8.0,3.0,84.037,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,35.0,9.0,3.0,84.245,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,36.0,10.0,3.0,84.555,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,37.0,11.0,3.0,84.39,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,38.0,12.0,3.0,84.341,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,39.0,13.0,3.0,84.083,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,40.0,14.0,3.0,84.134,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,41.0,15.0,3.0,84.312,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,42.0,16.0,3.0,84.325,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,43.0,17.0,3.0,84.491,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,44.0,18.0,3.0,84.539,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,45.0,19.0,3.0,84.576,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,46.0,20.0,3.0,84.404,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,47.0,21.0,3.0,84.274,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,48.0,22.0,3.0,84.467,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,49.0,23.0,3.0,84.35,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,50.0,24.0,3.0,84.367,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,51.0,25.0,3.0,84.754,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,52.0,26.0,3.0,85.111,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,53.0,27.0,3.0,85.783,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,SOFT,1.0,4.0,1.0,87.292,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,SOFT,2.0,5.0,1.0,85.769,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,SOFT,3.0,6.0,1.0,85.78,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,SOFT,4.0,7.0,1.0,85.822,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,SOFT,5.0,8.0,1.0,85.811,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,SOFT,6.0,9.0,1.0,85.806,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,SOFT,7.0,10.0,1.0,85.54,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,SOFT,8.0,11.0,1.0,85.712,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,SOFT,9.0,12.0,1.0,85.675,True,,21
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,SOFT,10.0,13.0,1.0,85.755,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,SOFT,11.0,14.0,1.0,85.748,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,SOFT,12.0,15.0,1.0,85.718,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,SOFT,13.0,16.0,1.0,85.921,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,SOFT,14.0,17.0,1.0,85.7,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,SOFT,15.0,18.0,1.0,85.819,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,SOFT,16.0,19.0,1.0,85.73,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,SOFT,17.0,20.0,1.0,85.632,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,SOFT,18.0,21.0,1.0,85.646,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,SOFT,19.0,22.0,1.0,85.797,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,SOFT,20.0,23.0,1.0,99.799,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,SOFT,21.0,24.0,1.0,133.681,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,SOFT,22.0,25.0,1.0,132.419,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,23.0,1.0,2.0,131.648,False,,41
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,24.0,2.0,2.0,87.151,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,25.0,3.0,2.0,118.312,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,28.0,6.0,3.0,133.599,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,29.0,7.0,3.0,85.111,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,30.0,8.0,3.0,85.035,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,31.0,9.0,3.0,84.242,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,32.0,10.0,3.0,84.392,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,33.0,11.0,3.0,84.461,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,34.0,12.0,3.0,84.398,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,35.0,13.0,3.0,84.152,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,36.0,14.0,3.0,83.942,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,37.0,15.0,3.0,84.278,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,38.0,16.0,3.0,84.211,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,39.0,17.0,3.0,83.987,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,40.0,18.0,3.0,83.882,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,41.0,19.0,3.0,84.071,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,42.0,20.0,3.0,84.138,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,43.0,21.0,3.0,84.474,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,44.0,22.0,3.0,84.168,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,45.0,23.0,3.0,84.219,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,46.0,24.0,3.0,84.191,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,47.0,25.0,3.0,84.168,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,48.0,26.0,3.0,84.427,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,49.0,27.0,3.0,84.286,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,50.0,28.0,3.0,84.477,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,51.0,29.0,3.0,84.699,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,52.0,30.0,3.0,84.491,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,SAI,Carlos Sainz,55,McLaren,MEDIUM,53.0,31.0,3.0,85.311,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,1.0,4.0,1.0,91.644,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,2.0,5.0,1.0,86.152,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,3.0,6.0,1.0,87.284,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,4.0,7.0,1.0,85.988,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,5.0,8.0,1.0,86.053,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,6.0,9.0,1.0,86.215,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,7.0,10.0,1.0,86.337,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,8.0,11.0,1.0,86.225,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,9.0,12.0,1.0,86.276,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,10.0,13.0,1.0,85.912,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,11.0,14.0,1.0,86.14,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,12.0,15.0,1.0,85.856,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,13.0,16.0,1.0,86.096,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,14.0,17.0,1.0,86.071,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,15.0,18.0,1.0,86.251,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,16.0,19.0,1.0,85.977,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,17.0,20.0,1.0,86.092,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,18.0,21.0,1.0,85.913,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,19.0,22.0,1.0,85.782,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,20.0,23.0,1.0,103.654,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,21.0,24.0,1.0,127.978,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,22.0,25.0,1.0,129.19,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,23.0,26.0,1.0,123.063,False,,41
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,24.0,27.0,1.0,85.553,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,SOFT,25.0,28.0,1.0,117.537,False,,124
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,28.0,2.0,2.0,144.316,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,29.0,3.0,2.0,86.247,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,30.0,4.0,2.0,85.171,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,31.0,5.0,2.0,84.372,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,32.0,6.0,2.0,84.46,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,33.0,7.0,2.0,84.505,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,34.0,8.0,2.0,85.134,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,35.0,9.0,2.0,84.743,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,36.0,10.0,2.0,84.045,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,37.0,11.0,2.0,84.154,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,38.0,12.0,2.0,84.116,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,39.0,13.0,2.0,84.211,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,40.0,14.0,2.0,84.05,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,41.0,15.0,2.0,84.309,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,42.0,16.0,2.0,83.897,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,43.0,17.0,2.0,84.179,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,44.0,18.0,2.0,84.328,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,45.0,19.0,2.0,84.346,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,46.0,20.0,2.0,84.266,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,47.0,21.0,2.0,84.259,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,48.0,22.0,2.0,84.692,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,49.0,23.0,2.0,84.349,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,50.0,24.0,2.0,84.335,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,51.0,25.0,2.0,84.511,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,52.0,26.0,2.0,84.866,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,STR,Lance Stroll,18,Racing Point,MEDIUM,53.0,27.0,2.0,84.97,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,SOFT,1.0,4.0,1.0,88.591,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,SOFT,2.0,5.0,1.0,86.0,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,SOFT,3.0,6.0,1.0,86.125,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,SOFT,4.0,7.0,1.0,85.854,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,SOFT,5.0,8.0,1.0,85.951,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,SOFT,6.0,9.0,1.0,86.204,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,SOFT,7.0,10.0,1.0,86.046,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,SOFT,8.0,11.0,1.0,86.049,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,SOFT,9.0,12.0,1.0,86.204,True,,21
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,SOFT,10.0,13.0,1.0,85.703,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,SOFT,11.0,14.0,1.0,85.776,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,SOFT,12.0,15.0,1.0,85.942,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,SOFT,13.0,16.0,1.0,85.915,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,SOFT,14.0,17.0,1.0,85.913,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,SOFT,15.0,18.0,1.0,85.807,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,SOFT,16.0,19.0,1.0,85.847,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,SOFT,17.0,20.0,1.0,85.677,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,SOFT,18.0,21.0,1.0,85.724,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,SOFT,19.0,22.0,1.0,85.796,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,SOFT,20.0,23.0,1.0,101.652,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,SOFT,21.0,24.0,1.0,131.381,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,SOFT,22.0,25.0,1.0,135.263,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,23.0,1.0,2.0,125.092,False,,41
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,24.0,2.0,2.0,87.636,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,25.0,3.0,2.0,119.453,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,28.0,6.0,3.0,133.905,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,29.0,7.0,3.0,85.769,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,30.0,8.0,3.0,85.19,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,31.0,9.0,3.0,84.675,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,32.0,10.0,3.0,84.782,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,33.0,11.0,3.0,84.633,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,34.0,12.0,3.0,84.736,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,35.0,13.0,3.0,85.549,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,36.0,14.0,3.0,84.518,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,37.0,15.0,3.0,84.769,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,38.0,16.0,3.0,84.526,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,39.0,17.0,3.0,84.249,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,40.0,18.0,3.0,84.264,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,41.0,19.0,3.0,84.24,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,42.0,20.0,3.0,84.441,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,43.0,21.0,3.0,84.53,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,44.0,22.0,3.0,84.508,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,45.0,23.0,3.0,84.511,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,46.0,24.0,3.0,84.321,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,47.0,25.0,3.0,84.312,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,48.0,26.0,3.0,84.277,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,49.0,27.0,3.0,84.329,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,50.0,28.0,3.0,84.232,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,51.0,29.0,3.0,84.253,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,52.0,30.0,3.0,84.247,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,NOR,Lando Norris,4,McLaren,MEDIUM,53.0,31.0,3.0,84.31,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,1.0,4.0,1.0,90.934,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,2.0,5.0,1.0,86.027,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,3.0,6.0,1.0,85.971,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,4.0,7.0,1.0,86.052,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,5.0,8.0,1.0,86.119,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,6.0,9.0,1.0,86.552,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,7.0,10.0,1.0,86.075,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,8.0,11.0,1.0,86.101,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,9.0,12.0,1.0,86.13,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,10.0,13.0,1.0,85.347,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,11.0,14.0,1.0,86.311,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,12.0,15.0,1.0,85.845,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,13.0,16.0,1.0,86.377,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,14.0,17.0,1.0,86.07,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,15.0,18.0,1.0,86.388,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,16.0,19.0,1.0,85.792,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,17.0,20.0,1.0,86.018,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,18.0,21.0,1.0,85.789,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,19.0,22.0,1.0,85.739,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,20.0,23.0,1.0,102.462,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,21.0,24.0,1.0,129.652,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,22.0,25.0,1.0,133.491,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,23.0,1.0,2.0,123.911,False,,41
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,24.0,2.0,2.0,87.662,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,25.0,3.0,2.0,119.515,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,28.0,6.0,3.0,132.05,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,29.0,7.0,3.0,86.085,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,30.0,8.0,3.0,85.285,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,31.0,9.0,3.0,84.611,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,32.0,10.0,3.0,84.777,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,33.0,11.0,3.0,84.659,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,34.0,12.0,3.0,84.782,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,35.0,13.0,3.0,85.505,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,36.0,14.0,3.0,85.3,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,37.0,15.0,3.0,84.194,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,38.0,16.0,3.0,84.632,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,39.0,17.0,3.0,84.482,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,40.0,18.0,3.0,84.121,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,41.0,19.0,3.0,84.032,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,42.0,20.0,3.0,84.405,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,43.0,21.0,3.0,84.44,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,44.0,22.0,3.0,84.429,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,45.0,23.0,3.0,84.665,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,46.0,24.0,3.0,84.246,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,47.0,25.0,3.0,84.445,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,48.0,26.0,3.0,84.649,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,49.0,27.0,3.0,84.452,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,50.0,28.0,3.0,83.997,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,51.0,29.0,3.0,83.961,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,52.0,30.0,3.0,84.075,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,53.0,31.0,3.0,84.688,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,SOFT,1.0,4.0,1.0,90.222,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,SOFT,2.0,5.0,1.0,86.185,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,SOFT,3.0,6.0,1.0,85.976,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,SOFT,4.0,7.0,1.0,85.983,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,SOFT,5.0,8.0,1.0,86.308,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,SOFT,6.0,9.0,1.0,86.064,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,SOFT,7.0,10.0,1.0,86.153,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,SOFT,8.0,11.0,1.0,86.008,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,SOFT,9.0,12.0,1.0,86.178,True,,21
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,SOFT,10.0,13.0,1.0,85.761,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,SOFT,11.0,14.0,1.0,85.823,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,SOFT,12.0,15.0,1.0,85.99,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,SOFT,13.0,16.0,1.0,86.079,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,SOFT,14.0,17.0,1.0,86.113,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,SOFT,15.0,18.0,1.0,86.147,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,SOFT,16.0,19.0,1.0,86.123,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,SOFT,17.0,20.0,1.0,85.474,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,SOFT,18.0,21.0,1.0,85.682,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,SOFT,19.0,22.0,1.0,85.644,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,SOFT,20.0,23.0,1.0,101.805,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,SOFT,21.0,24.0,1.0,131.125,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,SOFT,22.0,25.0,1.0,133.747,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,23.0,1.0,2.0,125.316,False,,41
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,24.0,2.0,2.0,87.928,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,25.0,3.0,2.0,120.373,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,28.0,6.0,3.0,128.417,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,29.0,7.0,3.0,86.084,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,30.0,8.0,3.0,85.244,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,31.0,9.0,3.0,85.034,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,32.0,10.0,3.0,84.686,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,33.0,11.0,3.0,84.575,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,34.0,12.0,3.0,84.679,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,35.0,13.0,3.0,85.394,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,36.0,14.0,3.0,85.512,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,37.0,15.0,3.0,85.252,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,38.0,16.0,3.0,83.898,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,39.0,17.0,3.0,84.403,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,40.0,18.0,3.0,84.167,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,41.0,19.0,3.0,84.129,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,42.0,20.0,3.0,85.232,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,43.0,21.0,3.0,84.407,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,44.0,22.0,3.0,84.1,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,45.0,23.0,3.0,84.922,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,46.0,24.0,3.0,83.929,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,47.0,25.0,3.0,84.245,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,48.0,26.0,3.0,84.237,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,49.0,27.0,3.0,84.257,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,50.0,28.0,3.0,84.297,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,51.0,29.0,3.0,83.963,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,52.0,30.0,3.0,84.392,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,53.0,31.0,3.0,84.571,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,1.0,4.0,1.0,85.914,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,2.0,5.0,1.0,85.265,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,3.0,6.0,1.0,85.539,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,4.0,7.0,1.0,85.372,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,5.0,8.0,1.0,85.541,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,6.0,9.0,1.0,84.89,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,7.0,10.0,1.0,85.074,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,8.0,11.0,1.0,85.006,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,9.0,12.0,1.0,85.47,True,,21
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,10.0,13.0,1.0,84.928,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,11.0,14.0,1.0,84.852,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,12.0,15.0,1.0,85.225,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,13.0,16.0,1.0,85.077,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,14.0,17.0,1.0,84.995,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,15.0,18.0,1.0,84.915,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,16.0,19.0,1.0,84.626,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,17.0,20.0,1.0,84.894,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,18.0,21.0,1.0,84.768,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,19.0,22.0,1.0,84.795,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,20.0,23.0,1.0,96.982,False,,124
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,22.0,2.0,2.0,129.96,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,23.0,3.0,2.0,129.173,False,,41
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,24.0,4.0,2.0,83.504,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,25.0,5.0,2.0,119.828,False,,124
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,28.0,2.0,3.0,145.356,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,29.0,3.0,4.0,112.23,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,30.0,4.0,4.0,83.765,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,31.0,5.0,4.0,83.464,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,32.0,6.0,4.0,82.901,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,33.0,7.0,4.0,82.955,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,34.0,8.0,4.0,82.746,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,35.0,9.0,4.0,83.549,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,36.0,10.0,4.0,83.334,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,37.0,11.0,4.0,84.384,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,38.0,12.0,4.0,85.073,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,39.0,13.0,4.0,84.85,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,40.0,14.0,4.0,84.456,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,41.0,15.0,4.0,84.844,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,42.0,16.0,4.0,83.777,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,43.0,17.0,4.0,83.374,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,44.0,18.0,4.0,84.559,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,45.0,19.0,4.0,84.384,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,46.0,20.0,4.0,85.315,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,47.0,21.0,4.0,84.11,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,48.0,22.0,4.0,84.231,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,49.0,23.0,4.0,82.908,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,50.0,24.0,4.0,84.11,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,51.0,25.0,4.0,83.743,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,52.0,26.0,4.0,83.446,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,HAM,Lewis Hamilton,44,Mercedes,HARD,53.0,27.0,4.0,84.182,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,1.0,1.0,1.0,92.119,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,2.0,2.0,1.0,87.003,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,3.0,3.0,1.0,86.564,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,4.0,4.0,1.0,86.116,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,5.0,5.0,1.0,86.217,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,6.0,6.0,1.0,86.124,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,7.0,7.0,1.0,86.276,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,8.0,8.0,1.0,86.374,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,9.0,9.0,1.0,86.364,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,10.0,10.0,1.0,86.042,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,11.0,11.0,1.0,86.082,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,12.0,12.0,1.0,85.992,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,13.0,13.0,1.0,86.033,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,14.0,14.0,1.0,86.177,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,15.0,15.0,1.0,86.325,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,16.0,16.0,1.0,86.123,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,17.0,17.0,1.0,86.062,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,18.0,18.0,1.0,86.049,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,19.0,19.0,1.0,86.323,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,20.0,20.0,1.0,105.791,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,21.0,21.0,1.0,124.86,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,22.0,22.0,1.0,135.968,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,MEDIUM,23.0,1.0,2.0,120.155,False,,41
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,MEDIUM,24.0,2.0,2.0,87.649,False,,124
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,MEDIUM,25.0,3.0,2.0,122.384,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,28.0,5.0,3.0,123.904,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,29.0,6.0,3.0,86.462,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,30.0,7.0,3.0,85.492,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,31.0,8.0,3.0,85.037,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,32.0,9.0,3.0,84.831,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,33.0,10.0,3.0,84.658,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,34.0,11.0,3.0,84.616,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,35.0,12.0,3.0,84.835,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,36.0,13.0,3.0,85.62,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,37.0,14.0,3.0,85.591,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,38.0,15.0,3.0,84.969,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,39.0,16.0,3.0,84.848,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,40.0,17.0,3.0,85.273,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,41.0,18.0,3.0,85.304,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,42.0,19.0,3.0,85.157,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,43.0,20.0,3.0,84.878,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,44.0,21.0,3.0,84.635,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,45.0,22.0,3.0,84.701,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,46.0,23.0,3.0,84.699,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,47.0,24.0,3.0,84.699,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,48.0,25.0,3.0,84.744,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,49.0,26.0,3.0,84.748,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,50.0,27.0,3.0,84.607,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,51.0,28.0,3.0,84.684,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,52.0,29.0,3.0,84.49,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,OCO,Esteban Ocon,31,Renault,SOFT,53.0,30.0,3.0,86.0,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,1.0,1.0,1.0,93.274,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,2.0,2.0,1.0,87.353,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,3.0,3.0,1.0,86.602,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,4.0,4.0,1.0,86.181,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,5.0,5.0,1.0,86.08,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,6.0,6.0,1.0,86.175,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,7.0,7.0,1.0,86.202,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,8.0,8.0,1.0,86.309,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,9.0,9.0,1.0,86.685,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,10.0,10.0,1.0,86.194,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,11.0,11.0,1.0,86.183,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,12.0,12.0,1.0,86.103,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,13.0,13.0,1.0,86.209,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,14.0,14.0,1.0,86.232,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,15.0,15.0,1.0,86.448,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,16.0,16.0,1.0,86.358,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,17.0,17.0,1.0,86.183,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,18.0,18.0,1.0,86.424,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,19.0,19.0,1.0,86.894,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,20.0,20.0,1.0,107.228,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,21.0,21.0,1.0,121.971,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,22.0,22.0,1.0,134.53,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,23.0,1.0,2.0,119.872,False,,41
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,24.0,2.0,2.0,87.579,False,,124
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,25.0,3.0,2.0,123.764,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,28.0,6.0,3.0,122.677,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,29.0,7.0,3.0,86.469,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,30.0,8.0,3.0,85.48,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,31.0,9.0,3.0,85.052,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,32.0,10.0,3.0,84.816,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,33.0,11.0,3.0,84.601,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,34.0,12.0,3.0,84.783,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,35.0,13.0,3.0,84.953,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,36.0,14.0,3.0,85.371,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,37.0,15.0,3.0,85.62,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,38.0,16.0,3.0,85.154,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,39.0,17.0,3.0,84.929,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,40.0,18.0,3.0,85.075,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,41.0,19.0,3.0,85.395,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,42.0,20.0,3.0,85.286,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,43.0,21.0,3.0,86.108,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,44.0,22.0,3.0,84.479,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,45.0,23.0,3.0,84.654,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,46.0,24.0,3.0,84.632,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,47.0,25.0,3.0,84.566,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,48.0,26.0,3.0,84.703,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,49.0,27.0,3.0,84.78,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,50.0,28.0,3.0,84.749,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,51.0,29.0,3.0,86.357,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,52.0,30.0,3.0,85.034,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,53.0,31.0,3.0,85.452,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,SOFT,1.0,4.0,1.0,89.372,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,SOFT,2.0,5.0,1.0,86.136,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,SOFT,3.0,6.0,1.0,85.889,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,SOFT,4.0,7.0,1.0,86.019,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,SOFT,5.0,8.0,1.0,86.423,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,SOFT,6.0,9.0,1.0,86.025,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,SOFT,7.0,10.0,1.0,85.733,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,SOFT,8.0,11.0,1.0,85.821,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,SOFT,9.0,12.0,1.0,86.612,True,,21
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,SOFT,10.0,13.0,1.0,85.715,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,SOFT,11.0,14.0,1.0,85.921,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,SOFT,12.0,15.0,1.0,86.134,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,SOFT,13.0,16.0,1.0,85.98,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,SOFT,14.0,17.0,1.0,86.043,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,SOFT,15.0,18.0,1.0,86.026,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,SOFT,16.0,19.0,1.0,85.869,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,SOFT,17.0,20.0,1.0,85.775,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,SOFT,18.0,21.0,1.0,85.47,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,SOFT,19.0,22.0,1.0,85.596,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,SOFT,20.0,23.0,1.0,101.203,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,SOFT,21.0,24.0,1.0,131.256,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,SOFT,22.0,25.0,1.0,134.803,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,23.0,1.0,2.0,126.769,False,,41
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,24.0,2.0,2.0,89.775,False,,124
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,25.0,3.0,2.0,123.207,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,28.0,6.0,3.0,122.131,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,29.0,7.0,3.0,86.391,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,30.0,8.0,3.0,85.626,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,31.0,9.0,3.0,84.839,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,32.0,10.0,3.0,84.82,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,33.0,11.0,3.0,84.836,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,34.0,12.0,3.0,84.556,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,35.0,13.0,3.0,85.058,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,36.0,14.0,3.0,85.189,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,37.0,15.0,3.0,85.312,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,38.0,16.0,3.0,85.676,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,39.0,17.0,3.0,84.728,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,40.0,18.0,3.0,85.062,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,41.0,19.0,3.0,85.315,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,42.0,20.0,3.0,85.599,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,43.0,21.0,3.0,85.962,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,44.0,22.0,3.0,85.547,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,45.0,23.0,3.0,85.523,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,46.0,24.0,3.0,84.922,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,47.0,25.0,3.0,84.464,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,48.0,26.0,3.0,84.487,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,49.0,27.0,3.0,85.49,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,50.0,28.0,3.0,84.336,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,51.0,29.0,3.0,84.821,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,52.0,30.0,3.0,84.632,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,PER,Sergio Perez,11,Racing Point,MEDIUM,53.0,31.0,3.0,85.416,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,1.0,1.0,1.0,97.259,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,2.0,2.0,1.0,89.052,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,3.0,3.0,1.0,88.069,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,4.0,4.0,1.0,87.537,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,5.0,5.0,1.0,87.599,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,6.0,6.0,1.0,87.485,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,7.0,7.0,1.0,87.335,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,8.0,8.0,1.0,87.001,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,9.0,9.0,1.0,87.178,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,10.0,10.0,1.0,86.433,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,11.0,11.0,1.0,86.487,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,12.0,12.0,1.0,86.515,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,13.0,13.0,1.0,86.551,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,14.0,14.0,1.0,86.833,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,15.0,15.0,1.0,86.52,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,16.0,16.0,1.0,90.872,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,HARD,17.0,1.0,2.0,108.068,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,HARD,18.0,2.0,2.0,86.132,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,HARD,19.0,3.0,2.0,86.418,False,,124
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,HARD,20.0,4.0,2.0,119.685,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,HARD,21.0,5.0,2.0,106.24,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,HARD,22.0,6.0,2.0,97.594,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,HARD,23.0,7.0,2.0,115.314,False,,41
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,HARD,24.0,8.0,2.0,89.279,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,HARD,25.0,9.0,2.0,120.295,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,28.0,2.0,3.0,130.291,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,29.0,3.0,3.0,87.61,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,30.0,4.0,3.0,85.99,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,31.0,5.0,3.0,85.302,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,32.0,6.0,3.0,85.054,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,33.0,7.0,3.0,85.029,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,34.0,8.0,3.0,85.3,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,35.0,9.0,3.0,85.382,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,36.0,10.0,3.0,85.452,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,37.0,11.0,3.0,85.208,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,38.0,12.0,3.0,85.08,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,39.0,13.0,3.0,84.999,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,40.0,14.0,3.0,85.122,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,41.0,15.0,3.0,85.356,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,42.0,16.0,3.0,85.197,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,43.0,17.0,3.0,85.059,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,44.0,18.0,3.0,85.094,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,45.0,19.0,3.0,86.571,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,46.0,20.0,3.0,85.835,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,47.0,21.0,3.0,85.388,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,48.0,22.0,3.0,85.669,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,49.0,23.0,3.0,85.487,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,50.0,24.0,3.0,85.926,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,51.0,25.0,3.0,86.705,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,52.0,26.0,3.0,85.647,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,53.0,27.0,3.0,85.345,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,1.0,1.0,1.0,95.429,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,2.0,2.0,1.0,88.613,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,3.0,3.0,1.0,87.27,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,4.0,4.0,1.0,87.145,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,5.0,5.0,1.0,86.662,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,6.0,6.0,1.0,87.137,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,7.0,7.0,1.0,86.733,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,8.0,8.0,1.0,86.846,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,9.0,9.0,1.0,86.803,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,10.0,10.0,1.0,86.446,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,11.0,11.0,1.0,86.624,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,12.0,12.0,1.0,86.79,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,13.0,13.0,1.0,86.664,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,14.0,14.0,1.0,86.984,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,15.0,15.0,1.0,86.395,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,16.0,16.0,1.0,86.392,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,17.0,17.0,1.0,86.682,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,18.0,18.0,1.0,86.764,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,19.0,19.0,1.0,87.098,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,20.0,20.0,1.0,109.843,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,21.0,21.0,1.0,117.173,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,22.0,22.0,1.0,126.512,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,23.0,1.0,2.0,119.923,False,,41
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,24.0,2.0,2.0,88.896,False,,124
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,25.0,3.0,2.0,125.217,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,28.0,6.0,3.0,116.96,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,29.0,7.0,3.0,86.862,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,30.0,8.0,3.0,86.154,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,31.0,9.0,3.0,85.44,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,32.0,10.0,3.0,85.491,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,33.0,11.0,3.0,85.842,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,34.0,12.0,3.0,86.004,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,35.0,13.0,3.0,85.581,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,36.0,14.0,3.0,85.206,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,37.0,15.0,3.0,84.993,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,38.0,16.0,3.0,85.071,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,39.0,17.0,3.0,84.866,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,40.0,18.0,3.0,85.968,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,41.0,19.0,3.0,85.751,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,42.0,20.0,3.0,86.478,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,43.0,21.0,3.0,85.192,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,44.0,22.0,3.0,85.226,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,45.0,23.0,3.0,85.348,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,46.0,24.0,3.0,85.079,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,47.0,25.0,3.0,84.955,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,48.0,26.0,3.0,84.785,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,49.0,27.0,3.0,85.956,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,50.0,28.0,3.0,85.344,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,51.0,29.0,3.0,86.161,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,52.0,30.0,3.0,86.18,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,53.0,31.0,3.0,85.462,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,1.0,1.0,1.0,93.635,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,2.0,2.0,1.0,87.629,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,3.0,3.0,1.0,86.82,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,4.0,4.0,1.0,86.318,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,5.0,5.0,1.0,86.468,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,6.0,6.0,1.0,86.218,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,7.0,7.0,1.0,86.331,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,8.0,8.0,1.0,86.453,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,9.0,9.0,1.0,86.418,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,10.0,10.0,1.0,86.11,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,11.0,11.0,1.0,86.404,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,12.0,12.0,1.0,86.215,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,13.0,13.0,1.0,86.387,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,14.0,14.0,1.0,86.189,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,15.0,15.0,1.0,86.291,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,16.0,16.0,1.0,86.492,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,17.0,17.0,1.0,86.341,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,18.0,18.0,1.0,90.683,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,19.0,1.0,2.0,106.392,False,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,20.0,2.0,2.0,114.667,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,21.0,3.0,2.0,118.974,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,22.0,4.0,2.0,104.371,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,23.0,5.0,2.0,115.684,False,,41
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,24.0,6.0,2.0,87.134,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,25.0,7.0,2.0,117.398,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,28.0,2.0,3.0,137.83,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,29.0,3.0,3.0,84.835,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,30.0,4.0,3.0,84.955,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,31.0,5.0,3.0,85.064,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,32.0,6.0,3.0,84.856,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,33.0,7.0,3.0,84.926,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,34.0,8.0,3.0,86.295,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,35.0,9.0,3.0,86.632,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,36.0,10.0,3.0,85.851,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,37.0,11.0,3.0,86.169,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,38.0,12.0,3.0,85.642,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,39.0,13.0,3.0,85.034,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,40.0,14.0,3.0,85.2,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,41.0,15.0,3.0,85.263,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,42.0,16.0,3.0,85.312,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,43.0,17.0,3.0,87.247,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,44.0,18.0,3.0,85.988,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,45.0,19.0,3.0,85.729,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,46.0,20.0,3.0,87.555,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,47.0,21.0,3.0,85.676,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,48.0,22.0,3.0,85.509,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,49.0,23.0,3.0,85.891,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,50.0,24.0,3.0,85.828,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,51.0,25.0,3.0,86.924,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,52.0,26.0,3.0,87.447,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,53.0,27.0,3.0,87.243,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,1.0,1.0,1.0,96.445,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,2.0,2.0,1.0,89.298,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,3.0,3.0,1.0,87.399,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,4.0,4.0,1.0,87.331,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,5.0,5.0,1.0,87.639,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,6.0,6.0,1.0,87.37,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,7.0,7.0,1.0,87.045,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,8.0,8.0,1.0,86.696,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,9.0,9.0,1.0,86.423,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,10.0,10.0,1.0,86.315,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,11.0,11.0,1.0,86.794,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,12.0,12.0,1.0,86.565,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,13.0,13.0,1.0,86.334,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,14.0,14.0,1.0,86.31,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,15.0,15.0,1.0,87.017,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,16.0,16.0,1.0,86.475,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,17.0,17.0,1.0,86.56,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,18.0,18.0,1.0,86.498,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,19.0,19.0,1.0,86.308,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,20.0,20.0,1.0,111.022,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,21.0,21.0,1.0,116.998,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,22.0,22.0,1.0,124.514,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,HARD,23.0,1.0,2.0,118.97,False,,41
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,HARD,24.0,2.0,2.0,88.503,False,,124
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,HARD,25.0,3.0,2.0,124.397,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,28.0,2.0,3.0,120.963,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,29.0,3.0,3.0,87.271,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,30.0,4.0,3.0,86.607,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,31.0,5.0,3.0,84.861,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,32.0,6.0,3.0,85.098,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,33.0,7.0,3.0,85.808,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,34.0,8.0,3.0,86.14,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,35.0,9.0,3.0,85.658,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,36.0,10.0,3.0,85.347,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,37.0,11.0,3.0,85.124,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,38.0,12.0,3.0,85.032,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,39.0,13.0,3.0,84.421,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,40.0,14.0,3.0,86.342,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,41.0,15.0,3.0,86.287,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,42.0,16.0,3.0,85.864,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,43.0,17.0,3.0,85.492,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,44.0,18.0,3.0,85.36,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,45.0,19.0,3.0,85.181,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,46.0,20.0,3.0,85.164,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,47.0,21.0,3.0,85.192,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,48.0,22.0,3.0,84.962,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,49.0,23.0,3.0,85.112,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,50.0,24.0,3.0,85.184,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,51.0,25.0,3.0,86.584,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,52.0,26.0,3.0,86.098,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,RUS,George Russell,63,Williams,MEDIUM,53.0,27.0,3.0,86.137,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,1.0,4.0,1.0,94.938,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,2.0,5.0,1.0,88.308,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,3.0,6.0,1.0,86.964,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,4.0,7.0,1.0,86.472,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,5.0,8.0,1.0,86.159,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,6.0,9.0,1.0,86.59,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,7.0,10.0,1.0,86.732,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,8.0,11.0,1.0,86.376,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,9.0,12.0,1.0,86.798,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,10.0,13.0,1.0,86.697,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,11.0,14.0,1.0,86.745,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,12.0,15.0,1.0,86.273,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,13.0,16.0,1.0,86.382,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,14.0,17.0,1.0,86.53,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,15.0,18.0,1.0,86.51,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,16.0,19.0,1.0,86.407,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,17.0,20.0,1.0,86.535,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,18.0,21.0,1.0,85.826,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,19.0,22.0,1.0,86.167,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,20.0,23.0,1.0,108.383,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,21.0,24.0,1.0,118.471,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,22.0,25.0,1.0,132.273,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,23.0,1.0,2.0,120.478,False,,41
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,24.0,2.0,2.0,88.148,False,,124
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,25.0,3.0,2.0,125.099,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,28.0,2.0,3.0,119.895,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,29.0,3.0,3.0,87.314,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,30.0,4.0,3.0,86.687,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,31.0,5.0,3.0,85.012,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,32.0,6.0,3.0,85.181,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,33.0,7.0,3.0,85.699,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,34.0,8.0,3.0,86.008,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,35.0,9.0,3.0,85.607,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,36.0,10.0,3.0,85.781,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,37.0,11.0,3.0,85.142,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,38.0,12.0,3.0,85.054,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,39.0,13.0,3.0,84.888,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,40.0,14.0,3.0,86.464,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,41.0,15.0,3.0,85.441,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,42.0,16.0,3.0,85.949,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,43.0,17.0,3.0,85.523,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,44.0,18.0,3.0,85.722,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,45.0,19.0,3.0,85.433,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,46.0,20.0,3.0,85.188,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,47.0,21.0,3.0,85.049,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,48.0,22.0,3.0,84.926,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,49.0,23.0,3.0,85.002,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,50.0,24.0,3.0,85.03,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,51.0,25.0,3.0,86.631,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,52.0,26.0,3.0,85.921,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,53.0,27.0,3.0,85.864,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,1.0,1.0,1.0,94.388,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,2.0,2.0,1.0,88.219,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,3.0,3.0,1.0,87.114,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,4.0,4.0,1.0,87.834,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,5.0,5.0,1.0,86.385,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,6.0,6.0,1.0,86.631,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,7.0,7.0,1.0,86.613,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,8.0,8.0,1.0,86.496,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,9.0,9.0,1.0,86.742,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,10.0,10.0,1.0,86.683,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,11.0,11.0,1.0,86.719,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,12.0,12.0,1.0,86.566,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,13.0,13.0,1.0,86.664,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,14.0,14.0,1.0,86.619,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,15.0,15.0,1.0,86.757,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,16.0,16.0,1.0,86.523,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,17.0,17.0,1.0,87.155,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,18.0,18.0,1.0,86.524,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,19.0,19.0,1.0,86.623,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,20.0,20.0,1.0,112.074,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,21.0,1.0,2.0,134.369,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,22.0,2.0,2.0,106.855,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,23.0,3.0,2.0,116.623,False,,41
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,24.0,4.0,2.0,87.887,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,25.0,5.0,2.0,117.955,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,28.0,2.0,3.0,136.861,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,29.0,3.0,3.0,85.496,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,30.0,4.0,3.0,89.629,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,31.0,5.0,4.0,112.567,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,32.0,6.0,4.0,85.338,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,33.0,7.0,4.0,85.252,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,34.0,8.0,4.0,85.101,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,35.0,9.0,4.0,85.59,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,36.0,10.0,4.0,85.729,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,37.0,11.0,4.0,85.773,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,38.0,12.0,4.0,85.518,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,39.0,13.0,4.0,85.322,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,40.0,14.0,4.0,85.005,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,41.0,15.0,4.0,85.494,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,42.0,16.0,4.0,85.086,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,43.0,17.0,4.0,84.856,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,44.0,18.0,4.0,85.04,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,45.0,19.0,4.0,85.191,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,46.0,20.0,4.0,84.937,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,47.0,21.0,4.0,85.116,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,48.0,22.0,4.0,85.203,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,49.0,23.0,4.0,85.088,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,50.0,24.0,4.0,85.509,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,51.0,25.0,4.0,85.489,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,52.0,26.0,4.0,85.814,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,53.0,27.0,4.0,86.004,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,1.0,4.0,1.0,91.365,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,2.0,5.0,1.0,86.762,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,3.0,6.0,1.0,85.744,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,4.0,7.0,1.0,85.862,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,5.0,8.0,1.0,85.962,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,6.0,9.0,1.0,86.589,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,7.0,10.0,1.0,86.095,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,8.0,11.0,1.0,86.269,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,9.0,12.0,1.0,86.208,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,10.0,13.0,1.0,85.539,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,11.0,14.0,1.0,85.77,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,12.0,15.0,1.0,85.902,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,13.0,16.0,1.0,86.537,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,14.0,17.0,1.0,85.933,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,15.0,18.0,1.0,86.279,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,16.0,19.0,1.0,85.983,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,17.0,20.0,1.0,85.955,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,18.0,21.0,1.0,85.851,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,19.0,22.0,1.0,86.285,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,20.0,23.0,1.0,102.806,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,21.0,24.0,1.0,128.928,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,22.0,25.0,1.0,133.034,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,23.0,1.0,2.0,125.006,False,,41
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,24.0,2.0,2.0,87.525,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,25.0,3.0,2.0,120.818,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,28.0,6.0,3.0,128.026,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,29.0,7.0,3.0,88.033,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,30.0,8.0,3.0,90.133,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LEC,Charles Leclerc,16,Ferrari,SOFT,1.0,1.0,1.0,94.071,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LEC,Charles Leclerc,16,Ferrari,SOFT,2.0,2.0,1.0,88.003,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LEC,Charles Leclerc,16,Ferrari,SOFT,3.0,3.0,1.0,86.925,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LEC,Charles Leclerc,16,Ferrari,SOFT,4.0,4.0,1.0,86.623,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LEC,Charles Leclerc,16,Ferrari,SOFT,5.0,5.0,1.0,86.354,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LEC,Charles Leclerc,16,Ferrari,SOFT,6.0,6.0,1.0,86.545,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LEC,Charles Leclerc,16,Ferrari,SOFT,7.0,7.0,1.0,86.527,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LEC,Charles Leclerc,16,Ferrari,SOFT,8.0,8.0,1.0,86.623,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LEC,Charles Leclerc,16,Ferrari,SOFT,9.0,9.0,1.0,86.752,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LEC,Charles Leclerc,16,Ferrari,SOFT,10.0,10.0,1.0,86.405,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LEC,Charles Leclerc,16,Ferrari,SOFT,11.0,11.0,1.0,86.409,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LEC,Charles Leclerc,16,Ferrari,SOFT,12.0,12.0,1.0,86.377,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LEC,Charles Leclerc,16,Ferrari,SOFT,13.0,13.0,1.0,86.557,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LEC,Charles Leclerc,16,Ferrari,SOFT,14.0,14.0,1.0,86.709,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LEC,Charles Leclerc,16,Ferrari,SOFT,15.0,15.0,1.0,86.721,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LEC,Charles Leclerc,16,Ferrari,SOFT,16.0,16.0,1.0,86.779,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LEC,Charles Leclerc,16,Ferrari,SOFT,17.0,17.0,1.0,93.33,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LEC,Charles Leclerc,16,Ferrari,HARD,18.0,1.0,2.0,107.411,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LEC,Charles Leclerc,16,Ferrari,HARD,19.0,2.0,2.0,86.026,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LEC,Charles Leclerc,16,Ferrari,HARD,20.0,3.0,2.0,115.933,False,,24
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LEC,Charles Leclerc,16,Ferrari,HARD,21.0,4.0,2.0,117.406,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LEC,Charles Leclerc,16,Ferrari,HARD,22.0,5.0,2.0,97.614,False,,4
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,LEC,Charles Leclerc,16,Ferrari,HARD,23.0,6.0,2.0,115.578,False,,41
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,1.0,1.0,1.0,100.1,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,2.0,1.0,2.0,122.657,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,3.0,2.0,2.0,86.816,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,4.0,3.0,2.0,86.01,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,5.0,4.0,2.0,86.163,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,6.0,5.0,2.0,87.393,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,7.0,6.0,2.0,86.269,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,8.0,7.0,2.0,86.107,True,,12
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,9.0,8.0,2.0,85.941,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,10.0,9.0,2.0,85.787,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,11.0,10.0,2.0,85.982,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,12.0,11.0,2.0,86.022,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,13.0,12.0,2.0,86.053,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,14.0,13.0,2.0,85.931,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,15.0,14.0,2.0,86.1,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,16.0,15.0,2.0,86.296,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,17.0,16.0,2.0,86.225,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VET,Sebastian Vettel,5,Ferrari,HARD,1.0,1.0,1.0,97.087,False,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VET,Sebastian Vettel,5,Ferrari,HARD,2.0,2.0,1.0,87.933,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VET,Sebastian Vettel,5,Ferrari,HARD,3.0,3.0,1.0,87.646,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VET,Sebastian Vettel,5,Ferrari,HARD,4.0,4.0,1.0,87.107,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VET,Sebastian Vettel,5,Ferrari,HARD,5.0,5.0,1.0,88.32,True,,1
+2020,8,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D’ITALIA 2020,Monza,Italy,Monza,2020-09-06,53,VET,Sebastian Vettel,5,Ferrari,HARD,6.0,6.0,1.0,140.757,False,,1

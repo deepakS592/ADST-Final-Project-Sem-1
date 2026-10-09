@@ -1,0 +1,873 @@
+Season,Round,Race,EventName,OfficialEventName,Circuit,Country,Location,EventDate,RaceLaps,Driver,DriverName,DriverNumber,Team,Compound,LapNumber,TyreLife,Stint,LapTime,IsAccurate,Deleted,TrackStatus
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,1.0,1.0,1.0,112.92,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,2.0,2.0,1.0,108.954,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,3.0,3.0,1.0,108.69,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,4.0,4.0,1.0,108.248,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,5.0,5.0,1.0,108.312,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,6.0,6.0,1.0,108.566,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,7.0,7.0,1.0,108.775,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,8.0,8.0,1.0,108.907,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,9.0,9.0,1.0,118.315,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,10.0,10.0,1.0,136.036,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,11.0,11.0,1.0,108.416,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,12.0,12.0,1.0,108.502,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,13.0,13.0,1.0,108.507,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,14.0,14.0,1.0,108.692,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,15.0,15.0,1.0,109.087,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,16.0,16.0,1.0,109.274,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,17.0,17.0,1.0,109.131,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,18.0,18.0,1.0,113.486,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,19.0,1.0,2.0,124.139,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,20.0,2.0,2.0,106.898,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,21.0,3.0,2.0,107.366,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,22.0,4.0,2.0,108.153,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,23.0,5.0,2.0,107.927,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,24.0,6.0,2.0,107.886,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,25.0,7.0,2.0,107.631,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,26.0,8.0,2.0,107.713,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,27.0,9.0,2.0,107.801,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,28.0,10.0,2.0,107.643,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,29.0,11.0,2.0,107.493,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,30.0,12.0,2.0,107.459,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,31.0,13.0,2.0,107.7,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,32.0,14.0,2.0,107.522,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,33.0,15.0,2.0,119.285,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,35.0,2.0,3.0,127.685,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,36.0,3.0,3.0,106.523,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,37.0,4.0,3.0,106.367,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,38.0,5.0,3.0,106.929,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,39.0,6.0,3.0,106.918,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,40.0,7.0,3.0,106.959,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,41.0,8.0,3.0,107.257,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,42.0,9.0,3.0,106.549,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,43.0,10.0,3.0,106.48,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,44.0,11.0,3.0,106.494,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,45.0,12.0,3.0,106.846,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,46.0,13.0,3.0,107.09,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,47.0,14.0,3.0,106.863,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,48.0,15.0,3.0,107.018,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,49.0,16.0,3.0,106.855,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,50.0,17.0,3.0,106.05,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VER,Max Verstappen,1,Red Bull Racing,HARD,51.0,18.0,3.0,107.774,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,1.0,1.0,1.0,116.234,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,2.0,2.0,1.0,110.338,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,3.0,3.0,1.0,109.848,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,4.0,4.0,1.0,109.997,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,5.0,5.0,1.0,110.293,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,6.0,6.0,1.0,110.184,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,7.0,7.0,1.0,110.293,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,8.0,8.0,1.0,110.23,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,9.0,9.0,1.0,127.392,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,10.0,1.0,2.0,143.453,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,11.0,2.0,2.0,110.422,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,12.0,3.0,2.0,109.616,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,13.0,4.0,2.0,110.128,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,14.0,5.0,2.0,109.923,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,15.0,6.0,2.0,109.878,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,16.0,7.0,2.0,110.65,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,17.0,8.0,2.0,110.709,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,18.0,9.0,2.0,111.317,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,19.0,10.0,2.0,111.399,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,20.0,11.0,2.0,111.003,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,21.0,12.0,2.0,110.309,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,22.0,13.0,2.0,110.18,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,23.0,14.0,2.0,109.909,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,24.0,15.0,2.0,109.619,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,25.0,16.0,2.0,109.561,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,26.0,17.0,2.0,109.301,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,27.0,18.0,2.0,109.046,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,28.0,19.0,2.0,108.927,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,29.0,20.0,2.0,109.032,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,30.0,21.0,2.0,109.184,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,31.0,22.0,2.0,108.993,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,32.0,23.0,2.0,108.969,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,33.0,24.0,2.0,133.749,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,35.0,26.0,2.0,117.227,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,36.0,27.0,2.0,109.319,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,37.0,28.0,2.0,108.772,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,38.0,29.0,2.0,108.669,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,39.0,30.0,2.0,108.519,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,40.0,31.0,2.0,108.726,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,41.0,32.0,2.0,108.987,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,42.0,33.0,2.0,109.262,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,43.0,34.0,2.0,109.355,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,44.0,35.0,2.0,110.671,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,45.0,36.0,2.0,108.922,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,46.0,37.0,2.0,108.895,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,47.0,38.0,2.0,108.723,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,48.0,39.0,2.0,108.733,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,49.0,40.0,2.0,108.598,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,50.0,41.0,2.0,108.943,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,51.0,42.0,2.0,109.132,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,1.0,1.0,1.0,110.927,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,2.0,2.0,1.0,108.303,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,3.0,3.0,1.0,108.245,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,4.0,4.0,1.0,108.517,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,5.0,5.0,1.0,108.439,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,6.0,6.0,1.0,108.651,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,7.0,7.0,1.0,108.779,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,8.0,8.0,1.0,108.824,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,9.0,9.0,1.0,114.999,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,10.0,10.0,1.0,139.943,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,11.0,11.0,1.0,108.793,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,12.0,12.0,1.0,108.627,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,13.0,13.0,1.0,108.835,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,14.0,14.0,1.0,109.685,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,15.0,15.0,1.0,111.718,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,16.0,16.0,1.0,114.994,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,17.0,1.0,2.0,127.524,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,18.0,2.0,2.0,107.522,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,19.0,3.0,2.0,107.558,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,20.0,4.0,2.0,107.471,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,21.0,5.0,2.0,108.067,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,22.0,6.0,2.0,108.191,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,23.0,7.0,2.0,109.041,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,24.0,8.0,2.0,107.87,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,25.0,9.0,2.0,108.035,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,26.0,10.0,2.0,108.189,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,27.0,11.0,2.0,108.056,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,28.0,12.0,2.0,107.764,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,29.0,13.0,2.0,107.799,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,30.0,14.0,2.0,108.493,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,31.0,15.0,2.0,108.188,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,32.0,16.0,2.0,108.151,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,33.0,17.0,2.0,125.661,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,35.0,2.0,3.0,123.314,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,36.0,3.0,3.0,106.046,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,37.0,4.0,3.0,108.168,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,38.0,5.0,3.0,107.777,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,39.0,6.0,3.0,107.548,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,40.0,7.0,3.0,107.12,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,41.0,8.0,3.0,106.966,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,42.0,9.0,3.0,106.985,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,43.0,10.0,3.0,107.203,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,44.0,11.0,3.0,107.433,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,45.0,12.0,3.0,107.234,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,46.0,13.0,3.0,107.204,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,47.0,14.0,3.0,107.801,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,48.0,15.0,3.0,107.282,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,49.0,16.0,3.0,107.168,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,50.0,17.0,3.0,107.197,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,PER,Sergio Perez,11,Red Bull Racing,HARD,51.0,18.0,3.0,107.806,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,MEDIUM,1.0,1.0,1.0,118.543,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,MEDIUM,2.0,2.0,1.0,111.69,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,MEDIUM,3.0,3.0,1.0,110.91,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,MEDIUM,4.0,4.0,1.0,110.947,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,MEDIUM,5.0,5.0,1.0,110.533,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,MEDIUM,6.0,6.0,1.0,110.623,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,MEDIUM,7.0,7.0,1.0,110.622,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,MEDIUM,8.0,8.0,1.0,110.744,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,MEDIUM,9.0,9.0,1.0,128.218,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,MEDIUM,10.0,10.0,1.0,129.891,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,MEDIUM,11.0,11.0,1.0,109.908,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,MEDIUM,12.0,12.0,1.0,110.376,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,MEDIUM,13.0,13.0,1.0,110.438,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,MEDIUM,14.0,14.0,1.0,110.554,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,MEDIUM,15.0,15.0,1.0,110.748,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,MEDIUM,16.0,16.0,1.0,111.171,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,MEDIUM,17.0,17.0,1.0,111.776,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,MEDIUM,18.0,18.0,1.0,116.303,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,19.0,1.0,2.0,126.265,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,20.0,2.0,2.0,110.041,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,21.0,3.0,2.0,110.017,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,22.0,4.0,2.0,109.629,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,23.0,5.0,2.0,109.796,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,24.0,6.0,2.0,109.541,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,25.0,7.0,2.0,108.958,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,26.0,8.0,2.0,109.154,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,27.0,9.0,2.0,109.688,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,28.0,10.0,2.0,109.422,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,29.0,11.0,2.0,109.348,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,30.0,12.0,2.0,109.504,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,31.0,13.0,2.0,109.347,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,32.0,14.0,2.0,109.424,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,33.0,15.0,2.0,140.563,False,,26
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,35.0,17.0,2.0,110.109,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,36.0,18.0,2.0,109.004,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,37.0,19.0,2.0,108.821,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,38.0,20.0,2.0,108.669,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,39.0,21.0,2.0,108.407,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,40.0,22.0,2.0,108.382,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,41.0,23.0,2.0,108.716,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,42.0,24.0,2.0,108.741,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,43.0,25.0,2.0,108.721,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,44.0,26.0,2.0,108.791,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,45.0,27.0,2.0,108.476,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,46.0,28.0,2.0,108.294,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,47.0,29.0,2.0,108.369,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,48.0,30.0,2.0,108.507,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,49.0,31.0,2.0,107.989,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,50.0,32.0,2.0,108.332,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALO,Fernando Alonso,14,Alpine,HARD,51.0,33.0,2.0,109.181,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,1.0,1.0,1.0,112.264,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,2.0,2.0,1.0,108.845,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,3.0,3.0,1.0,108.601,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,4.0,4.0,1.0,108.519,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,5.0,5.0,1.0,108.43,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,6.0,6.0,1.0,108.542,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,7.0,7.0,1.0,108.768,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,8.0,8.0,1.0,108.841,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,9.0,9.0,1.0,119.045,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LEC,Charles Leclerc,16,Ferrari,HARD,10.0,1.0,2.0,148.669,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LEC,Charles Leclerc,16,Ferrari,HARD,11.0,2.0,2.0,108.689,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LEC,Charles Leclerc,16,Ferrari,HARD,12.0,3.0,2.0,108.26,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LEC,Charles Leclerc,16,Ferrari,HARD,13.0,4.0,2.0,107.531,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LEC,Charles Leclerc,16,Ferrari,HARD,14.0,5.0,2.0,107.938,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LEC,Charles Leclerc,16,Ferrari,HARD,15.0,6.0,2.0,108.295,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LEC,Charles Leclerc,16,Ferrari,HARD,16.0,7.0,2.0,108.106,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LEC,Charles Leclerc,16,Ferrari,HARD,17.0,8.0,2.0,108.203,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LEC,Charles Leclerc,16,Ferrari,HARD,18.0,9.0,2.0,108.345,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LEC,Charles Leclerc,16,Ferrari,HARD,19.0,10.0,2.0,108.109,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LEC,Charles Leclerc,16,Ferrari,HARD,21.0,12.0,2.0,133.729,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,1.0,2.0,1.0,123.829,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,2.0,3.0,1.0,113.79,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,3.0,4.0,1.0,112.309,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,4.0,5.0,1.0,112.595,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,5.0,6.0,1.0,111.997,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,6.0,7.0,1.0,111.785,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,7.0,8.0,1.0,111.69,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,8.0,9.0,1.0,111.364,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,9.0,10.0,1.0,132.591,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,10.0,11.0,1.0,128.432,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,11.0,12.0,1.0,110.668,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,12.0,13.0,1.0,110.207,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,13.0,14.0,1.0,111.359,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,14.0,15.0,1.0,111.65,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,15.0,16.0,1.0,111.836,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,16.0,17.0,1.0,111.139,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,17.0,18.0,1.0,111.138,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,18.0,19.0,1.0,110.695,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,19.0,20.0,1.0,111.214,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,20.0,21.0,1.0,112.001,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,21.0,22.0,1.0,111.282,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,22.0,23.0,1.0,110.774,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,23.0,24.0,1.0,111.028,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,24.0,25.0,1.0,110.828,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,25.0,26.0,1.0,110.917,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,26.0,27.0,1.0,110.496,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,27.0,28.0,1.0,110.569,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,28.0,29.0,1.0,111.203,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,29.0,30.0,1.0,110.353,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,HARD,30.0,31.0,1.0,115.74,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,31.0,2.0,2.0,127.042,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,32.0,3.0,2.0,114.937,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,34.0,5.0,2.0,134.478,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,35.0,6.0,2.0,109.23,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,36.0,7.0,2.0,108.309,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,37.0,8.0,2.0,108.191,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,38.0,9.0,2.0,108.038,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,39.0,10.0,2.0,110.669,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,40.0,11.0,2.0,110.636,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,41.0,12.0,2.0,109.308,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,42.0,13.0,2.0,109.152,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,43.0,14.0,2.0,109.637,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,44.0,15.0,2.0,109.681,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,45.0,16.0,2.0,110.123,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,46.0,17.0,2.0,131.009,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,1.0,3.0,1.0,123.859,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,2.0,4.0,1.0,112.24,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,3.0,5.0,1.0,111.322,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,4.0,6.0,1.0,111.128,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,5.0,7.0,1.0,111.168,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,6.0,8.0,1.0,111.111,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,7.0,9.0,1.0,111.265,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,8.0,10.0,1.0,111.017,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,9.0,11.0,1.0,133.804,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,10.0,1.0,2.0,138.41,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,11.0,2.0,2.0,109.317,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,12.0,3.0,2.0,108.789,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,13.0,4.0,2.0,110.152,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,14.0,5.0,2.0,110.835,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,15.0,6.0,2.0,110.374,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,16.0,7.0,2.0,110.818,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,17.0,8.0,2.0,110.437,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,18.0,9.0,2.0,110.104,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,19.0,10.0,2.0,109.764,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,20.0,11.0,2.0,110.202,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,21.0,12.0,2.0,110.385,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,22.0,13.0,2.0,110.413,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,23.0,14.0,2.0,110.694,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,24.0,15.0,2.0,110.515,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,25.0,16.0,2.0,110.098,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,26.0,17.0,2.0,110.894,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,27.0,18.0,2.0,110.129,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,28.0,19.0,2.0,110.369,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,29.0,20.0,2.0,110.683,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,30.0,21.0,2.0,110.299,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,31.0,22.0,2.0,110.723,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,1.0,1.0,1.0,118.4,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,2.0,2.0,1.0,111.348,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,3.0,3.0,1.0,110.311,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,4.0,4.0,1.0,110.406,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,5.0,5.0,1.0,110.517,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,6.0,6.0,1.0,110.231,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,7.0,7.0,1.0,110.473,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,8.0,8.0,1.0,110.914,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,9.0,9.0,1.0,129.852,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,10.0,1.0,2.0,144.147,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,11.0,2.0,2.0,110.521,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,12.0,3.0,2.0,109.991,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,13.0,4.0,2.0,110.19,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,14.0,5.0,2.0,109.788,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,15.0,6.0,2.0,110.463,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,16.0,7.0,2.0,110.615,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,17.0,8.0,2.0,110.599,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,18.0,9.0,2.0,110.28,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,19.0,10.0,2.0,111.188,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,20.0,11.0,2.0,110.664,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,21.0,12.0,2.0,110.763,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,22.0,13.0,2.0,110.378,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,23.0,14.0,2.0,109.839,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,24.0,15.0,2.0,109.919,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,25.0,16.0,2.0,109.726,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,26.0,17.0,2.0,109.715,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,27.0,18.0,2.0,109.564,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,28.0,19.0,2.0,109.452,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,29.0,20.0,2.0,109.243,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,30.0,21.0,2.0,109.649,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,31.0,22.0,2.0,109.307,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,32.0,23.0,2.0,109.429,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,33.0,24.0,2.0,138.083,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,35.0,26.0,2.0,112.143,False,,71
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,36.0,27.0,2.0,109.777,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,37.0,28.0,2.0,108.618,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,38.0,29.0,2.0,113.098,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,39.0,4.0,3.0,145.791,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,40.0,5.0,3.0,107.997,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,41.0,6.0,3.0,107.57,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,42.0,7.0,3.0,107.523,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,43.0,8.0,3.0,109.703,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,44.0,9.0,3.0,107.606,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,45.0,10.0,3.0,107.782,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,46.0,11.0,3.0,107.829,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,47.0,12.0,3.0,107.573,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,48.0,13.0,3.0,107.668,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,49.0,14.0,3.0,108.274,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,50.0,15.0,3.0,108.533,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,MEDIUM,1.0,1.0,1.0,122.72,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,MEDIUM,2.0,2.0,1.0,112.112,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,MEDIUM,3.0,3.0,1.0,111.932,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,MEDIUM,4.0,4.0,1.0,111.531,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,MEDIUM,5.0,5.0,1.0,111.309,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,MEDIUM,6.0,6.0,1.0,112.673,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,MEDIUM,7.0,7.0,1.0,111.926,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,MEDIUM,8.0,8.0,1.0,111.824,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,MEDIUM,9.0,9.0,1.0,135.201,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,10.0,1.0,2.0,140.853,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,11.0,2.0,2.0,110.591,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,12.0,3.0,2.0,110.002,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,13.0,4.0,2.0,109.944,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,14.0,5.0,2.0,110.257,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,15.0,6.0,2.0,110.06,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,16.0,7.0,2.0,110.437,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,17.0,8.0,2.0,110.167,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,18.0,9.0,2.0,109.875,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,19.0,10.0,2.0,110.001,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,20.0,11.0,2.0,110.343,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,21.0,12.0,2.0,110.518,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,22.0,13.0,2.0,110.841,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,23.0,14.0,2.0,110.672,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,24.0,15.0,2.0,111.057,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,25.0,16.0,2.0,110.84,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,26.0,17.0,2.0,110.913,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,27.0,18.0,2.0,111.33,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,28.0,19.0,2.0,110.082,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,29.0,20.0,2.0,114.786,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,30.0,1.0,3.0,126.84,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,31.0,2.0,3.0,108.729,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,32.0,3.0,3.0,110.66,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,34.0,5.0,3.0,134.742,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,35.0,6.0,3.0,108.407,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,36.0,7.0,3.0,108.553,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,37.0,8.0,3.0,108.251,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,38.0,9.0,3.0,108.101,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,39.0,10.0,3.0,108.086,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,40.0,11.0,3.0,107.97,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,41.0,12.0,3.0,107.97,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,42.0,13.0,3.0,108.194,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,43.0,14.0,3.0,108.269,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,44.0,15.0,3.0,108.135,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,45.0,16.0,3.0,108.167,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,46.0,17.0,3.0,110.265,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,47.0,18.0,3.0,108.671,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,48.0,19.0,3.0,107.966,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,49.0,20.0,3.0,108.374,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ALB,Alexander Albon,23,Williams,HARD,50.0,21.0,3.0,108.17,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,1.0,1.0,1.0,121.528,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,2.0,2.0,1.0,112.296,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,3.0,3.0,1.0,111.667,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,4.0,4.0,1.0,111.837,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,5.0,5.0,1.0,110.701,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,6.0,6.0,1.0,110.93,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,7.0,7.0,1.0,110.952,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,8.0,8.0,1.0,111.322,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,9.0,9.0,1.0,132.706,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,10.0,1.0,2.0,140.39,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,11.0,2.0,2.0,109.045,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,12.0,3.0,2.0,108.723,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,13.0,4.0,2.0,110.484,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,14.0,5.0,2.0,110.375,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,15.0,6.0,2.0,110.601,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,16.0,7.0,2.0,110.279,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,17.0,8.0,2.0,109.556,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,18.0,9.0,2.0,109.432,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,19.0,10.0,2.0,109.831,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,20.0,11.0,2.0,109.903,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,21.0,12.0,2.0,110.327,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,22.0,13.0,2.0,110.812,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,23.0,14.0,2.0,137.101,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,1.0,1.0,1.0,120.53,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,2.0,2.0,1.0,111.76,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,3.0,3.0,1.0,110.956,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,4.0,4.0,1.0,110.965,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,5.0,5.0,1.0,110.54,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,6.0,6.0,1.0,110.743,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,7.0,7.0,1.0,111.071,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,8.0,8.0,1.0,111.252,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,9.0,9.0,1.0,128.309,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,10.0,10.0,1.0,129.889,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,11.0,11.0,1.0,110.434,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,12.0,12.0,1.0,110.101,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,13.0,13.0,1.0,110.158,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,14.0,14.0,1.0,110.28,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,15.0,15.0,1.0,110.289,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,16.0,16.0,1.0,110.464,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,17.0,17.0,1.0,111.237,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,18.0,18.0,1.0,111.544,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,19.0,19.0,1.0,111.066,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,20.0,20.0,1.0,111.594,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,21.0,21.0,1.0,110.446,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,22.0,22.0,1.0,111.111,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,23.0,23.0,1.0,110.425,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,24.0,24.0,1.0,110.131,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,25.0,25.0,1.0,110.401,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,26.0,26.0,1.0,111.271,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,27.0,27.0,1.0,110.069,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,28.0,28.0,1.0,109.75,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,29.0,29.0,1.0,109.795,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,30.0,30.0,1.0,109.97,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,31.0,31.0,1.0,110.218,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,32.0,32.0,1.0,109.756,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,HARD,33.0,33.0,1.0,141.174,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,35.0,2.0,2.0,109.072,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,36.0,3.0,2.0,108.587,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,37.0,4.0,2.0,108.355,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,38.0,5.0,2.0,108.869,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,39.0,6.0,2.0,109.034,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,40.0,7.0,2.0,109.028,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,41.0,8.0,2.0,108.721,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,42.0,9.0,2.0,108.408,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,43.0,10.0,2.0,108.35,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,44.0,11.0,2.0,108.276,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,45.0,12.0,2.0,108.392,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,46.0,13.0,2.0,108.671,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,47.0,14.0,2.0,108.603,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,48.0,15.0,2.0,108.985,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,49.0,16.0,2.0,108.597,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,50.0,17.0,2.0,108.904,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,51.0,18.0,2.0,108.903,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,1.0,1.0,1.0,120.803,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,2.0,2.0,1.0,112.113,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,3.0,3.0,1.0,111.676,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,4.0,4.0,1.0,111.349,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,5.0,5.0,1.0,111.195,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,6.0,6.0,1.0,111.07,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,7.0,7.0,1.0,111.044,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,8.0,8.0,1.0,111.069,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,9.0,9.0,1.0,130.946,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,10.0,10.0,1.0,128.749,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,11.0,11.0,1.0,110.732,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,12.0,12.0,1.0,110.574,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,13.0,13.0,1.0,111.515,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,14.0,14.0,1.0,110.901,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,15.0,15.0,1.0,111.105,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,16.0,16.0,1.0,110.816,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,17.0,17.0,1.0,110.781,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,18.0,18.0,1.0,111.769,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,19.0,19.0,1.0,111.162,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,20.0,20.0,1.0,110.886,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,21.0,21.0,1.0,110.894,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,22.0,22.0,1.0,111.791,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,23.0,23.0,1.0,110.796,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,24.0,24.0,1.0,111.29,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,25.0,25.0,1.0,111.735,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,26.0,26.0,1.0,110.597,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,27.0,27.0,1.0,111.365,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,28.0,28.0,1.0,110.461,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,29.0,29.0,1.0,110.441,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,30.0,30.0,1.0,110.532,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,31.0,31.0,1.0,110.817,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,32.0,32.0,1.0,110.451,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,HARD,33.0,33.0,1.0,146.494,False,,26
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,35.0,2.0,2.0,109.704,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,36.0,3.0,2.0,108.297,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,37.0,4.0,2.0,108.607,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,38.0,5.0,2.0,108.557,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,39.0,6.0,2.0,108.685,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,40.0,7.0,2.0,108.523,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,41.0,8.0,2.0,108.362,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,42.0,9.0,2.0,108.813,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,43.0,10.0,2.0,108.679,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,44.0,11.0,2.0,108.919,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,45.0,12.0,2.0,108.865,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,46.0,13.0,2.0,108.682,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,47.0,14.0,2.0,108.831,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,48.0,15.0,2.0,108.903,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,49.0,16.0,2.0,109.179,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,50.0,17.0,2.0,109.37,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,51.0,18.0,2.0,109.429,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,MEDIUM,1.0,1.0,1.0,119.787,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,MEDIUM,2.0,2.0,1.0,111.871,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,MEDIUM,3.0,3.0,1.0,111.315,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,MEDIUM,4.0,4.0,1.0,110.531,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,MEDIUM,5.0,5.0,1.0,110.619,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,MEDIUM,6.0,6.0,1.0,110.746,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,MEDIUM,7.0,7.0,1.0,110.534,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,MEDIUM,8.0,8.0,1.0,110.585,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,MEDIUM,9.0,9.0,1.0,128.764,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,MEDIUM,10.0,10.0,1.0,128.944,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,MEDIUM,11.0,11.0,1.0,110.23,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,MEDIUM,12.0,12.0,1.0,110.328,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,MEDIUM,13.0,13.0,1.0,110.618,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,MEDIUM,14.0,14.0,1.0,110.38,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,MEDIUM,15.0,15.0,1.0,110.967,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,MEDIUM,16.0,16.0,1.0,110.7,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,MEDIUM,17.0,17.0,1.0,111.33,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,MEDIUM,18.0,18.0,1.0,112.014,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,MEDIUM,19.0,19.0,1.0,111.221,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,MEDIUM,20.0,20.0,1.0,115.814,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,21.0,1.0,2.0,128.943,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,22.0,2.0,2.0,110.902,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,23.0,3.0,2.0,110.628,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,24.0,4.0,2.0,110.088,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,25.0,5.0,2.0,110.264,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,26.0,6.0,2.0,110.876,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,27.0,7.0,2.0,109.469,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,28.0,8.0,2.0,109.432,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,29.0,9.0,2.0,109.481,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,30.0,10.0,2.0,108.924,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,31.0,11.0,2.0,109.299,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,32.0,12.0,2.0,108.82,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,33.0,13.0,2.0,144.707,False,,26
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,34.0,14.0,2.0,147.191,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,35.0,15.0,2.0,108.579,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,36.0,16.0,2.0,108.449,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,37.0,17.0,2.0,107.997,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,38.0,18.0,2.0,108.267,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,39.0,19.0,2.0,108.056,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,40.0,20.0,2.0,108.518,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,41.0,21.0,2.0,108.17,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,42.0,22.0,2.0,108.07,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,43.0,23.0,2.0,108.12,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,44.0,24.0,2.0,109.274,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,45.0,25.0,2.0,108.239,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,46.0,26.0,2.0,108.188,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,47.0,27.0,2.0,108.353,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,48.0,28.0,2.0,108.259,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,49.0,29.0,2.0,108.417,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,50.0,30.0,2.0,108.265,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,NOR,Lando Norris,4,McLaren,HARD,51.0,31.0,2.0,108.954,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,1.0,1.0,1.0,116.952,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,2.0,2.0,1.0,110.521,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,3.0,3.0,1.0,110.054,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,4.0,4.0,1.0,110.089,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,5.0,5.0,1.0,109.792,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,6.0,6.0,1.0,110.783,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,7.0,7.0,1.0,110.958,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,8.0,8.0,1.0,111.155,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,9.0,9.0,1.0,129.357,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,10.0,1.0,2.0,142.359,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,11.0,2.0,2.0,110.283,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,12.0,3.0,2.0,110.358,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,13.0,4.0,2.0,110.861,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,14.0,5.0,2.0,110.982,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,15.0,6.0,2.0,110.978,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,16.0,7.0,2.0,110.954,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,17.0,8.0,2.0,110.556,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,18.0,9.0,2.0,110.267,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,19.0,10.0,2.0,110.16,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,20.0,11.0,2.0,109.879,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,21.0,12.0,2.0,109.879,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,22.0,13.0,2.0,109.795,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,23.0,14.0,2.0,109.579,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,24.0,15.0,2.0,109.688,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,25.0,16.0,2.0,109.778,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,26.0,17.0,2.0,109.73,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,27.0,18.0,2.0,109.246,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,28.0,19.0,2.0,108.818,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,29.0,20.0,2.0,108.785,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,30.0,21.0,2.0,108.709,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,31.0,22.0,2.0,108.615,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,32.0,23.0,2.0,108.505,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,33.0,24.0,2.0,136.486,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,35.0,3.0,3.0,110.678,False,,71
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,36.0,4.0,3.0,107.939,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,37.0,5.0,3.0,107.665,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,38.0,6.0,3.0,107.485,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,39.0,7.0,3.0,107.044,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,40.0,8.0,3.0,107.324,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,41.0,9.0,3.0,107.415,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,42.0,10.0,3.0,107.353,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,43.0,11.0,3.0,108.941,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,44.0,12.0,3.0,109.11,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,45.0,13.0,3.0,108.868,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,46.0,14.0,3.0,108.357,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,47.0,15.0,3.0,107.81,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,48.0,16.0,3.0,107.532,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,49.0,17.0,3.0,108.086,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,50.0,18.0,3.0,108.377,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,HAM,Lewis Hamilton,44,Mercedes,HARD,51.0,19.0,3.0,108.661,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,1.0,1.0,1.0,125.761,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,2.0,2.0,1.0,113.514,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,3.0,3.0,1.0,112.576,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,4.0,4.0,1.0,112.123,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,5.0,5.0,1.0,111.96,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,6.0,6.0,1.0,112.111,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,7.0,7.0,1.0,111.532,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,8.0,8.0,1.0,111.896,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,9.0,9.0,1.0,136.935,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,10.0,3.0,2.0,141.352,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,11.0,4.0,2.0,109.533,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,12.0,5.0,2.0,109.664,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,13.0,6.0,2.0,109.985,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,14.0,7.0,2.0,110.543,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,15.0,8.0,2.0,110.6,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,16.0,9.0,2.0,110.897,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,17.0,10.0,2.0,110.922,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,18.0,11.0,2.0,110.657,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,19.0,12.0,2.0,111.376,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,20.0,13.0,2.0,111.05,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,21.0,14.0,2.0,112.013,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,22.0,15.0,2.0,112.154,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,23.0,16.0,2.0,117.701,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,24.0,1.0,3.0,129.543,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,25.0,2.0,3.0,110.333,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,26.0,3.0,3.0,110.53,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,27.0,4.0,3.0,111.973,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,28.0,5.0,3.0,109.839,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,29.0,6.0,3.0,111.621,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,30.0,7.0,3.0,109.466,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,31.0,8.0,3.0,109.183,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,32.0,9.0,3.0,124.15,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,34.0,11.0,3.0,129.25,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,35.0,12.0,3.0,108.618,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,36.0,13.0,3.0,108.552,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,37.0,14.0,3.0,111.382,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,38.0,15.0,3.0,109.13,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,39.0,16.0,3.0,108.711,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,40.0,17.0,3.0,108.41,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,41.0,18.0,3.0,108.765,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,42.0,19.0,3.0,108.795,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,43.0,20.0,3.0,108.88,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,44.0,21.0,3.0,108.877,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,45.0,22.0,3.0,108.963,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,46.0,23.0,3.0,109.66,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,47.0,24.0,3.0,109.13,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,48.0,25.0,3.0,109.474,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,49.0,26.0,3.0,109.154,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,50.0,27.0,3.0,111.525,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,1.0,2.0,1.0,117.643,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,2.0,3.0,1.0,110.995,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,3.0,4.0,1.0,110.217,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,4.0,5.0,1.0,110.139,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,5.0,6.0,1.0,110.259,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,6.0,7.0,1.0,110.121,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,7.0,8.0,1.0,110.715,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,8.0,9.0,1.0,110.703,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,9.0,10.0,1.0,129.423,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,10.0,2.0,2.0,140.863,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,11.0,3.0,2.0,110.068,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,12.0,4.0,2.0,110.464,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,13.0,5.0,2.0,117.664,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,14.0,6.0,2.0,110.159,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,15.0,7.0,2.0,110.22,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,16.0,8.0,2.0,110.181,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,17.0,9.0,2.0,110.273,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,18.0,10.0,2.0,110.111,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,19.0,11.0,2.0,110.442,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,20.0,12.0,2.0,110.59,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,21.0,13.0,2.0,111.092,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,22.0,14.0,2.0,111.055,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,23.0,15.0,2.0,110.59,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,24.0,16.0,2.0,111.515,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,25.0,17.0,2.0,109.525,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,26.0,18.0,2.0,109.567,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,27.0,19.0,2.0,109.3,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,28.0,20.0,2.0,109.464,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,29.0,21.0,2.0,109.218,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,30.0,22.0,2.0,109.407,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,31.0,23.0,2.0,109.323,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,32.0,24.0,2.0,108.952,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,33.0,25.0,2.0,139.153,False,,26
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,35.0,27.0,2.0,110.301,False,,71
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,36.0,28.0,2.0,109.233,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,37.0,29.0,2.0,108.537,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,38.0,30.0,2.0,108.654,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,39.0,31.0,2.0,108.531,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,40.0,32.0,2.0,108.488,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,41.0,33.0,2.0,108.206,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,42.0,34.0,2.0,108.515,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,43.0,35.0,2.0,108.615,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,44.0,36.0,2.0,108.772,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,45.0,37.0,2.0,109.171,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,46.0,38.0,2.0,108.708,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,47.0,39.0,2.0,108.481,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,48.0,40.0,2.0,108.54,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,49.0,41.0,2.0,108.525,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,50.0,42.0,2.0,108.823,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,VET,Sebastian Vettel,5,Aston Martin,HARD,51.0,43.0,2.0,108.988,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,1.0,1.0,1.0,114.359,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,2.0,2.0,1.0,109.312,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,3.0,3.0,1.0,108.978,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,4.0,4.0,1.0,109.054,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,5.0,5.0,1.0,109.005,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,6.0,6.0,1.0,109.169,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,7.0,7.0,1.0,109.26,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,8.0,8.0,1.0,109.309,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,1.0,1.0,1.0,124.909,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,2.0,2.0,1.0,113.492,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,3.0,3.0,1.0,117.544,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,4.0,4.0,2.0,137.857,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,5.0,5.0,2.0,112.442,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,6.0,6.0,2.0,111.671,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,7.0,7.0,2.0,111.369,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,8.0,8.0,2.0,111.457,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,9.0,9.0,2.0,141.844,False,,26
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,10.0,10.0,2.0,116.377,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,11.0,11.0,2.0,111.263,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,12.0,12.0,2.0,111.12,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,13.0,13.0,2.0,111.423,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,14.0,14.0,2.0,112.291,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,15.0,15.0,2.0,112.513,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,16.0,16.0,2.0,113.013,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,17.0,17.0,2.0,117.707,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,18.0,1.0,3.0,130.471,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,19.0,2.0,3.0,110.626,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,20.0,3.0,3.0,110.715,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,21.0,4.0,3.0,112.15,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,22.0,5.0,3.0,111.902,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,23.0,6.0,3.0,111.025,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,24.0,7.0,3.0,110.642,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,25.0,8.0,3.0,110.661,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,26.0,9.0,3.0,110.489,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,27.0,10.0,3.0,112.553,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,28.0,11.0,3.0,111.631,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,29.0,12.0,3.0,110.661,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,30.0,13.0,3.0,110.39,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,31.0,14.0,3.0,110.594,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,32.0,15.0,3.0,134.32,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,34.0,17.0,3.0,123.002,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,35.0,18.0,3.0,109.94,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,36.0,19.0,3.0,110.095,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,37.0,20.0,3.0,109.583,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,38.0,21.0,3.0,109.86,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,39.0,22.0,3.0,110.01,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,40.0,23.0,3.0,110.454,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,41.0,24.0,3.0,111.617,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,42.0,25.0,3.0,112.683,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,43.0,26.0,3.0,111.862,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,44.0,27.0,3.0,111.536,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,45.0,28.0,3.0,111.447,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,46.0,29.0,3.0,110.235,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,47.0,30.0,3.0,116.18,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,48.0,31.0,3.0,110.126,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,49.0,32.0,3.0,110.228,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,LAT,Nicholas Latifi,6,Williams,HARD,50.0,33.0,3.0,110.246,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,MEDIUM,1.0,1.0,1.0,115.452,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,MEDIUM,2.0,2.0,1.0,109.572,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,MEDIUM,3.0,3.0,1.0,109.714,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,MEDIUM,4.0,4.0,1.0,109.876,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,MEDIUM,5.0,5.0,1.0,109.824,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,MEDIUM,6.0,6.0,1.0,109.623,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,MEDIUM,7.0,7.0,1.0,109.524,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,MEDIUM,8.0,8.0,1.0,109.838,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,MEDIUM,9.0,9.0,1.0,124.78,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,10.0,1.0,2.0,143.054,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,11.0,2.0,2.0,109.59,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,12.0,3.0,2.0,109.388,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,13.0,4.0,2.0,109.569,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,14.0,5.0,2.0,109.422,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,15.0,6.0,2.0,109.495,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,16.0,7.0,2.0,109.098,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,17.0,8.0,2.0,110.019,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,18.0,9.0,2.0,109.301,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,19.0,10.0,2.0,109.247,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,20.0,11.0,2.0,109.233,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,21.0,12.0,2.0,109.319,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,22.0,13.0,2.0,109.242,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,23.0,14.0,2.0,109.217,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,24.0,15.0,2.0,109.078,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,25.0,16.0,2.0,109.018,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,26.0,17.0,2.0,108.95,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,27.0,18.0,2.0,109.025,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,28.0,19.0,2.0,109.736,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,29.0,20.0,2.0,109.124,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,30.0,21.0,2.0,108.876,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,31.0,22.0,2.0,108.862,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,32.0,23.0,2.0,108.609,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,33.0,24.0,2.0,129.936,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,35.0,3.0,3.0,119.391,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,36.0,4.0,3.0,108.513,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,37.0,5.0,3.0,108.1,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,38.0,6.0,3.0,107.194,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,39.0,7.0,3.0,107.411,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,40.0,8.0,3.0,107.447,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,41.0,9.0,3.0,107.233,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,42.0,10.0,3.0,107.177,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,43.0,11.0,3.0,107.572,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,44.0,12.0,3.0,107.851,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,45.0,13.0,3.0,107.738,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,46.0,14.0,3.0,107.681,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,47.0,15.0,3.0,107.556,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,48.0,16.0,3.0,107.658,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,49.0,17.0,3.0,107.543,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,50.0,18.0,3.0,108.064,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,RUS,George Russell,63,Mercedes,HARD,51.0,19.0,3.0,108.61,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,1.0,1.0,1.0,122.721,False,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,2.0,2.0,1.0,113.361,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,3.0,3.0,1.0,112.909,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,4.0,4.0,1.0,112.043,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,5.0,5.0,1.0,112.109,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,6.0,6.0,1.0,111.946,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,7.0,7.0,1.0,111.313,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,8.0,8.0,1.0,111.058,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,9.0,9.0,1.0,132.948,False,,126
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,10.0,10.0,1.0,128.35,False,,671
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,11.0,11.0,1.0,110.664,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,12.0,12.0,1.0,110.295,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,13.0,13.0,1.0,111.667,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,14.0,14.0,1.0,111.131,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,15.0,15.0,1.0,111.128,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,16.0,16.0,1.0,111.759,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,17.0,17.0,1.0,111.999,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,18.0,18.0,1.0,111.111,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,19.0,19.0,1.0,110.97,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,20.0,20.0,1.0,111.037,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,21.0,21.0,1.0,111.793,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,22.0,22.0,1.0,111.215,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,23.0,23.0,1.0,110.821,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,24.0,24.0,1.0,110.609,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,25.0,25.0,1.0,110.542,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,26.0,26.0,1.0,110.037,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,27.0,27.0,1.0,110.341,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,28.0,28.0,1.0,109.938,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,29.0,29.0,1.0,110.168,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,30.0,30.0,1.0,109.857,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,31.0,31.0,1.0,111.643,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,32.0,32.0,1.0,111.521,True,,12
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,35.0,2.0,2.0,109.827,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,36.0,3.0,2.0,109.557,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,37.0,4.0,2.0,108.996,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,38.0,5.0,2.0,109.234,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,39.0,6.0,2.0,108.695,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,40.0,7.0,2.0,108.951,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,41.0,8.0,2.0,108.244,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,42.0,9.0,2.0,108.179,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,43.0,10.0,2.0,108.241,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,44.0,11.0,2.0,108.44,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,45.0,12.0,2.0,108.434,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,46.0,13.0,2.0,108.569,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,47.0,14.0,2.0,110.061,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,48.0,15.0,2.0,108.606,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,49.0,16.0,2.0,108.532,True,,1
+2022,8,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Baku,Azerbaijan,Baku,2022-06-12,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,50.0,17.0,2.0,108.289,True,,1

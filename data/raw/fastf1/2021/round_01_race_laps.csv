@@ -1,0 +1,1019 @@
+Season,Round,Race,EventName,OfficialEventName,Circuit,Country,Location,EventDate,RaceLaps,Driver,DriverName,DriverNumber,Team,Compound,LapNumber,TyreLife,Stint,LapTime,IsAccurate,Deleted,TrackStatus
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,1.0,4.0,1.0,119.538,False,,124
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,2.0,5.0,1.0,142.712,False,,4
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,4.0,7.0,1.0,104.932,False,,126
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,5.0,8.0,1.0,105.139,False,,671
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,6.0,9.0,1.0,96.169,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,7.0,10.0,1.0,96.123,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,8.0,11.0,1.0,96.075,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,9.0,12.0,1.0,96.148,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,10.0,13.0,1.0,96.082,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,11.0,14.0,1.0,96.143,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,12.0,15.0,1.0,96.507,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,13.0,16.0,1.0,98.924,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,14.0,1.0,2.0,115.006,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,15.0,2.0,2.0,94.057,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,16.0,3.0,2.0,95.104,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,17.0,4.0,2.0,95.099,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,18.0,5.0,2.0,95.266,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,19.0,6.0,2.0,95.346,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,20.0,7.0,2.0,95.324,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,21.0,8.0,2.0,95.837,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,22.0,9.0,2.0,95.539,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,23.0,10.0,2.0,95.219,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,24.0,11.0,2.0,95.087,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,25.0,12.0,2.0,95.359,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,26.0,13.0,2.0,95.622,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,27.0,14.0,2.0,95.94,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,28.0,15.0,2.0,97.835,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,29.0,1.0,3.0,115.194,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,30.0,2.0,3.0,94.365,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,31.0,3.0,3.0,95.305,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,32.0,4.0,3.0,94.729,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,33.0,5.0,3.0,95.041,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,34.0,6.0,3.0,94.665,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,35.0,7.0,3.0,94.745,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,36.0,8.0,3.0,94.754,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,37.0,9.0,3.0,94.74,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,38.0,10.0,3.0,94.72,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,39.0,11.0,3.0,94.816,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,40.0,12.0,3.0,94.89,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,41.0,13.0,3.0,94.334,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,42.0,14.0,3.0,94.199,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,43.0,15.0,3.0,94.163,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,44.0,16.0,3.0,94.015,True,,12
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,45.0,17.0,3.0,94.583,True,,21
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,46.0,18.0,3.0,94.492,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,47.0,19.0,3.0,94.591,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,48.0,20.0,3.0,94.167,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,49.0,21.0,3.0,94.136,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,50.0,22.0,3.0,94.354,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,51.0,23.0,3.0,94.579,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,52.0,24.0,3.0,94.939,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,53.0,25.0,3.0,96.155,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,54.0,26.0,3.0,94.814,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,55.0,27.0,3.0,94.706,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,HAM,Lewis Hamilton,44,Mercedes,HARD,56.0,28.0,3.0,94.918,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,1.0,4.0,1.0,118.245,False,,124
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,2.0,5.0,1.0,142.406,False,,4
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,4.0,7.0,1.0,104.343,False,,126
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,5.0,8.0,1.0,104.629,False,,671
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,6.0,9.0,1.0,95.982,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,7.0,10.0,1.0,95.902,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,8.0,11.0,1.0,96.032,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,9.0,12.0,1.0,96.012,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,10.0,13.0,1.0,96.175,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,11.0,14.0,1.0,96.179,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,12.0,15.0,1.0,96.592,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,13.0,16.0,1.0,96.291,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,14.0,17.0,1.0,96.88,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,15.0,18.0,1.0,96.924,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,16.0,19.0,1.0,97.033,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,17.0,20.0,1.0,99.153,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,18.0,1.0,2.0,115.532,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,19.0,2.0,2.0,94.421,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,20.0,3.0,2.0,94.87,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,21.0,4.0,2.0,94.829,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,22.0,5.0,2.0,95.159,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,23.0,6.0,2.0,95.122,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,24.0,7.0,2.0,95.207,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,25.0,8.0,2.0,95.044,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,26.0,9.0,2.0,94.958,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,27.0,10.0,2.0,95.118,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,28.0,11.0,2.0,95.126,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,29.0,12.0,2.0,95.282,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,30.0,13.0,2.0,95.476,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,31.0,14.0,2.0,95.054,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,32.0,15.0,2.0,95.378,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,33.0,16.0,2.0,95.286,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,34.0,17.0,2.0,95.638,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,35.0,18.0,2.0,95.593,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,36.0,19.0,2.0,95.721,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,37.0,20.0,2.0,95.62,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,38.0,21.0,2.0,95.921,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,39.0,22.0,2.0,97.828,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,HARD,40.0,1.0,3.0,113.437,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,HARD,41.0,2.0,3.0,93.228,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,HARD,42.0,3.0,3.0,93.45,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,HARD,43.0,4.0,3.0,93.231,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,HARD,44.0,5.0,3.0,93.594,True,,12
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,HARD,45.0,6.0,3.0,94.056,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,HARD,46.0,7.0,3.0,93.894,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,HARD,47.0,8.0,3.0,94.092,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,HARD,48.0,9.0,3.0,93.818,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,HARD,49.0,10.0,3.0,93.576,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,HARD,50.0,11.0,3.0,93.893,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,HARD,51.0,12.0,3.0,93.964,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,HARD,52.0,13.0,3.0,94.669,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,HARD,53.0,14.0,3.0,96.413,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,HARD,54.0,15.0,3.0,95.073,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,HARD,55.0,16.0,3.0,94.565,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VER,Max Verstappen,33,Red Bull Racing,HARD,56.0,17.0,3.0,94.727,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,1.0,4.0,1.0,123.772,False,,124
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,2.0,5.0,1.0,141.478,False,,4
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,4.0,7.0,1.0,108.046,False,,126
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,5.0,8.0,1.0,103.651,False,,671
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,6.0,9.0,1.0,97.109,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,7.0,10.0,1.0,96.355,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,8.0,11.0,1.0,96.022,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,9.0,12.0,1.0,97.086,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,10.0,13.0,1.0,96.405,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,11.0,14.0,1.0,96.384,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,12.0,15.0,1.0,96.46,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,13.0,16.0,1.0,96.423,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,14.0,17.0,1.0,96.736,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,15.0,18.0,1.0,96.583,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,16.0,19.0,1.0,99.534,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,17.0,1.0,2.0,114.719,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,18.0,2.0,2.0,95.038,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,19.0,3.0,2.0,94.518,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,20.0,4.0,2.0,94.774,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,21.0,5.0,2.0,95.098,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,22.0,6.0,2.0,95.077,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,23.0,7.0,2.0,95.092,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,24.0,8.0,2.0,95.193,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,25.0,9.0,2.0,95.022,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,26.0,10.0,2.0,95.308,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,27.0,11.0,2.0,95.469,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,28.0,12.0,2.0,95.376,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,29.0,13.0,2.0,95.915,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,30.0,14.0,2.0,98.028,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,31.0,1.0,3.0,123.818,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,32.0,2.0,3.0,95.12,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,33.0,3.0,3.0,94.457,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,34.0,4.0,3.0,94.472,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,35.0,5.0,3.0,94.4,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,36.0,6.0,3.0,94.461,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,37.0,7.0,3.0,94.399,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,38.0,8.0,3.0,94.418,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,39.0,9.0,3.0,95.198,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,40.0,10.0,3.0,94.729,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,41.0,11.0,3.0,94.776,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,42.0,12.0,3.0,94.798,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,43.0,13.0,3.0,94.466,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,44.0,14.0,3.0,94.303,True,,12
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,45.0,15.0,3.0,95.158,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,46.0,16.0,3.0,94.379,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,47.0,17.0,3.0,94.272,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,48.0,18.0,3.0,94.217,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,49.0,19.0,3.0,94.212,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,50.0,20.0,3.0,94.309,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,51.0,21.0,3.0,94.488,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,52.0,22.0,3.0,95.125,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,53.0,23.0,3.0,94.644,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,HARD,54.0,24.0,3.0,97.802,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,55.0,4.0,4.0,115.899,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,56.0,5.0,4.0,92.09,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,SOFT,1.0,4.0,1.0,126.744,False,,124
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,SOFT,2.0,5.0,1.0,140.999,False,,4
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,SOFT,4.0,7.0,1.0,109.988,False,,126
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,SOFT,5.0,8.0,1.0,102.22,False,,671
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,SOFT,6.0,9.0,1.0,97.893,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,SOFT,7.0,10.0,1.0,96.906,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,SOFT,8.0,11.0,1.0,97.724,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,SOFT,9.0,12.0,1.0,97.36,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,SOFT,10.0,13.0,1.0,97.523,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,SOFT,11.0,14.0,1.0,97.162,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,SOFT,12.0,15.0,1.0,100.425,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,MEDIUM,13.0,1.0,2.0,117.417,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,MEDIUM,14.0,2.0,2.0,95.286,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,MEDIUM,15.0,3.0,2.0,95.679,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,MEDIUM,16.0,4.0,2.0,96.344,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,MEDIUM,17.0,5.0,2.0,96.239,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,MEDIUM,18.0,6.0,2.0,96.045,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,MEDIUM,19.0,7.0,2.0,96.084,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,MEDIUM,20.0,8.0,2.0,96.463,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,MEDIUM,21.0,9.0,2.0,96.569,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,MEDIUM,22.0,10.0,2.0,96.371,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,MEDIUM,23.0,11.0,2.0,96.547,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,MEDIUM,24.0,12.0,2.0,96.409,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,MEDIUM,25.0,13.0,2.0,96.565,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,MEDIUM,26.0,14.0,2.0,96.152,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,MEDIUM,27.0,15.0,2.0,96.29,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,MEDIUM,28.0,16.0,2.0,96.577,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,MEDIUM,29.0,17.0,2.0,96.646,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,MEDIUM,30.0,18.0,2.0,96.417,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,MEDIUM,31.0,19.0,2.0,96.515,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,MEDIUM,32.0,20.0,2.0,96.616,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,MEDIUM,33.0,21.0,2.0,99.275,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,HARD,34.0,1.0,3.0,116.81,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,HARD,35.0,2.0,3.0,94.899,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,HARD,36.0,3.0,3.0,94.647,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,HARD,37.0,4.0,3.0,94.501,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,HARD,38.0,5.0,3.0,94.396,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,HARD,39.0,6.0,3.0,94.629,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,HARD,40.0,7.0,3.0,94.756,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,HARD,41.0,8.0,3.0,94.8,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,HARD,42.0,9.0,3.0,95.09,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,HARD,43.0,10.0,3.0,94.805,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,HARD,44.0,11.0,3.0,94.733,True,,12
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,HARD,45.0,12.0,3.0,94.816,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,HARD,46.0,13.0,3.0,95.049,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,HARD,47.0,14.0,3.0,94.843,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,HARD,48.0,15.0,3.0,95.03,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,HARD,49.0,16.0,3.0,95.112,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,HARD,50.0,17.0,3.0,94.768,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,HARD,51.0,18.0,3.0,95.074,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,HARD,52.0,19.0,3.0,95.308,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,HARD,53.0,20.0,3.0,95.429,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,HARD,54.0,21.0,3.0,95.9,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,HARD,55.0,22.0,3.0,95.718,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,NOR,Lando Norris,4,McLaren,HARD,56.0,23.0,3.0,95.733,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,1.0,4.0,1.0,147.951,False,,124
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,2.0,5.0,1.0,140.666,False,,4
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,3.0,4.0,2.0,135.246,False,,41
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,4.0,5.0,2.0,118.724,False,,126
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,5.0,6.0,2.0,100.01,False,,671
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,6.0,7.0,2.0,97.48,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,7.0,8.0,2.0,97.891,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,8.0,9.0,2.0,97.134,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,9.0,10.0,2.0,97.381,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,10.0,11.0,2.0,96.788,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,11.0,12.0,2.0,97.837,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,12.0,13.0,2.0,97.988,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,13.0,14.0,2.0,96.949,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,14.0,15.0,2.0,96.87,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,15.0,16.0,2.0,96.853,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,16.0,17.0,2.0,96.526,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,17.0,18.0,2.0,97.062,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,18.0,19.0,2.0,98.124,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,19.0,20.0,2.0,99.72,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,HARD,20.0,1.0,3.0,116.512,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,HARD,21.0,2.0,3.0,95.721,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,HARD,22.0,3.0,3.0,95.633,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,HARD,23.0,4.0,3.0,95.807,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,HARD,24.0,5.0,3.0,95.964,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,HARD,25.0,6.0,3.0,95.526,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,HARD,26.0,7.0,3.0,96.592,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,HARD,27.0,8.0,3.0,95.221,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,HARD,28.0,9.0,3.0,95.488,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,HARD,29.0,10.0,3.0,95.877,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,HARD,30.0,11.0,3.0,95.713,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,HARD,31.0,12.0,3.0,96.302,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,HARD,32.0,13.0,3.0,95.458,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,HARD,33.0,14.0,3.0,96.547,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,HARD,34.0,15.0,3.0,95.796,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,HARD,35.0,16.0,3.0,96.056,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,HARD,36.0,17.0,3.0,95.97,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,HARD,37.0,18.0,3.0,95.987,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,HARD,38.0,19.0,3.0,98.802,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,39.0,6.0,4.0,116.75,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,40.0,7.0,4.0,94.518,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,41.0,8.0,4.0,94.263,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,42.0,9.0,4.0,94.265,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,43.0,10.0,4.0,94.449,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,44.0,11.0,4.0,93.97,True,,12
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,45.0,12.0,4.0,94.542,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,46.0,13.0,4.0,94.709,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,47.0,14.0,4.0,94.634,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,48.0,15.0,4.0,94.167,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,49.0,16.0,4.0,94.665,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,50.0,17.0,4.0,94.241,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,51.0,18.0,4.0,94.34,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,52.0,19.0,4.0,95.32,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,53.0,20.0,4.0,94.546,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,54.0,21.0,4.0,94.892,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,55.0,22.0,4.0,94.746,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,56.0,23.0,4.0,94.755,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,SOFT,1.0,4.0,1.0,122.698,False,,124
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,SOFT,2.0,5.0,1.0,141.183,False,,4
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,SOFT,4.0,7.0,1.0,106.103,False,,126
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,SOFT,5.0,8.0,1.0,105.543,False,,671
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,SOFT,6.0,9.0,1.0,98.294,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,SOFT,7.0,10.0,1.0,97.148,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,SOFT,8.0,11.0,1.0,97.886,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,SOFT,9.0,12.0,1.0,98.667,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,SOFT,10.0,13.0,1.0,97.518,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,SOFT,11.0,14.0,1.0,97.729,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,SOFT,12.0,15.0,1.0,100.477,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,13.0,1.0,2.0,116.773,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,14.0,2.0,2.0,95.552,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,15.0,3.0,2.0,95.955,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,16.0,4.0,2.0,96.415,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,17.0,5.0,2.0,96.936,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,18.0,6.0,2.0,96.432,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,19.0,7.0,2.0,96.289,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,20.0,8.0,2.0,96.603,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,21.0,9.0,2.0,96.721,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,22.0,10.0,2.0,96.457,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,23.0,11.0,2.0,96.195,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,24.0,12.0,2.0,96.338,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,25.0,13.0,2.0,96.428,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,26.0,14.0,2.0,96.406,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,27.0,15.0,2.0,96.616,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,28.0,16.0,2.0,96.555,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,29.0,17.0,2.0,97.096,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,30.0,18.0,2.0,96.871,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,31.0,19.0,2.0,97.108,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,32.0,20.0,2.0,99.973,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,33.0,1.0,3.0,115.256,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,34.0,2.0,3.0,95.096,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,35.0,3.0,3.0,95.141,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,36.0,4.0,3.0,95.055,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,37.0,5.0,3.0,95.02,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,38.0,6.0,3.0,95.264,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,39.0,7.0,3.0,94.988,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,40.0,8.0,3.0,95.118,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,41.0,9.0,3.0,95.041,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,42.0,10.0,3.0,95.284,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,43.0,11.0,3.0,95.168,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,44.0,12.0,3.0,95.294,True,,12
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,45.0,13.0,3.0,95.373,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,46.0,14.0,3.0,95.287,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,47.0,15.0,3.0,95.381,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,48.0,16.0,3.0,95.153,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,49.0,17.0,3.0,95.419,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,50.0,18.0,3.0,95.067,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,51.0,19.0,3.0,95.546,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,52.0,20.0,3.0,97.113,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,53.0,21.0,3.0,95.684,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,54.0,22.0,3.0,95.945,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,55.0,23.0,3.0,96.19,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LEC,Charles Leclerc,16,Ferrari,HARD,56.0,24.0,3.0,96.951,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,SOFT,1.0,4.0,1.0,128.545,False,,124
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,SOFT,2.0,5.0,1.0,140.642,False,,4
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,SOFT,4.0,7.0,1.0,111.438,False,,126
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,SOFT,5.0,8.0,1.0,101.47,False,,671
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,SOFT,6.0,9.0,1.0,97.571,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,SOFT,7.0,10.0,1.0,97.205,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,SOFT,8.0,11.0,1.0,97.639,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,SOFT,9.0,12.0,1.0,97.858,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,SOFT,10.0,13.0,1.0,97.782,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,SOFT,11.0,14.0,1.0,97.314,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,SOFT,12.0,15.0,1.0,98.454,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,SOFT,13.0,16.0,1.0,100.195,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,14.0,1.0,2.0,117.427,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,15.0,2.0,2.0,96.081,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,16.0,3.0,2.0,96.79,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,17.0,4.0,2.0,96.542,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,18.0,5.0,2.0,97.424,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,19.0,6.0,2.0,96.383,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,20.0,7.0,2.0,96.622,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,21.0,8.0,2.0,96.664,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,22.0,9.0,2.0,96.682,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,23.0,10.0,2.0,96.494,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,24.0,11.0,2.0,96.307,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,25.0,12.0,2.0,96.675,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,26.0,13.0,2.0,96.505,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,27.0,14.0,2.0,96.334,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,28.0,15.0,2.0,96.53,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,29.0,16.0,2.0,96.593,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,30.0,17.0,2.0,96.811,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,31.0,18.0,2.0,97.068,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,32.0,19.0,2.0,99.803,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,33.0,1.0,3.0,116.039,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,34.0,2.0,3.0,95.633,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,35.0,3.0,3.0,95.429,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,36.0,4.0,3.0,94.932,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,37.0,5.0,3.0,95.199,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,38.0,6.0,3.0,95.201,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,39.0,7.0,3.0,95.469,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,40.0,8.0,3.0,95.596,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,41.0,9.0,3.0,95.175,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,42.0,10.0,3.0,95.222,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,43.0,11.0,3.0,95.011,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,44.0,12.0,3.0,96.591,True,,12
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,45.0,13.0,3.0,95.628,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,46.0,14.0,3.0,95.435,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,47.0,15.0,3.0,95.298,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,48.0,16.0,3.0,95.128,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,49.0,17.0,3.0,95.556,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,50.0,18.0,3.0,96.458,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,51.0,19.0,3.0,95.616,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,52.0,20.0,3.0,95.768,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,53.0,21.0,3.0,95.388,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,54.0,22.0,3.0,95.773,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,55.0,23.0,3.0,95.64,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RIC,Daniel Ricciardo,3,McLaren,HARD,56.0,24.0,3.0,95.823,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,SOFT,1.0,4.0,1.0,134.282,False,,124
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,SOFT,2.0,5.0,1.0,139.07,False,,4
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,SOFT,3.0,6.0,1.0,148.127,False,,41
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,SOFT,4.0,7.0,1.0,113.477,False,,126
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,SOFT,5.0,8.0,1.0,101.209,False,,671
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,SOFT,6.0,9.0,1.0,97.112,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,SOFT,7.0,10.0,1.0,97.139,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,SOFT,8.0,11.0,1.0,97.829,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,SOFT,9.0,12.0,1.0,98.396,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,SOFT,10.0,13.0,1.0,98.012,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,SOFT,11.0,14.0,1.0,97.562,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,SOFT,12.0,15.0,1.0,97.716,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,SOFT,13.0,16.0,1.0,97.66,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,SOFT,14.0,17.0,1.0,97.591,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,SOFT,15.0,18.0,1.0,100.84,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,16.0,1.0,2.0,116.548,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,17.0,2.0,2.0,96.15,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,18.0,3.0,2.0,96.364,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,19.0,4.0,2.0,96.45,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,20.0,5.0,2.0,98.966,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,21.0,6.0,2.0,96.702,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,22.0,7.0,2.0,96.516,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,23.0,8.0,2.0,96.236,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,24.0,9.0,2.0,96.279,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,25.0,10.0,2.0,97.598,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,26.0,11.0,2.0,96.686,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,27.0,12.0,2.0,96.574,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,28.0,13.0,2.0,96.842,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,29.0,14.0,2.0,96.02,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,30.0,15.0,2.0,96.217,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,31.0,16.0,2.0,96.273,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,32.0,17.0,2.0,96.469,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,33.0,18.0,2.0,97.141,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,34.0,19.0,2.0,96.635,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,35.0,20.0,2.0,96.584,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,36.0,21.0,2.0,96.713,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,37.0,22.0,2.0,99.631,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,HARD,38.0,1.0,3.0,115.128,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,HARD,39.0,2.0,3.0,94.661,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,HARD,40.0,3.0,3.0,94.63,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,HARD,41.0,4.0,3.0,94.876,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,HARD,42.0,5.0,3.0,94.636,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,HARD,43.0,6.0,3.0,94.811,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,HARD,44.0,7.0,3.0,95.081,True,,12
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,HARD,45.0,8.0,3.0,96.024,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,HARD,46.0,9.0,3.0,94.883,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,HARD,47.0,10.0,3.0,94.693,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,HARD,48.0,11.0,3.0,94.509,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,HARD,49.0,12.0,3.0,94.636,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,HARD,50.0,13.0,3.0,94.587,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,HARD,51.0,14.0,3.0,95.11,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,HARD,52.0,15.0,3.0,95.009,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,HARD,53.0,16.0,3.0,95.163,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,HARD,54.0,17.0,3.0,95.607,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,HARD,55.0,18.0,3.0,95.577,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,SAI,Carlos Sainz,55,Ferrari,HARD,56.0,19.0,3.0,95.76,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,1.0,4.0,1.0,142.502,False,,124
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,2.0,5.0,1.0,138.52,False,,4
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,3.0,6.0,1.0,142.096,False,,41
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,4.0,7.0,1.0,120.403,False,,126
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,5.0,8.0,1.0,100.554,False,,671
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,6.0,9.0,1.0,98.218,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,7.0,10.0,1.0,97.329,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,8.0,11.0,1.0,97.491,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,9.0,12.0,1.0,97.907,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,10.0,13.0,1.0,97.738,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,11.0,14.0,1.0,97.593,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,12.0,15.0,1.0,97.947,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,13.0,16.0,1.0,97.882,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,14.0,17.0,1.0,97.923,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,15.0,18.0,1.0,100.58,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,16.0,1.0,2.0,117.127,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,17.0,2.0,2.0,96.147,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,18.0,3.0,2.0,96.149,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,19.0,4.0,2.0,95.979,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,20.0,5.0,2.0,98.319,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,21.0,6.0,2.0,97.21,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,22.0,7.0,2.0,96.558,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,23.0,8.0,2.0,97.306,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,24.0,9.0,2.0,96.154,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,25.0,10.0,2.0,96.824,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,26.0,11.0,2.0,96.195,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,27.0,12.0,2.0,96.657,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,28.0,13.0,2.0,96.87,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,29.0,14.0,2.0,96.844,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,30.0,15.0,2.0,96.705,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,31.0,16.0,2.0,96.663,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,32.0,17.0,2.0,96.654,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,33.0,18.0,2.0,99.388,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,34.0,1.0,3.0,115.773,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,35.0,2.0,3.0,95.488,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,36.0,3.0,3.0,95.977,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,37.0,4.0,3.0,94.918,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,38.0,5.0,3.0,94.761,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,39.0,6.0,3.0,95.641,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,40.0,7.0,3.0,95.691,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,41.0,8.0,3.0,95.645,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,42.0,9.0,3.0,95.551,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,43.0,10.0,3.0,95.23,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,44.0,11.0,3.0,95.296,True,,12
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,45.0,12.0,3.0,95.162,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,46.0,13.0,3.0,95.254,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,47.0,14.0,3.0,94.974,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,48.0,15.0,3.0,95.179,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,49.0,16.0,3.0,95.544,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,50.0,17.0,3.0,95.108,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,51.0,18.0,3.0,95.717,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,52.0,19.0,3.0,96.122,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,53.0,20.0,3.0,97.135,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,54.0,21.0,3.0,97.354,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,55.0,22.0,3.0,96.882,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,56.0,23.0,3.0,96.755,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,SOFT,1.0,4.0,1.0,132.396,False,,124
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,SOFT,2.0,5.0,1.0,139.603,False,,4
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,SOFT,3.0,6.0,1.0,149.035,False,,41
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,SOFT,4.0,7.0,1.0,112.919,False,,126
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,SOFT,5.0,8.0,1.0,101.463,False,,671
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,SOFT,6.0,9.0,1.0,97.046,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,SOFT,7.0,10.0,1.0,97.209,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,SOFT,8.0,11.0,1.0,97.7,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,SOFT,9.0,12.0,1.0,97.797,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,SOFT,10.0,13.0,1.0,97.614,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,SOFT,11.0,14.0,1.0,97.536,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,SOFT,12.0,15.0,1.0,100.751,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,13.0,1.0,2.0,116.84,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,14.0,2.0,2.0,97.477,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,15.0,3.0,2.0,96.841,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,16.0,4.0,2.0,97.065,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,17.0,5.0,2.0,96.333,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,18.0,6.0,2.0,96.951,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,19.0,7.0,2.0,98.008,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,20.0,8.0,2.0,96.451,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,21.0,9.0,2.0,97.206,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,22.0,10.0,2.0,96.957,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,23.0,11.0,2.0,96.843,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,24.0,12.0,2.0,96.697,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,25.0,13.0,2.0,96.879,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,26.0,14.0,2.0,96.914,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,27.0,15.0,2.0,97.7,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,28.0,16.0,2.0,99.588,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,29.0,1.0,3.0,117.513,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,30.0,2.0,3.0,96.023,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,31.0,3.0,3.0,94.865,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,32.0,4.0,3.0,95.279,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,33.0,5.0,3.0,95.429,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,34.0,6.0,3.0,95.328,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,35.0,7.0,3.0,95.549,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,36.0,8.0,3.0,95.455,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,37.0,9.0,3.0,95.464,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,38.0,10.0,3.0,95.686,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,39.0,11.0,3.0,96.132,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,40.0,12.0,3.0,96.678,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,41.0,13.0,3.0,95.787,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,42.0,14.0,3.0,95.921,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,43.0,15.0,3.0,95.713,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,44.0,16.0,3.0,96.014,True,,12
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,45.0,17.0,3.0,96.294,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,46.0,18.0,3.0,97.413,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,47.0,19.0,3.0,96.374,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,48.0,20.0,3.0,96.267,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,49.0,21.0,3.0,96.098,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,50.0,22.0,3.0,96.155,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,51.0,23.0,3.0,96.581,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,52.0,24.0,3.0,97.09,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,53.0,25.0,3.0,96.939,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,54.0,26.0,3.0,97.076,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,55.0,27.0,3.0,97.068,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,STR,Lance Stroll,18,Aston Martin,HARD,56.0,28.0,3.0,98.6,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,1.0,1.0,1.0,136.372,False,,124
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,2.0,2.0,1.0,139.993,False,,4
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,3.0,3.0,1.0,145.649,False,,41
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,4.0,4.0,1.0,116.558,False,,126
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,5.0,5.0,1.0,100.574,False,,671
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,6.0,6.0,1.0,97.831,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,7.0,7.0,1.0,98.014,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,8.0,8.0,1.0,98.015,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,9.0,9.0,1.0,97.993,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,10.0,10.0,1.0,97.622,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,11.0,11.0,1.0,98.086,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,12.0,12.0,1.0,97.783,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,13.0,13.0,1.0,99.71,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,14.0,1.0,2.0,117.033,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,15.0,2.0,2.0,96.336,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,16.0,3.0,2.0,97.309,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,17.0,4.0,2.0,97.169,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,18.0,5.0,2.0,97.151,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,19.0,6.0,2.0,97.121,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,20.0,7.0,2.0,96.923,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,21.0,8.0,2.0,97.665,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,22.0,9.0,2.0,97.571,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,23.0,10.0,2.0,96.985,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,24.0,11.0,2.0,96.897,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,25.0,12.0,2.0,97.019,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,26.0,13.0,2.0,96.852,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,27.0,14.0,2.0,96.495,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,28.0,15.0,2.0,96.531,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,29.0,16.0,2.0,99.035,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,30.0,1.0,3.0,116.634,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,31.0,2.0,3.0,96.452,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,32.0,3.0,3.0,96.941,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,33.0,4.0,3.0,96.786,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,34.0,5.0,3.0,96.014,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,35.0,6.0,3.0,96.791,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,36.0,7.0,3.0,96.11,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,37.0,8.0,3.0,95.842,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,38.0,9.0,3.0,96.645,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,39.0,10.0,3.0,96.572,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,40.0,11.0,3.0,96.888,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,41.0,12.0,3.0,96.564,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,42.0,13.0,3.0,96.38,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,43.0,14.0,3.0,95.815,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,44.0,15.0,3.0,96.321,True,,12
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,45.0,16.0,3.0,95.192,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,46.0,17.0,3.0,96.071,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,47.0,18.0,3.0,95.577,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,48.0,19.0,3.0,95.368,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,49.0,20.0,3.0,95.562,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,50.0,21.0,3.0,95.338,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,51.0,22.0,3.0,95.686,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,52.0,23.0,3.0,95.654,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,53.0,24.0,3.0,95.905,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,54.0,25.0,3.0,95.414,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,55.0,26.0,3.0,95.987,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,56.0,27.0,3.0,95.96,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,1.0,1.0,1.0,138.362,False,,124
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,2.0,2.0,1.0,138.879,False,,4
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,3.0,3.0,1.0,145.126,False,,41
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,4.0,4.0,1.0,113.761,False,,126
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,5.0,5.0,1.0,102.15,False,,671
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,6.0,6.0,1.0,97.852,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,7.0,7.0,1.0,97.993,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,8.0,8.0,1.0,97.972,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,9.0,9.0,1.0,98.008,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,10.0,10.0,1.0,97.846,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,11.0,11.0,1.0,97.765,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,12.0,12.0,1.0,100.892,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,13.0,1.0,2.0,125.351,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,14.0,2.0,2.0,97.462,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,15.0,3.0,2.0,96.79,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,16.0,4.0,2.0,97.458,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,17.0,5.0,2.0,97.201,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,18.0,6.0,2.0,97.139,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,19.0,7.0,2.0,97.005,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,20.0,8.0,2.0,97.279,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,21.0,9.0,2.0,97.387,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,22.0,10.0,2.0,97.442,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,23.0,11.0,2.0,96.936,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,24.0,12.0,2.0,97.236,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,25.0,13.0,2.0,96.899,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,26.0,14.0,2.0,96.918,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,27.0,15.0,2.0,97.21,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,28.0,16.0,2.0,96.94,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,29.0,17.0,2.0,96.987,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,30.0,18.0,2.0,99.49,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,31.0,1.0,3.0,116.373,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,32.0,2.0,3.0,95.122,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,33.0,3.0,3.0,96.937,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,34.0,4.0,3.0,96.088,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,35.0,5.0,3.0,96.11,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,36.0,6.0,3.0,95.713,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,37.0,7.0,3.0,95.952,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,38.0,8.0,3.0,96.306,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,39.0,9.0,3.0,96.424,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,40.0,10.0,3.0,96.515,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,41.0,11.0,3.0,96.261,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,42.0,12.0,3.0,96.206,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,43.0,13.0,3.0,95.971,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,44.0,14.0,3.0,96.787,True,,12
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,45.0,15.0,3.0,95.868,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,46.0,16.0,3.0,95.68,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,47.0,17.0,3.0,95.747,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,48.0,18.0,3.0,95.338,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,49.0,19.0,3.0,95.298,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,50.0,20.0,3.0,95.367,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,51.0,21.0,3.0,96.135,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,52.0,22.0,3.0,99.448,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,53.0,23.0,3.0,96.225,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,54.0,24.0,3.0,95.9,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,55.0,25.0,3.0,95.788,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,SOFT,1.0,1.0,1.0,139.866,False,,124
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,SOFT,2.0,2.0,1.0,138.821,False,,4
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,SOFT,3.0,3.0,1.0,143.946,False,,41
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,SOFT,4.0,4.0,1.0,117.137,False,,126
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,SOFT,5.0,5.0,1.0,100.334,False,,671
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,SOFT,6.0,6.0,1.0,97.855,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,SOFT,7.0,7.0,1.0,97.991,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,SOFT,8.0,8.0,1.0,98.234,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,SOFT,9.0,9.0,1.0,97.866,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,SOFT,10.0,10.0,1.0,98.818,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,SOFT,11.0,11.0,1.0,97.945,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,SOFT,12.0,12.0,1.0,98.201,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,SOFT,13.0,13.0,1.0,100.503,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,14.0,1.0,2.0,117.222,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,15.0,2.0,2.0,96.659,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,16.0,3.0,2.0,97.03,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,17.0,4.0,2.0,97.242,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,18.0,5.0,2.0,97.095,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,19.0,6.0,2.0,96.674,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,20.0,7.0,2.0,98.408,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,21.0,8.0,2.0,98.677,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,22.0,9.0,2.0,97.317,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,23.0,10.0,2.0,97.362,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,24.0,11.0,2.0,97.422,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,25.0,12.0,2.0,96.904,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,26.0,13.0,2.0,97.316,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,27.0,14.0,2.0,97.104,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,28.0,15.0,2.0,97.206,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,29.0,16.0,2.0,97.43,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,30.0,17.0,2.0,97.408,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,31.0,18.0,2.0,99.268,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,32.0,1.0,3.0,116.314,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,33.0,2.0,3.0,95.25,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,34.0,3.0,3.0,95.975,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,35.0,4.0,3.0,95.848,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,36.0,5.0,3.0,95.721,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,37.0,6.0,3.0,95.708,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,38.0,7.0,3.0,96.272,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,39.0,8.0,3.0,96.308,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,40.0,9.0,3.0,96.245,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,41.0,10.0,3.0,96.045,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,42.0,11.0,3.0,96.179,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,43.0,12.0,3.0,95.53,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,44.0,13.0,3.0,107.176,True,,12
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,45.0,14.0,3.0,96.502,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,46.0,15.0,3.0,96.784,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,47.0,16.0,3.0,96.739,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,48.0,17.0,3.0,96.13,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,49.0,18.0,3.0,96.359,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,50.0,19.0,3.0,96.171,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,51.0,20.0,3.0,96.055,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,52.0,21.0,3.0,96.302,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,53.0,22.0,3.0,96.381,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,54.0,23.0,3.0,96.394,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,OCO,Esteban Ocon,31,Alpine,HARD,55.0,24.0,3.0,96.346,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,SOFT,1.0,1.0,1.0,144.364,False,,124
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,SOFT,2.0,2.0,1.0,138.994,False,,4
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,SOFT,3.0,3.0,1.0,139.901,False,,41
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,SOFT,4.0,4.0,1.0,117.443,False,,126
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,SOFT,5.0,5.0,1.0,100.849,False,,671
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,SOFT,6.0,6.0,1.0,100.223,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,SOFT,7.0,7.0,1.0,99.318,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,SOFT,8.0,8.0,1.0,98.317,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,SOFT,9.0,9.0,1.0,98.415,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,SOFT,10.0,10.0,1.0,98.386,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,SOFT,11.0,11.0,1.0,98.471,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,SOFT,12.0,12.0,1.0,98.719,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,SOFT,13.0,13.0,1.0,100.821,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,14.0,1.0,2.0,117.136,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,15.0,2.0,2.0,96.811,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,16.0,3.0,2.0,97.105,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,17.0,4.0,2.0,96.771,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,18.0,5.0,2.0,97.199,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,19.0,6.0,2.0,97.319,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,20.0,7.0,2.0,97.643,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,21.0,8.0,2.0,97.711,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,22.0,9.0,2.0,97.683,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,23.0,10.0,2.0,97.412,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,24.0,11.0,2.0,97.197,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,25.0,12.0,2.0,97.238,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,26.0,13.0,2.0,97.378,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,27.0,14.0,2.0,97.711,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,28.0,15.0,2.0,97.001,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,29.0,16.0,2.0,97.666,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,30.0,17.0,2.0,97.777,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,31.0,18.0,2.0,97.962,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,32.0,19.0,2.0,97.675,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,33.0,20.0,2.0,97.714,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,34.0,21.0,2.0,97.35,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,35.0,22.0,2.0,97.695,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,36.0,23.0,2.0,102.693,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,37.0,1.0,3.0,115.22,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,38.0,2.0,3.0,95.096,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,39.0,3.0,3.0,95.565,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,40.0,4.0,3.0,95.036,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,41.0,5.0,3.0,95.737,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,42.0,6.0,3.0,95.987,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,43.0,7.0,3.0,96.299,True,,12
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,44.0,8.0,3.0,95.98,True,,21
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,45.0,9.0,3.0,97.337,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,46.0,10.0,3.0,95.83,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,47.0,11.0,3.0,95.777,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,48.0,12.0,3.0,95.938,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,49.0,13.0,3.0,95.969,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,50.0,14.0,3.0,96.844,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,51.0,15.0,3.0,95.206,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,52.0,16.0,3.0,95.945,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,53.0,17.0,3.0,95.743,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,54.0,18.0,3.0,96.06,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,RUS,George Russell,63,Williams,MEDIUM,55.0,19.0,3.0,96.217,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,1.0,1.0,1.0,141.797,False,,124
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,2.0,2.0,1.0,138.294,False,,4
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,3.0,3.0,1.0,142.63,False,,41
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,4.0,4.0,1.0,117.475,False,,126
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,5.0,5.0,1.0,101.948,False,,671
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,6.0,6.0,1.0,97.484,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,7.0,7.0,1.0,97.964,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,8.0,8.0,1.0,98.935,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,9.0,9.0,1.0,99.358,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,10.0,10.0,1.0,98.1,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,11.0,11.0,1.0,98.184,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,12.0,12.0,1.0,98.169,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,13.0,13.0,1.0,98.05,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,14.0,14.0,1.0,98.011,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,15.0,15.0,1.0,98.024,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,16.0,16.0,1.0,99.302,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,17.0,17.0,1.0,98.734,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,18.0,18.0,1.0,98.717,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,19.0,19.0,1.0,99.071,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,20.0,20.0,1.0,99.584,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,21.0,21.0,1.0,99.996,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,22.0,22.0,1.0,100.754,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,23.0,23.0,1.0,98.631,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,24.0,24.0,1.0,101.508,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,25.0,1.0,2.0,116.594,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,26.0,2.0,2.0,95.566,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,27.0,3.0,2.0,96.045,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,28.0,4.0,2.0,96.341,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,29.0,5.0,2.0,96.434,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,30.0,6.0,2.0,96.26,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,31.0,7.0,2.0,96.185,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,32.0,8.0,2.0,96.335,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,33.0,9.0,2.0,96.492,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,34.0,10.0,2.0,96.041,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,35.0,11.0,2.0,96.249,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,36.0,12.0,2.0,97.852,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,37.0,13.0,2.0,96.733,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,38.0,14.0,2.0,96.24,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,39.0,15.0,2.0,96.726,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,40.0,16.0,2.0,96.391,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,41.0,17.0,2.0,96.171,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,42.0,18.0,2.0,96.356,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,43.0,19.0,2.0,96.379,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,44.0,20.0,2.0,105.206,True,,12
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,45.0,21.0,2.0,96.705,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,46.0,22.0,2.0,98.732,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,47.0,23.0,2.0,98.436,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,48.0,24.0,2.0,97.072,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,49.0,25.0,2.0,96.842,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,50.0,26.0,2.0,97.236,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,51.0,27.0,2.0,99.325,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,52.0,28.0,2.0,98.594,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,53.0,29.0,2.0,97.099,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,54.0,30.0,2.0,97.522,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,VET,Sebastian Vettel,5,Aston Martin,HARD,55.0,31.0,2.0,97.56,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,1.0,1.0,1.0,146.524,False,,124
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,2.0,2.0,1.0,139.552,False,,4
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,3.0,3.0,1.0,137.719,False,,41
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,4.0,4.0,1.0,129.259,False,,1267
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,5.0,5.0,1.0,99.927,False,,71
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,6.0,6.0,1.0,98.744,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,7.0,7.0,1.0,99.134,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,8.0,8.0,1.0,99.272,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,9.0,9.0,1.0,99.164,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,10.0,10.0,1.0,98.955,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,11.0,11.0,1.0,99.18,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,12.0,12.0,1.0,99.979,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,13.0,13.0,1.0,99.685,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,14.0,14.0,1.0,102.903,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,15.0,1.0,2.0,121.871,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,16.0,2.0,2.0,97.351,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,17.0,3.0,2.0,97.627,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,18.0,4.0,2.0,97.74,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,19.0,5.0,2.0,97.944,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,20.0,6.0,2.0,98.231,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,21.0,7.0,2.0,98.02,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,22.0,8.0,2.0,97.67,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,23.0,9.0,2.0,97.578,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,24.0,10.0,2.0,97.595,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,25.0,11.0,2.0,97.779,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,26.0,12.0,2.0,98.144,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,27.0,13.0,2.0,98.957,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,28.0,14.0,2.0,97.677,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,29.0,15.0,2.0,98.25,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,30.0,16.0,2.0,98.899,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,31.0,17.0,2.0,98.322,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,32.0,18.0,2.0,98.641,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,33.0,19.0,2.0,100.674,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,HARD,34.0,1.0,3.0,119.708,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,HARD,35.0,2.0,3.0,96.711,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,HARD,36.0,3.0,3.0,96.722,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,HARD,37.0,4.0,3.0,98.714,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,HARD,38.0,5.0,3.0,96.134,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,HARD,39.0,6.0,3.0,96.786,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,HARD,40.0,7.0,3.0,96.843,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,HARD,41.0,8.0,3.0,96.674,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,HARD,42.0,9.0,3.0,97.962,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,HARD,43.0,10.0,3.0,96.409,True,,12
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,HARD,44.0,11.0,3.0,98.628,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,HARD,45.0,12.0,3.0,96.389,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,HARD,46.0,13.0,3.0,96.58,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,HARD,47.0,14.0,3.0,97.997,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,HARD,48.0,15.0,3.0,96.695,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,HARD,49.0,16.0,3.0,98.802,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,HARD,50.0,17.0,3.0,98.777,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,HARD,51.0,18.0,3.0,96.652,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,HARD,52.0,19.0,3.0,97.229,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,HARD,53.0,20.0,3.0,96.856,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,HARD,54.0,21.0,3.0,97.118,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,MSC,Mick Schumacher,47,Haas F1 Team,HARD,55.0,22.0,3.0,97.351,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,1.0,4.0,1.0,124.697,False,,124
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,2.0,5.0,1.0,142.263,False,,4
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,4.0,7.0,1.0,126.772,False,,1267
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,5.0,1.0,2.0,131.534,False,,71
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,6.0,2.0,2.0,96.677,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,7.0,3.0,2.0,96.954,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,8.0,4.0,2.0,97.424,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,9.0,5.0,2.0,97.03,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,10.0,6.0,2.0,97.375,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,11.0,7.0,2.0,97.517,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,12.0,8.0,2.0,98.054,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,13.0,9.0,2.0,97.874,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,14.0,10.0,2.0,98.302,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,15.0,11.0,2.0,98.001,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,16.0,12.0,2.0,97.993,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,17.0,13.0,2.0,98.415,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,18.0,14.0,2.0,99.272,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,19.0,15.0,2.0,100.838,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,20.0,4.0,3.0,119.29,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,21.0,5.0,3.0,96.483,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,22.0,6.0,3.0,96.475,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,23.0,7.0,3.0,96.421,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,24.0,8.0,3.0,96.519,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,25.0,9.0,3.0,96.472,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,26.0,10.0,3.0,96.89,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,27.0,11.0,3.0,96.394,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,28.0,12.0,3.0,96.512,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,29.0,13.0,3.0,96.217,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,30.0,14.0,3.0,96.061,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,31.0,15.0,3.0,96.185,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,32.0,16.0,3.0,96.452,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,33.0,17.0,3.0,96.357,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,34.0,18.0,3.0,96.689,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,35.0,19.0,3.0,98.745,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,36.0,20.0,3.0,96.891,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,37.0,21.0,3.0,96.736,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,38.0,22.0,3.0,96.928,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,39.0,23.0,3.0,99.587,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,40.0,1.0,4.0,116.887,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,41.0,2.0,4.0,94.56,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,42.0,3.0,4.0,94.349,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,43.0,4.0,4.0,94.303,True,,12
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,44.0,5.0,4.0,94.978,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,45.0,6.0,4.0,94.692,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,46.0,7.0,4.0,94.23,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,47.0,8.0,4.0,94.243,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,48.0,9.0,4.0,94.09,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,49.0,10.0,4.0,94.281,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,50.0,11.0,4.0,94.346,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,51.0,12.0,4.0,94.95,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,GAS,Pierre Gasly,10,AlphaTauri,HARD,52.0,13.0,4.0,98.051,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,SOFT,1.0,1.0,1.0,145.219,False,,124
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,SOFT,2.0,2.0,1.0,139.416,False,,4
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,SOFT,3.0,3.0,1.0,138.832,False,,41
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,SOFT,4.0,4.0,1.0,121.239,False,,126
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,SOFT,5.0,5.0,1.0,100.773,False,,671
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,SOFT,6.0,6.0,1.0,99.237,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,SOFT,7.0,7.0,1.0,98.39,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,SOFT,8.0,8.0,1.0,98.518,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,SOFT,9.0,9.0,1.0,98.784,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,SOFT,10.0,10.0,1.0,98.027,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,SOFT,11.0,11.0,1.0,98.28,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,SOFT,12.0,12.0,1.0,98.781,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,SOFT,13.0,13.0,1.0,98.526,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,SOFT,14.0,14.0,1.0,102.131,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,15.0,1.0,2.0,119.286,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,16.0,2.0,2.0,96.602,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,17.0,3.0,2.0,97.665,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,18.0,4.0,2.0,97.508,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,19.0,5.0,2.0,97.644,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,20.0,6.0,2.0,97.447,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,21.0,7.0,2.0,97.556,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,22.0,8.0,2.0,97.618,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,23.0,9.0,2.0,97.32,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,24.0,10.0,2.0,98.097,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,25.0,11.0,2.0,97.694,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,26.0,12.0,2.0,98.179,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,27.0,13.0,2.0,98.149,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,28.0,14.0,2.0,97.802,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,29.0,15.0,2.0,99.666,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,30.0,16.0,2.0,98.422,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,31.0,17.0,2.0,99.096,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,32.0,18.0,2.0,102.667,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,33.0,1.0,3.0,118.954,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,34.0,2.0,3.0,97.348,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,35.0,3.0,3.0,97.437,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,36.0,4.0,3.0,97.61,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,37.0,5.0,3.0,97.971,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,38.0,6.0,3.0,98.151,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,39.0,7.0,3.0,97.195,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,40.0,8.0,3.0,97.802,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,41.0,9.0,3.0,97.811,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,42.0,10.0,3.0,98.105,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,43.0,11.0,3.0,97.724,True,,12
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,44.0,12.0,3.0,98.899,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,45.0,13.0,3.0,99.67,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,46.0,14.0,3.0,98.396,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,47.0,15.0,3.0,99.391,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,48.0,16.0,3.0,99.385,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,49.0,17.0,3.0,98.661,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,50.0,18.0,3.0,109.275,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,LAT,Nicholas Latifi,6,Williams,MEDIUM,51.0,19.0,3.0,106.133,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,SOFT,1.0,4.0,1.0,130.373,False,,124
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,SOFT,2.0,5.0,1.0,139.776,False,,4
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,SOFT,4.0,7.0,1.0,112.313,False,,126
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,SOFT,5.0,8.0,1.0,100.858,False,,671
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,SOFT,6.0,9.0,1.0,97.652,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,SOFT,7.0,10.0,1.0,97.366,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,SOFT,8.0,11.0,1.0,98.006,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,SOFT,9.0,12.0,1.0,99.062,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,SOFT,10.0,13.0,1.0,97.758,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,SOFT,11.0,14.0,1.0,100.308,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,MEDIUM,12.0,1.0,2.0,116.122,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,MEDIUM,13.0,2.0,2.0,96.844,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,MEDIUM,14.0,3.0,2.0,97.143,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,MEDIUM,15.0,4.0,2.0,97.447,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,MEDIUM,16.0,5.0,2.0,97.183,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,MEDIUM,17.0,6.0,2.0,97.797,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,MEDIUM,18.0,7.0,2.0,96.984,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,MEDIUM,19.0,8.0,2.0,97.506,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,MEDIUM,20.0,9.0,2.0,99.078,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,MEDIUM,21.0,10.0,2.0,100.09,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,MEDIUM,22.0,11.0,2.0,97.759,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,MEDIUM,23.0,12.0,2.0,98.377,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,MEDIUM,24.0,13.0,2.0,97.604,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,MEDIUM,25.0,14.0,2.0,97.596,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,MEDIUM,26.0,15.0,2.0,98.758,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,MEDIUM,27.0,16.0,2.0,97.447,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,MEDIUM,28.0,17.0,2.0,97.791,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,MEDIUM,29.0,18.0,2.0,100.108,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,HARD,30.0,1.0,3.0,117.522,False,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,HARD,31.0,2.0,3.0,96.063,True,,1
+2021,1,Bahrain Grand Prix,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2021,Sakhir,Bahrain,Sakhir,2021-03-28,56,ALO,Fernando Alonso,14,Alpine,HARD,32.0,3.0,3.0,102.313,False,,1

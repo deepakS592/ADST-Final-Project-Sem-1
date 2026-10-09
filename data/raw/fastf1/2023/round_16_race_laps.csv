@@ -1,0 +1,820 @@
+Season,Round,Race,EventName,OfficialEventName,Circuit,Country,Location,EventDate,RaceLaps,Driver,DriverName,DriverNumber,Team,Compound,LapNumber,TyreLife,Stint,LapTime,IsAccurate,Deleted,TrackStatus
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,1.0,1.0,1.0,120.179,False,,124
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,5.0,5.0,1.0,96.748,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,6.0,6.0,1.0,97.837,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,7.0,7.0,1.0,98.033,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,8.0,8.0,1.0,98.148,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,9.0,9.0,1.0,98.241,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,10.0,10.0,1.0,98.301,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,11.0,11.0,1.0,98.519,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,12.0,12.0,1.0,98.651,True,,12
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,13.0,13.0,1.0,98.689,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,14.0,14.0,1.0,119.754,False,,167
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,15.0,15.0,1.0,98.373,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,16.0,16.0,1.0,101.172,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,17.0,1.0,2.0,118.025,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,18.0,2.0,2.0,97.399,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,19.0,3.0,2.0,97.769,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,20.0,4.0,2.0,97.344,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,21.0,5.0,2.0,97.565,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,22.0,6.0,2.0,97.592,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,23.0,7.0,2.0,97.722,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,24.0,8.0,2.0,97.714,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,25.0,9.0,2.0,97.946,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,26.0,10.0,2.0,97.903,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,27.0,11.0,2.0,97.865,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,28.0,12.0,2.0,97.558,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,29.0,13.0,2.0,97.424,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,30.0,14.0,2.0,97.599,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,31.0,15.0,2.0,97.599,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,32.0,16.0,2.0,97.92,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,33.0,17.0,2.0,97.655,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,34.0,18.0,2.0,97.733,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,35.0,19.0,2.0,97.788,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,36.0,20.0,2.0,97.82,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,37.0,21.0,2.0,100.264,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,HARD,38.0,1.0,3.0,116.078,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,HARD,39.0,2.0,3.0,94.183,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,HARD,40.0,3.0,3.0,95.914,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,HARD,41.0,4.0,3.0,95.433,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,HARD,42.0,5.0,3.0,95.248,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,HARD,43.0,6.0,3.0,95.969,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,HARD,44.0,7.0,3.0,95.462,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,HARD,45.0,8.0,3.0,95.915,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,HARD,46.0,9.0,3.0,95.983,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,HARD,47.0,10.0,3.0,96.22,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,HARD,48.0,11.0,3.0,96.198,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,HARD,49.0,12.0,3.0,96.689,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,HARD,50.0,13.0,3.0,96.877,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,HARD,51.0,14.0,3.0,96.64,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,HARD,52.0,15.0,3.0,97.05,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,VER,Max Verstappen,1,Red Bull Racing,HARD,53.0,16.0,3.0,96.3,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,MEDIUM,1.0,1.0,1.0,123.324,False,,124
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,MEDIUM,5.0,5.0,1.0,97.66,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,MEDIUM,6.0,6.0,1.0,98.158,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,MEDIUM,7.0,7.0,1.0,98.394,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,MEDIUM,8.0,8.0,1.0,98.506,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,MEDIUM,9.0,9.0,1.0,98.578,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,MEDIUM,10.0,10.0,1.0,99.012,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,MEDIUM,11.0,11.0,1.0,99.069,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,MEDIUM,12.0,12.0,1.0,99.213,True,,12
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,MEDIUM,13.0,13.0,1.0,99.156,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,MEDIUM,14.0,14.0,1.0,123.597,False,,167
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,MEDIUM,15.0,15.0,1.0,99.107,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,MEDIUM,16.0,16.0,1.0,99.226,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,MEDIUM,17.0,17.0,1.0,101.24,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,18.0,1.0,2.0,118.123,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,19.0,2.0,2.0,96.689,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,20.0,3.0,2.0,97.776,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,21.0,4.0,2.0,97.553,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,22.0,5.0,2.0,97.646,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,23.0,6.0,2.0,98.064,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,24.0,7.0,2.0,98.137,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,25.0,8.0,2.0,98.372,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,26.0,9.0,2.0,98.793,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,27.0,10.0,2.0,97.402,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,28.0,11.0,2.0,98.019,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,29.0,12.0,2.0,97.757,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,30.0,13.0,2.0,98.037,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,31.0,14.0,2.0,97.7,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,32.0,15.0,2.0,98.445,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,33.0,16.0,2.0,97.952,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,34.0,17.0,2.0,98.003,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,35.0,18.0,2.0,97.86,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,36.0,19.0,2.0,100.106,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,37.0,1.0,3.0,116.781,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,38.0,2.0,3.0,96.003,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,39.0,3.0,3.0,95.972,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,40.0,4.0,3.0,95.247,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,41.0,5.0,3.0,95.823,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,42.0,6.0,3.0,95.844,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,43.0,7.0,3.0,96.052,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,44.0,8.0,3.0,96.059,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,45.0,9.0,3.0,96.078,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,46.0,10.0,3.0,96.378,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,47.0,11.0,3.0,96.411,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,48.0,12.0,3.0,96.587,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,49.0,13.0,3.0,97.728,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,50.0,14.0,3.0,96.942,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,51.0,15.0,3.0,96.741,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,52.0,16.0,3.0,96.71,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,NOR,Lando Norris,4,McLaren,HARD,53.0,17.0,3.0,96.755,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,1.0,1.0,1.0,124.94,False,,124
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,5.0,5.0,1.0,98.676,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,6.0,6.0,1.0,98.82,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,7.0,7.0,1.0,98.787,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,8.0,8.0,1.0,98.876,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,9.0,9.0,1.0,99.15,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,10.0,10.0,1.0,99.231,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,11.0,11.0,1.0,99.333,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,12.0,12.0,1.0,99.715,True,,12
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,13.0,13.0,1.0,101.4,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,14.0,1.0,2.0,133.847,False,,167
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,15.0,2.0,2.0,98.405,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,16.0,3.0,2.0,98.44,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,17.0,4.0,2.0,98.669,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,18.0,5.0,2.0,98.622,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,19.0,6.0,2.0,98.574,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,20.0,7.0,2.0,98.706,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,21.0,8.0,2.0,98.263,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,22.0,9.0,2.0,98.265,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,23.0,10.0,2.0,98.732,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,24.0,11.0,2.0,99.112,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,25.0,12.0,2.0,98.541,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,26.0,13.0,2.0,98.935,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,27.0,14.0,2.0,99.779,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,28.0,15.0,2.0,98.697,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,29.0,16.0,2.0,98.698,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,30.0,17.0,2.0,98.557,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,31.0,18.0,2.0,98.621,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,32.0,19.0,2.0,98.458,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,33.0,20.0,2.0,98.506,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,34.0,21.0,2.0,98.117,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,35.0,22.0,2.0,100.575,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,36.0,1.0,3.0,117.096,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,37.0,2.0,3.0,96.632,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,38.0,3.0,3.0,96.328,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,39.0,4.0,3.0,96.597,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,40.0,5.0,3.0,96.741,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,41.0,6.0,3.0,97.882,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,42.0,7.0,3.0,96.848,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,43.0,8.0,3.0,97.251,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,44.0,9.0,3.0,97.843,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,45.0,10.0,3.0,97.296,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,46.0,11.0,3.0,96.459,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,47.0,12.0,3.0,96.704,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,48.0,13.0,3.0,96.88,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,49.0,14.0,3.0,97.117,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,50.0,15.0,3.0,97.131,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,51.0,16.0,3.0,97.231,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,52.0,17.0,3.0,97.795,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PIA,Oscar Piastri,81,McLaren,HARD,53.0,18.0,3.0,97.017,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,1.0,1.0,1.0,126.863,False,,124
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,5.0,5.0,1.0,98.805,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,6.0,6.0,1.0,98.924,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,7.0,7.0,1.0,99.093,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,8.0,8.0,1.0,99.086,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,9.0,9.0,1.0,99.083,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,10.0,10.0,1.0,99.31,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,11.0,11.0,1.0,99.562,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,12.0,12.0,1.0,99.641,True,,12
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,13.0,13.0,1.0,99.375,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,14.0,14.0,1.0,118.712,False,,167
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,15.0,15.0,1.0,99.479,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,16.0,16.0,1.0,99.648,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,17.0,17.0,1.0,101.825,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,18.0,1.0,2.0,117.256,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,19.0,2.0,2.0,98.574,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,20.0,3.0,2.0,98.169,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,21.0,4.0,2.0,98.166,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,22.0,5.0,2.0,97.945,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,23.0,6.0,2.0,98.005,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,24.0,7.0,2.0,97.88,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,25.0,8.0,2.0,98.12,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,26.0,9.0,2.0,98.385,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,27.0,10.0,2.0,99.317,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,28.0,11.0,2.0,98.586,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,29.0,12.0,2.0,98.523,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,30.0,13.0,2.0,98.476,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,31.0,14.0,2.0,98.889,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,32.0,15.0,2.0,98.661,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,33.0,16.0,2.0,98.703,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,34.0,17.0,2.0,101.129,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,HARD,35.0,1.0,3.0,115.831,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,HARD,36.0,2.0,3.0,96.781,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,HARD,37.0,3.0,3.0,96.891,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,HARD,38.0,4.0,3.0,96.493,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,HARD,39.0,5.0,3.0,96.672,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,HARD,40.0,6.0,3.0,96.362,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,HARD,41.0,7.0,3.0,96.921,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,HARD,42.0,8.0,3.0,97.355,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,HARD,43.0,9.0,3.0,98.056,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,HARD,44.0,10.0,3.0,98.401,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,HARD,45.0,11.0,3.0,97.234,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,HARD,46.0,12.0,3.0,97.196,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,HARD,47.0,13.0,3.0,97.34,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,HARD,48.0,14.0,3.0,97.518,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,HARD,49.0,15.0,3.0,97.608,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,HARD,50.0,16.0,3.0,97.604,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,HARD,51.0,17.0,3.0,97.563,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,HARD,52.0,18.0,3.0,97.773,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LEC,Charles Leclerc,16,Ferrari,HARD,53.0,19.0,3.0,98.049,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,1.0,1.0,1.0,131.543,False,,124
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,5.0,5.0,1.0,100.176,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,6.0,6.0,1.0,98.786,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,7.0,7.0,1.0,99.274,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,8.0,8.0,1.0,99.077,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,9.0,9.0,1.0,99.706,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,10.0,10.0,1.0,99.952,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,11.0,11.0,1.0,99.65,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,12.0,12.0,1.0,99.129,True,,12
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,13.0,13.0,1.0,99.532,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,14.0,14.0,1.0,118.763,False,,167
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,15.0,15.0,1.0,99.055,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,16.0,16.0,1.0,103.793,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,17.0,1.0,2.0,119.054,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,18.0,2.0,2.0,97.489,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,19.0,3.0,2.0,97.878,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,20.0,4.0,2.0,98.519,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,21.0,5.0,2.0,99.752,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,22.0,6.0,2.0,98.12,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,23.0,7.0,2.0,98.568,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,24.0,8.0,2.0,98.225,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,25.0,9.0,2.0,97.905,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,26.0,10.0,2.0,98.296,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,27.0,11.0,2.0,98.337,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,28.0,12.0,2.0,98.665,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,29.0,13.0,2.0,98.542,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,30.0,14.0,2.0,98.333,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,31.0,15.0,2.0,98.866,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,32.0,16.0,2.0,98.605,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,33.0,17.0,2.0,98.377,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,34.0,18.0,2.0,100.853,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,35.0,1.0,3.0,115.716,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,36.0,2.0,3.0,95.611,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,37.0,3.0,3.0,96.182,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,38.0,4.0,3.0,96.736,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,39.0,5.0,3.0,96.509,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,40.0,6.0,3.0,97.118,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,41.0,7.0,3.0,97.243,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,42.0,8.0,3.0,97.47,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,43.0,9.0,3.0,97.293,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,44.0,10.0,3.0,97.265,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,45.0,11.0,3.0,97.217,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,46.0,12.0,3.0,97.999,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,47.0,13.0,3.0,98.451,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,48.0,14.0,3.0,98.416,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,49.0,15.0,3.0,98.74,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,50.0,16.0,3.0,97.417,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,51.0,17.0,3.0,97.531,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,52.0,18.0,3.0,97.352,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HAM,Lewis Hamilton,44,Mercedes,HARD,53.0,19.0,3.0,97.353,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,1.0,1.0,1.0,127.963,False,,124
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,5.0,5.0,1.0,98.962,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,6.0,6.0,1.0,99.17,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,7.0,7.0,1.0,99.189,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,8.0,8.0,1.0,99.108,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,9.0,9.0,1.0,99.168,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,10.0,10.0,1.0,99.441,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,11.0,11.0,1.0,99.677,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,12.0,12.0,1.0,99.614,True,,12
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,13.0,13.0,1.0,99.579,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,14.0,14.0,1.0,118.683,False,,167
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,15.0,15.0,1.0,99.398,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,16.0,16.0,1.0,99.513,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,17.0,17.0,1.0,99.548,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,18.0,18.0,1.0,101.804,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,19.0,1.0,2.0,117.366,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,20.0,2.0,2.0,99.188,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,21.0,3.0,2.0,97.987,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,22.0,4.0,2.0,97.879,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,23.0,5.0,2.0,97.859,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,24.0,6.0,2.0,97.889,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,25.0,7.0,2.0,97.753,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,26.0,8.0,2.0,98.177,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,27.0,9.0,2.0,98.819,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,28.0,10.0,2.0,98.681,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,29.0,11.0,2.0,98.537,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,30.0,12.0,2.0,98.715,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,31.0,13.0,2.0,98.716,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,32.0,14.0,2.0,98.726,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,33.0,15.0,2.0,98.634,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,34.0,16.0,2.0,98.588,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,35.0,17.0,2.0,98.702,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,36.0,18.0,2.0,98.452,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,37.0,19.0,2.0,99.098,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,38.0,20.0,2.0,101.42,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,HARD,39.0,1.0,3.0,116.164,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,HARD,40.0,2.0,3.0,96.187,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,HARD,41.0,3.0,3.0,96.364,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,HARD,42.0,4.0,3.0,96.378,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,HARD,43.0,5.0,3.0,96.677,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,HARD,44.0,6.0,3.0,96.724,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,HARD,45.0,7.0,3.0,96.798,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,HARD,46.0,8.0,3.0,96.783,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,HARD,47.0,9.0,3.0,97.516,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,HARD,48.0,10.0,3.0,98.346,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,HARD,49.0,11.0,3.0,99.668,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,HARD,50.0,12.0,3.0,97.349,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,HARD,51.0,13.0,3.0,97.118,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,HARD,52.0,14.0,3.0,97.389,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAI,Carlos Sainz,55,Ferrari,HARD,53.0,15.0,3.0,97.259,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,MEDIUM,1.0,1.0,1.0,134.167,False,,124
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,MEDIUM,5.0,5.0,1.0,99.465,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,MEDIUM,6.0,6.0,1.0,99.518,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,MEDIUM,7.0,7.0,1.0,99.582,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,MEDIUM,8.0,8.0,1.0,99.672,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,MEDIUM,9.0,9.0,1.0,99.767,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,MEDIUM,10.0,10.0,1.0,99.894,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,MEDIUM,11.0,11.0,1.0,100.012,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,MEDIUM,12.0,12.0,1.0,99.236,True,,12
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,MEDIUM,13.0,13.0,1.0,99.213,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,MEDIUM,14.0,14.0,1.0,118.599,False,,167
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,MEDIUM,15.0,15.0,1.0,98.768,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,MEDIUM,16.0,16.0,1.0,100.5,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,MEDIUM,17.0,17.0,1.0,99.13,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,MEDIUM,18.0,18.0,1.0,99.553,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,MEDIUM,19.0,19.0,1.0,100.016,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,MEDIUM,20.0,20.0,1.0,99.419,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,MEDIUM,21.0,21.0,1.0,99.559,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,MEDIUM,22.0,22.0,1.0,99.565,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,MEDIUM,23.0,23.0,1.0,99.439,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,MEDIUM,24.0,24.0,1.0,101.402,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,25.0,1.0,2.0,118.114,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,26.0,2.0,2.0,98.014,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,27.0,3.0,2.0,97.653,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,28.0,4.0,2.0,97.678,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,29.0,5.0,2.0,97.841,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,30.0,6.0,2.0,97.951,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,31.0,7.0,2.0,98.002,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,32.0,8.0,2.0,98.196,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,33.0,9.0,2.0,98.129,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,34.0,10.0,2.0,98.097,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,35.0,11.0,2.0,98.197,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,36.0,12.0,2.0,97.997,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,37.0,13.0,2.0,98.48,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,38.0,14.0,2.0,99.043,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,39.0,15.0,2.0,98.016,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,40.0,16.0,2.0,97.692,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,41.0,17.0,2.0,98.022,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,42.0,18.0,2.0,98.579,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,43.0,19.0,2.0,98.1,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,44.0,20.0,2.0,98.454,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,45.0,21.0,2.0,99.238,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,46.0,22.0,2.0,98.44,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,47.0,23.0,2.0,98.739,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,48.0,24.0,2.0,98.356,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,49.0,25.0,2.0,100.592,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,50.0,26.0,2.0,99.679,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,51.0,27.0,2.0,99.071,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,52.0,28.0,2.0,99.055,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,RUS,George Russell,63,Mercedes,HARD,53.0,29.0,2.0,98.88,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,1.0,4.0,1.0,129.194,False,,124
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,5.0,8.0,1.0,99.508,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,6.0,9.0,1.0,99.488,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,7.0,10.0,1.0,99.138,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,8.0,11.0,1.0,99.15,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,9.0,12.0,1.0,99.884,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,10.0,13.0,1.0,99.697,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,11.0,14.0,1.0,102.32,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,12.0,1.0,2.0,118.522,False,,12
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,13.0,2.0,2.0,104.729,False,,16
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,14.0,3.0,2.0,112.044,False,,671
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,15.0,4.0,2.0,98.126,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,16.0,5.0,2.0,98.651,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,17.0,6.0,2.0,98.412,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,18.0,7.0,2.0,99.263,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,19.0,8.0,2.0,100.092,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,20.0,9.0,2.0,101.133,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,21.0,10.0,2.0,101.105,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,22.0,11.0,2.0,100.041,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,23.0,12.0,2.0,101.023,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,24.0,13.0,2.0,99.754,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,25.0,14.0,2.0,103.68,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,26.0,1.0,3.0,116.635,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,27.0,2.0,3.0,97.308,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,28.0,3.0,3.0,97.203,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,29.0,4.0,3.0,98.749,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,30.0,5.0,3.0,97.273,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,31.0,6.0,3.0,97.582,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,32.0,7.0,3.0,97.628,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,33.0,8.0,3.0,97.335,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,34.0,9.0,3.0,97.461,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,35.0,10.0,3.0,98.27,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,36.0,11.0,3.0,98.009,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,37.0,12.0,3.0,98.139,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,38.0,13.0,3.0,98.0,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,39.0,14.0,3.0,98.036,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,40.0,15.0,3.0,98.059,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,41.0,16.0,3.0,98.182,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,42.0,17.0,3.0,98.357,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,43.0,18.0,3.0,98.413,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,44.0,19.0,3.0,98.699,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,45.0,20.0,3.0,98.432,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,46.0,21.0,3.0,98.413,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,47.0,22.0,3.0,98.637,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,48.0,23.0,3.0,98.406,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,49.0,24.0,3.0,98.809,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,50.0,25.0,3.0,99.155,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,51.0,26.0,3.0,99.221,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,52.0,27.0,3.0,99.232,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALO,Fernando Alonso,14,Aston Martin,HARD,53.0,28.0,3.0,99.65,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,1.0,1.0,1.0,161.813,False,,124
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,2.0,1.0,2.0,144.519,False,,4
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,5.0,4.0,2.0,100.016,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,6.0,5.0,2.0,100.478,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,7.0,6.0,2.0,100.535,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,8.0,7.0,2.0,100.401,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,9.0,8.0,2.0,100.497,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,10.0,9.0,2.0,100.689,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,11.0,10.0,2.0,99.825,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,12.0,11.0,2.0,100.552,True,,12
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,13.0,12.0,2.0,107.894,False,,16
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,14.0,13.0,2.0,111.462,False,,671
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,15.0,14.0,2.0,99.631,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,16.0,15.0,2.0,100.029,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,17.0,16.0,2.0,99.924,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,18.0,17.0,2.0,100.746,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,19.0,18.0,2.0,100.621,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,20.0,19.0,2.0,100.417,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,21.0,20.0,2.0,100.916,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,22.0,21.0,2.0,100.942,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,23.0,22.0,2.0,100.263,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,24.0,23.0,2.0,100.477,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,25.0,24.0,2.0,101.252,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,26.0,25.0,2.0,100.552,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,27.0,26.0,2.0,100.489,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,28.0,27.0,2.0,102.901,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,29.0,1.0,3.0,117.871,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,30.0,2.0,3.0,97.572,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,31.0,3.0,3.0,97.978,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,32.0,4.0,3.0,97.833,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,33.0,5.0,3.0,97.853,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,34.0,6.0,3.0,97.398,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,35.0,7.0,3.0,97.848,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,36.0,8.0,3.0,97.616,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,37.0,9.0,3.0,98.094,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,38.0,10.0,3.0,97.88,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,39.0,11.0,3.0,98.026,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,40.0,12.0,3.0,97.904,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,41.0,13.0,3.0,97.773,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,42.0,14.0,3.0,97.82,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,43.0,15.0,3.0,97.793,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,44.0,16.0,3.0,98.316,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,45.0,17.0,3.0,98.198,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,46.0,18.0,3.0,100.776,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,47.0,19.0,3.0,98.758,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,48.0,20.0,3.0,98.392,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,49.0,21.0,3.0,98.381,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,50.0,22.0,3.0,98.33,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,51.0,23.0,3.0,98.386,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,52.0,24.0,3.0,98.045,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,OCO,Esteban Ocon,31,Alpine,HARD,53.0,25.0,3.0,98.292,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,1.0,1.0,1.0,142.428,False,,124
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,5.0,5.0,1.0,100.27,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,6.0,6.0,1.0,100.284,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,7.0,7.0,1.0,100.154,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,8.0,8.0,1.0,100.256,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,9.0,9.0,1.0,99.96,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,10.0,10.0,1.0,100.248,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,11.0,11.0,1.0,100.283,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,12.0,12.0,1.0,100.335,True,,12
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,13.0,13.0,1.0,103.153,False,,16
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,14.0,14.0,1.0,115.777,False,,671
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,15.0,15.0,1.0,100.886,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,16.0,16.0,1.0,100.451,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,17.0,17.0,1.0,100.032,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,18.0,18.0,1.0,102.948,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,19.0,1.0,2.0,119.628,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,20.0,2.0,2.0,97.279,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,21.0,3.0,2.0,100.098,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,22.0,4.0,2.0,98.181,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,23.0,5.0,2.0,98.656,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,24.0,6.0,2.0,98.243,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,25.0,7.0,2.0,99.012,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,26.0,8.0,2.0,98.692,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,27.0,9.0,2.0,98.607,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,28.0,10.0,2.0,98.858,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,29.0,11.0,2.0,99.041,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,30.0,12.0,2.0,98.819,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,31.0,13.0,2.0,98.826,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,32.0,14.0,2.0,98.894,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,33.0,15.0,2.0,98.849,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,34.0,16.0,2.0,101.378,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,35.0,1.0,3.0,118.774,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,36.0,2.0,3.0,96.371,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,37.0,3.0,3.0,97.0,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,38.0,4.0,3.0,97.203,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,39.0,5.0,3.0,96.98,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,40.0,6.0,3.0,96.96,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,41.0,7.0,3.0,97.249,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,42.0,8.0,3.0,97.2,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,43.0,9.0,3.0,97.551,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,44.0,10.0,3.0,97.733,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,45.0,11.0,3.0,97.792,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,46.0,12.0,3.0,97.761,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,47.0,13.0,3.0,98.066,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,48.0,14.0,3.0,98.134,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,49.0,15.0,3.0,97.977,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,50.0,16.0,3.0,98.149,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,51.0,17.0,3.0,97.949,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,52.0,18.0,3.0,98.242,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,GAS,Pierre Gasly,10,Alpine,HARD,53.0,19.0,3.0,104.267,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,SOFT,1.0,1.0,1.0,136.7,False,,124
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,SOFT,5.0,5.0,1.0,99.472,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,SOFT,6.0,6.0,1.0,99.925,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,SOFT,7.0,7.0,1.0,99.949,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,SOFT,8.0,8.0,1.0,99.811,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,SOFT,9.0,9.0,1.0,100.245,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,SOFT,10.0,10.0,1.0,102.431,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,11.0,1.0,2.0,118.568,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,12.0,2.0,2.0,99.212,True,,12
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,13.0,3.0,2.0,108.962,False,,16
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,14.0,4.0,2.0,110.559,False,,671
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,15.0,5.0,2.0,99.871,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,16.0,6.0,2.0,99.715,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,17.0,7.0,2.0,100.392,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,18.0,8.0,2.0,100.279,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,19.0,9.0,2.0,100.178,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,20.0,10.0,2.0,100.586,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,21.0,11.0,2.0,101.015,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,22.0,12.0,2.0,100.809,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,23.0,13.0,2.0,101.565,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,24.0,14.0,2.0,100.596,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,25.0,15.0,2.0,102.855,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,26.0,1.0,3.0,118.827,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,27.0,2.0,3.0,98.667,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,28.0,3.0,3.0,98.832,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,29.0,4.0,3.0,99.124,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,30.0,5.0,3.0,98.819,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,31.0,6.0,3.0,99.327,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,32.0,7.0,3.0,98.802,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,33.0,8.0,3.0,98.642,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,34.0,9.0,3.0,98.397,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,35.0,10.0,3.0,98.369,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,36.0,11.0,3.0,98.268,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,37.0,12.0,3.0,98.489,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,38.0,13.0,3.0,98.343,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,39.0,14.0,3.0,98.478,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,40.0,15.0,3.0,98.423,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,41.0,16.0,3.0,98.512,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,42.0,17.0,3.0,98.643,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,43.0,18.0,3.0,98.696,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,44.0,19.0,3.0,98.8,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,45.0,20.0,3.0,98.583,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,46.0,21.0,3.0,98.663,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,47.0,22.0,3.0,98.665,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,48.0,23.0,3.0,98.673,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,49.0,24.0,3.0,98.348,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,50.0,25.0,3.0,98.267,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,51.0,26.0,3.0,98.515,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,LAW,Liam Lawson,40,AlphaTauri,HARD,52.0,27.0,3.0,100.389,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,1.0,4.0,1.0,138.243,False,,124
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,5.0,8.0,1.0,100.385,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,6.0,9.0,1.0,99.966,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,7.0,10.0,1.0,99.941,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,8.0,11.0,1.0,100.115,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,9.0,12.0,1.0,102.396,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,10.0,1.0,2.0,117.38,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,11.0,2.0,2.0,98.737,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,12.0,3.0,2.0,99.473,True,,12
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,13.0,4.0,2.0,107.276,False,,16
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,14.0,5.0,2.0,111.573,False,,671
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,15.0,6.0,2.0,99.684,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,16.0,7.0,2.0,99.874,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,17.0,8.0,2.0,100.664,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,18.0,9.0,2.0,100.142,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,19.0,10.0,2.0,100.216,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,20.0,11.0,2.0,100.487,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,21.0,12.0,2.0,100.492,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,22.0,13.0,2.0,100.651,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,23.0,14.0,2.0,100.761,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,24.0,15.0,2.0,101.239,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,25.0,16.0,2.0,100.349,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,26.0,17.0,2.0,100.672,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,27.0,18.0,2.0,100.486,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,28.0,19.0,2.0,100.578,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,29.0,20.0,2.0,101.219,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,30.0,21.0,2.0,102.697,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,31.0,1.0,3.0,118.908,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,32.0,2.0,3.0,97.853,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,33.0,3.0,3.0,98.093,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,34.0,4.0,3.0,97.898,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,35.0,5.0,3.0,97.977,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,36.0,6.0,3.0,97.768,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,37.0,7.0,3.0,98.013,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,38.0,8.0,3.0,97.816,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,39.0,9.0,3.0,98.097,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,40.0,10.0,3.0,97.92,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,41.0,11.0,3.0,98.218,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,42.0,12.0,3.0,98.419,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,43.0,13.0,3.0,98.768,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,44.0,14.0,3.0,98.51,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,45.0,15.0,3.0,98.538,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,46.0,16.0,3.0,98.683,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,47.0,17.0,3.0,98.604,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,48.0,18.0,3.0,98.687,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,49.0,19.0,3.0,98.499,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,50.0,20.0,3.0,98.264,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,51.0,21.0,3.0,99.867,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,52.0,22.0,3.0,99.1,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,1.0,1.0,1.0,150.466,False,,124
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,5.0,4.0,2.0,100.207,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,6.0,5.0,2.0,101.337,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,7.0,6.0,2.0,101.028,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,8.0,7.0,2.0,100.729,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,9.0,8.0,2.0,100.915,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,10.0,9.0,2.0,103.013,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,11.0,1.0,3.0,118.22,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,12.0,2.0,3.0,99.205,True,,12
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,13.0,3.0,3.0,110.341,False,,16
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,14.0,4.0,3.0,108.905,False,,671
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,15.0,5.0,3.0,99.106,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,16.0,6.0,3.0,100.159,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,17.0,7.0,3.0,99.867,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,18.0,8.0,3.0,100.016,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,19.0,9.0,3.0,99.809,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,20.0,10.0,3.0,100.741,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,21.0,11.0,3.0,100.625,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,22.0,12.0,3.0,100.415,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,23.0,13.0,3.0,100.134,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,24.0,14.0,3.0,99.971,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,25.0,15.0,3.0,99.999,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,26.0,16.0,3.0,100.423,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,27.0,17.0,3.0,100.822,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,28.0,18.0,3.0,100.264,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,29.0,19.0,3.0,102.733,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,30.0,1.0,4.0,118.128,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,31.0,2.0,4.0,98.278,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,32.0,3.0,4.0,98.465,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,33.0,4.0,4.0,98.643,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,34.0,5.0,4.0,98.649,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,35.0,6.0,4.0,98.641,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,36.0,7.0,4.0,98.255,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,37.0,8.0,4.0,98.43,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,38.0,9.0,4.0,98.211,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,39.0,10.0,4.0,97.992,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,40.0,11.0,4.0,98.332,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,41.0,12.0,4.0,98.191,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,42.0,13.0,4.0,97.906,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,43.0,14.0,4.0,98.213,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,44.0,15.0,4.0,98.202,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,45.0,16.0,4.0,97.791,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,46.0,17.0,4.0,98.264,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,47.0,18.0,4.0,98.232,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,48.0,19.0,4.0,98.585,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,49.0,20.0,4.0,99.73,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,50.0,21.0,4.0,98.098,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,51.0,22.0,4.0,98.444,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,52.0,23.0,4.0,98.513,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,SOFT,1.0,1.0,1.0,141.615,False,,124
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,SOFT,5.0,5.0,1.0,100.552,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,SOFT,6.0,6.0,1.0,100.114,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,SOFT,7.0,7.0,1.0,100.209,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,SOFT,8.0,8.0,1.0,102.501,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,9.0,1.0,2.0,119.085,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,10.0,2.0,2.0,98.724,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,11.0,3.0,2.0,99.849,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,12.0,4.0,2.0,100.196,True,,12
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,13.0,5.0,2.0,108.186,False,,16
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,14.0,6.0,2.0,110.866,False,,671
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,15.0,7.0,2.0,99.628,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,16.0,8.0,2.0,99.635,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,17.0,9.0,2.0,100.133,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,18.0,10.0,2.0,101.398,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,19.0,11.0,2.0,100.325,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,20.0,12.0,2.0,100.577,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,21.0,13.0,2.0,102.637,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,22.0,1.0,3.0,120.084,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,23.0,2.0,3.0,99.327,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,24.0,3.0,3.0,98.328,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,25.0,4.0,3.0,98.587,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,26.0,5.0,3.0,98.418,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,27.0,6.0,3.0,98.322,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,28.0,7.0,3.0,98.809,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,29.0,8.0,3.0,98.541,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,30.0,9.0,3.0,98.623,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,31.0,10.0,3.0,99.032,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,32.0,11.0,3.0,98.492,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,33.0,12.0,3.0,98.55,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,34.0,13.0,3.0,98.661,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,35.0,14.0,3.0,99.028,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,36.0,15.0,3.0,99.961,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,37.0,16.0,3.0,101.42,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,38.0,1.0,4.0,118.934,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,39.0,2.0,4.0,98.39,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,40.0,3.0,4.0,97.656,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,41.0,4.0,4.0,97.395,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,42.0,5.0,4.0,97.309,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,43.0,6.0,4.0,97.445,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,44.0,7.0,4.0,97.25,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,45.0,8.0,4.0,99.136,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,46.0,9.0,4.0,97.811,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,47.0,10.0,4.0,97.628,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,48.0,11.0,4.0,97.86,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,49.0,12.0,4.0,97.713,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,50.0,13.0,4.0,97.655,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,51.0,14.0,4.0,97.744,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,52.0,15.0,4.0,97.929,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,1.0,1.0,1.0,143.466,False,,124
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,5.0,5.0,1.0,100.348,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,6.0,6.0,1.0,100.367,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,7.0,7.0,1.0,100.571,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,8.0,8.0,1.0,100.534,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,9.0,9.0,1.0,100.318,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,10.0,10.0,1.0,100.956,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,11.0,11.0,1.0,101.042,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,12.0,12.0,1.0,122.936,False,,12
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,13.0,1.0,2.0,138.051,False,,167
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,14.0,2.0,2.0,100.56,False,,71
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,15.0,3.0,2.0,98.373,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,16.0,4.0,2.0,99.064,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,17.0,5.0,2.0,99.208,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,18.0,6.0,2.0,99.285,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,19.0,7.0,2.0,99.437,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,20.0,8.0,2.0,99.268,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,21.0,9.0,2.0,99.634,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,22.0,10.0,2.0,99.755,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,23.0,11.0,2.0,99.53,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,24.0,12.0,2.0,99.841,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,25.0,13.0,2.0,99.501,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,26.0,14.0,2.0,100.681,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,27.0,15.0,2.0,99.656,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,28.0,16.0,2.0,100.279,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,29.0,17.0,2.0,100.344,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,30.0,18.0,2.0,101.122,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,31.0,19.0,2.0,102.504,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,32.0,1.0,3.0,118.476,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,33.0,2.0,3.0,98.277,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,34.0,3.0,3.0,98.264,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,35.0,4.0,3.0,98.677,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,36.0,5.0,3.0,98.018,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,37.0,6.0,3.0,98.172,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,38.0,7.0,3.0,98.221,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,39.0,8.0,3.0,98.005,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,40.0,9.0,3.0,97.958,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,41.0,10.0,3.0,97.842,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,42.0,11.0,3.0,99.229,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,43.0,12.0,3.0,98.206,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,44.0,13.0,3.0,98.066,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,45.0,14.0,3.0,98.507,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,46.0,15.0,3.0,98.898,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,47.0,16.0,3.0,98.802,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,48.0,17.0,3.0,102.684,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,49.0,18.0,3.0,99.439,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,50.0,19.0,3.0,98.9,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,51.0,20.0,3.0,98.892,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,52.0,21.0,3.0,98.628,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALB,Alexander Albon,23,Williams,MEDIUM,1.0,1.0,1.0,145.855,False,,124
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALB,Alexander Albon,23,Williams,MEDIUM,5.0,4.0,2.0,101.436,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALB,Alexander Albon,23,Williams,MEDIUM,6.0,5.0,2.0,101.273,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALB,Alexander Albon,23,Williams,MEDIUM,7.0,6.0,2.0,100.904,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALB,Alexander Albon,23,Williams,MEDIUM,8.0,7.0,2.0,101.168,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALB,Alexander Albon,23,Williams,MEDIUM,9.0,8.0,2.0,100.764,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALB,Alexander Albon,23,Williams,MEDIUM,10.0,9.0,2.0,100.45,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALB,Alexander Albon,23,Williams,MEDIUM,11.0,10.0,2.0,101.14,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALB,Alexander Albon,23,Williams,MEDIUM,12.0,11.0,2.0,102.28,True,,12
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALB,Alexander Albon,23,Williams,MEDIUM,13.0,12.0,2.0,110.904,False,,16
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALB,Alexander Albon,23,Williams,SOFT,14.0,1.0,3.0,148.318,False,,671
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALB,Alexander Albon,23,Williams,SOFT,15.0,2.0,3.0,99.185,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALB,Alexander Albon,23,Williams,SOFT,16.0,3.0,3.0,99.549,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALB,Alexander Albon,23,Williams,SOFT,17.0,4.0,3.0,99.93,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALB,Alexander Albon,23,Williams,SOFT,18.0,5.0,3.0,100.339,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALB,Alexander Albon,23,Williams,SOFT,19.0,6.0,3.0,99.872,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALB,Alexander Albon,23,Williams,SOFT,20.0,7.0,3.0,100.098,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALB,Alexander Albon,23,Williams,SOFT,21.0,8.0,3.0,100.421,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALB,Alexander Albon,23,Williams,SOFT,22.0,9.0,3.0,100.071,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALB,Alexander Albon,23,Williams,SOFT,23.0,10.0,3.0,99.919,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALB,Alexander Albon,23,Williams,SOFT,24.0,11.0,3.0,100.147,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALB,Alexander Albon,23,Williams,SOFT,25.0,12.0,3.0,100.286,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,ALB,Alexander Albon,23,Williams,SOFT,26.0,13.0,3.0,108.437,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAR,Logan Sargeant,2,Williams,MEDIUM,1.0,1.0,1.0,144.824,False,,124
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAR,Logan Sargeant,2,Williams,MEDIUM,5.0,5.0,2.0,104.961,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAR,Logan Sargeant,2,Williams,MEDIUM,6.0,1.0,3.0,139.442,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAR,Logan Sargeant,2,Williams,MEDIUM,7.0,2.0,3.0,98.848,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAR,Logan Sargeant,2,Williams,MEDIUM,8.0,3.0,3.0,99.721,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAR,Logan Sargeant,2,Williams,MEDIUM,9.0,4.0,3.0,100.317,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAR,Logan Sargeant,2,Williams,MEDIUM,10.0,5.0,3.0,100.619,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAR,Logan Sargeant,2,Williams,MEDIUM,11.0,6.0,3.0,101.063,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAR,Logan Sargeant,2,Williams,MEDIUM,12.0,7.0,3.0,100.716,True,,12
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAR,Logan Sargeant,2,Williams,MEDIUM,13.0,8.0,3.0,119.577,False,,167
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAR,Logan Sargeant,2,Williams,MEDIUM,14.0,9.0,3.0,104.171,False,,71
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAR,Logan Sargeant,2,Williams,MEDIUM,15.0,10.0,3.0,100.853,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAR,Logan Sargeant,2,Williams,MEDIUM,16.0,11.0,3.0,100.472,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAR,Logan Sargeant,2,Williams,MEDIUM,17.0,12.0,3.0,100.746,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAR,Logan Sargeant,2,Williams,MEDIUM,18.0,13.0,3.0,100.568,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAR,Logan Sargeant,2,Williams,MEDIUM,19.0,14.0,3.0,100.463,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAR,Logan Sargeant,2,Williams,MEDIUM,20.0,15.0,3.0,101.168,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAR,Logan Sargeant,2,Williams,MEDIUM,21.0,16.0,3.0,103.371,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,SAR,Logan Sargeant,2,Williams,HARD,22.0,1.0,4.0,137.039,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,STR,Lance Stroll,18,Aston Martin,SOFT,1.0,1.0,1.0,139.493,False,,124
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,STR,Lance Stroll,18,Aston Martin,SOFT,5.0,5.0,1.0,100.379,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,STR,Lance Stroll,18,Aston Martin,SOFT,6.0,6.0,1.0,99.849,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,STR,Lance Stroll,18,Aston Martin,SOFT,7.0,7.0,1.0,100.052,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,STR,Lance Stroll,18,Aston Martin,SOFT,8.0,8.0,1.0,100.141,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,STR,Lance Stroll,18,Aston Martin,SOFT,9.0,9.0,1.0,100.376,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,STR,Lance Stroll,18,Aston Martin,SOFT,10.0,10.0,1.0,99.829,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,STR,Lance Stroll,18,Aston Martin,SOFT,11.0,11.0,1.0,100.151,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,STR,Lance Stroll,18,Aston Martin,SOFT,12.0,12.0,1.0,100.35,True,,12
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,STR,Lance Stroll,18,Aston Martin,SOFT,13.0,13.0,1.0,100.757,False,,16
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,STR,Lance Stroll,18,Aston Martin,SOFT,14.0,14.0,1.0,121.131,False,,671
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,15.0,1.0,2.0,118.13,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,16.0,2.0,2.0,99.05,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,17.0,3.0,2.0,100.082,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,18.0,4.0,2.0,99.112,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,19.0,5.0,2.0,99.551,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,20.0,6.0,2.0,103.295,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,1.0,1.0,1.0,130.824,False,,124
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PER,Sergio Perez,11,Red Bull Racing,HARD,5.0,3.0,2.0,99.985,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PER,Sergio Perez,11,Red Bull Racing,HARD,6.0,4.0,2.0,100.759,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PER,Sergio Perez,11,Red Bull Racing,HARD,7.0,5.0,2.0,100.134,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PER,Sergio Perez,11,Red Bull Racing,HARD,8.0,6.0,2.0,99.704,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PER,Sergio Perez,11,Red Bull Racing,HARD,9.0,7.0,2.0,100.466,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PER,Sergio Perez,11,Red Bull Racing,HARD,10.0,8.0,2.0,100.744,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PER,Sergio Perez,11,Red Bull Racing,HARD,11.0,9.0,2.0,100.896,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PER,Sergio Perez,11,Red Bull Racing,HARD,12.0,10.0,2.0,121.045,False,,12
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,PER,Sergio Perez,11,Red Bull Racing,SOFT,15.0,7.0,5.0,132.535,False,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,1.0,1.0,1.0,174.634,False,,124
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,3.0,2.0,2.0,140.615,False,,4
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,5.0,4.0,2.0,122.755,True,,1
+2023,16,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023,Suzuka,Japan,Suzuka,2023-09-24,53,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,6.0,5.0,2.0,106.852,False,,1

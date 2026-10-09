@@ -1,0 +1,1518 @@
+{
+  "analysis_mode": "PRE-RACE",
+  "training_cutoff_time_utc": "2024-09-01T00:00:00+00:00",
+  "selected_event_laps_used_for_training": false,
+  "training_rows": 127837,
+  "season": 2024,
+  "season_status": "historical source-available data",
+  "race": "Italian Grand Prix",
+  "official_event_name": "FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024",
+  "event_round": 16,
+  "driver": "VER",
+  "driver_name": "Max Verstappen",
+  "driver_number": "1",
+  "team": "Red Bull Racing",
+  "circuit": "Monza",
+  "location": "Monza",
+  "country": "Italy",
+  "race_date": "2024-09-01",
+  "race_distance": 53,
+  "data_coverage": {
+    "available_seasons": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "season_status": "historical source-available data",
+    "selected_race_rows": 0,
+    "selected_driver_rows": 6497,
+    "selected_season_races": 15,
+    "selected_season_drivers": 21,
+    "total_lap_rows": 127837
+  },
+  "inventory": {
+    "SOFT": 8,
+    "MEDIUM": 3,
+    "HARD": 2,
+    "INTERMEDIATE": 4,
+    "WET": 4
+  },
+  "inventory_source": "event nomination register",
+  "weather": {
+    "season": 2024,
+    "race": "Italian Grand Prix",
+    "circuit": "Monza",
+    "country": "Italy",
+    "date": "2024-09-01",
+    "condition": "DRY",
+    "impact": "LOW",
+    "temperature": null,
+    "precipitation": null,
+    "rain": null,
+    "precipitation_probability": null,
+    "wind_speed": null,
+    "wind_direction": null,
+    "dominant_weather": "User-selected scenario",
+    "source": "forecast unavailable; dry baseline assumption",
+    "weather_certainty": "LOW",
+    "reason": "DRY scenario generated from event-date forecast variables; scenario weights are heuristic and not calibrated.",
+    "hourly": []
+  },
+  "track_condition": "DRY",
+  "weather_impact": "LOW",
+  "weather_source": "forecast unavailable; dry baseline assumption",
+  "temperature": null,
+  "rain": null,
+  "precipitation": null,
+  "precipitation_probability": null,
+  "wind_speed": null,
+  "wind_direction": null,
+  "weather_reason": "DRY scenario generated from event-date forecast variables; scenario weights are heuristic and not calibrated.",
+  "recommended_strategy": {
+    "Season": 2024,
+    "Race": "Italian Grand Prix",
+    "Circuit": "Monza",
+    "Driver": "VER",
+    "Team": "Red Bull Racing",
+    "StrategyType": "1-STOP",
+    "Tyres": [
+      "MEDIUM",
+      "HARD"
+    ],
+    "Strategy": "MEDIUM → HARD",
+    "StintLengths": [
+      16,
+      37
+    ],
+    "PitLaps": [
+      16
+    ],
+    "FirstTyre": "MEDIUM",
+    "SecondTyre": "HARD",
+    "ThirdTyre": null,
+    "FourthTyre": null,
+    "PitLap1": 16,
+    "PitLap2": null,
+    "PitLap3": null,
+    "EstimatedRaceTime": 4838.432039398088,
+    "PredictedLapTimeTotal": 4816.432039398088,
+    "PitStopCost": 22.0,
+    "DegradationImpact": 21.798062564769136,
+    "WeatherAdjustment": 0.0,
+    "StrategyPenalty": 0.2066907206941004,
+    "StrategyScore": 4838.638730118782,
+    "TyreUsage": {
+      "MEDIUM": 1,
+      "HARD": 1
+    },
+    "PhysicalConstraintsSatisfied": true,
+    "MLSupportProbability": 0.5288766004859917,
+    "MLTransitionProbabilities": [
+      {
+        "HARD": 0.5288766004859917,
+        "INTERMEDIATE": 0.11107316510287024,
+        "MEDIUM": 0.2304878691793441,
+        "SOFT": 0.1295623652317937,
+        "WET": 0.0
+      }
+    ],
+    "MaxTyreAgeUtilization": 0.8222222222222222,
+    "MaxSetUtilization": 0.5
+  },
+  "strategy": "MEDIUM → HARD",
+  "strategy_type": "1-STOP",
+  "pit_laps": [
+    16
+  ],
+  "stint_lengths": [
+    16,
+    37
+  ],
+  "stints": [
+    "16 laps on MEDIUM",
+    "37 laps on HARD"
+  ],
+  "tyre_usage": {
+    "MEDIUM": 1,
+    "HARD": 1
+  },
+  "physical_constraints_satisfied": true,
+  "estimated_race_time": 4838.432039398088,
+  "first_lap_prediction": 103.05243152650309,
+  "pit_stop_cost": 22.0,
+  "degradation_impact": 21.798062564769136,
+  "weather_adjustment_seconds": 0.0,
+  "strategy_penalty": 0.2066907206941004,
+  "strategy_score": 4838.638730118782,
+  "confidence_score": 44.81256906727765,
+  "confidence_level": "LOW",
+  "confidence_factors": {
+    "historical_data_support": 15.0,
+    "lap_model_quality": 0.73,
+    "strategy_margin": 0.37,
+    "weather_certainty": 3.0,
+    "strategy_robustness": 3.07,
+    "ml_transition_support": 2.64,
+    "unsupported_wet_model_adjustment": 0.0,
+    "top_distinct_sequence_gap_seconds": 0.06
+  },
+  "ml_predicted_tyre": "HARD",
+  "ml_probabilities_fraction": {
+    "HARD": 0.5288766004859918,
+    "INTERMEDIATE": 0.11107316510287028,
+    "MEDIUM": 0.23048786917934408,
+    "SOFT": 0.12956236523179374,
+    "WET": 0.0
+  },
+  "ml_probabilities": {
+    "HARD": 52.888,
+    "INTERMEDIATE": 11.107,
+    "MEDIUM": 23.049,
+    "SOFT": 12.956,
+    "WET": 0.0
+  },
+  "ml_explanation": "The classifier supports the recommendation with P(HARD)=0.529. It does not override inventory checks.",
+  "model_metrics": {
+    "lap_time": {
+      "available": true,
+      "training_rows": 127837,
+      "evaluation_method": "temporal season holdout when multiple seasons are available; final model refit on all available data",
+      "held_out_season": 2024,
+      "MAE": 7.612442219615521,
+      "RMSE": 10.176823989864067,
+      "R2": 0.3643205534128007,
+      "baseline": {
+        "name": "training-set historical median lap time",
+        "MAE": 10.292787363090332,
+        "RMSE": 12.77326743751216,
+        "R2": -0.0014232110975014312
+      },
+      "test_rows": 16982,
+      "test_races": [
+        "Australian Grand Prix",
+        "Austrian Grand Prix",
+        "Bahrain Grand Prix",
+        "Belgian Grand Prix",
+        "British Grand Prix",
+        "Canadian Grand Prix",
+        "Chinese Grand Prix",
+        "Dutch Grand Prix",
+        "Emilia Romagna Grand Prix",
+        "Hungarian Grand Prix",
+        "Japanese Grand Prix",
+        "Miami Grand Prix",
+        "Monaco Grand Prix",
+        "Saudi Arabian Grand Prix",
+        "Spanish Grand Prix"
+      ],
+      "test_groups": 807,
+      "test_seasons": [
+        2024
+      ]
+    },
+    "pit_stop": {
+      "available": true,
+      "training_rows": 3717,
+      "classes": [
+        "HARD",
+        "INTERMEDIATE",
+        "MEDIUM",
+        "SOFT",
+        "WET"
+      ],
+      "evaluation_method": "temporal season holdout; final model refit on all available data",
+      "held_out_season": 2024,
+      "accuracy": 0.4900398406374502,
+      "baseline_accuracy": 0.5557768924302788,
+      "baseline_name": "most common training-set next tyre",
+      "confusion_matrix": [
+        [
+          144,
+          10,
+          102,
+          23,
+          0
+        ],
+        [
+          19,
+          3,
+          20,
+          0,
+          0
+        ],
+        [
+          27,
+          7,
+          72,
+          22,
+          1
+        ],
+        [
+          5,
+          11,
+          8,
+          27,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "confusion_matrix_labels": [
+        "HARD",
+        "INTERMEDIATE",
+        "MEDIUM",
+        "SOFT",
+        "WET"
+      ],
+      "test_rows": 502,
+      "test_races": [
+        "Australian Grand Prix",
+        "Austrian Grand Prix",
+        "Bahrain Grand Prix",
+        "Belgian Grand Prix",
+        "British Grand Prix",
+        "Canadian Grand Prix",
+        "Chinese Grand Prix",
+        "Dutch Grand Prix",
+        "Emilia Romagna Grand Prix",
+        "Hungarian Grand Prix",
+        "Japanese Grand Prix",
+        "Miami Grand Prix",
+        "Monaco Grand Prix",
+        "Saudi Arabian Grand Prix",
+        "Spanish Grand Prix"
+      ],
+      "test_seasons": [
+        "2024"
+      ]
+    }
+  },
+  "lap_prediction_sources": {
+    "SOFT": "Random Forest + historical tyre profile",
+    "MEDIUM": "Random Forest + historical tyre profile",
+    "HARD": "Random Forest + historical tyre profile",
+    "INTERMEDIATE": "Random Forest + historical tyre profile",
+    "WET": "Random Forest + historical tyre profile"
+  },
+  "tyre_performance": [
+    {
+      "Compound": "SOFT",
+      "DataPoints": 21913,
+      "CompoundOffset": 0.318499999999986,
+      "OffsetSource": "historical",
+      "DegradationRate": 0.045297297297297714,
+      "DegradationSource": "historical",
+      "StintsUsed": 397,
+      "R2": 0.17688893376157033
+    },
+    {
+      "Compound": "MEDIUM",
+      "DataPoints": 47102,
+      "CompoundOffset": 0.1735000000000042,
+      "OffsetSource": "historical",
+      "DegradationRate": 0.03527826086956536,
+      "DegradationSource": "historical",
+      "StintsUsed": 749,
+      "R2": 0.17031504087654759
+    },
+    {
+      "Compound": "HARD",
+      "DataPoints": 51771,
+      "CompoundOffset": -0.28649999999998954,
+      "OffsetSource": "historical",
+      "DegradationRate": 0.026373380270902844,
+      "DegradationSource": "historical",
+      "StintsUsed": 682,
+      "R2": 0.14594056668891792
+    },
+    {
+      "Compound": "INTERMEDIATE",
+      "DataPoints": 6418,
+      "CompoundOffset": 1.3725000000000023,
+      "OffsetSource": "historical",
+      "DegradationRate": 0.0831557601582714,
+      "DegradationSource": "historical",
+      "StintsUsed": 53,
+      "R2": 0.05595133446818579
+    },
+    {
+      "Compound": "WET",
+      "DataPoints": 633,
+      "CompoundOffset": 14.822000000000003,
+      "OffsetSource": "historical",
+      "DegradationRate": null,
+      "DegradationSource": "unavailable",
+      "StintsUsed": 1,
+      "R2": 0.008998085933399902
+    }
+  ],
+  "degradation_rates": {
+    "SOFT": 0.045297297297297714,
+    "MEDIUM": 0.03527826086956536,
+    "HARD": 0.026373380270902844,
+    "INTERMEDIATE": 0.0831557601582714,
+    "WET": 0.05
+  },
+  "strategy_comparison": [
+    {
+      "Season": 2024,
+      "Race": "Italian Grand Prix",
+      "Circuit": "Monza",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        16,
+        37
+      ],
+      "PitLaps": [
+        16
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 16,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 4838.432039398088,
+      "PredictedLapTimeTotal": 4816.432039398088,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 21.798062564769136,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.2066907206941004,
+      "StrategyScore": 4838.638730118782,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5288766004859917,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5288766004859917,
+          "INTERMEDIATE": 0.11107316510287024,
+          "MEDIUM": 0.2304878691793441,
+          "SOFT": 0.1295623652317937,
+          "WET": 0.0
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8222222222222222,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Italian Grand Prix",
+      "Circuit": "Monza",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "2-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD → HARD",
+      "StintLengths": [
+        10,
+        21,
+        22
+      ],
+      "PitLaps": [
+        10,
+        31
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": "HARD",
+      "FourthTyre": null,
+      "PitLap1": 10,
+      "PitLap2": 31.0,
+      "PitLap3": null,
+      "EstimatedRaceTime": 4869.149731420678,
+      "PredictedLapTimeTotal": 4825.149731420678,
+      "PitStopCost": 44.0,
+      "DegradationImpact": 13.218182438598594,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.3675745482953703,
+      "StrategyScore": 4869.517305968973,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 2
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.41650129058465624,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5266142794736707,
+          "INTERMEDIATE": 0.11497288058346808,
+          "MEDIUM": 0.2296125190392881,
+          "SOFT": 0.1288003209035729,
+          "WET": 0.0
+        },
+        {
+          "HARD": 0.3063883016956418,
+          "INTERMEDIATE": 0.1397933963141848,
+          "MEDIUM": 0.36316113837140473,
+          "SOFT": 0.19065716361876855,
+          "WET": 0.0
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.4888888888888889,
+      "MaxSetUtilization": 1.0
+    }
+  ],
+  "top_feasible_strategies": [
+    {
+      "Season": 2024,
+      "Race": "Italian Grand Prix",
+      "Circuit": "Monza",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        16,
+        37
+      ],
+      "PitLaps": [
+        16
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 16,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 4838.432039398088,
+      "PredictedLapTimeTotal": 4816.432039398088,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 21.798062564769136,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.2066907206941004,
+      "StrategyScore": 4838.638730118782,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5288766004859917,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5288766004859917,
+          "INTERMEDIATE": 0.11107316510287024,
+          "MEDIUM": 0.2304878691793441,
+          "SOFT": 0.1295623652317937,
+          "WET": 0.0
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8222222222222222,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Italian Grand Prix",
+      "Circuit": "Monza",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        17,
+        36
+      ],
+      "PitLaps": [
+        17
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 17,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 4838.458293067544,
+      "PredictedLapTimeTotal": 4816.458293067544,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 21.413073048929682,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.19049318982990293,
+      "StrategyScore": 4838.648786257374,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5288766004859917,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5288766004859917,
+          "INTERMEDIATE": 0.11107316510287024,
+          "MEDIUM": 0.2304878691793441,
+          "SOFT": 0.1295623652317937,
+          "WET": 0.0
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Italian Grand Prix",
+      "Circuit": "Monza",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        15,
+        38
+      ],
+      "PitLaps": [
+        15
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 15,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 4838.427363803031,
+      "PredictedLapTimeTotal": 4816.427363803031,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 22.244703721749065,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.2268388688422486,
+      "StrategyScore": 4838.6542026718735,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5288766004859917,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5288766004859917,
+          "INTERMEDIATE": 0.11107316510287024,
+          "MEDIUM": 0.2304878691793441,
+          "SOFT": 0.1295623652317937,
+          "WET": 0.0
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8444444444444444,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Italian Grand Prix",
+      "Circuit": "Monza",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        18,
+        35
+      ],
+      "PitLaps": [
+        18
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 18,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 4838.506124811399,
+      "PredictedLapTimeTotal": 4816.506124811399,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 21.089735174230693,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.178246276249656,
+      "StrategyScore": 4838.684371087648,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5288766004859917,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5288766004859917,
+          "INTERMEDIATE": 0.11107316510287024,
+          "MEDIUM": 0.2304878691793441,
+          "SOFT": 0.1295623652317937,
+          "WET": 0.0
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7777777777777778,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Italian Grand Prix",
+      "Circuit": "Monza",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        14,
+        39
+      ],
+      "PitLaps": [
+        14
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 14,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 4838.444266282373,
+      "PredictedLapTimeTotal": 4816.444266282373,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 22.752996519869455,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.2509376342743474,
+      "StrategyScore": 4838.695203916647,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5288766004859917,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5288766004859917,
+          "INTERMEDIATE": 0.11107316510287024,
+          "MEDIUM": 0.2304878691793441,
+          "SOFT": 0.1295623652317937,
+          "WET": 0.0
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8666666666666667,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Italian Grand Prix",
+      "Circuit": "Monza",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "HARD",
+        "MEDIUM"
+      ],
+      "Strategy": "HARD → MEDIUM",
+      "StintLengths": [
+        37,
+        16
+      ],
+      "PitLaps": [
+        37
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 37,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 4838.432039398087,
+      "PredictedLapTimeTotal": 4816.432039398087,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 21.798062564769136,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.2666664902890687,
+      "StrategyScore": 4838.698705888376,
+      "TyreUsage": {
+        "HARD": 1,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.3575172587860823,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.23071083224224037,
+          "INTERMEDIATE": 0.13814443576336968,
+          "MEDIUM": 0.3575172587860823,
+          "SOFT": 0.2710226017604048,
+          "WET": 0.0026048714479025713
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8222222222222222,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Italian Grand Prix",
+      "Circuit": "Monza",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "HARD",
+        "MEDIUM"
+      ],
+      "Strategy": "HARD → MEDIUM",
+      "StintLengths": [
+        36,
+        17
+      ],
+      "PitLaps": [
+        36
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 36,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 4838.458293067542,
+      "PredictedLapTimeTotal": 4816.458293067542,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 21.413073048929682,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.25046895942487124,
+      "StrategyScore": 4838.708762026968,
+      "TyreUsage": {
+        "HARD": 1,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.3575172587860823,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.23071083224224037,
+          "INTERMEDIATE": 0.13814443576336968,
+          "MEDIUM": 0.3575172587860823,
+          "SOFT": 0.2710226017604048,
+          "WET": 0.0026048714479025713
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Italian Grand Prix",
+      "Circuit": "Monza",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "HARD",
+        "MEDIUM"
+      ],
+      "Strategy": "HARD → MEDIUM",
+      "StintLengths": [
+        38,
+        15
+      ],
+      "PitLaps": [
+        38
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 38,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 4838.427363803029,
+      "PredictedLapTimeTotal": 4816.427363803029,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 22.244703721749065,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.28795201699095124,
+      "StrategyScore": 4838.71531582002,
+      "TyreUsage": {
+        "HARD": 1,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.35426760577541255,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.21939464902652905,
+          "INTERMEDIATE": 0.13751300466727184,
+          "MEDIUM": 0.35426760577541255,
+          "SOFT": 0.2862198690828837,
+          "WET": 0.0026048714479025713
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8444444444444444,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Italian Grand Prix",
+      "Circuit": "Monza",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "HARD",
+        "MEDIUM"
+      ],
+      "Strategy": "HARD → MEDIUM",
+      "StintLengths": [
+        35,
+        18
+      ],
+      "PitLaps": [
+        35
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 35,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 4838.506124811398,
+      "PredictedLapTimeTotal": 4816.506124811398,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 21.089735174230693,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.23681809024060718,
+      "StrategyScore": 4838.742942901638,
+      "TyreUsage": {
+        "HARD": 1,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.3615285605118455,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.24426971392407562,
+          "INTERMEDIATE": 0.14172775526235926,
+          "MEDIUM": 0.3615285605118455,
+          "SOFT": 0.24986909885381686,
+          "WET": 0.0026048714479025713
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7777777777777778,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Italian Grand Prix",
+      "Circuit": "Monza",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        19,
+        34
+      ],
+      "PitLaps": [
+        19
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 19,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 4838.575534629653,
+      "PredictedLapTimeTotal": 4816.575534629653,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 20.828048940672172,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.1693094570775427,
+      "StrategyScore": 4838.74484408673,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5307066658454689,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5307066658454689,
+          "INTERMEDIATE": 0.1111426095473147,
+          "MEDIUM": 0.2284535554538539,
+          "SOFT": 0.12969716915336232,
+          "WET": 0.0
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7555555555555555,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Italian Grand Prix",
+      "Circuit": "Monza",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        13,
+        40
+      ],
+      "PitLaps": [
+        13
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 13,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 4838.482746836114,
+      "PredictedLapTimeTotal": 4816.482746836114,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 23.322940959130317,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.2789870169903967,
+      "StrategyScore": 4838.761733853104,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5288766004859917,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5288766004859917,
+          "INTERMEDIATE": 0.11107316510287024,
+          "MEDIUM": 0.2304878691793441,
+          "SOFT": 0.1295623652317937,
+          "WET": 0.0
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8888888888888888,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Italian Grand Prix",
+      "Circuit": "Monza",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "HARD",
+        "MEDIUM"
+      ],
+      "Strategy": "HARD → MEDIUM",
+      "StintLengths": [
+        39,
+        14
+      ],
+      "PitLaps": [
+        39
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 39,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 4838.444266282371,
+      "PredictedLapTimeTotal": 4816.444266282371,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 22.752996519869455,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.32876125245312543,
+      "StrategyScore": 4838.773027534824,
+      "TyreUsage": {
+        "HARD": 1,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.30652340568948294,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.16847640845583117,
+          "INTERMEDIATE": 0.12281523630954698,
+          "MEDIUM": 0.30652340568948294,
+          "SOFT": 0.3939078091896733,
+          "WET": 0.008277140355465597
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8666666666666667,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Italian Grand Prix",
+      "Circuit": "Monza",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "HARD",
+        "MEDIUM"
+      ],
+      "Strategy": "HARD → MEDIUM",
+      "StintLengths": [
+        34,
+        19
+      ],
+      "PitLaps": [
+        34
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 34,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 4838.575534629652,
+      "PredictedLapTimeTotal": 4816.575534629652,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 20.828048940672172,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.22801624861626563,
+      "StrategyScore": 4838.803550878268,
+      "TyreUsage": {
+        "HARD": 1,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.36297297573483195,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.2706895770333095,
+          "INTERMEDIATE": 0.1458812569838797,
+          "MEDIUM": 0.36297297573483195,
+          "SOFT": 0.21785131880007605,
+          "WET": 0.0026048714479025713
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7555555555555555,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Italian Grand Prix",
+      "Circuit": "Monza",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        20,
+        33
+      ],
+      "PitLaps": [
+        20
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 20,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 4838.666522522306,
+      "PredictedLapTimeTotal": 4816.666522522306,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 20.62801434825412,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.164963778065197,
+      "StrategyScore": 4838.831486300372,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5307066658454689,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5307066658454689,
+          "INTERMEDIATE": 0.1111426095473147,
+          "MEDIUM": 0.2284535554538539,
+          "SOFT": 0.12969716915336232,
+          "WET": 0.0
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7333333333333333,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Italian Grand Prix",
+      "Circuit": "Monza",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "HARD",
+        "MEDIUM"
+      ],
+      "Strategy": "HARD → MEDIUM",
+      "StintLengths": [
+        40,
+        13
+      ],
+      "PitLaps": [
+        40
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 40,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 4838.482746836113,
+      "PredictedLapTimeTotal": 4816.482746836113,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 23.322940959130317,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.3644170411406542,
+      "StrategyScore": 4838.8471638772535,
+      "TyreUsage": {
+        "HARD": 1,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.2847908171995416,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.16290017291110823,
+          "INTERMEDIATE": 0.1251775084911469,
+          "MEDIUM": 0.2847908171995416,
+          "SOFT": 0.4188543610427378,
+          "WET": 0.008277140355465597
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8888888888888888,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Italian Grand Prix",
+      "Circuit": "Monza",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        12,
+        41
+      ],
+      "PitLaps": [
+        12
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 12,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 4838.542805464254,
+      "PredictedLapTimeTotal": 4816.542805464254,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 23.954537039531644,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.31098701699039677,
+      "StrategyScore": 4838.853792481244,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5288766004859917,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5288766004859917,
+          "INTERMEDIATE": 0.11107316510287024,
+          "MEDIUM": 0.2304878691793441,
+          "SOFT": 0.1295623652317937,
+          "WET": 0.0
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.9111111111111111,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Italian Grand Prix",
+      "Circuit": "Monza",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "HARD",
+        "MEDIUM"
+      ],
+      "Strategy": "HARD → MEDIUM",
+      "StintLengths": [
+        33,
+        20
+      ],
+      "PitLaps": [
+        33
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 33,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 4838.666522522306,
+      "PredictedLapTimeTotal": 4816.666522522306,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 20.62801434825412,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.22145216343672525,
+      "StrategyScore": 4838.887974685743,
+      "TyreUsage": {
+        "HARD": 1,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.36931127906967387,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.28922055225467813,
+          "INTERMEDIATE": 0.14550418466880444,
+          "MEDIUM": 0.36931127906967387,
+          "SOFT": 0.1959639840068434,
+          "WET": 0.0
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7333333333333333,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Italian Grand Prix",
+      "Circuit": "Monza",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "HARD",
+        "MEDIUM"
+      ],
+      "Strategy": "HARD → MEDIUM",
+      "StintLengths": [
+        41,
+        12
+      ],
+      "PitLaps": [
+        41
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 41,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 4838.542805464253,
+      "PredictedLapTimeTotal": 4816.542805464253,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 23.954537039531644,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.39281419303938847,
+      "StrategyScore": 4838.935619657293,
+      "TyreUsage": {
+        "HARD": 1,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.2950846689174439,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.15032953547892017,
+          "INTERMEDIATE": 0.12361500849114689,
+          "MEDIUM": 0.2950846689174439,
+          "SOFT": 0.42269364675702353,
+          "WET": 0.008277140355465597
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.9111111111111111,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Italian Grand Prix",
+      "Circuit": "Monza",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        21,
+        32
+      ],
+      "PitLaps": [
+        21
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 21,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 4838.779088489358,
+      "PredictedLapTimeTotal": 4816.779088489358,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 20.489631396976534,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.16322141695408593,
+      "StrategyScore": 4838.942309906312,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5336530944168973,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5336530944168973,
+          "INTERMEDIATE": 0.11010094288064805,
+          "MEDIUM": 0.22589403164433008,
+          "SOFT": 0.13035193105812423,
+          "WET": 0.0
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7111111111111111,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Italian Grand Prix",
+      "Circuit": "Monza",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        11,
+        42
+      ],
+      "PitLaps": [
+        11
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 11,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 4838.6244421667925,
+      "PredictedLapTimeTotal": 4816.6244421667925,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 24.647784761073442,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.34693763427434743,
+      "StrategyScore": 4838.971379801067,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5288766004859917,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5288766004859917,
+          "INTERMEDIATE": 0.11107316510287024,
+          "MEDIUM": 0.2304878691793441,
+          "SOFT": 0.1295623652317937,
+          "WET": 0.0
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.9333333333333333,
+      "MaxSetUtilization": 0.5
+    }
+  ],
+  "feasible_candidate_count": 5590,
+  "pit_loss_seconds_per_stop": 22.0,
+  "reason": "MEDIUM → HARD is the lowest-scoring feasible plan in 5,590 simulated candidates for Max Verstappen at Monza in 2024. It uses 1 pit stop(s) with stint lengths 16, 37; the estimate includes a 22-second loss per stop and the fitted tyre degradation. The physical set, dry-compound-diversity, and tyre-age constraints passed before ranking. The next-ranked candidate scores 0.01 seconds higher. Lap-time estimates blend the Random Forest with historical tyre profiles.",
+  "dry_strategy": "MEDIUM → HARD",
+  "weather_strategy": "MEDIUM → HARD",
+  "preferred_strategy": "1-STOP",
+  "primary_tyre": "MEDIUM",
+  "backup_tyre": "HARD",
+  "pit_lap_1": 16,
+  "pit_lap_2": null,
+  "weather_pit_lap_1": 16,
+  "one_stop_strategy": "MEDIUM → HARD",
+  "one_stop_time": 4838.432039398088,
+  "two_stop_strategy": "MEDIUM → HARD → HARD",
+  "two_stop_time": 4869.149731420678,
+  "three_stop_strategy": null,
+  "three_stop_time": null,
+  "strategy_score_difference": 30.878575850190828
+}

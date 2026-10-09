@@ -1,0 +1,833 @@
+Season,Round,Race,EventName,OfficialEventName,Circuit,Country,Location,EventDate,RaceLaps,Driver,DriverName,DriverNumber,Team,Compound,LapNumber,TyreLife,Stint,LapTime,IsAccurate,Deleted,TrackStatus
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,SOFT,1.0,6.0,1.0,115.24,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,SOFT,2.0,7.0,1.0,109.031,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,SOFT,3.0,8.0,1.0,109.207,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,SOFT,4.0,9.0,1.0,107.938,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,SOFT,5.0,10.0,1.0,107.643,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,SOFT,6.0,11.0,1.0,107.915,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,SOFT,7.0,12.0,1.0,107.705,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,SOFT,8.0,13.0,1.0,107.396,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,SOFT,9.0,14.0,1.0,107.41,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,SOFT,10.0,15.0,1.0,107.098,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,SOFT,11.0,16.0,1.0,111.282,False,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,12.0,1.0,2.0,124.046,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,13.0,2.0,2.0,107.362,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,14.0,3.0,2.0,107.88,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,15.0,4.0,2.0,106.929,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,16.0,5.0,2.0,107.048,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,17.0,6.0,2.0,107.607,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,18.0,7.0,2.0,107.353,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,19.0,8.0,2.0,106.751,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,20.0,9.0,2.0,106.923,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,21.0,10.0,2.0,106.675,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,22.0,11.0,2.0,106.781,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,23.0,12.0,2.0,106.625,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,24.0,13.0,2.0,107.113,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,25.0,14.0,2.0,106.957,True,,21
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,26.0,15.0,2.0,106.735,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,27.0,16.0,2.0,106.801,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,28.0,17.0,2.0,106.585,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,29.0,18.0,2.0,106.362,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,30.0,19.0,2.0,106.856,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,31.0,20.0,2.0,138.563,False,,24
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,36.0,25.0,2.0,111.912,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,37.0,26.0,2.0,108.223,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,38.0,27.0,2.0,106.332,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,39.0,28.0,2.0,106.032,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,40.0,29.0,2.0,105.38,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,41.0,30.0,2.0,105.486,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,42.0,31.0,2.0,105.266,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,43.0,32.0,2.0,105.669,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,44.0,33.0,2.0,105.22,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,45.0,34.0,2.0,105.442,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,46.0,35.0,2.0,105.449,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,HARD,47.0,36.0,2.0,133.442,False,,124
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GAS,Pierre Gasly,10,AlphaTauri,SOFT,51.0,5.0,4.0,105.588,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,SOFT,1.0,4.0,1.0,114.523,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,SOFT,2.0,5.0,1.0,109.18,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,SOFT,3.0,6.0,1.0,108.644,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,SOFT,4.0,7.0,1.0,107.842,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,SOFT,5.0,8.0,1.0,107.157,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,SOFT,6.0,9.0,1.0,107.513,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,SOFT,7.0,10.0,1.0,107.046,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,SOFT,8.0,11.0,1.0,107.273,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,SOFT,9.0,12.0,1.0,107.415,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,SOFT,10.0,13.0,1.0,106.881,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,SOFT,11.0,14.0,1.0,107.497,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,SOFT,12.0,15.0,1.0,106.8,True,,21
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,SOFT,13.0,16.0,1.0,109.96,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,14.0,1.0,2.0,124.379,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,15.0,2.0,2.0,105.868,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,16.0,3.0,2.0,106.341,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,17.0,4.0,2.0,106.122,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,18.0,5.0,2.0,106.063,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,19.0,6.0,2.0,105.798,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,20.0,7.0,2.0,105.837,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,21.0,8.0,2.0,105.722,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,22.0,9.0,2.0,105.898,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,23.0,10.0,2.0,105.616,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,24.0,11.0,2.0,105.591,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,25.0,12.0,2.0,105.605,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,26.0,13.0,2.0,106.973,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,27.0,14.0,2.0,105.995,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,28.0,15.0,2.0,105.86,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,29.0,16.0,2.0,105.81,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,30.0,17.0,2.0,106.023,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,31.0,18.0,2.0,135.567,False,,124
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,36.0,23.0,2.0,109.238,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,37.0,24.0,2.0,106.516,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,38.0,25.0,2.0,105.889,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,39.0,26.0,2.0,105.405,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,40.0,27.0,2.0,105.196,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,41.0,28.0,2.0,104.95,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,42.0,29.0,2.0,105.051,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,43.0,30.0,2.0,104.794,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,44.0,31.0,2.0,104.873,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,45.0,32.0,2.0,104.687,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,46.0,33.0,2.0,104.735,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,HARD,47.0,34.0,2.0,136.165,False,,124
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,PER,Sergio Perez,11,Red Bull Racing,SOFT,51.0,8.0,4.0,104.703,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,SOFT,1.0,4.0,1.0,117.109,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,SOFT,2.0,5.0,1.0,110.062,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,SOFT,3.0,6.0,1.0,108.76,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,SOFT,4.0,7.0,1.0,108.662,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,SOFT,5.0,8.0,1.0,108.448,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,SOFT,6.0,9.0,1.0,108.932,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,SOFT,7.0,10.0,1.0,114.515,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,8.0,1.0,2.0,125.508,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,9.0,2.0,2.0,108.046,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,10.0,3.0,2.0,109.436,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,11.0,4.0,2.0,109.303,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,12.0,5.0,2.0,108.142,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,13.0,6.0,2.0,108.233,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,14.0,7.0,2.0,108.362,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,15.0,8.0,2.0,108.101,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,16.0,9.0,2.0,108.945,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,17.0,10.0,2.0,108.42,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,18.0,11.0,2.0,108.131,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,19.0,12.0,2.0,108.25,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,20.0,13.0,2.0,107.835,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,21.0,14.0,2.0,107.927,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,22.0,15.0,2.0,107.669,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,23.0,16.0,2.0,107.528,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,24.0,17.0,2.0,107.225,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,25.0,18.0,2.0,107.344,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,26.0,19.0,2.0,107.613,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,27.0,20.0,2.0,108.973,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,28.0,21.0,2.0,107.235,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,29.0,22.0,2.0,107.202,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,30.0,23.0,2.0,116.935,False,,124
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,31.0,24.0,2.0,147.25,False,,4
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,HARD,32.0,25.0,2.0,147.2,False,,4
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,SOFT,36.0,4.0,3.0,114.09,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,SOFT,37.0,5.0,3.0,109.079,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,SOFT,38.0,6.0,3.0,106.996,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,SOFT,39.0,7.0,3.0,106.314,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,SOFT,40.0,8.0,3.0,106.649,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,SOFT,41.0,9.0,3.0,106.344,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,SOFT,42.0,10.0,3.0,105.624,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,SOFT,43.0,11.0,3.0,106.035,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,SOFT,44.0,12.0,3.0,106.276,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,SOFT,45.0,13.0,3.0,107.271,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,SOFT,46.0,14.0,3.0,106.73,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,SOFT,47.0,15.0,3.0,138.391,False,,24
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,SOFT,50.0,18.0,5.0,145.01,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,ALO,Fernando Alonso,14,Alpine,SOFT,51.0,19.0,5.0,105.715,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,SOFT,1.0,4.0,1.0,112.162,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,SOFT,2.0,5.0,1.0,109.672,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,SOFT,3.0,6.0,1.0,108.746,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,SOFT,4.0,7.0,1.0,107.6,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,SOFT,5.0,8.0,1.0,107.26,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,SOFT,6.0,9.0,1.0,107.963,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,SOFT,7.0,10.0,1.0,108.611,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,SOFT,8.0,11.0,1.0,108.721,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,SOFT,9.0,12.0,1.0,111.823,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,10.0,1.0,2.0,123.438,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,11.0,2.0,2.0,108.105,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,12.0,3.0,2.0,109.086,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,13.0,4.0,2.0,108.039,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,14.0,5.0,2.0,107.674,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,15.0,6.0,2.0,107.272,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,16.0,7.0,2.0,107.24,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,17.0,8.0,2.0,107.574,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,18.0,9.0,2.0,107.204,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,19.0,10.0,2.0,107.286,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,20.0,11.0,2.0,107.182,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,21.0,12.0,2.0,107.258,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,22.0,13.0,2.0,106.512,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,23.0,14.0,2.0,106.358,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,24.0,15.0,2.0,106.492,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,25.0,16.0,2.0,106.641,True,,21
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,26.0,17.0,2.0,106.387,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,27.0,18.0,2.0,106.669,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,28.0,19.0,2.0,106.516,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,29.0,20.0,2.0,106.178,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,30.0,21.0,2.0,106.478,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,31.0,22.0,2.0,139.518,False,,24
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,36.0,27.0,2.0,112.944,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,37.0,28.0,2.0,107.663,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,38.0,29.0,2.0,106.886,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,39.0,30.0,2.0,105.805,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,40.0,31.0,2.0,105.753,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,41.0,32.0,2.0,105.732,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,42.0,33.0,2.0,105.712,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,43.0,34.0,2.0,105.594,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,44.0,35.0,2.0,105.78,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,45.0,36.0,2.0,105.538,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,46.0,37.0,2.0,105.382,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,HARD,47.0,38.0,2.0,133.338,False,,124
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LEC,Charles Leclerc,16,Ferrari,SOFT,51.0,5.0,4.0,106.692,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,1.0,1.0,1.0,124.253,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,2.0,2.0,1.0,111.395,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,3.0,3.0,1.0,109.532,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,4.0,4.0,1.0,108.911,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,5.0,5.0,1.0,108.862,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,6.0,6.0,1.0,108.509,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,7.0,7.0,1.0,108.233,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,8.0,8.0,1.0,108.315,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,9.0,9.0,1.0,108.007,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,10.0,10.0,1.0,108.182,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,11.0,11.0,1.0,108.086,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,12.0,12.0,1.0,108.432,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,13.0,13.0,1.0,108.095,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,14.0,14.0,1.0,107.262,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,15.0,15.0,1.0,106.882,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,16.0,16.0,1.0,106.798,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,17.0,17.0,1.0,106.953,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,18.0,18.0,1.0,106.752,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,19.0,19.0,1.0,106.737,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,20.0,20.0,1.0,106.641,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,21.0,21.0,1.0,106.813,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,22.0,22.0,1.0,106.611,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,23.0,23.0,1.0,106.582,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,24.0,24.0,1.0,106.421,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,25.0,25.0,1.0,106.296,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,26.0,26.0,1.0,106.553,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,27.0,27.0,1.0,106.408,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,28.0,28.0,1.0,106.207,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,STR,Lance Stroll,18,Aston Martin,HARD,29.0,29.0,1.0,106.534,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,1.0,7.0,1.0,117.578,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,2.0,8.0,1.0,110.071,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,3.0,9.0,1.0,108.534,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,4.0,10.0,1.0,108.998,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,5.0,11.0,1.0,108.142,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,6.0,12.0,1.0,108.695,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,7.0,13.0,1.0,108.91,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,8.0,14.0,1.0,108.338,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,9.0,15.0,1.0,111.376,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,10.0,1.0,2.0,125.319,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,11.0,2.0,2.0,107.98,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,12.0,3.0,2.0,107.429,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,13.0,4.0,2.0,107.482,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,14.0,5.0,2.0,107.272,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,15.0,6.0,2.0,106.842,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,16.0,7.0,2.0,107.023,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,17.0,8.0,2.0,106.921,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,18.0,9.0,2.0,106.684,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,19.0,10.0,2.0,106.852,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,20.0,11.0,2.0,106.951,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,21.0,12.0,2.0,106.688,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,22.0,13.0,2.0,106.932,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,23.0,14.0,2.0,106.615,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,24.0,15.0,2.0,106.388,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,25.0,16.0,2.0,106.5,True,,21
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,26.0,17.0,2.0,106.727,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,27.0,18.0,2.0,106.57,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,28.0,19.0,2.0,106.53,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,29.0,20.0,2.0,106.64,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,30.0,21.0,2.0,107.042,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,31.0,22.0,2.0,141.75,False,,24
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,36.0,27.0,2.0,113.216,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,37.0,28.0,2.0,107.86,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,38.0,29.0,2.0,106.373,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,39.0,30.0,2.0,106.039,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,40.0,31.0,2.0,106.099,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,41.0,32.0,2.0,105.809,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,42.0,33.0,2.0,105.893,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,43.0,34.0,2.0,105.744,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,44.0,35.0,2.0,105.894,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,45.0,36.0,2.0,105.481,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,46.0,37.0,2.0,104.939,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,47.0,38.0,2.0,134.982,False,,124
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,51.0,5.0,4.0,105.401,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,SOFT,1.0,1.0,1.0,120.631,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,SOFT,2.0,2.0,1.0,110.972,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,SOFT,3.0,3.0,1.0,110.246,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,SOFT,4.0,4.0,1.0,108.635,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,SOFT,5.0,5.0,1.0,108.401,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,SOFT,6.0,6.0,1.0,108.255,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,SOFT,7.0,7.0,1.0,108.938,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,SOFT,8.0,8.0,1.0,108.211,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,SOFT,9.0,9.0,1.0,108.407,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,SOFT,10.0,10.0,1.0,108.715,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,SOFT,11.0,11.0,1.0,112.582,False,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,12.0,1.0,2.0,125.143,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,13.0,2.0,2.0,107.98,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,14.0,3.0,2.0,107.58,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,15.0,4.0,2.0,106.981,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,16.0,5.0,2.0,107.324,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,17.0,6.0,2.0,107.822,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,18.0,7.0,2.0,107.2,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,19.0,8.0,2.0,106.779,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,20.0,9.0,2.0,107.023,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,21.0,10.0,2.0,107.034,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,22.0,11.0,2.0,106.741,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,23.0,12.0,2.0,106.759,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,24.0,13.0,2.0,106.731,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,25.0,14.0,2.0,107.021,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,26.0,15.0,2.0,106.596,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,27.0,16.0,2.0,106.567,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,28.0,17.0,2.0,106.82,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,29.0,18.0,2.0,106.549,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,30.0,19.0,2.0,107.757,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,31.0,20.0,2.0,148.09,False,,24
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,36.0,25.0,2.0,114.044,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,37.0,26.0,2.0,109.082,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,38.0,27.0,2.0,107.29,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,39.0,28.0,2.0,106.295,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,40.0,29.0,2.0,106.101,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,41.0,30.0,2.0,106.009,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,42.0,31.0,2.0,105.923,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,43.0,32.0,2.0,105.713,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,44.0,33.0,2.0,105.779,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,45.0,34.0,2.0,106.053,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,46.0,35.0,2.0,106.541,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,HARD,47.0,36.0,2.0,139.455,False,,24
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,SOFT,50.0,4.0,4.0,149.461,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RIC,Daniel Ricciardo,3,McLaren,SOFT,51.0,5.0,4.0,106.618,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,OCO,Esteban Ocon,31,Alpine,SOFT,1.0,1.0,1.0,120.049,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,OCO,Esteban Ocon,31,Alpine,SOFT,2.0,2.0,1.0,110.85,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,OCO,Esteban Ocon,31,Alpine,SOFT,3.0,3.0,1.0,130.806,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,SOFT,1.0,2.0,1.0,113.236,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,SOFT,2.0,3.0,1.0,109.55,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,SOFT,3.0,4.0,1.0,108.04,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,SOFT,4.0,5.0,1.0,107.826,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,SOFT,5.0,6.0,1.0,107.107,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,SOFT,6.0,7.0,1.0,107.548,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,SOFT,7.0,8.0,1.0,107.218,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,SOFT,8.0,9.0,1.0,107.149,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,SOFT,9.0,10.0,1.0,107.125,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,SOFT,10.0,11.0,1.0,107.295,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,SOFT,11.0,12.0,1.0,107.327,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,SOFT,12.0,13.0,1.0,110.389,False,,21
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,13.0,1.0,2.0,122.951,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,14.0,2.0,2.0,106.192,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,15.0,3.0,2.0,106.385,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,16.0,4.0,2.0,105.741,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,17.0,5.0,2.0,105.92,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,18.0,6.0,2.0,106.101,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,19.0,7.0,2.0,105.897,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,20.0,8.0,2.0,105.966,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,21.0,9.0,2.0,105.705,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,22.0,10.0,2.0,105.775,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,23.0,11.0,2.0,105.676,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,24.0,12.0,2.0,105.456,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,25.0,13.0,2.0,105.415,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,26.0,14.0,2.0,105.352,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,27.0,15.0,2.0,105.452,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,28.0,16.0,2.0,105.55,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,29.0,17.0,2.0,105.394,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,30.0,18.0,2.0,105.653,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,31.0,19.0,2.0,132.177,False,,124
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,36.0,24.0,2.0,107.649,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,37.0,25.0,2.0,105.752,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,38.0,26.0,2.0,105.326,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,39.0,27.0,2.0,105.125,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,40.0,28.0,2.0,104.805,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,41.0,29.0,2.0,104.861,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,42.0,30.0,2.0,105.186,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,43.0,31.0,2.0,104.929,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,44.0,32.0,2.0,104.481,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VER,Max Verstappen,33,Red Bull Racing,HARD,45.0,33.0,2.0,104.488,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,SOFT,1.0,4.0,1.0,120.202,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,SOFT,2.0,5.0,1.0,111.296,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,SOFT,3.0,6.0,1.0,109.911,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,SOFT,4.0,7.0,1.0,107.49,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,SOFT,5.0,8.0,1.0,109.001,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,SOFT,6.0,9.0,1.0,108.772,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,SOFT,7.0,10.0,1.0,112.031,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,8.0,1.0,2.0,124.045,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,9.0,2.0,2.0,107.474,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,10.0,3.0,2.0,106.978,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,11.0,4.0,2.0,108.712,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,12.0,5.0,2.0,107.556,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,13.0,6.0,2.0,107.478,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,14.0,7.0,2.0,107.256,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,15.0,8.0,2.0,107.313,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,16.0,9.0,2.0,106.845,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,17.0,10.0,2.0,106.758,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,18.0,11.0,2.0,106.767,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,19.0,12.0,2.0,106.424,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,20.0,13.0,2.0,107.001,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,21.0,14.0,2.0,107.261,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,22.0,15.0,2.0,106.879,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,23.0,16.0,2.0,106.448,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,24.0,17.0,2.0,106.566,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,25.0,18.0,2.0,106.559,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,26.0,19.0,2.0,106.613,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,27.0,20.0,2.0,106.536,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,28.0,21.0,2.0,106.458,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,29.0,22.0,2.0,106.67,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,30.0,23.0,2.0,108.166,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,36.0,29.0,2.0,113.425,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,37.0,30.0,2.0,108.098,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,38.0,31.0,2.0,106.777,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,39.0,32.0,2.0,106.075,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,40.0,33.0,2.0,106.1,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,41.0,34.0,2.0,105.326,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,42.0,35.0,2.0,105.603,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,43.0,36.0,2.0,105.83,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,44.0,37.0,2.0,106.602,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,45.0,38.0,2.0,105.917,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,46.0,39.0,2.0,106.085,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,HARD,47.0,40.0,2.0,134.859,False,,24
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,SOFT,50.0,4.0,4.0,147.891,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,NOR,Lando Norris,4,McLaren,SOFT,51.0,5.0,4.0,106.663,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,SOFT,1.0,5.0,1.0,112.533,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,SOFT,2.0,6.0,1.0,109.236,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,SOFT,3.0,7.0,1.0,108.06,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,SOFT,4.0,8.0,1.0,107.462,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,SOFT,5.0,9.0,1.0,107.642,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,SOFT,6.0,10.0,1.0,107.394,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,SOFT,7.0,11.0,1.0,107.056,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,SOFT,8.0,12.0,1.0,107.084,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,SOFT,9.0,13.0,1.0,107.399,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,SOFT,10.0,14.0,1.0,107.441,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,SOFT,11.0,15.0,1.0,111.218,False,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,12.0,1.0,2.0,126.683,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,13.0,2.0,2.0,106.6,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,14.0,3.0,2.0,106.67,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,15.0,4.0,2.0,106.913,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,16.0,5.0,2.0,105.675,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,17.0,6.0,2.0,106.145,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,18.0,7.0,2.0,105.763,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,19.0,8.0,2.0,106.229,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,20.0,9.0,2.0,105.91,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,21.0,10.0,2.0,105.814,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,22.0,11.0,2.0,106.116,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,23.0,12.0,2.0,106.379,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,24.0,13.0,2.0,106.283,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,25.0,14.0,2.0,105.62,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,26.0,15.0,2.0,106.044,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,27.0,16.0,2.0,106.346,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,28.0,17.0,2.0,106.101,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,29.0,18.0,2.0,105.846,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,30.0,19.0,2.0,105.592,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,31.0,20.0,2.0,138.41,False,,124
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,36.0,25.0,2.0,110.101,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,37.0,26.0,2.0,106.514,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,38.0,27.0,2.0,105.215,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,39.0,28.0,2.0,106.02,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,40.0,29.0,2.0,105.019,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,41.0,30.0,2.0,105.027,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,42.0,31.0,2.0,105.258,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,43.0,32.0,2.0,104.769,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,44.0,33.0,2.0,104.779,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,45.0,34.0,2.0,104.857,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,46.0,35.0,2.0,105.104,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,HARD,47.0,36.0,2.0,135.406,False,,124
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,HAM,Lewis Hamilton,44,Mercedes,SOFT,51.0,7.0,4.0,111.085,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,1.0,1.0,1.0,125.671,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,2.0,2.0,1.0,112.393,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,3.0,3.0,1.0,110.49,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,4.0,4.0,1.0,110.588,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,5.0,5.0,1.0,110.103,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,6.0,6.0,1.0,109.707,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,7.0,7.0,1.0,109.824,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,8.0,8.0,1.0,113.586,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,9.0,1.0,2.0,128.615,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,10.0,2.0,2.0,107.915,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,11.0,3.0,2.0,109.616,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,12.0,4.0,2.0,108.415,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,13.0,5.0,2.0,108.642,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,14.0,6.0,2.0,108.641,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,15.0,7.0,2.0,108.383,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,16.0,8.0,2.0,108.469,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,17.0,9.0,2.0,108.203,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,18.0,10.0,2.0,108.595,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,19.0,11.0,2.0,108.035,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,20.0,12.0,2.0,107.971,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,21.0,13.0,2.0,107.842,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,22.0,14.0,2.0,108.363,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,23.0,15.0,2.0,107.844,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,24.0,16.0,2.0,108.157,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,25.0,17.0,2.0,107.834,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,26.0,18.0,2.0,107.943,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,27.0,19.0,2.0,108.519,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,28.0,20.0,2.0,108.489,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,29.0,21.0,2.0,108.33,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,30.0,22.0,2.0,129.562,False,,124
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,31.0,23.0,2.0,149.746,False,,4
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,HARD,32.0,24.0,2.0,129.207,False,,4
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,36.0,4.0,3.0,108.452,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,37.0,5.0,3.0,109.281,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,38.0,6.0,3.0,108.709,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,39.0,7.0,3.0,107.784,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,40.0,8.0,3.0,108.272,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,41.0,9.0,3.0,107.624,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,42.0,10.0,3.0,107.89,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,43.0,11.0,3.0,108.923,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,44.0,12.0,3.0,113.919,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,45.0,3.0,4.0,126.429,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,46.0,4.0,4.0,112.849,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,50.0,5.0,6.0,117.941,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,51.0,6.0,6.0,107.769,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,SOFT,1.0,1.0,1.0,118.358,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,SOFT,2.0,2.0,1.0,110.157,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,SOFT,3.0,3.0,1.0,109.02,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,SOFT,4.0,4.0,1.0,108.427,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,SOFT,5.0,5.0,1.0,108.787,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,SOFT,6.0,6.0,1.0,108.717,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,SOFT,7.0,7.0,1.0,108.43,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,SOFT,8.0,8.0,1.0,108.189,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,SOFT,9.0,9.0,1.0,109.127,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,SOFT,10.0,10.0,1.0,107.658,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,SOFT,11.0,11.0,1.0,107.274,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,SOFT,12.0,12.0,1.0,107.065,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,SOFT,13.0,13.0,1.0,107.184,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,SOFT,14.0,14.0,1.0,106.852,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,SOFT,15.0,15.0,1.0,106.643,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,SOFT,16.0,16.0,1.0,106.609,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,SOFT,17.0,17.0,1.0,106.582,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,SOFT,18.0,18.0,1.0,110.359,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,19.0,1.0,2.0,122.792,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,20.0,2.0,2.0,106.527,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,21.0,3.0,2.0,106.593,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,22.0,4.0,2.0,106.694,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,23.0,5.0,2.0,106.468,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,24.0,6.0,2.0,106.521,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,25.0,7.0,2.0,106.344,True,,21
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,26.0,8.0,2.0,106.112,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,27.0,9.0,2.0,106.649,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,28.0,10.0,2.0,106.611,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,29.0,11.0,2.0,106.298,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,30.0,12.0,2.0,107.095,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,31.0,13.0,2.0,141.217,False,,24
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,36.0,18.0,2.0,111.402,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,37.0,19.0,2.0,106.757,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,38.0,20.0,2.0,105.928,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,39.0,21.0,2.0,105.481,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,40.0,22.0,2.0,105.462,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,41.0,23.0,2.0,104.89,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,42.0,24.0,2.0,105.376,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,43.0,25.0,2.0,105.25,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,44.0,26.0,2.0,104.914,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,45.0,27.0,2.0,105.789,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,46.0,28.0,2.0,105.326,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,HARD,47.0,29.0,2.0,133.659,False,,124
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,VET,Sebastian Vettel,5,Aston Martin,SOFT,51.0,5.0,4.0,105.138,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,SOFT,1.0,4.0,1.0,115.799,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,SOFT,2.0,5.0,1.0,109.542,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,SOFT,3.0,6.0,1.0,109.3,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,SOFT,4.0,7.0,1.0,108.563,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,SOFT,5.0,8.0,1.0,107.796,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,SOFT,6.0,9.0,1.0,107.894,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,SOFT,7.0,10.0,1.0,108.084,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,SOFT,8.0,11.0,1.0,107.762,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,SOFT,9.0,12.0,1.0,107.295,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,SOFT,10.0,13.0,1.0,111.542,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,11.0,1.0,2.0,144.01,False,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,12.0,2.0,2.0,107.524,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,13.0,3.0,2.0,107.216,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,14.0,4.0,2.0,107.108,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,15.0,5.0,2.0,107.136,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,16.0,6.0,2.0,107.956,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,17.0,7.0,2.0,108.058,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,18.0,8.0,2.0,107.732,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,19.0,9.0,2.0,107.874,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,20.0,10.0,2.0,108.022,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,21.0,11.0,2.0,107.279,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,22.0,12.0,2.0,107.583,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,23.0,13.0,2.0,108.433,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,24.0,14.0,2.0,106.035,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,25.0,15.0,2.0,106.342,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,26.0,16.0,2.0,106.595,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,27.0,17.0,2.0,107.451,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,28.0,18.0,2.0,106.299,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,29.0,19.0,2.0,105.971,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,30.0,20.0,2.0,115.573,False,,124
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,32.0,22.0,2.0,140.384,False,,4
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,36.0,26.0,2.0,113.772,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,37.0,27.0,2.0,108.282,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,38.0,28.0,2.0,106.966,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,39.0,29.0,2.0,106.229,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,40.0,30.0,2.0,105.735,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,41.0,31.0,2.0,105.901,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,42.0,32.0,2.0,105.7,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,43.0,33.0,2.0,105.823,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,44.0,34.0,2.0,106.245,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,45.0,35.0,2.0,105.701,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,46.0,36.0,2.0,106.94,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,HARD,47.0,37.0,2.0,135.333,False,,24
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,SAI,Carlos Sainz,55,Ferrari,SOFT,51.0,5.0,4.0,106.175,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,1.0,1.0,1.0,124.905,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,2.0,2.0,1.0,112.208,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,3.0,3.0,1.0,110.685,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,4.0,4.0,1.0,109.947,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,5.0,5.0,1.0,109.472,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,6.0,6.0,1.0,109.469,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,7.0,7.0,1.0,109.322,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,8.0,8.0,1.0,109.254,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,MEDIUM,9.0,9.0,1.0,114.357,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,10.0,1.0,2.0,128.706,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,11.0,2.0,2.0,108.547,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,12.0,3.0,2.0,108.609,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,13.0,4.0,2.0,108.413,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,14.0,5.0,2.0,108.134,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,15.0,6.0,2.0,108.536,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,16.0,7.0,2.0,108.063,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,17.0,8.0,2.0,107.868,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,18.0,9.0,2.0,107.94,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,19.0,10.0,2.0,107.754,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,20.0,11.0,2.0,108.02,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,21.0,12.0,2.0,107.604,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,22.0,13.0,2.0,107.69,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,23.0,14.0,2.0,107.48,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,24.0,15.0,2.0,107.954,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,25.0,16.0,2.0,107.796,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,26.0,17.0,2.0,107.636,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,27.0,18.0,2.0,107.56,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,28.0,19.0,2.0,107.649,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,29.0,20.0,2.0,107.623,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,30.0,21.0,2.0,128.49,False,,124
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,31.0,22.0,2.0,144.259,False,,4
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,32.0,23.0,2.0,132.845,False,,4
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,36.0,27.0,2.0,117.301,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,37.0,28.0,2.0,109.57,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,38.0,29.0,2.0,108.667,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,39.0,30.0,2.0,108.612,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,40.0,31.0,2.0,107.68,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,41.0,32.0,2.0,107.546,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,42.0,33.0,2.0,106.608,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,43.0,34.0,2.0,107.098,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,44.0,35.0,2.0,107.077,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,45.0,36.0,2.0,106.745,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,46.0,37.0,2.0,111.373,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,HARD,47.0,38.0,2.0,136.549,False,,24
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,SOFT,50.0,2.0,3.0,116.912,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,LAT,Nicholas Latifi,6,Williams,SOFT,51.0,3.0,3.0,107.331,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,MEDIUM,1.0,1.0,1.0,128.197,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,2.0,1.0,2.0,127.33,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,3.0,2.0,2.0,110.787,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,4.0,3.0,2.0,109.894,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,5.0,4.0,2.0,109.098,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,6.0,5.0,2.0,109.339,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,7.0,6.0,2.0,109.446,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,8.0,7.0,2.0,108.919,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,9.0,8.0,2.0,108.821,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,10.0,9.0,2.0,109.02,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,11.0,10.0,2.0,109.07,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,12.0,11.0,2.0,108.867,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,13.0,12.0,2.0,108.799,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,14.0,13.0,2.0,110.084,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,15.0,14.0,2.0,109.163,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,16.0,15.0,2.0,108.684,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,17.0,16.0,2.0,108.748,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,18.0,17.0,2.0,108.378,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,19.0,18.0,2.0,108.02,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,20.0,19.0,2.0,107.86,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,21.0,20.0,2.0,107.524,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,22.0,21.0,2.0,107.592,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,23.0,22.0,2.0,107.542,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,24.0,23.0,2.0,107.209,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,25.0,24.0,2.0,107.095,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,26.0,25.0,2.0,107.081,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,27.0,26.0,2.0,107.497,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,28.0,27.0,2.0,107.466,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,29.0,28.0,2.0,107.048,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,30.0,29.0,2.0,123.604,False,,124
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,31.0,30.0,2.0,148.426,False,,4
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,32.0,31.0,2.0,135.643,False,,4
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,36.0,2.0,3.0,117.492,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,37.0,3.0,3.0,109.524,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,38.0,4.0,3.0,107.739,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,39.0,5.0,3.0,107.34,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,40.0,6.0,3.0,106.781,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,41.0,7.0,3.0,106.162,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,42.0,8.0,3.0,106.054,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,43.0,9.0,3.0,105.959,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,44.0,10.0,3.0,106.717,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,45.0,11.0,3.0,106.121,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,46.0,12.0,3.0,107.985,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RUS,George Russell,63,Williams,HARD,47.0,13.0,3.0,135.933,False,,24
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,1.0,1.0,1.0,121.534,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,2.0,2.0,1.0,111.655,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,3.0,3.0,1.0,111.973,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,4.0,4.0,1.0,110.255,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,5.0,5.0,1.0,108.865,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,6.0,6.0,1.0,109.024,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,7.0,7.0,1.0,108.785,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,8.0,8.0,1.0,108.567,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,9.0,9.0,1.0,108.499,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,10.0,10.0,1.0,109.285,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,11.0,11.0,1.0,109.351,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,12.0,12.0,1.0,109.263,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,13.0,13.0,1.0,114.15,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,14.0,1.0,2.0,125.079,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,15.0,2.0,2.0,108.235,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,16.0,3.0,2.0,108.408,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,17.0,4.0,2.0,107.681,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,18.0,5.0,2.0,107.797,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,19.0,6.0,2.0,107.474,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,20.0,7.0,2.0,107.202,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,21.0,8.0,2.0,107.658,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,22.0,9.0,2.0,107.458,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,23.0,10.0,2.0,107.457,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,24.0,11.0,2.0,107.535,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,25.0,12.0,2.0,106.956,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,26.0,13.0,2.0,107.106,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,27.0,14.0,2.0,107.696,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,28.0,15.0,2.0,107.061,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,29.0,16.0,2.0,106.644,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,30.0,17.0,2.0,121.82,False,,124
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,31.0,18.0,2.0,148.201,False,,4
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,32.0,19.0,2.0,139.686,False,,4
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,36.0,23.0,2.0,115.163,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,37.0,24.0,2.0,109.247,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,38.0,25.0,2.0,107.662,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,39.0,26.0,2.0,106.164,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,40.0,27.0,2.0,106.272,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,41.0,28.0,2.0,106.29,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,42.0,29.0,2.0,105.631,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,43.0,30.0,2.0,105.601,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,44.0,31.0,2.0,105.924,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,45.0,32.0,2.0,107.316,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,46.0,33.0,2.0,106.959,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,47.0,34.0,2.0,139.263,False,,24
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,50.0,2.0,4.0,142.545,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,51.0,3.0,4.0,106.426,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,SOFT,1.0,5.0,1.0,119.467,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,SOFT,2.0,6.0,1.0,110.418,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,SOFT,3.0,7.0,1.0,109.315,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,SOFT,4.0,8.0,1.0,109.208,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,SOFT,5.0,9.0,1.0,108.222,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,SOFT,6.0,10.0,1.0,108.335,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,SOFT,7.0,11.0,1.0,108.877,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,SOFT,8.0,12.0,1.0,108.418,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,SOFT,9.0,13.0,1.0,108.134,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,SOFT,10.0,14.0,1.0,108.326,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,SOFT,11.0,15.0,1.0,112.171,False,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,12.0,1.0,2.0,124.342,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,13.0,2.0,2.0,107.664,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,14.0,3.0,2.0,107.352,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,15.0,4.0,2.0,107.023,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,16.0,5.0,2.0,106.626,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,17.0,6.0,2.0,106.612,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,18.0,7.0,2.0,106.253,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,19.0,8.0,2.0,106.172,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,20.0,9.0,2.0,106.61,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,21.0,10.0,2.0,107.358,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,22.0,11.0,2.0,107.513,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,23.0,12.0,2.0,107.736,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,24.0,13.0,2.0,106.903,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,25.0,14.0,2.0,106.77,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,26.0,15.0,2.0,106.336,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,27.0,16.0,2.0,106.385,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,28.0,17.0,2.0,106.064,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,29.0,18.0,2.0,106.175,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,30.0,19.0,2.0,108.298,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,36.0,25.0,2.0,116.702,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,37.0,26.0,2.0,108.988,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,38.0,27.0,2.0,108.389,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,39.0,28.0,2.0,107.724,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,40.0,29.0,2.0,106.432,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,41.0,30.0,2.0,106.362,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,42.0,31.0,2.0,105.976,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,43.0,32.0,2.0,105.665,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,44.0,33.0,2.0,105.817,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,45.0,34.0,2.0,106.196,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,46.0,35.0,2.0,108.552,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,HARD,47.0,36.0,2.0,138.072,False,,24
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,SOFT,50.0,6.0,4.0,132.714,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,BOT,Valtteri Bottas,77,Mercedes,SOFT,51.0,7.0,4.0,106.762,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,SOFT,1.0,1.0,1.0,126.029,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,SOFT,2.0,2.0,1.0,113.144,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,SOFT,3.0,3.0,1.0,111.22,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,SOFT,4.0,4.0,1.0,109.955,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,SOFT,5.0,5.0,1.0,109.871,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,SOFT,6.0,6.0,1.0,110.279,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,SOFT,7.0,7.0,1.0,110.664,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,SOFT,8.0,8.0,1.0,110.991,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,SOFT,9.0,9.0,1.0,117.044,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,10.0,1.0,2.0,130.548,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,11.0,2.0,2.0,111.471,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,12.0,3.0,2.0,109.607,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,13.0,4.0,2.0,109.01,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,14.0,5.0,2.0,109.435,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,15.0,6.0,2.0,109.724,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,16.0,7.0,2.0,109.15,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,17.0,8.0,2.0,109.154,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,18.0,9.0,2.0,109.033,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,19.0,10.0,2.0,108.682,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,20.0,11.0,2.0,108.477,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,21.0,12.0,2.0,109.043,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,22.0,13.0,2.0,108.468,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,23.0,14.0,2.0,108.723,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,24.0,15.0,2.0,123.145,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,25.0,16.0,2.0,111.506,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,26.0,17.0,2.0,111.008,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,27.0,18.0,2.0,109.012,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,28.0,19.0,2.0,108.639,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,29.0,20.0,2.0,108.358,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,30.0,21.0,2.0,138.302,False,,24
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,34.0,25.0,2.0,125.129,False,,4
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,SOFT,35.0,3.0,3.0,131.838,False,,41
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,SOFT,36.0,4.0,3.0,110.393,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,SOFT,37.0,5.0,3.0,108.315,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,SOFT,38.0,6.0,3.0,108.11,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,SOFT,39.0,7.0,3.0,107.819,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,SOFT,40.0,8.0,3.0,107.747,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,SOFT,41.0,9.0,3.0,107.939,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,SOFT,42.0,10.0,3.0,108.846,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,SOFT,43.0,11.0,3.0,110.255,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,SOFT,44.0,12.0,3.0,114.527,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,SOFT,45.0,6.0,4.0,138.566,False,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,SOFT,46.0,7.0,4.0,142.738,False,,24
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,SOFT,50.0,11.0,7.0,116.968,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,MAZ,Nikita Mazepin,9,Haas F1 Team,SOFT,51.0,12.0,7.0,108.123,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,1.0,1.0,1.0,122.391,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,2.0,2.0,1.0,115.997,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,3.0,1.0,2.0,126.274,False,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,4.0,2.0,2.0,108.836,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,5.0,3.0,2.0,108.592,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,6.0,4.0,2.0,108.784,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,7.0,5.0,2.0,108.703,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,8.0,6.0,2.0,108.64,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,9.0,7.0,2.0,108.238,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,10.0,8.0,2.0,108.307,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,11.0,9.0,2.0,109.199,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,12.0,10.0,2.0,108.243,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,13.0,11.0,2.0,108.168,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,14.0,12.0,2.0,107.832,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,15.0,13.0,2.0,107.919,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,16.0,14.0,2.0,107.989,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,17.0,15.0,2.0,107.805,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,18.0,16.0,2.0,108.093,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,19.0,17.0,2.0,107.798,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,20.0,18.0,2.0,107.774,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,21.0,19.0,2.0,107.507,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,22.0,20.0,2.0,107.755,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,23.0,21.0,2.0,110.239,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,24.0,22.0,2.0,108.258,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,25.0,23.0,2.0,107.482,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,26.0,24.0,2.0,107.359,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,27.0,25.0,2.0,107.362,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,28.0,26.0,2.0,107.498,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,29.0,27.0,2.0,107.317,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,30.0,28.0,2.0,120.15,False,,124
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,31.0,29.0,2.0,147.093,False,,4
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,32.0,30.0,2.0,142.062,False,,4
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,36.0,2.0,3.0,116.087,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,37.0,3.0,3.0,109.507,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,38.0,4.0,3.0,107.142,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,39.0,5.0,3.0,106.22,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,40.0,6.0,3.0,106.36,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,41.0,7.0,3.0,106.022,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,42.0,8.0,3.0,106.109,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,43.0,9.0,3.0,105.911,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,44.0,10.0,3.0,105.575,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,45.0,11.0,3.0,106.683,True,,1
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,46.0,12.0,3.0,107.176,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,47.0,13.0,3.0,140.204,False,,24
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,50.0,2.0,5.0,140.563,True,,12
+2021,6,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2021,Baku,Azerbaijan,Baku,2021-06-06,51,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,51.0,3.0,5.0,106.651,True,,1

@@ -1,0 +1,991 @@
+Season,Round,Race,EventName,OfficialEventName,Circuit,Country,Location,EventDate,RaceLaps,Driver,DriverName,DriverNumber,Team,Compound,LapNumber,TyreLife,Stint,LapTime,IsAccurate,Deleted,TrackStatus
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,1.0,1.0,1.0,94.82,False,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,2.0,2.0,1.0,87.44,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,3.0,3.0,1.0,87.313,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,4.0,4.0,1.0,87.121,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,5.0,5.0,1.0,86.515,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,6.0,6.0,1.0,94.294,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,7.0,7.0,1.0,87.838,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,8.0,8.0,1.0,87.868,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,9.0,9.0,1.0,86.593,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,10.0,10.0,1.0,86.083,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,11.0,11.0,1.0,86.331,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,12.0,12.0,1.0,85.695,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,13.0,13.0,1.0,86.329,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,14.0,14.0,1.0,86.505,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,15.0,15.0,1.0,86.575,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,16.0,16.0,1.0,86.055,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,17.0,17.0,1.0,86.155,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,18.0,18.0,1.0,87.272,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,19.0,19.0,1.0,86.253,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,20.0,20.0,1.0,86.089,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,21.0,21.0,1.0,86.109,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,22.0,22.0,1.0,86.284,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,23.0,23.0,1.0,86.311,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,24.0,24.0,1.0,86.042,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,25.0,25.0,1.0,85.933,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,26.0,26.0,1.0,85.954,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,27.0,27.0,1.0,85.731,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,MEDIUM,28.0,28.0,1.0,102.204,False,,1267
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,29.0,1.0,2.0,105.04,False,,71
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,30.0,2.0,2.0,107.14,False,,1267
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,31.0,3.0,2.0,87.411,False,,71
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,32.0,4.0,2.0,86.072,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,33.0,5.0,2.0,85.004,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,34.0,6.0,2.0,85.211,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,35.0,7.0,2.0,84.879,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,36.0,8.0,2.0,84.564,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,37.0,9.0,2.0,84.564,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,38.0,10.0,2.0,84.609,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,39.0,11.0,2.0,84.579,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,40.0,12.0,2.0,84.649,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,41.0,13.0,2.0,84.508,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,42.0,14.0,2.0,84.485,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,43.0,15.0,2.0,84.558,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,44.0,16.0,2.0,84.47,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,45.0,17.0,2.0,84.528,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,46.0,18.0,2.0,84.309,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,47.0,19.0,2.0,84.317,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,48.0,20.0,2.0,87.694,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,49.0,21.0,2.0,84.423,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,50.0,22.0,2.0,84.268,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,51.0,23.0,2.0,83.885,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GAS,Pierre Gasly,10,Toro Rosso,SOFT,52.0,24.0,2.0,84.025,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,1.0,1.0,1.0,96.2,False,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,2.0,2.0,1.0,88.982,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,3.0,3.0,1.0,87.504,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,4.0,4.0,1.0,88.126,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,5.0,5.0,1.0,86.524,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,6.0,6.0,1.0,87.29,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,7.0,7.0,1.0,85.606,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,8.0,8.0,1.0,85.718,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,9.0,9.0,1.0,86.187,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,10.0,10.0,1.0,86.563,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,11.0,11.0,1.0,87.438,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,12.0,12.0,1.0,87.376,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,13.0,13.0,1.0,86.839,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,14.0,14.0,1.0,86.626,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,15.0,15.0,1.0,86.229,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,16.0,16.0,1.0,86.216,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,17.0,17.0,1.0,86.499,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,18.0,18.0,1.0,86.162,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,19.0,19.0,1.0,86.136,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,20.0,20.0,1.0,87.306,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,21.0,21.0,1.0,86.197,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,22.0,22.0,1.0,86.096,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,23.0,23.0,1.0,86.583,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,24.0,24.0,1.0,85.822,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,25.0,25.0,1.0,85.835,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,26.0,26.0,1.0,85.81,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,27.0,27.0,1.0,85.615,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,MEDIUM,28.0,28.0,1.0,101.911,False,,1267
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,29.0,1.0,2.0,105.59,False,,71
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,30.0,2.0,2.0,108.25,False,,1267
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,31.0,3.0,2.0,85.708,False,,71
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,32.0,4.0,2.0,84.251,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,33.0,5.0,2.0,84.133,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,34.0,6.0,2.0,84.101,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,35.0,7.0,2.0,83.77,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,36.0,8.0,2.0,84.106,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,37.0,9.0,2.0,84.515,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,38.0,10.0,2.0,84.082,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,39.0,11.0,2.0,84.29,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,40.0,12.0,2.0,84.23,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,41.0,13.0,2.0,84.031,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,42.0,14.0,2.0,84.097,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,43.0,15.0,2.0,84.007,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,44.0,16.0,2.0,83.984,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,45.0,17.0,2.0,84.781,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,46.0,18.0,2.0,84.784,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,47.0,19.0,2.0,84.035,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,48.0,20.0,2.0,84.014,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,49.0,21.0,2.0,83.971,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,50.0,22.0,2.0,84.089,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,51.0,23.0,2.0,83.917,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,52.0,24.0,2.0,84.105,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,PER,Sergio Perez,11,Racing Point,SOFT,53.0,25.0,2.0,84.23,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,SOFT,1.0,4.0,1.0,86.573,False,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,SOFT,2.0,5.0,1.0,85.194,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,SOFT,3.0,6.0,1.0,84.954,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,SOFT,4.0,7.0,1.0,84.949,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,SOFT,5.0,8.0,1.0,84.907,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,SOFT,6.0,9.0,1.0,84.9,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,SOFT,7.0,10.0,1.0,85.062,True,,21
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,SOFT,8.0,11.0,1.0,85.024,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,SOFT,9.0,12.0,1.0,84.987,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,SOFT,10.0,13.0,1.0,85.01,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,SOFT,11.0,14.0,1.0,84.926,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,SOFT,12.0,15.0,1.0,84.682,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,SOFT,13.0,16.0,1.0,84.907,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,SOFT,14.0,17.0,1.0,84.975,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,SOFT,15.0,18.0,1.0,84.938,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,SOFT,16.0,19.0,1.0,84.896,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,SOFT,17.0,20.0,1.0,84.935,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,SOFT,18.0,21.0,1.0,84.9,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,SOFT,19.0,22.0,1.0,85.289,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,SOFT,20.0,23.0,1.0,88.847,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,21.0,1.0,2.0,104.216,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,22.0,2.0,2.0,84.499,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,23.0,3.0,2.0,84.659,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,24.0,4.0,2.0,84.121,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,25.0,5.0,2.0,84.497,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,26.0,6.0,2.0,83.532,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,27.0,7.0,2.0,83.858,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,28.0,8.0,2.0,83.739,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,29.0,9.0,2.0,99.724,False,,2671
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,30.0,10.0,2.0,83.848,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,31.0,11.0,2.0,107.237,False,,2671
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,32.0,12.0,2.0,83.865,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,33.0,13.0,2.0,84.076,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,34.0,14.0,2.0,83.614,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,35.0,15.0,2.0,83.779,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,36.0,16.0,2.0,84.046,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,37.0,17.0,2.0,84.023,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,38.0,18.0,2.0,83.705,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,39.0,19.0,2.0,83.402,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,40.0,20.0,2.0,83.777,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,41.0,21.0,2.0,83.295,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,42.0,22.0,2.0,83.723,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,43.0,23.0,2.0,83.27,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,44.0,24.0,2.0,83.273,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,45.0,25.0,2.0,83.331,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,46.0,26.0,2.0,83.349,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,47.0,27.0,2.0,83.009,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,48.0,28.0,2.0,83.205,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,49.0,29.0,2.0,83.166,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,50.0,30.0,2.0,83.679,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,51.0,31.0,2.0,83.145,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,52.0,32.0,2.0,83.426,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,LEC,Charles Leclerc,16,Ferrari,HARD,53.0,33.0,2.0,83.722,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,SOFT,1.0,4.0,1.0,91.372,False,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,SOFT,2.0,5.0,1.0,86.502,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,SOFT,3.0,6.0,1.0,86.248,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,SOFT,4.0,7.0,1.0,86.101,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,SOFT,5.0,8.0,1.0,86.05,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,SOFT,6.0,9.0,1.0,99.281,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,SOFT,7.0,10.0,1.0,86.753,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,SOFT,8.0,11.0,1.0,86.441,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,SOFT,9.0,12.0,1.0,86.362,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,SOFT,10.0,13.0,1.0,86.084,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,SOFT,11.0,14.0,1.0,86.703,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,SOFT,12.0,15.0,1.0,86.451,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,SOFT,13.0,16.0,1.0,86.869,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,SOFT,14.0,17.0,1.0,86.872,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,SOFT,15.0,18.0,1.0,91.28,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,SOFT,16.0,19.0,2.0,101.299,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,SOFT,17.0,20.0,2.0,86.183,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,SOFT,18.0,21.0,2.0,86.007,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,SOFT,19.0,22.0,2.0,86.24,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,SOFT,20.0,23.0,2.0,86.09,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,SOFT,21.0,24.0,2.0,85.949,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,SOFT,22.0,25.0,2.0,90.487,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,23.0,1.0,3.0,105.004,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,24.0,2.0,3.0,85.416,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,25.0,3.0,3.0,84.887,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,26.0,4.0,3.0,84.589,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,27.0,5.0,3.0,84.725,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,28.0,6.0,3.0,101.666,False,,2671
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,29.0,7.0,3.0,84.522,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,30.0,8.0,3.0,109.239,False,,1267
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,31.0,9.0,3.0,84.165,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,32.0,10.0,3.0,84.346,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,33.0,11.0,3.0,84.374,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,34.0,12.0,3.0,84.341,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,35.0,13.0,3.0,84.284,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,36.0,14.0,3.0,84.348,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,37.0,15.0,3.0,84.29,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,38.0,16.0,3.0,84.412,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,39.0,17.0,3.0,84.225,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,40.0,18.0,3.0,84.463,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,41.0,19.0,3.0,87.82,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,42.0,20.0,3.0,86.899,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,43.0,21.0,3.0,84.758,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,44.0,22.0,3.0,84.466,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,45.0,23.0,3.0,84.542,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,46.0,24.0,3.0,84.45,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,47.0,25.0,3.0,84.612,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,48.0,26.0,3.0,84.671,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,49.0,27.0,3.0,84.855,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,50.0,28.0,3.0,84.552,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,51.0,29.0,3.0,84.623,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,STR,Lance Stroll,18,Racing Point,MEDIUM,52.0,30.0,3.0,84.614,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,1.0,1.0,1.0,93.363,False,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,2.0,2.0,1.0,87.354,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,3.0,3.0,1.0,86.926,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,4.0,4.0,1.0,86.242,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,5.0,5.0,1.0,86.45,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,6.0,6.0,1.0,88.303,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,7.0,7.0,1.0,86.476,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,8.0,8.0,1.0,88.385,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,9.0,9.0,1.0,87.726,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,10.0,10.0,1.0,86.791,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,11.0,11.0,1.0,87.387,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,12.0,12.0,1.0,87.161,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,13.0,13.0,1.0,86.775,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,14.0,14.0,1.0,86.562,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,15.0,15.0,1.0,86.469,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,16.0,16.0,1.0,86.225,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,17.0,17.0,1.0,86.322,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,18.0,18.0,1.0,86.377,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,19.0,19.0,1.0,86.287,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,20.0,20.0,1.0,91.215,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,21.0,1.0,2.0,105.229,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,22.0,2.0,2.0,85.305,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,23.0,3.0,2.0,85.54,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,24.0,4.0,2.0,85.747,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,25.0,5.0,2.0,85.261,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,26.0,6.0,2.0,85.535,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,27.0,7.0,2.0,85.484,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,28.0,8.0,2.0,102.337,False,,1267
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,29.0,9.0,2.0,85.406,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,30.0,10.0,2.0,107.053,False,,1267
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,31.0,11.0,2.0,90.114,False,,71
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,32.0,12.0,2.0,85.249,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,33.0,13.0,2.0,85.568,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,34.0,14.0,2.0,94.772,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,35.0,4.0,3.0,105.637,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,36.0,5.0,3.0,84.496,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,37.0,6.0,3.0,84.908,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,38.0,7.0,3.0,84.443,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,39.0,8.0,3.0,84.972,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,40.0,9.0,3.0,84.899,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,41.0,10.0,3.0,85.431,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,42.0,11.0,3.0,85.411,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,43.0,12.0,3.0,92.919,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,1.0,4.0,1.0,92.337,False,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,2.0,5.0,1.0,86.843,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,3.0,6.0,1.0,89.103,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,4.0,7.0,1.0,86.238,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,5.0,8.0,1.0,86.252,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,6.0,9.0,1.0,88.691,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,7.0,10.0,1.0,86.249,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,8.0,11.0,1.0,86.492,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,9.0,12.0,1.0,86.011,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,10.0,13.0,1.0,85.555,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,11.0,14.0,1.0,85.724,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,12.0,15.0,1.0,85.387,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,13.0,16.0,1.0,85.6,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,14.0,17.0,1.0,85.846,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,15.0,18.0,1.0,85.212,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,16.0,19.0,1.0,85.594,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,17.0,20.0,1.0,85.625,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,18.0,21.0,1.0,85.958,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,19.0,22.0,1.0,85.528,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,20.0,23.0,1.0,85.761,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,21.0,24.0,1.0,85.977,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,22.0,25.0,1.0,85.978,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,23.0,26.0,1.0,86.101,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,24.0,27.0,1.0,85.886,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,25.0,28.0,1.0,86.278,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,26.0,29.0,1.0,90.275,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,27.0,1.0,2.0,110.751,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,28.0,2.0,2.0,102.644,False,,1267
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,29.0,3.0,2.0,85.364,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,30.0,4.0,2.0,103.888,False,,126
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,31.0,5.0,2.0,89.542,False,,671
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,32.0,6.0,2.0,84.714,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,33.0,7.0,2.0,84.411,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,34.0,8.0,2.0,84.396,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,35.0,9.0,2.0,83.948,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,36.0,10.0,2.0,83.969,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,37.0,11.0,2.0,83.861,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,38.0,12.0,2.0,83.77,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,39.0,13.0,2.0,83.867,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,40.0,14.0,2.0,83.61,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,41.0,15.0,2.0,83.596,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,42.0,16.0,2.0,83.672,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,43.0,17.0,2.0,83.52,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,44.0,18.0,2.0,83.435,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,45.0,19.0,2.0,83.364,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,46.0,20.0,2.0,83.39,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,47.0,21.0,2.0,83.466,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,48.0,22.0,2.0,83.804,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,49.0,23.0,2.0,83.756,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,50.0,24.0,2.0,83.803,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,51.0,25.0,2.0,83.6,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,52.0,26.0,2.0,83.654,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,53.0,27.0,2.0,83.684,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,1.0,1.0,1.0,93.839,False,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,2.0,2.0,1.0,87.262,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,3.0,3.0,1.0,87.708,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,4.0,4.0,1.0,86.331,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,5.0,5.0,1.0,86.412,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,6.0,6.0,1.0,88.3,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,7.0,7.0,1.0,86.374,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,8.0,8.0,1.0,87.591,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,9.0,9.0,1.0,85.931,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,10.0,10.0,1.0,86.005,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,11.0,11.0,1.0,85.996,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,12.0,12.0,1.0,85.899,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,13.0,13.0,1.0,85.968,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,14.0,14.0,1.0,86.087,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,15.0,15.0,1.0,85.836,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,16.0,16.0,1.0,85.936,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,17.0,17.0,1.0,86.045,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,18.0,18.0,1.0,86.046,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,19.0,19.0,1.0,85.772,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,20.0,20.0,1.0,86.101,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,21.0,21.0,1.0,86.062,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,22.0,22.0,1.0,85.993,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,23.0,23.0,1.0,85.789,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,24.0,24.0,1.0,86.01,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,25.0,25.0,1.0,85.949,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,26.0,26.0,1.0,86.038,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,27.0,27.0,1.0,86.188,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,MEDIUM,28.0,28.0,1.0,98.338,False,,126
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KVY,Daniil Kvyat,26,Toro Rosso,SOFT,29.0,1.0,2.0,106.391,False,,671
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,1.0,4.0,1.0,89.232,False,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,2.0,5.0,1.0,86.92,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,3.0,6.0,1.0,86.026,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,4.0,7.0,1.0,86.031,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,5.0,8.0,1.0,86.743,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,6.0,9.0,1.0,86.331,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,7.0,10.0,1.0,86.09,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,8.0,11.0,1.0,86.133,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,9.0,12.0,1.0,86.024,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,10.0,13.0,1.0,85.934,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,11.0,14.0,1.0,85.681,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,12.0,15.0,1.0,85.713,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,13.0,16.0,1.0,85.721,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,14.0,17.0,1.0,85.806,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,15.0,18.0,1.0,85.671,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,16.0,19.0,1.0,85.539,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,17.0,20.0,1.0,85.565,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,18.0,21.0,1.0,85.79,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,19.0,22.0,1.0,85.585,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,20.0,23.0,1.0,85.563,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,21.0,24.0,1.0,85.797,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,22.0,25.0,1.0,85.93,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,23.0,26.0,1.0,87.736,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,24.0,27.0,1.0,85.965,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,25.0,28.0,1.0,85.862,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,26.0,29.0,1.0,85.758,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,27.0,30.0,1.0,85.726,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,28.0,31.0,1.0,87.756,False,,126
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,SOFT,29.0,32.0,1.0,103.757,False,,671
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,30.0,1.0,2.0,120.021,False,,126
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,31.0,2.0,2.0,93.766,False,,671
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,32.0,3.0,2.0,85.18,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,33.0,4.0,2.0,85.322,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,34.0,5.0,2.0,85.185,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,35.0,6.0,2.0,84.757,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,36.0,7.0,2.0,84.768,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,37.0,8.0,2.0,84.891,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,38.0,9.0,2.0,84.73,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,39.0,10.0,2.0,84.291,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,40.0,11.0,2.0,84.361,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,41.0,12.0,2.0,84.351,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,42.0,13.0,2.0,84.093,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,43.0,14.0,2.0,83.813,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,44.0,15.0,2.0,83.878,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,45.0,16.0,2.0,83.943,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,46.0,17.0,2.0,84.018,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,47.0,18.0,2.0,84.007,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,48.0,19.0,2.0,84.132,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,49.0,20.0,2.0,84.061,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,50.0,21.0,2.0,83.835,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,51.0,22.0,2.0,83.742,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,52.0,23.0,2.0,83.659,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HUL,Nico Hulkenberg,27,Renault,MEDIUM,53.0,24.0,2.0,83.641,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,1.0,4.0,1.0,90.436,False,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,2.0,5.0,1.0,86.483,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,3.0,6.0,1.0,86.108,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,4.0,7.0,1.0,85.549,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,5.0,8.0,1.0,85.345,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,6.0,9.0,1.0,86.246,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,7.0,10.0,1.0,86.043,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,8.0,11.0,1.0,85.887,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,9.0,12.0,1.0,85.907,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,10.0,13.0,1.0,85.695,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,11.0,14.0,1.0,85.686,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,12.0,15.0,1.0,85.705,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,13.0,16.0,1.0,85.558,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,14.0,17.0,1.0,85.509,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,15.0,18.0,1.0,85.536,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,16.0,19.0,1.0,85.426,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,17.0,20.0,1.0,85.498,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,18.0,21.0,1.0,85.327,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,19.0,22.0,1.0,85.803,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,20.0,23.0,1.0,85.538,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,21.0,24.0,1.0,85.451,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,22.0,25.0,1.0,85.427,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,23.0,26.0,1.0,85.381,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,24.0,27.0,1.0,85.47,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,25.0,28.0,1.0,85.654,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,26.0,29.0,1.0,87.263,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,27.0,30.0,1.0,85.396,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,28.0,31.0,1.0,85.763,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,29.0,32.0,1.0,100.158,False,,2671
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,SOFT,30.0,33.0,1.0,90.457,False,,126
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,31.0,1.0,2.0,116.981,False,,671
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,32.0,2.0,2.0,84.432,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,33.0,3.0,2.0,85.111,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,34.0,4.0,2.0,85.368,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,35.0,5.0,2.0,85.034,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,36.0,6.0,2.0,85.193,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,37.0,7.0,2.0,85.039,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,38.0,8.0,2.0,84.904,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,39.0,9.0,2.0,85.012,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,40.0,10.0,2.0,84.864,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,41.0,11.0,2.0,84.765,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,42.0,12.0,2.0,84.667,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,43.0,13.0,2.0,84.635,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,44.0,14.0,2.0,84.223,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,45.0,15.0,2.0,84.504,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,46.0,16.0,2.0,85.363,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,47.0,17.0,2.0,84.158,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,48.0,18.0,2.0,83.524,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,49.0,19.0,2.0,83.803,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,50.0,20.0,2.0,83.919,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,51.0,21.0,2.0,83.948,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,52.0,22.0,2.0,83.562,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RIC,Daniel Ricciardo,3,Renault,MEDIUM,53.0,23.0,2.0,83.466,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,1.0,1.0,1.0,101.132,False,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,2.0,1.0,2.0,111.395,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,3.0,2.0,2.0,84.532,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,4.0,3.0,2.0,84.662,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,5.0,4.0,2.0,84.579,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,6.0,5.0,2.0,85.029,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,7.0,6.0,2.0,84.798,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,8.0,7.0,2.0,85.019,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,9.0,8.0,2.0,85.075,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,10.0,9.0,2.0,86.396,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,11.0,10.0,2.0,86.283,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,12.0,11.0,2.0,84.988,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,13.0,12.0,2.0,85.412,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,14.0,13.0,2.0,85.809,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,15.0,14.0,2.0,85.126,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,16.0,15.0,2.0,84.852,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,17.0,16.0,2.0,85.016,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,18.0,17.0,2.0,85.153,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,19.0,18.0,2.0,85.508,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,20.0,19.0,2.0,85.997,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,21.0,20.0,2.0,86.456,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,22.0,21.0,2.0,85.579,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,23.0,22.0,2.0,86.192,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,24.0,23.0,2.0,86.178,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,25.0,24.0,2.0,85.723,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,26.0,25.0,2.0,86.236,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,SOFT,27.0,26.0,2.0,89.988,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,28.0,2.0,3.0,121.95,False,,1267
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,29.0,3.0,3.0,84.413,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,30.0,4.0,3.0,106.978,False,,1267
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,31.0,5.0,3.0,86.95,False,,71
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,32.0,6.0,3.0,84.896,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,33.0,7.0,3.0,85.413,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,34.0,8.0,3.0,84.447,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,35.0,9.0,3.0,83.338,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,36.0,10.0,3.0,83.437,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,37.0,11.0,3.0,83.414,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,38.0,12.0,3.0,83.569,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,39.0,13.0,3.0,83.407,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,40.0,14.0,3.0,83.859,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,41.0,15.0,3.0,83.143,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,42.0,16.0,3.0,83.446,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,43.0,17.0,3.0,83.607,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,44.0,18.0,3.0,83.552,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,45.0,19.0,3.0,84.786,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,46.0,20.0,3.0,84.881,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,47.0,21.0,3.0,84.104,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,48.0,22.0,3.0,84.177,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,49.0,23.0,3.0,84.037,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,50.0,24.0,3.0,83.988,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,51.0,25.0,3.0,83.756,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,52.0,26.0,3.0,84.121,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,53.0,27.0,3.0,84.375,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,MEDIUM,1.0,1.0,1.0,96.586,False,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,MEDIUM,2.0,2.0,1.0,89.069,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,MEDIUM,3.0,3.0,1.0,88.408,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,MEDIUM,4.0,4.0,1.0,88.173,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,MEDIUM,5.0,5.0,1.0,88.004,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,MEDIUM,6.0,6.0,1.0,87.996,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,MEDIUM,7.0,7.0,1.0,87.731,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,MEDIUM,8.0,8.0,1.0,86.333,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,MEDIUM,9.0,9.0,1.0,86.309,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,MEDIUM,10.0,10.0,1.0,86.282,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,MEDIUM,11.0,11.0,1.0,86.307,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,MEDIUM,12.0,12.0,1.0,85.953,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,MEDIUM,13.0,13.0,1.0,85.91,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,MEDIUM,14.0,14.0,1.0,86.391,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,MEDIUM,15.0,15.0,1.0,86.47,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,MEDIUM,16.0,16.0,1.0,86.046,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,MEDIUM,17.0,17.0,1.0,86.102,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,MEDIUM,18.0,18.0,1.0,86.181,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,MEDIUM,19.0,19.0,1.0,85.877,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,MEDIUM,20.0,20.0,1.0,85.976,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,MEDIUM,21.0,21.0,1.0,86.641,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,MEDIUM,22.0,22.0,1.0,87.422,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,MEDIUM,23.0,23.0,1.0,90.637,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,24.0,1.0,2.0,105.832,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,25.0,2.0,2.0,85.082,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,26.0,3.0,2.0,84.921,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,27.0,4.0,2.0,85.079,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,28.0,5.0,2.0,101.443,False,,1267
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,29.0,6.0,2.0,84.696,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,30.0,7.0,2.0,107.664,False,,1267
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,31.0,8.0,2.0,86.986,False,,71
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,32.0,9.0,2.0,85.274,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,33.0,10.0,2.0,85.434,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,34.0,11.0,2.0,84.589,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,35.0,12.0,2.0,85.595,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,36.0,13.0,2.0,84.76,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,37.0,14.0,2.0,84.38,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,38.0,15.0,2.0,84.373,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,39.0,16.0,2.0,84.712,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,40.0,17.0,2.0,84.514,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,41.0,18.0,2.0,84.5,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,42.0,19.0,2.0,84.485,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,43.0,20.0,2.0,84.265,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,44.0,21.0,2.0,84.095,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,45.0,22.0,2.0,84.427,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,46.0,23.0,2.0,84.359,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,47.0,24.0,2.0,84.238,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,48.0,25.0,2.0,84.392,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,49.0,26.0,2.0,84.379,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,50.0,27.0,2.0,87.441,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,51.0,28.0,2.0,84.322,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,NOR,Lando Norris,4,McLaren,HARD,52.0,29.0,2.0,84.044,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,1.0,4.0,1.0,87.298,False,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,2.0,5.0,1.0,85.433,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,3.0,6.0,1.0,85.0,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,4.0,7.0,1.0,85.151,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,5.0,8.0,1.0,85.234,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,6.0,9.0,1.0,84.713,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,7.0,10.0,1.0,84.915,True,,21
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,8.0,11.0,1.0,84.892,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,9.0,12.0,1.0,85.122,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,10.0,13.0,1.0,84.857,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,11.0,14.0,1.0,84.999,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,12.0,15.0,1.0,84.814,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,13.0,16.0,1.0,85.021,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,14.0,17.0,1.0,85.156,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,15.0,18.0,1.0,84.972,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,16.0,19.0,1.0,84.769,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,17.0,20.0,1.0,84.888,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,18.0,21.0,1.0,85.041,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,19.0,22.0,1.0,89.456,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,20.0,1.0,2.0,103.243,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,21.0,2.0,2.0,84.723,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,22.0,3.0,2.0,84.196,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,23.0,4.0,2.0,84.924,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,24.0,5.0,2.0,84.258,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,25.0,6.0,2.0,84.22,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,26.0,7.0,2.0,83.915,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,27.0,8.0,2.0,83.724,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,28.0,9.0,2.0,83.834,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,29.0,10.0,2.0,99.524,False,,2671
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,30.0,11.0,2.0,84.425,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,31.0,12.0,2.0,106.845,False,,2671
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,32.0,13.0,2.0,83.592,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,33.0,14.0,2.0,84.164,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,34.0,15.0,2.0,83.711,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,35.0,16.0,2.0,83.659,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,36.0,17.0,2.0,84.127,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,37.0,18.0,2.0,84.027,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,38.0,19.0,2.0,83.51,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,39.0,20.0,2.0,83.756,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,40.0,21.0,2.0,83.891,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,41.0,22.0,2.0,83.36,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,42.0,23.0,2.0,86.028,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,43.0,24.0,2.0,83.813,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,44.0,25.0,2.0,83.961,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,45.0,26.0,2.0,83.574,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,46.0,27.0,2.0,83.796,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,47.0,28.0,2.0,84.125,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,48.0,29.0,2.0,84.101,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,49.0,30.0,2.0,88.687,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,50.0,3.0,3.0,104.537,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,51.0,4.0,3.0,81.779,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,52.0,5.0,3.0,84.122,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,53.0,6.0,3.0,85.982,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,SOFT,1.0,5.0,1.0,89.463,False,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,SOFT,2.0,6.0,1.0,85.527,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,SOFT,3.0,7.0,1.0,85.122,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,SOFT,4.0,8.0,1.0,84.93,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,SOFT,5.0,9.0,1.0,85.118,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,SOFT,6.0,10.0,1.0,111.038,False,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,7.0,1.0,2.0,114.863,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,8.0,2.0,2.0,85.412,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,9.0,3.0,2.0,85.085,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,10.0,4.0,2.0,84.982,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,11.0,5.0,2.0,84.854,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,12.0,6.0,2.0,89.446,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,13.0,7.0,3.0,112.766,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,14.0,8.0,3.0,85.07,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,15.0,9.0,3.0,85.179,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,16.0,10.0,3.0,85.088,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,17.0,11.0,3.0,85.61,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,18.0,12.0,3.0,84.924,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,19.0,13.0,3.0,84.857,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,20.0,14.0,3.0,84.793,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,21.0,15.0,3.0,85.883,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,22.0,16.0,3.0,85.508,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,23.0,17.0,3.0,85.308,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,24.0,18.0,3.0,85.692,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,25.0,19.0,3.0,84.773,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,26.0,20.0,3.0,84.719,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,27.0,21.0,3.0,84.786,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,28.0,22.0,3.0,101.176,False,,2671
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,29.0,23.0,3.0,85.18,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,30.0,24.0,3.0,108.076,False,,2671
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,31.0,25.0,3.0,85.647,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,32.0,26.0,3.0,87.703,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,33.0,27.0,3.0,85.32,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,34.0,28.0,3.0,84.603,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,35.0,29.0,3.0,86.686,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,36.0,30.0,3.0,84.383,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,37.0,31.0,3.0,84.343,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,38.0,32.0,3.0,84.549,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,39.0,33.0,3.0,84.982,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,40.0,34.0,3.0,85.743,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,HARD,41.0,35.0,3.0,89.492,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,42.0,1.0,4.0,104.643,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,43.0,2.0,4.0,83.454,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,44.0,3.0,4.0,84.031,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,45.0,4.0,4.0,83.307,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,46.0,5.0,4.0,83.587,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,47.0,6.0,4.0,83.302,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,48.0,7.0,4.0,83.255,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,49.0,8.0,4.0,83.025,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,50.0,9.0,4.0,82.799,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,51.0,10.0,4.0,82.958,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,52.0,11.0,4.0,82.912,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,1.0,4.0,1.0,91.738,False,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,2.0,5.0,1.0,86.935,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,3.0,6.0,1.0,87.6,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,4.0,7.0,1.0,85.858,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,5.0,8.0,1.0,85.728,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,6.0,9.0,1.0,86.85,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,7.0,10.0,1.0,85.745,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,8.0,11.0,1.0,85.828,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,9.0,12.0,1.0,86.042,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,10.0,13.0,1.0,85.637,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,11.0,14.0,1.0,85.879,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,12.0,15.0,1.0,86.004,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,13.0,16.0,1.0,85.841,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,14.0,17.0,1.0,85.944,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,15.0,18.0,1.0,86.235,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,16.0,19.0,1.0,85.862,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,17.0,20.0,1.0,86.043,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,18.0,21.0,1.0,86.19,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,19.0,22.0,1.0,86.081,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,20.0,23.0,1.0,86.342,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,21.0,24.0,1.0,86.314,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,22.0,25.0,1.0,86.116,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,23.0,26.0,1.0,86.123,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,24.0,27.0,1.0,85.955,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,25.0,28.0,1.0,86.068,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,26.0,29.0,1.0,86.046,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,SAI,Carlos Sainz,55,McLaren,SOFT,27.0,30.0,1.0,90.422,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,MEDIUM,1.0,1.0,1.0,95.318,False,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,MEDIUM,2.0,2.0,1.0,88.634,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,MEDIUM,3.0,3.0,1.0,88.19,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,MEDIUM,4.0,4.0,1.0,89.196,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,MEDIUM,5.0,5.0,1.0,89.715,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,MEDIUM,6.0,6.0,1.0,89.352,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,MEDIUM,7.0,7.0,1.0,88.102,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,MEDIUM,8.0,8.0,1.0,87.933,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,MEDIUM,9.0,9.0,1.0,88.485,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,MEDIUM,10.0,10.0,1.0,86.844,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,MEDIUM,11.0,11.0,1.0,88.076,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,MEDIUM,12.0,12.0,1.0,86.58,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,MEDIUM,13.0,13.0,1.0,87.045,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,MEDIUM,14.0,14.0,1.0,86.899,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,MEDIUM,15.0,15.0,1.0,87.121,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,MEDIUM,16.0,16.0,1.0,86.909,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,MEDIUM,17.0,17.0,1.0,86.613,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,MEDIUM,18.0,18.0,1.0,86.961,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,MEDIUM,19.0,19.0,1.0,86.841,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,MEDIUM,20.0,20.0,1.0,87.134,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,MEDIUM,21.0,21.0,1.0,86.925,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,MEDIUM,22.0,22.0,1.0,86.425,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,MEDIUM,23.0,23.0,1.0,90.435,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,24.0,1.0,2.0,105.502,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,25.0,2.0,2.0,86.739,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,26.0,3.0,2.0,85.312,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,27.0,4.0,2.0,85.235,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,28.0,5.0,2.0,101.669,False,,2671
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,29.0,6.0,2.0,85.928,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,30.0,7.0,2.0,108.162,False,,1267
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,31.0,8.0,2.0,85.559,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,32.0,9.0,2.0,88.183,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,33.0,10.0,2.0,87.199,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,34.0,11.0,2.0,86.569,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,35.0,12.0,2.0,85.3,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,36.0,13.0,2.0,84.991,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,37.0,14.0,2.0,85.291,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,38.0,15.0,2.0,85.071,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,39.0,16.0,2.0,85.057,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,40.0,17.0,2.0,84.934,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,41.0,18.0,2.0,84.876,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,42.0,19.0,2.0,85.032,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,43.0,20.0,2.0,85.24,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,44.0,21.0,2.0,84.974,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,45.0,22.0,2.0,85.308,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,46.0,23.0,2.0,85.197,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,47.0,24.0,2.0,87.134,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,48.0,25.0,2.0,85.45,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,49.0,26.0,2.0,85.741,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,50.0,27.0,2.0,85.393,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,51.0,28.0,2.0,84.842,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RUS,George Russell,63,Williams,HARD,52.0,29.0,2.0,85.814,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,1.0,1.0,1.0,97.442,False,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,2.0,2.0,1.0,88.92,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,3.0,3.0,1.0,87.777,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,4.0,4.0,1.0,88.612,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,5.0,5.0,1.0,88.658,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,6.0,6.0,1.0,87.787,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,7.0,7.0,1.0,88.554,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,8.0,8.0,1.0,88.326,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,9.0,9.0,1.0,86.205,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,10.0,10.0,1.0,86.406,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,11.0,11.0,1.0,86.825,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,12.0,12.0,1.0,86.243,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,13.0,13.0,1.0,86.672,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,14.0,14.0,1.0,86.477,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,15.0,15.0,1.0,87.418,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,16.0,16.0,1.0,86.451,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,17.0,17.0,1.0,86.51,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,18.0,18.0,1.0,86.831,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,19.0,19.0,1.0,91.093,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,20.0,20.0,2.0,114.85,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,21.0,21.0,2.0,87.889,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,22.0,22.0,2.0,86.828,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,23.0,23.0,2.0,86.911,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,24.0,24.0,2.0,86.516,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,25.0,25.0,2.0,86.439,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,26.0,26.0,2.0,90.552,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,27.0,1.0,3.0,114.053,False,,126
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,28.0,2.0,3.0,92.156,False,,671
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,29.0,3.0,3.0,92.525,False,,126
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,30.0,4.0,3.0,101.557,False,,671
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,31.0,5.0,3.0,84.863,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,32.0,6.0,3.0,85.221,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,33.0,7.0,3.0,86.332,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,34.0,8.0,3.0,86.628,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,35.0,9.0,3.0,85.868,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,36.0,10.0,3.0,85.888,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,37.0,11.0,3.0,85.744,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,38.0,12.0,3.0,85.728,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,39.0,13.0,3.0,85.374,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,40.0,14.0,3.0,85.338,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,41.0,15.0,3.0,85.293,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,42.0,16.0,3.0,84.958,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,43.0,17.0,3.0,85.048,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,44.0,18.0,3.0,85.266,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,45.0,19.0,3.0,84.642,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,46.0,20.0,3.0,84.588,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,47.0,21.0,3.0,86.637,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,48.0,22.0,3.0,85.725,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,49.0,23.0,3.0,84.483,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,50.0,24.0,3.0,85.233,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,51.0,25.0,3.0,85.106,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,SOFT,52.0,26.0,3.0,84.419,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,1.0,4.0,1.0,88.001,False,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,2.0,5.0,1.0,85.586,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,3.0,6.0,1.0,85.135,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,4.0,7.0,1.0,85.158,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,5.0,8.0,1.0,85.315,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,6.0,9.0,1.0,84.999,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,7.0,10.0,1.0,85.063,True,,21
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,8.0,11.0,1.0,85.21,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,9.0,12.0,1.0,84.941,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,10.0,13.0,1.0,84.642,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,11.0,14.0,1.0,84.818,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,12.0,15.0,1.0,84.973,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,13.0,16.0,1.0,84.971,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,14.0,17.0,1.0,85.193,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,15.0,18.0,1.0,85.284,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,16.0,19.0,1.0,85.069,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,17.0,20.0,1.0,84.673,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,18.0,21.0,1.0,84.915,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,19.0,22.0,1.0,84.989,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,20.0,23.0,1.0,85.014,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,21.0,24.0,1.0,85.128,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,22.0,25.0,1.0,84.929,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,23.0,26.0,1.0,84.847,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,24.0,27.0,1.0,84.97,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,25.0,28.0,1.0,85.115,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,26.0,29.0,1.0,85.199,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,SOFT,27.0,30.0,1.0,89.671,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,28.0,1.0,2.0,103.415,False,,126
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,29.0,2.0,2.0,98.335,False,,671
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,30.0,3.0,2.0,82.896,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,31.0,4.0,2.0,106.262,False,,2671
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,32.0,5.0,2.0,84.019,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,33.0,6.0,2.0,83.537,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,34.0,7.0,2.0,83.651,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,35.0,8.0,2.0,83.494,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,36.0,9.0,2.0,83.115,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,37.0,10.0,2.0,83.371,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,38.0,11.0,2.0,83.179,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,39.0,12.0,2.0,83.173,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,40.0,13.0,2.0,83.316,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,41.0,14.0,2.0,83.016,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,42.0,15.0,2.0,83.378,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,43.0,16.0,2.0,83.011,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,44.0,17.0,2.0,82.974,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,45.0,18.0,2.0,83.078,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,46.0,19.0,2.0,83.874,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,47.0,20.0,2.0,82.859,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,48.0,21.0,2.0,83.137,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,49.0,22.0,2.0,83.07,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,50.0,23.0,2.0,82.971,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,51.0,24.0,2.0,83.816,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,52.0,25.0,2.0,82.961,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,53.0,26.0,2.0,83.784,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,1.0,1.0,1.0,95.756,False,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,2.0,2.0,1.0,88.943,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,3.0,3.0,1.0,88.722,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,4.0,4.0,1.0,88.378,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,5.0,5.0,1.0,87.653,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,6.0,6.0,1.0,87.51,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,7.0,7.0,1.0,100.634,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,8.0,1.0,2.0,109.76,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,9.0,2.0,2.0,86.366,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,10.0,3.0,2.0,86.394,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,11.0,4.0,2.0,86.225,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,12.0,5.0,2.0,86.465,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,13.0,6.0,2.0,87.981,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,14.0,7.0,2.0,86.735,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,15.0,8.0,2.0,86.948,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,16.0,9.0,2.0,86.396,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,17.0,10.0,2.0,86.583,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,18.0,11.0,2.0,86.813,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,19.0,12.0,2.0,91.098,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,20.0,13.0,2.0,86.73,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,21.0,14.0,2.0,86.602,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,22.0,15.0,2.0,86.445,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,23.0,16.0,2.0,87.526,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,24.0,17.0,2.0,86.829,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,25.0,18.0,2.0,87.126,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,26.0,19.0,2.0,86.735,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,27.0,20.0,2.0,89.458,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,28.0,21.0,2.0,100.815,False,,2671
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,29.0,22.0,2.0,95.178,False,,126
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,30.0,1.0,3.0,117.856,False,,671
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,31.0,2.0,3.0,84.985,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,32.0,3.0,3.0,85.435,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,33.0,4.0,3.0,85.437,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,34.0,5.0,3.0,85.411,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,35.0,6.0,3.0,86.383,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,36.0,7.0,3.0,87.702,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,37.0,8.0,3.0,86.213,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,38.0,9.0,3.0,87.249,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,39.0,10.0,3.0,86.364,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,40.0,11.0,3.0,87.788,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,41.0,12.0,3.0,85.873,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,42.0,13.0,3.0,87.306,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,43.0,14.0,3.0,86.005,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,44.0,15.0,3.0,85.389,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,45.0,16.0,3.0,85.473,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,46.0,17.0,3.0,85.203,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,47.0,18.0,3.0,88.124,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,48.0,19.0,3.0,85.43,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,49.0,20.0,3.0,85.145,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,50.0,21.0,3.0,85.514,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,51.0,22.0,3.0,85.831,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GRO,Romain Grosjean,8,Haas F1 Team,SOFT,52.0,23.0,3.0,86.52,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,1.0,1.0,1.0,94.659,False,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,2.0,2.0,1.0,88.801,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,3.0,3.0,1.0,88.233,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,4.0,4.0,1.0,88.618,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,5.0,5.0,1.0,88.747,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,6.0,6.0,1.0,89.079,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,7.0,7.0,1.0,89.061,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,8.0,8.0,1.0,88.457,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,9.0,9.0,1.0,88.93,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,10.0,10.0,1.0,89.432,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,11.0,11.0,1.0,88.305,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,12.0,12.0,1.0,87.788,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,13.0,13.0,1.0,87.997,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,14.0,14.0,1.0,87.748,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,15.0,15.0,1.0,87.907,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,16.0,16.0,1.0,88.537,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,17.0,17.0,1.0,87.826,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,18.0,18.0,1.0,87.628,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,19.0,19.0,1.0,87.707,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,20.0,20.0,1.0,87.43,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,21.0,21.0,1.0,87.284,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,22.0,22.0,1.0,87.307,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,23.0,23.0,1.0,87.42,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,24.0,24.0,1.0,87.61,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,25.0,25.0,1.0,87.101,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,26.0,26.0,1.0,87.512,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,27.0,27.0,1.0,87.552,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,28.0,28.0,1.0,102.817,False,,2671
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,29.0,29.0,1.0,92.89,False,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,SOFT,30.0,1.0,2.0,128.219,False,,2671
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,SOFT,31.0,2.0,2.0,86.113,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,SOFT,32.0,3.0,2.0,88.323,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,SOFT,33.0,4.0,2.0,86.287,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,SOFT,34.0,5.0,2.0,86.741,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,SOFT,35.0,6.0,2.0,87.617,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,SOFT,36.0,7.0,2.0,87.053,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,SOFT,37.0,8.0,2.0,86.92,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,SOFT,38.0,9.0,2.0,86.709,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,SOFT,39.0,10.0,2.0,86.717,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,SOFT,40.0,11.0,2.0,87.613,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,SOFT,41.0,12.0,2.0,86.169,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,SOFT,42.0,13.0,2.0,87.245,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,SOFT,43.0,14.0,2.0,86.1,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,SOFT,44.0,15.0,2.0,99.222,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,45.0,1.0,3.0,105.306,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,46.0,2.0,3.0,85.367,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,47.0,3.0,3.0,84.989,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,48.0,4.0,3.0,85.261,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,49.0,5.0,3.0,85.603,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,50.0,6.0,3.0,85.01,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,KUB,Robert Kubica,88,Williams,MEDIUM,51.0,7.0,3.0,85.017,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,1.0,1.0,1.0,92.702,False,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,2.0,2.0,1.0,87.258,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,3.0,3.0,1.0,87.15,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,4.0,4.0,1.0,86.073,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,5.0,5.0,1.0,85.903,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,6.0,6.0,1.0,88.212,True,,12
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,7.0,7.0,1.0,85.907,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,8.0,8.0,1.0,85.769,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,9.0,9.0,1.0,85.911,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,10.0,10.0,1.0,86.052,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,11.0,11.0,1.0,86.148,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,12.0,12.0,1.0,86.126,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,13.0,13.0,1.0,86.038,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,14.0,14.0,1.0,86.491,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,15.0,15.0,1.0,87.033,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,16.0,16.0,1.0,86.55,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,17.0,17.0,1.0,86.099,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,18.0,18.0,1.0,86.292,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,19.0,19.0,1.0,86.107,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,20.0,20.0,1.0,86.212,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,SOFT,21.0,21.0,1.0,90.616,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,22.0,1.0,2.0,107.197,False,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,23.0,2.0,2.0,85.94,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,24.0,3.0,2.0,85.544,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,25.0,4.0,2.0,85.327,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,26.0,5.0,2.0,85.365,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,27.0,6.0,2.0,85.477,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,28.0,7.0,2.0,101.727,False,,1267
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,29.0,8.0,2.0,86.591,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,30.0,9.0,2.0,103.787,False,,126
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,31.0,10.0,2.0,90.151,False,,671
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,32.0,11.0,2.0,85.1,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,33.0,12.0,2.0,86.813,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,34.0,13.0,2.0,84.824,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,35.0,14.0,2.0,84.843,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,36.0,15.0,2.0,84.913,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,37.0,16.0,2.0,85.01,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,38.0,17.0,2.0,85.925,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,39.0,18.0,2.0,85.12,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,40.0,19.0,2.0,84.674,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,41.0,20.0,2.0,85.597,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,42.0,21.0,2.0,84.68,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,43.0,22.0,2.0,84.631,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,44.0,23.0,2.0,84.503,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,45.0,24.0,2.0,84.759,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,46.0,25.0,2.0,84.847,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,47.0,26.0,2.0,84.597,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,48.0,27.0,2.0,84.581,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,49.0,28.0,2.0,84.933,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,50.0,29.0,2.0,84.549,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,51.0,30.0,2.0,84.819,True,,1
+2019,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 GRAN PREMIO HEINEKEN D'ITALIA 2019,Monza,Italy,Monza,2019-09-08,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,52.0,31.0,2.0,88.1,True,,1

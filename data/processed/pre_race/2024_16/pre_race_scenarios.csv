@@ -1,0 +1,2 @@
+condition,weight,strategy,strategy_type,estimated_race_time,strategy_score,pit_laps,stint_lengths,tyre_usage,confidence_score,candidate_count,selected_event_laps_used_for_training,degradation_sensitivity_sd_seconds
+DRY,1.0,MEDIUM → HARD,1-STOP,4844.755872445239,4844.965954776056,[16],"[16, 37]","{'MEDIUM': 1, 'HARD': 1}",44.74446978256664,5590,False,17.49032212095715

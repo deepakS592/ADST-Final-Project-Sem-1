@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#090b0e">
+  <meta name="description" content="Formula 1 strategy control room for cutoff-safe race analysis, tyre history and pit planning.">
+  <title>F1 Pitwall | Strategy Control</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}?v=season-transition-1">
+</head>
+<body>
+  <div class="scanline" aria-hidden="true"></div>
+  <header class="masthead">
+    <a class="brand" href="/" aria-label="F1 Pitwall home">
+      <span class="brand-mark">F1</span>
+      <span class="brand-copy"><b>F1 PITWALL</b><small>STRATEGY CONTROL</small></span>
+    </a>
+    <div class="masthead-readout" aria-live="polite"><i class="live-dot"></i><span id="database-stats">CONNECTING TO SQLITE</span></div>
+    <div class="masthead-actions">
+      <button id="quality-link" class="utility-button" type="button"><span class="utility-icon">▦</span> DATA QUALITY</button>
+      <button id="refresh-data" class="utility-button" type="button"><span class="utility-icon">↻</span> REFRESH LOCAL DATA</button>
+    </div>
+  </header>
+
+  <main class="control-room">
+    <section class="command-strip panel" aria-label="Race selection controls">
+      <div class="strip-title"><span class="eyebrow">RACE CONTROL</span><b id="season-context">SEASON CALENDAR</b></div>
+      <div class="preset-group" role="group" aria-label="Race presets">
+        <button id="current-race-button" class="preset-button" type="button" disabled>CURRENT</button>
+        <button id="next-race-button" class="preset-button" type="button" disabled>NEXT</button>
+        <button id="choose-race-button" class="preset-button active" type="button">UPCOMING</button>
+      </div>
+      <label class="select-control"><span>SEASON</span><select id="race-season" disabled><option value="">Loading seasons…</option></select></label>
+      <label class="select-control race-control"><span>RACE</span><select id="race-select" disabled><option value="">Choose a season</option></select></label>
+      <p id="race-selector-note" class="strip-note">Loading the current season calendar…</p>
+    </section>
+
+    <section class="race-hero" aria-labelledby="focus-title">
+      <div class="hero-topline"><span id="focus-round" class="round-tag">RACE WEEKEND</span><span id="focus-status" class="status-pill loading">LOADING EVENT</span></div>
+      <div class="hero-layout">
+        <div class="hero-copy">
+          <p id="focus-label" class="eyebrow red">CURRENT RACE / NEXT RACE</p>
+          <h1 id="focus-title">Finding the next Grand Prix…</h1>
+          <p id="focus-track" class="hero-location">Circuit details will appear here.</p>
+          <p id="focus-official-name" class="official-name"></p>
+          <div class="hero-facts">
+            <div><span>RACE DATE</span><b id="focus-date">—</b></div>
+            <div><span>ROUND / STATUS</span><b id="focus-weekend">—</b></div>
+            <div><span>DISTANCE</span><b id="focus-race-laps">RACE DISTANCE · —</b></div>
+            <div><span>CUTOFF BUNDLE</span><b id="focus-model-status">CHECKING</b></div>
+          </div>
+        </div>
+        <div class="car-stage" aria-label="Local F1 car illustration">
+          <div class="car-stamp">PIT<br><b>WALL</b></div>
+          <div class="telemetry-line telemetry-line-one"></div>
+          <div class="telemetry-line telemetry-line-two"></div>
+          <img class="hero-car" src="{{ url_for('static', filename='images/f1-car.svg') }}" alt="Illustrated Formula 1 car">
+          <span class="car-caption">F1 · RACE STRATEGY OPERATIONS</span>
+        </div>
+        <aside class="driver-console" aria-label="Driver and prediction controls">
+          <div class="console-heading"><span class="eyebrow">DRIVER TELEMETRY</span><span class="micro-status">TRACK ANALYSIS AVAILABLE</span></div>
+          <div class="driver-card" id="driver-card">
+            <div class="driver-number" id="driver-number">—</div>
+            <div class="driver-card-copy"><span class="eyebrow">DRIVER NUMBER</span><b id="driver-name">Select a driver</b><span id="driver-team">Track analysis is ready without a driver</span></div>
+          </div>
+          <div class="driver-facts"><span id="driver-meta">Choose a driver to load historical context.</span><b id="driver-entry-status">ENTRY NOT SELECTED</b><span id="focus-driver-note"></span></div>
+          <label class="select-control driver-select"><span>DRIVER</span><select id="driver-select" disabled><option value="">Loading drivers…</option></select></label>
+          <button id="predict-button" class="predict-button" type="button" disabled><span class="predict-icon">↗</span><span>PREDICT PIT STRATEGY</span></button>
+          <p id="prediction-availability" class="console-note">Track analysis is available before driver selection. Choose a driver to enable the offline strategy model.</p>
+          <div id="error-message" class="error-message" role="alert" hidden></div>
+          <div id="analysis-status" class="analysis-status" role="status" aria-live="polite" hidden></div>
+        </aside>
+      </div>
+      <div class="hero-foot"><span><i class="foot-signal"></i> PRE-RACE · CUTOFF-SAFE WORKSPACE</span><span id="data-updated">LOCAL DATA SNAPSHOT</span></div>
+    </section>
+
+    <div class="workspace-grid">
+      <div class="workspace-main">
+        <section class="track-intelligence" id="track-intelligence" aria-labelledby="track-intelligence-title">
+          <div class="section-heading">
+            <div><span class="section-index">01 / CIRCUIT INTELLIGENCE</span><h2 id="track-intelligence-title">Track analysis</h2><p id="track-analysis-subtitle">Circuit history loads independently of driver selection.</p></div>
+            <span id="track-analysis-status" class="status-pill loading">LOADING CIRCUIT DATA…</span>
+          </div>
+
+          <article class="track-summary panel">
+            <div class="track-map-cell">
+              <div class="track-map-frame">
+                <img id="track-map" alt="Local circuit outline" hidden>
+                <div id="track-map-fallback" class="track-map-fallback"><span class="fallback-mark">⌁</span><b>TRACK MAP UNAVAILABLE</b><small>Circuit analysis remains available</small></div>
+              </div>
+              <div class="track-map-caption"><b id="track-map-title">CIRCUIT</b><span id="track-map-meta">Waiting for event metadata</span></div>
+            </div>
+            <div class="history-cell">
+              <div class="history-heading"><div><span class="eyebrow red">CIRCUIT HISTORY USED</span><h3 id="circuit-history-message">Loading completed race history…</h3></div><strong id="circuit-history-count">— / 6</strong></div>
+              <div id="circuit-history-years" class="history-years" aria-label="Circuit history race years">—</div>
+              <div id="circuit-coverage-metrics" class="coverage-metrics"></div>
+              <div id="circuit-race-list" class="circuit-race-list"></div>
+              <p id="track-data-quality" class="data-note">Waiting for the selected event cutoff and circuit history.</p>
+            </div>
+          </article>
+
+          <div class="analysis-grid">
+            <article class="analysis-card panel" aria-labelledby="tyre-title">
+              <div class="card-heading"><div><span class="eyebrow">LOCAL COMPOUND PROFILE</span><h3 id="tyre-title">Tyre pace</h3></div><span id="tyre-track-label" class="card-tag">PRE-CUTOFF</span></div>
+              <div id="tyre-chart" class="tyre-visualization" aria-live="polite"><p class="empty-state">Loading circuit tyre observations…</p></div>
+              <div id="tyre-fallback" class="fallback-profile" hidden></div>
+              <p id="tyre-legend" class="chart-note"></p>
+            </article>
+            <article class="analysis-card panel" aria-labelledby="degradation-title">
+              <div class="card-heading"><div><span class="eyebrow">TYRE-AGE RESPONSE</span><h3 id="degradation-title">Degradation</h3></div><span class="card-tag">SECONDS / LAP</span></div>
+              <div id="degradation-chart" class="degradation-visualization" aria-live="polite"><p class="empty-state">Loading tyre-age observations…</p></div>
+              <p id="degradation-legend" class="chart-note"></p>
+            </article>
+            <article class="analysis-card panel pit-history-card" aria-labelledby="pit-history-title">
+              <div class="card-heading"><div><span class="eyebrow">PIT-LANE TELEMETRY</span><h3 id="pit-history-title">Pit windows</h3></div><span class="card-tag">RACE PROGRESS</span></div>
+              <div id="history-stats" class="history-stats"></div>
+              <div class="pit-lane-chart" id="pit-lane-chart" aria-label="Historical and recommended pit windows"></div>
+              <div id="pit-window-distribution" class="pit-window-distribution"></div>
+              <div class="pit-detail-split"><div><span class="micro-label">COMMON PIT-LAP BANDS</span><div id="pit-lap-bands" class="pit-lap-bands"></div></div><div><span class="micro-label">COMMON NEXT COMPOUNDS</span><div id="next-compound-support" class="next-compound-support"></div></div></div>
+              <div class="pit-lane-legend"><span><i class="legend-historical"></i>Historical stops</span><span><i class="legend-recommended"></i>Recommended</span><span><i class="legend-alternative"></i>Alternative</span></div>
+            </article>
+            <article class="analysis-card panel strategy-history-card" aria-labelledby="strategy-history-title">
+              <div class="card-heading"><div><span class="eyebrow">HISTORICAL OBSERVATIONS</span><h3 id="strategy-history-title">Strategy distribution</h3></div><span id="strategy-source" class="card-tag">SOURCE-BACKED</span></div>
+              <p class="chart-note strategy-disclaimer">Historical observations · not predicted success probability</p>
+              <div id="strategy-distribution" class="strategy-distribution"></div>
+            </article>
+          </div>
+        </section>
+      </div>
+
+      <aside class="workspace-rail" aria-label="Weather, data and model status">
+        <section class="rail-card weather-card panel" aria-labelledby="weather-title">
+          <div class="card-heading"><div><span class="eyebrow">LIVE CONDITIONS / EVENT FORECAST</span><h3 id="weather-title">Weather telemetry</h3></div><span id="weather-updated" class="card-tag">WAITING</span></div>
+          <div class="weather-grid">
+            <div class="weather-value"><span>CURRENT</span><b id="weather-current">—</b><small id="weather-current-detail">Condition unavailable</small></div>
+            <div class="weather-value"><span>RACE FORECAST</span><b id="weather-race">—</b><small id="weather-race-detail">Forecast unavailable</small></div>
+            <div class="weather-value"><span>RAIN CHANCE</span><b id="weather-rain">—</b><small>EVENT WINDOW</small></div>
+            <div class="weather-value"><span>WIND</span><b id="weather-wind">—</b><small>EVENT WINDOW</small></div>
+          </div>
+          <div class="forecast-heading"><span>FORECAST COVERAGE</span><b id="forecast-coverage">Not available</b></div>
+          <div id="forecast-strip" class="forecast-strip"><span class="forecast-placeholder">Select a race to check its forecast window.</span></div>
+          <p id="weather-fallback" class="weather-fallback" hidden></p>
+          <div class="historical-weather"><span>HISTORICAL CIRCUIT WEATHER</span><b id="weather-historical">Not available in local observations</b></div>
+          <button id="refresh-weather" class="text-button weather-refresh" type="button" disabled>REFRESH FORECAST ↻</button>
+        </section>
+
+        <section class="rail-card data-quality-card panel" aria-labelledby="data-quality-title">
+          <div class="card-heading"><div><span class="eyebrow">SOURCE COVERAGE</span><h3 id="data-quality-title">Data quality</h3></div><span id="data-quality-status" class="card-tag">CHECKING</span></div>
+          <div id="data-quality-grid" class="data-quality-grid"></div>
+          <p id="data-quality-note" class="chart-note">Coverage is read from the local SQLite and event-context APIs.</p>
+        </section>
+
+        <section class="rail-card model-card panel" aria-labelledby="model-title">
+          <div class="card-heading"><div><span class="eyebrow">MACHINE-LEARNING SYSTEM</span><h3 id="model-title">Model performance</h3></div><span class="card-tag">RANDOM FOREST</span></div>
+          <div class="model-unit"><span>LAP-TIME REGRESSION</span><div id="model-lap-metrics" class="model-metrics"></div></div>
+          <div class="model-unit"><span>NEXT-TYRE CLASSIFICATION</span><div id="model-tyre-metrics" class="model-metrics"></div></div>
+          <p id="model-holdout" class="chart-note">Historical validation metrics · not a future-performance guarantee.</p>
+          <div class="model-state-grid">
+            <div><span>EVENT BUNDLE</span><b id="bundle-status">Waiting for race context</b></div>
+            <div><span>TRAINING CUTOFF</span><b id="training-cutoff">Set per selected event</b></div>
+            <div><span>DATABASE ROWS</span><b id="database-rows">—</b></div>
+            <div><span>PREDICTION CACHE</span><b id="cache-status">Ready when requested</b></div>
+          </div>
+          <p id="model-note" class="chart-note model-note">Prediction runs only after selecting a driver and pressing Predict. Fitted bundles are loaded offline.</p>
+        </section>
+      </aside>
+    </div>
+
+    <section class="prediction-empty panel" id="prediction-empty" aria-live="polite">
+      <div class="empty-lock">01</div><div><span class="eyebrow red">STRATEGY RUNNER</span><h2>Race analysis is ready</h2><p id="prediction-empty-note">Circuit history, tyre observations, pit windows and weather load before driver selection. Choose a driver to unlock the pre-race strategy plan.</p></div>
+      <span class="locked-state">DRIVER SELECTION REQUIRED</span>
+    </section>
+
+    <section id="results" class="results" hidden aria-labelledby="result-title">
+      <div class="result-heading"><div><span class="section-index">02 / PRE-RACE STRATEGY</span><h2 id="result-title">Recommended strategy</h2><p id="result-context" class="result-context"></p></div><span id="mode-pill" class="mode-pill">PRE-RACE</span></div>
+      <div class="summary-grid">
+        <article class="metric-card strategy-card"><span>RECOMMENDED TYRE PLAN</span><strong id="strategy-value">—</strong><small id="strategy-subtitle">—</small></article>
+        <article class="metric-card"><span>PIT WINDOW</span><strong id="pit-window-value">—</strong><small id="pit-window-detail">—</small></article>
+        <article class="metric-card"><span>PRIMARY PIT LAP</span><strong id="primary-pit-lap">—</strong><small id="stops-value">—</small></article>
+        <article class="metric-card"><span>DATA SUPPORT</span><strong id="confidence-value">—</strong><small id="confidence-detail">Not a win probability</small></article>
+      </div>
+      <div class="prediction-grid">
+        <article class="prediction-card timeline-panel panel">
+          <div class="card-heading"><div><span class="eyebrow">RACE DISTANCE · <b id="distance-label">—</b></span><h3>Strategy timeline</h3></div><span class="card-tag">COMPOUND BY STINT</span></div>
+          <div id="timeline" class="timeline" aria-label="Recommended tyre strategy by lap"></div><div id="timeline-axis" class="timeline-axis"></div>
+          <div id="prediction-pit-lane" class="prediction-pit-lane"></div>
+          <div id="strategy-support" class="strategy-support"></div>
+          <p class="chart-note">Scenario weights are heuristic support, not probabilities of strategy success.</p>
+        </article>
+        <article class="prediction-card panel">
+          <div class="card-heading"><div><span class="eyebrow">FEASIBLE ALTERNATIVES</span><h3>Strategy comparison</h3></div><span class="card-tag">API-RANKED PLANS</span></div>
+          <div id="comparison-list" class="comparison-list"></div>
+        </article>
+        <article class="prediction-card panel">
+          <div class="card-heading"><div><span class="eyebrow">DECISION TELEMETRY</span><h3>Score breakdown</h3></div><span class="card-tag">SECONDS · LOWER IS BETTER</span></div>
+          <div id="score-breakdown" class="score-breakdown"></div>
+        </article>
+        <article class="prediction-card panel">
+          <div class="card-heading"><div><span class="eyebrow">SOURCE-BACKED CONTEXT</span><h3>Why this plan?</h3></div></div>
+          <ul id="why-list" class="why-list"></ul>
+          <div class="prediction-evidence"><span>TRAINING CUTOFF</span><b id="data-cutoff">—</b></div>
+          <div class="prediction-evidence"><span>TYRE INVENTORY / NOMINATION</span><b id="inventory-note">—</b></div>
+          <p id="prediction-model-note" class="chart-note"></p>
+        </article>
+      </div>
+      <div class="prediction-foot"><span id="prediction-runtime">—</span><span id="prediction-cache-status">—</span></div>
+      <p class="disclaimer">Educational pre-race estimate. Weather weights are heuristic, unconfirmed future entries are not official grid data, and estimated times are not calibrated guarantees.</p>
+    </section>
+
+    <details class="history-panel" id="history-panel">
+      <summary><span><small>SEPARATE HISTORICAL WORKSPACE</small><b>Historical analysis & backtesting</b></span><span class="summary-arrow">＋</span></summary>
+      <div class="history-content">
+        <p>Backtesting predicts from the strict pre-race cutoff, then compares the result with actual event stints and pit laps.</p>
+        <div class="history-controls">
+          <label class="select-control"><span>SEASON</span><select id="historical-season" disabled><option value="">Loading seasons…</option></select></label>
+          <label class="select-control"><span>COMPLETED RACE</span><select id="historical-event" disabled><option value="">Select a season first</option></select></label>
+          <label class="select-control"><span>DRIVER</span><select id="historical-driver" disabled><option value="">Select a race first</option></select></label>
+          <button id="historical-run" class="secondary-button" type="button" disabled>RUN BACKTEST ↗</button>
+        </div>
+        <div id="historical-result" class="historical-result" hidden></div>
+      </div>
+    </details>
+
+    <footer><span>F1 PITWALL · STRATEGY CONTROL</span><span>FLASK <i>·</i> SQLITE <i>·</i> SCIKIT-LEARN</span><span class="footer-note">Historical metrics are validation results, not future-performance promises.</span></footer>
+    <dialog id="quality-dialog" class="quality-dialog"><form method="dialog"><button class="dialog-close" aria-label="Close">×</button></form><span class="eyebrow red">DATA AUDIT</span><h2>Coverage & quality</h2><div id="quality-details"></div></dialog>
+    <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  </main>
+  <script src="{{ url_for('static', filename='js/app.js') }}?v=season-transition-1"></script>
+</body>
+</html>

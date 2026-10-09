@@ -1,0 +1,2 @@
+Season,Race,Circuit,Country,Date,Time,Temperature,Precipitation,Rain,PrecipitationProbability,WindSpeed,WindDirection,WeatherCode,Weather,Condition,Impact,Source
+2024,Italian Grand Prix,Monza,Italy,2024-09-01,,,,,,,,,User-selected scenario,DRY,LOW,forecast unavailable; dry baseline assumption

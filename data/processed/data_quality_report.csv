@@ -1,0 +1,20 @@
+Check,Count,Severity,Detail
+raw_lap_rows,186381,INFO,Rows present in the selected local source file.
+clean_lap_rows,179886,INFO,Rows retained by the standard cleaning pipeline.
+rows_removed_by_cleaning,6495,INFO,Difference between source rows and strategy-ready cleaned rows.
+missing_required_source_columns,0,PASS,All expected source fields are present.
+duplicate_event_driver_lap_keys,5172,REVIEW,Duplicate key rows are removed during cleaning.
+missing_race_rows,0,PASS,Source rows without a usable race label.
+missing_driver_rows,0,PASS,Source rows without a usable driver label.
+missing_laptime,0,PASS,Missing values in source field LapTime.
+missing_tyrelife,1092,REVIEW,Missing values in source field TyreLife.
+missing_compound,804,REVIEW,Missing values in source field Compound.
+missing_driver,0,PASS,Missing values in source field Driver.
+missing_eventdate,0,PASS,Missing values in source field EventDate.
+unsupported_compound_rows,20,REVIEW,UNKNOWN: 20
+strategy_ready_events,166,INFO,Distinct season/event pairs with usable cleaned laps.
+clean_compound_count,5,INFO,Distinct normalized tyre labels in cleaned data.
+incomplete_or_future_schedule_entries,8,REVIEW,Includes unavailable sessions and future/unrun calendar rows; future rows are expected and are not completed-race data.
+weather_covered_events_in_saved_analysis,1,INFO,Events represented in the latest historical weather output; not all event history is pre-downloaded.
+source_attributed_event_tyre_nominations,3,INFO,"Number of event nomination rows marked official/verified, including source-confirmed ranges without role mapping."
+schedule_events_with_verified_nominations,3,INFO,Nomination coverage: 3/175 locally recorded schedule entries.

@@ -1,0 +1,401 @@
+{
+  "analysis_mode": "PRE-RACE",
+  "season": 2026,
+  "round": 16,
+  "race": "Bahrain Grand Prix",
+  "event_status": "CURRENT",
+  "official_event_name": "FORMULA 1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026",
+  "circuit": "Sepang International Circuit",
+  "country": "Malaysia",
+  "race_date": "2026-10-04",
+  "race_distance": 56,
+  "race_distance_source": "event metadata; used only as known race distance",
+  "driver": "VER",
+  "selected_race_start_time_utc": "2026-10-03T00:00:00+00:00",
+  "training_cutoff_time_utc": "2026-10-03T00:00:00+00:00",
+  "training_cutoff_policy": "date-only lap source; all current-day rows excluded to avoid session leakage; lap history has date precision only, so training excludes the full event date",
+  "training_rows": 179886,
+  "training_event_count": 166,
+  "selected_event_laps_used_for_training": false,
+  "models_trained_only_on_pre_cutoff_data": true,
+  "model_metrics": {
+    "lap_time": {
+      "available": true,
+      "training_rows": 179886,
+      "evaluation_method": "temporal season holdout when multiple seasons are available; final model refit on all available data",
+      "held_out_season": 2025,
+      "MAE": 7.097969095187867,
+      "RMSE": 10.502671035950314,
+      "R2": 0.3877351711677992,
+      "baseline": {
+        "name": "training-set historical median lap time",
+        "MAE": 10.646360074194297,
+        "RMSE": 13.46885040909608,
+        "R2": -0.006933629964742449
+      },
+      "test_rows": 25878,
+      "test_races": [
+        "Abu Dhabi Grand Prix",
+        "Australian Grand Prix",
+        "Austrian Grand Prix",
+        "Azerbaijan Grand Prix",
+        "Bahrain Grand Prix",
+        "Belgian Grand Prix",
+        "British Grand Prix",
+        "Canadian Grand Prix",
+        "Chinese Grand Prix",
+        "Dutch Grand Prix",
+        "Emilia Romagna Grand Prix",
+        "Hungarian Grand Prix",
+        "Italian Grand Prix",
+        "Japanese Grand Prix",
+        "Las Vegas Grand Prix",
+        "Mexico City Grand Prix",
+        "Miami Grand Prix",
+        "Monaco Grand Prix",
+        "Qatar Grand Prix",
+        "Saudi Arabian Grand Prix",
+        "Singapore Grand Prix",
+        "Spanish Grand Prix",
+        "São Paulo Grand Prix",
+        "United States Grand Prix"
+      ],
+      "test_groups": 1238,
+      "test_seasons": [
+        2025
+      ]
+    },
+    "pit_stop": {
+      "available": true,
+      "training_rows": 5219,
+      "classes": [
+        "HARD",
+        "INTERMEDIATE",
+        "MEDIUM",
+        "SOFT",
+        "WET"
+      ],
+      "evaluation_method": "temporal season holdout; final model refit on all available data",
+      "held_out_season": 2025,
+      "accuracy": 0.5699067909454061,
+      "baseline_accuracy": 0.4274300932090546,
+      "baseline_name": "most common training-set next tyre",
+      "confusion_matrix": [
+        [
+          207,
+          17,
+          48,
+          49,
+          0
+        ],
+        [
+          2,
+          10,
+          4,
+          14,
+          0
+        ],
+        [
+          35,
+          24,
+          130,
+          78,
+          1
+        ],
+        [
+          32,
+          3,
+          16,
+          81,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "confusion_matrix_labels": [
+        "HARD",
+        "INTERMEDIATE",
+        "MEDIUM",
+        "SOFT",
+        "WET"
+      ],
+      "test_rows": 751,
+      "test_races": [
+        "Abu Dhabi Grand Prix",
+        "Australian Grand Prix",
+        "Austrian Grand Prix",
+        "Azerbaijan Grand Prix",
+        "Bahrain Grand Prix",
+        "Belgian Grand Prix",
+        "British Grand Prix",
+        "Canadian Grand Prix",
+        "Chinese Grand Prix",
+        "Dutch Grand Prix",
+        "Emilia Romagna Grand Prix",
+        "Hungarian Grand Prix",
+        "Italian Grand Prix",
+        "Japanese Grand Prix",
+        "Las Vegas Grand Prix",
+        "Mexico City Grand Prix",
+        "Miami Grand Prix",
+        "Monaco Grand Prix",
+        "Qatar Grand Prix",
+        "Saudi Arabian Grand Prix",
+        "Singapore Grand Prix",
+        "Spanish Grand Prix",
+        "São Paulo Grand Prix",
+        "United States Grand Prix"
+      ],
+      "test_seasons": [
+        "2025"
+      ]
+    }
+  },
+  "nomination": {
+    "available": true,
+    "role_mapping_available": true,
+    "role_mapping_source": "derived from the official consecutive range in compound-hardness order",
+    "status": "official/verified",
+    "season": 2026,
+    "race": "Bahrain Grand Prix",
+    "round": 16,
+    "HardCompound": "C2",
+    "MediumCompound": "C3",
+    "SoftCompound": "C4",
+    "NominatedRange": "C2-C4",
+    "Source": "Pirelli Press Release",
+    "SourceURL": "https://press.pirelli.com/tyre-compound-selections-for-baku-sepang-and-singapore/",
+    "VerifiedAt": "2026-08-27",
+    "allocation": {},
+    "official_allocation_complete": false,
+    "allocation_source": "Pirelli Press Release",
+    "allocation_source_url": "https://press.pirelli.com/tyre-compound-selections-for-baku-sepang-and-singapore/",
+    "allocation_status": "official range",
+    "allocation_verified_at": "2026-08-27",
+    "sprint_weekend": false,
+    "source_status": "official range",
+    "reason": "Nomination and allocation are source-attributed in the project register."
+  },
+  "inventory": {
+    "SOFT": 8,
+    "MEDIUM": 3,
+    "HARD": 2,
+    "INTERMEDIATE": 4,
+    "WET": 4
+  },
+  "inventory_source": "model assumption: 8/3/2 slick sets and 4/4 wet sets",
+  "weather": {
+    "race": "Bahrain Grand Prix",
+    "date": "2026-10-04",
+    "current": {
+      "available": false,
+      "source": "Open-Meteo current conditions",
+      "reason": "HTTPSConnectionPool(host='geocoding-api.open-meteo.com', port=443): Max retries exceeded with url: /v1/search?name=Kuala+Lumpur&count=10&language=en&format=json (Caused by NewConnectionError(\"HTTPSConnection(host='geocoding-api.open-meteo.com', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions\"))"
+    },
+    "forecast": {
+      "available": false,
+      "source": "Open-Meteo forecast",
+      "reason": "HTTPSConnectionPool(host='geocoding-api.open-meteo.com', port=443): Max retries exceeded with url: /v1/search?name=Kuala+Lumpur&count=10&language=en&format=json (Caused by NewConnectionError(\"HTTPSConnection(host='geocoding-api.open-meteo.com', port=443): Failed to establish a new connection: [WinError 10013] An attempt was made to access a socket in a way forbidden by its access permissions\"))",
+      "hourly": []
+    },
+    "source": "unavailable",
+    "cache_status": "recent failure cached",
+    "retrieved_at_utc": "2026-10-03T08:28:12.997160+00:00"
+  },
+  "weather_scenarios": {
+    "available": false,
+    "weights": {
+      "DRY": 1.0
+    },
+    "source": "forecast unavailable; dry is a simulation assumption"
+  },
+  "scenarios": [
+    {
+      "condition": "DRY",
+      "weight": 1.0,
+      "strategy": "MEDIUM → HARD",
+      "strategy_type": "1-STOP",
+      "estimated_race_time": 5271.833974402924,
+      "strategy_score": 5272.0698193884355,
+      "pit_laps": [
+        18
+      ],
+      "pit_window": {
+        "start_lap": 13,
+        "end_lap": 22,
+        "central_lap": 18,
+        "basis": "Nearby feasible candidates within 1.5 estimated seconds of the selected plan."
+      },
+      "stint_lengths": [
+        18,
+        38
+      ],
+      "tyre_usage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "confidence_score": 45.446308159449664,
+      "candidate_count": 6687,
+      "selected_event_laps_used_for_training": false,
+      "top_alternatives": [
+        {
+          "strategy": "HARD → MEDIUM",
+          "estimated_race_time": 5271.833974402924,
+          "pit_laps": [
+            38
+          ],
+          "strategy_type": "1-STOP"
+        }
+      ],
+      "reason": "MEDIUM → HARD is the lowest-scoring feasible plan in 6,687 simulated candidates for Max Verstappen at Sepang International Circuit in 2026. It uses 1 pit stop(s) with stint lengths 18, 38; the estimate includes a 22-second loss per stop and the fitted tyre degradation. The physical set, dry-compound-diversity, and tyre-age constraints passed before ranking. The next-ranked candidate scores 0.01 seconds higher. Lap-time estimates blend the Random Forest with historical tyre profiles.",
+      "degradation_sensitivity_sd_seconds": 18.768696527533237
+    }
+  ],
+  "expected_strategy": {
+    "condition": "DRY",
+    "weight": 1.0,
+    "strategy": "MEDIUM → HARD",
+    "strategy_type": "1-STOP",
+    "estimated_race_time": 5271.833974402924,
+    "strategy_score": 5272.0698193884355,
+    "pit_laps": [
+      18
+    ],
+    "pit_window": {
+      "start_lap": 13,
+      "end_lap": 22,
+      "central_lap": 18,
+      "basis": "Nearby feasible candidates within 1.5 estimated seconds of the selected plan."
+    },
+    "stint_lengths": [
+      18,
+      38
+    ],
+    "tyre_usage": {
+      "MEDIUM": 1,
+      "HARD": 1
+    },
+    "confidence_score": 45.446308159449664,
+    "candidate_count": 6687,
+    "selected_event_laps_used_for_training": false,
+    "top_alternatives": [
+      {
+        "strategy": "HARD → MEDIUM",
+        "estimated_race_time": 5271.833974402924,
+        "pit_laps": [
+          38
+        ],
+        "strategy_type": "1-STOP"
+      }
+    ],
+    "reason": "MEDIUM → HARD is the lowest-scoring feasible plan in 6,687 simulated candidates for Max Verstappen at Sepang International Circuit in 2026. It uses 1 pit stop(s) with stint lengths 18, 38; the estimate includes a 22-second loss per stop and the fitted tyre degradation. The physical set, dry-compound-diversity, and tyre-age constraints passed before ranking. The next-ranked candidate scores 0.01 seconds higher. Lap-time estimates blend the Random Forest with historical tyre profiles.",
+    "degradation_sensitivity_sd_seconds": 18.768696527533237
+  },
+  "track_specific_learning": {
+    "circuit": "Sepang International Circuit",
+    "recent_lap_samples": 0,
+    "largest_compound_blend_weight": 0.0,
+    "recent_seasons": "2024–2026",
+    "global_context": "recent circuit offsets/degradation are shrunk toward the all-circuit profile by local sample size"
+  },
+  "primary_strategy": {
+    "condition": "DRY",
+    "weight": 1.0,
+    "strategy": "MEDIUM → HARD",
+    "strategy_type": "1-STOP",
+    "estimated_race_time": 5271.833974402924,
+    "strategy_score": 5272.0698193884355,
+    "pit_laps": [
+      18
+    ],
+    "pit_window": {
+      "start_lap": 13,
+      "end_lap": 22,
+      "central_lap": 18,
+      "basis": "Nearby feasible candidates within 1.5 estimated seconds of the selected plan."
+    },
+    "stint_lengths": [
+      18,
+      38
+    ],
+    "tyre_usage": {
+      "MEDIUM": 1,
+      "HARD": 1
+    },
+    "confidence_score": 45.446308159449664,
+    "candidate_count": 6687,
+    "selected_event_laps_used_for_training": false,
+    "top_alternatives": [
+      {
+        "strategy": "HARD → MEDIUM",
+        "estimated_race_time": 5271.833974402924,
+        "pit_laps": [
+          38
+        ],
+        "strategy_type": "1-STOP"
+      }
+    ],
+    "reason": "MEDIUM → HARD is the lowest-scoring feasible plan in 6,687 simulated candidates for Max Verstappen at Sepang International Circuit in 2026. It uses 1 pit stop(s) with stint lengths 18, 38; the estimate includes a 22-second loss per stop and the fitted tyre degradation. The physical set, dry-compound-diversity, and tyre-age constraints passed before ranking. The next-ranked candidate scores 0.01 seconds higher. Lap-time estimates blend the Random Forest with historical tyre profiles.",
+    "degradation_sensitivity_sd_seconds": 18.768696527533237
+  },
+  "robust_strategy": {
+    "type": "adaptive contingency policy",
+    "by_condition": {
+      "DRY": {
+        "strategy": "MEDIUM → HARD",
+        "pit_laps": [
+          18
+        ],
+        "stint_lengths": [
+          18,
+          38
+        ],
+        "scenario_weight": 1.0
+      }
+    },
+    "rules": [
+      "Forecast unavailable. Use the dry baseline as an explicit assumption and refresh closer to race day."
+    ],
+    "interpretation": "Scenario-best plans are evaluated separately by condition. Expected/worst/best times summarize this adaptive policy, not one fixed tyre plan held unchanged across every weather state."
+  },
+  "robustness": {
+    "expected_race_time_seconds": 5271.833974402924,
+    "best_scenario_time_seconds": 5271.833974402924,
+    "worst_scenario_time_seconds": 5271.833974402924,
+    "scenario_standard_deviation_seconds": 0.0,
+    "scenario_variance_seconds_squared": 0.0,
+    "monte_carlo": {
+      "simulations": 500,
+      "seed": 42,
+      "mean_race_time_seconds": 5268.08090181686,
+      "standard_deviation_seconds": 70.02425465184982,
+      "percentile_05_seconds": 5148.232672400409,
+      "percentile_50_seconds": 5271.468256485998,
+      "percentile_95_seconds": 5383.685665572194,
+      "lap_model_error_sigma_seconds": 66.57145607474563,
+      "degradation_uncertainty_source": "robust cross-stint slope spread (1.4826 × median absolute deviation), using plausible slopes from 0.002 to 0.20 s/lap and at least three historical stints per compound",
+      "degradation_compounds_with_measured_spread": [
+        "HARD",
+        "INTERMEDIATE",
+        "MEDIUM",
+        "SOFT"
+      ],
+      "assumptions": "weather scenario sampled by heuristic weights; per-lap model errors treated as independent normal residuals; degradation slope error uses a robust spread estimate from plausible historical cross-stint slopes"
+    },
+    "strategy_stability": {
+      "scenario_weight_by_strategy": {
+        "MEDIUM → HARD": 1.0
+      },
+      "most_frequent_plan_share": 1.0
+    },
+    "metric_scope": "best feasible plan per included weather scenario; adaptive-policy summary"
+  },
+  "confidence_score": 45.446308159449664,
+  "confidence_level": "LOW",
+  "confidence_is_win_probability": false
+}

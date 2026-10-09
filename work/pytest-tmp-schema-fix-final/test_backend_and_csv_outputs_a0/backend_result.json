@@ -1,0 +1,1967 @@
+{
+  "analysis_mode": "HISTORICAL",
+  "training_cutoff_time_utc": null,
+  "selected_event_laps_used_for_training": null,
+  "training_rows": null,
+  "season": 2024,
+  "season_status": "historical source-available data",
+  "race": "Bahrain Grand Prix",
+  "official_event_name": "FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2024",
+  "event_round": 1,
+  "driver": "ALB",
+  "driver_name": "Alexander Albon",
+  "driver_number": "23",
+  "team": "Williams",
+  "circuit": "Sakhir",
+  "location": "Sakhir",
+  "country": "Bahrain",
+  "race_date": "2024-03-02",
+  "race_distance": 57,
+  "data_coverage": {
+    "available_seasons": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "season_status": "historical source-available data",
+    "selected_race_rows": 1127,
+    "selected_driver_rows": 56,
+    "selected_season_races": 24,
+    "selected_season_drivers": 24,
+    "total_lap_rows": 179886
+  },
+  "inventory": {
+    "SOFT": 8,
+    "MEDIUM": 3,
+    "HARD": 2,
+    "INTERMEDIATE": 4,
+    "WET": 4
+  },
+  "inventory_source": "8/3/2 dry-set baseline and 4/4 wet-set model assumption",
+  "weather": {
+    "season": 2024,
+    "race": "Bahrain Grand Prix",
+    "circuit": "Sakhir",
+    "country": "Bahrain",
+    "date": "2024-03-02",
+    "condition": "DRY",
+    "impact": "LOW",
+    "temperature": null,
+    "precipitation": null,
+    "rain": null,
+    "precipitation_probability": null,
+    "wind_speed": null,
+    "wind_direction": null,
+    "dominant_weather": "Unavailable",
+    "source": "fallback assumption",
+    "weather_certainty": "LOW",
+    "reason": "Historical weather could not be verified; dry conditions are used as a documented fallback. offline integration test",
+    "hourly": []
+  },
+  "track_condition": "DRY",
+  "weather_impact": "LOW",
+  "weather_source": "fallback assumption",
+  "temperature": null,
+  "rain": null,
+  "precipitation": null,
+  "precipitation_probability": null,
+  "wind_speed": null,
+  "wind_direction": null,
+  "weather_reason": "Historical weather could not be verified; dry conditions are used as a documented fallback. offline integration test",
+  "recommended_strategy": {
+    "Season": 2024,
+    "Race": "Bahrain Grand Prix",
+    "Circuit": "Sakhir",
+    "Driver": "ALB",
+    "Team": "Williams",
+    "StrategyType": "1-STOP",
+    "Tyres": [
+      "MEDIUM",
+      "HARD"
+    ],
+    "Strategy": "MEDIUM → HARD",
+    "StintLengths": [
+      18,
+      39
+    ],
+    "PitLaps": [
+      18
+    ],
+    "FirstTyre": "MEDIUM",
+    "SecondTyre": "HARD",
+    "ThirdTyre": null,
+    "FourthTyre": null,
+    "PitLap1": 18,
+    "PitLap2": null,
+    "PitLap3": null,
+    "EstimatedRaceTime": 5444.027656072967,
+    "PredictedLapTimeTotal": 5422.027656072967,
+    "PitStopCost": 22.0,
+    "DegradationImpact": 25.033654669962218,
+    "WeatherAdjustment": 0.0,
+    "StrategyPenalty": 0.2549849202297049,
+    "StrategyScore": 5444.282640993197,
+    "ScoreBreakdown": {
+      "estimated_tyre_time_seconds": 5422.027656072967,
+      "degradation_contribution_seconds": 25.033654669962218,
+      "pit_loss_seconds": 22.0,
+      "weather_adjustment_seconds": 0.0,
+      "historical_strategy_penalty_seconds": 0.0,
+      "historical_pit_window_penalty_seconds": 0.0,
+      "ml_support_penalty_seconds": 0.16894047578526042,
+      "age_inventory_penalty_seconds": 0.0860444444444445,
+      "unsupported_wet_penalty_seconds": 0.0,
+      "historical_strategy_support": 0.0,
+      "total_score_seconds": 5444.282640993197,
+      "interpretation": "Tyre time already includes fitted degradation and weather adjustments; those terms are shown as diagnostics. Penalties are added to estimated tyre time and pit loss."
+    },
+    "HistoricalStrategySupport": 0.0,
+    "HistoricalStrategyPenalty": 0.0,
+    "HistoricalPitWindowPenalty": 0.0,
+    "TyreUsage": {
+      "MEDIUM": 1,
+      "HARD": 1
+    },
+    "PhysicalConstraintsSatisfied": true,
+    "MLSupportProbability": 0.5173129263278273,
+    "MLTransitionProbabilities": [
+      {
+        "HARD": 0.5173129263278273,
+        "INTERMEDIATE": 0.08663657785169004,
+        "MEDIUM": 0.22548557004297173,
+        "SOFT": 0.1635564969472645,
+        "WET": 0.007008428830246073
+      }
+    ],
+    "MaxTyreAgeUtilization": 0.8666666666666667,
+    "MaxSetUtilization": 0.5
+  },
+  "strategy": "MEDIUM → HARD",
+  "strategy_type": "1-STOP",
+  "pit_laps": [
+    18
+  ],
+  "stint_lengths": [
+    18,
+    39
+  ],
+  "stints": [
+    "18 laps on MEDIUM",
+    "39 laps on HARD"
+  ],
+  "tyre_usage": {
+    "MEDIUM": 1,
+    "HARD": 1
+  },
+  "physical_constraints_satisfied": true,
+  "estimated_race_time": 5444.027656072967,
+  "first_lap_prediction": 104.74863003188881,
+  "pit_stop_cost": 22.0,
+  "degradation_impact": 25.033654669962218,
+  "weather_adjustment_seconds": 0.0,
+  "strategy_penalty": 0.2549849202297049,
+  "strategy_score": 5444.282640993197,
+  "strategy_score_breakdown": {
+    "estimated_tyre_time_seconds": 5422.027656072967,
+    "degradation_contribution_seconds": 25.033654669962218,
+    "pit_loss_seconds": 22.0,
+    "weather_adjustment_seconds": 0.0,
+    "historical_strategy_penalty_seconds": 0.0,
+    "historical_pit_window_penalty_seconds": 0.0,
+    "ml_support_penalty_seconds": 0.16894047578526042,
+    "age_inventory_penalty_seconds": 0.0860444444444445,
+    "unsupported_wet_penalty_seconds": 0.0,
+    "historical_strategy_support": 0.0,
+    "total_score_seconds": 5444.282640993197,
+    "interpretation": "Tyre time already includes fitted degradation and weather adjustments; those terms are shown as diagnostics. Penalties are added to estimated tyre time and pit loss."
+  },
+  "confidence_score": 34.70702791093512,
+  "confidence_level": "LOW",
+  "confidence_factors": {
+    "historical_data_support": 4.2,
+    "lap_model_quality": 1.69,
+    "strategy_margin": 0.43,
+    "weather_certainty": 3.0,
+    "strategy_robustness": 2.8,
+    "ml_transition_support": 2.59,
+    "unsupported_wet_model_adjustment": 0.0,
+    "top_distinct_sequence_gap_seconds": 0.069
+  },
+  "ml_predicted_tyre": "HARD",
+  "ml_probabilities_fraction": {
+    "HARD": 0.5173129263278273,
+    "INTERMEDIATE": 0.08663657785169004,
+    "MEDIUM": 0.22548557004297173,
+    "SOFT": 0.16355649694726448,
+    "WET": 0.007008428830246073
+  },
+  "ml_probabilities": {
+    "HARD": 51.731,
+    "INTERMEDIATE": 8.664,
+    "MEDIUM": 22.549,
+    "SOFT": 16.356,
+    "WET": 0.701
+  },
+  "ml_explanation": "The classifier supports the recommendation with P(HARD)=0.517. It does not override inventory checks.",
+  "model_metrics": {
+    "lap_time": {
+      "available": true,
+      "training_rows": 179886,
+      "evaluation_method": "temporal season holdout when multiple seasons are available; final model refit on all available data",
+      "held_out_season": 2025,
+      "MAE": 7.0979690951878665,
+      "RMSE": 10.502671035950312,
+      "R2": 0.3877351711677993,
+      "baseline": {
+        "name": "training-set historical median lap time",
+        "MAE": 10.646360074194297,
+        "RMSE": 13.46885040909608,
+        "R2": -0.006933629964742449
+      },
+      "test_rows": 25878,
+      "test_races": [
+        "Abu Dhabi Grand Prix",
+        "Australian Grand Prix",
+        "Austrian Grand Prix",
+        "Azerbaijan Grand Prix",
+        "Bahrain Grand Prix",
+        "Belgian Grand Prix",
+        "British Grand Prix",
+        "Canadian Grand Prix",
+        "Chinese Grand Prix",
+        "Dutch Grand Prix",
+        "Emilia Romagna Grand Prix",
+        "Hungarian Grand Prix",
+        "Italian Grand Prix",
+        "Japanese Grand Prix",
+        "Las Vegas Grand Prix",
+        "Mexico City Grand Prix",
+        "Miami Grand Prix",
+        "Monaco Grand Prix",
+        "Qatar Grand Prix",
+        "Saudi Arabian Grand Prix",
+        "Singapore Grand Prix",
+        "Spanish Grand Prix",
+        "São Paulo Grand Prix",
+        "United States Grand Prix"
+      ],
+      "test_groups": 1238,
+      "test_seasons": [
+        2025
+      ]
+    },
+    "pit_stop": {
+      "available": true,
+      "training_rows": 5219,
+      "classes": [
+        "HARD",
+        "INTERMEDIATE",
+        "MEDIUM",
+        "SOFT",
+        "WET"
+      ],
+      "evaluation_method": "temporal season holdout; final model refit on all available data",
+      "held_out_season": 2025,
+      "accuracy": 0.5699067909454061,
+      "baseline_accuracy": 0.4274300932090546,
+      "baseline_name": "most common training-set next tyre",
+      "confusion_matrix": [
+        [
+          207,
+          17,
+          48,
+          49,
+          0
+        ],
+        [
+          2,
+          10,
+          4,
+          14,
+          0
+        ],
+        [
+          35,
+          24,
+          130,
+          78,
+          1
+        ],
+        [
+          32,
+          3,
+          16,
+          81,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "confusion_matrix_labels": [
+        "HARD",
+        "INTERMEDIATE",
+        "MEDIUM",
+        "SOFT",
+        "WET"
+      ],
+      "test_rows": 751,
+      "test_races": [
+        "Abu Dhabi Grand Prix",
+        "Australian Grand Prix",
+        "Austrian Grand Prix",
+        "Azerbaijan Grand Prix",
+        "Bahrain Grand Prix",
+        "Belgian Grand Prix",
+        "British Grand Prix",
+        "Canadian Grand Prix",
+        "Chinese Grand Prix",
+        "Dutch Grand Prix",
+        "Emilia Romagna Grand Prix",
+        "Hungarian Grand Prix",
+        "Italian Grand Prix",
+        "Japanese Grand Prix",
+        "Las Vegas Grand Prix",
+        "Mexico City Grand Prix",
+        "Miami Grand Prix",
+        "Monaco Grand Prix",
+        "Qatar Grand Prix",
+        "Saudi Arabian Grand Prix",
+        "Singapore Grand Prix",
+        "Spanish Grand Prix",
+        "São Paulo Grand Prix",
+        "United States Grand Prix"
+      ],
+      "test_seasons": [
+        "2025"
+      ]
+    }
+  },
+  "lap_prediction_sources": {
+    "SOFT": "Random Forest + historical tyre profile",
+    "MEDIUM": "Random Forest + historical tyre profile",
+    "HARD": "Random Forest + historical tyre profile",
+    "INTERMEDIATE": "Random Forest + historical tyre profile",
+    "WET": "Random Forest + historical tyre profile"
+  },
+  "tyre_performance": [
+    {
+      "Compound": "SOFT",
+      "DataPoints": 28342,
+      "CompoundOffset": 0.25449999999999307,
+      "OffsetSource": "historical",
+      "DegradationRate": 0.062107142857143714,
+      "DegradationSource": "historical",
+      "StintsUsed": 231,
+      "DegradationStd": 0.05646970160869459,
+      "R2": 0.01588920110368969
+    },
+    {
+      "Compound": "MEDIUM",
+      "DataPoints": 66649,
+      "CompoundOffset": 0.20950000000000557,
+      "OffsetSource": "historical",
+      "DegradationRate": 0.0347162670662672,
+      "DegradationSource": "historical",
+      "StintsUsed": 780,
+      "DegradationStd": 0.03230576942596568,
+      "R2": 0.016685364925357896
+    },
+    {
+      "Compound": "HARD",
+      "DataPoints": 75362,
+      "CompoundOffset": -0.26500000000000057,
+      "OffsetSource": "historical",
+      "DegradationRate": 0.02661547342621233,
+      "DegradationSource": "historical",
+      "StintsUsed": 838,
+      "DegradationStd": 0.025755555528139146,
+      "R2": 0.03869263384626985
+    },
+    {
+      "Compound": "INTERMEDIATE",
+      "DataPoints": 8887,
+      "CompoundOffset": 0.9609999999999985,
+      "OffsetSource": "historical",
+      "DegradationRate": 0.03067822497420048,
+      "DegradationSource": "historical",
+      "StintsUsed": 21,
+      "DegradationStd": 0.03306251580620906,
+      "R2": 0.0035444075722874096
+    },
+    {
+      "Compound": "WET",
+      "DataPoints": 646,
+      "CompoundOffset": 15.099249999999998,
+      "OffsetSource": "historical",
+      "DegradationRate": null,
+      "DegradationSource": "unavailable",
+      "StintsUsed": 2,
+      "DegradationStd": null,
+      "R2": 0.00986476353275651
+    }
+  ],
+  "degradation_rates": {
+    "SOFT": 0.062107142857143714,
+    "MEDIUM": 0.0347162670662672,
+    "HARD": 0.02661547342621233,
+    "INTERMEDIATE": 0.03067822497420048,
+    "WET": 0.05
+  },
+  "strategy_comparison": [
+    {
+      "Season": 2024,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sakhir",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        18,
+        39
+      ],
+      "PitLaps": [
+        18
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 18,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5444.027656072967,
+      "PredictedLapTimeTotal": 5422.027656072967,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 25.033654669962218,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.2549849202297049,
+      "StrategyScore": 5444.282640993197,
+      "ScoreBreakdown": {
+        "estimated_tyre_time_seconds": 5422.027656072967,
+        "degradation_contribution_seconds": 25.033654669962218,
+        "pit_loss_seconds": 22.0,
+        "weather_adjustment_seconds": 0.0,
+        "historical_strategy_penalty_seconds": 0.0,
+        "historical_pit_window_penalty_seconds": 0.0,
+        "ml_support_penalty_seconds": 0.16894047578526042,
+        "age_inventory_penalty_seconds": 0.0860444444444445,
+        "unsupported_wet_penalty_seconds": 0.0,
+        "historical_strategy_support": 0.0,
+        "total_score_seconds": 5444.282640993197,
+        "interpretation": "Tyre time already includes fitted degradation and weather adjustments; those terms are shown as diagnostics. Penalties are added to estimated tyre time and pit loss."
+      },
+      "HistoricalStrategySupport": 0.0,
+      "HistoricalStrategyPenalty": 0.0,
+      "HistoricalPitWindowPenalty": 0.0,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5173129263278273,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5173129263278273,
+          "INTERMEDIATE": 0.08663657785169004,
+          "MEDIUM": 0.22548557004297173,
+          "SOFT": 0.1635564969472645,
+          "WET": 0.007008428830246073
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8666666666666667,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sakhir",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "2-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD → HARD",
+      "StintLengths": [
+        10,
+        23,
+        24
+      ],
+      "PitLaps": [
+        10,
+        33
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": "HARD",
+      "FourthTyre": null,
+      "PitLap1": 10,
+      "PitLap2": 33.0,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5474.304034461973,
+      "PredictedLapTimeTotal": 5430.304034461973,
+      "PitStopCost": 44.0,
+      "DegradationImpact": 15.641817460448348,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.3591056262550973,
+      "StrategyScore": 5474.663140088228,
+      "ScoreBreakdown": {
+        "estimated_tyre_time_seconds": 5430.304034461973,
+        "degradation_contribution_seconds": 15.641817460448348,
+        "pit_loss_seconds": 44.0,
+        "weather_adjustment_seconds": 0.0,
+        "historical_strategy_penalty_seconds": 0.0,
+        "historical_pit_window_penalty_seconds": 0.0,
+        "ml_support_penalty_seconds": 0.19575562625509735,
+        "age_inventory_penalty_seconds": 0.16334999999999994,
+        "unsupported_wet_penalty_seconds": 0.0,
+        "historical_strategy_support": 0.0,
+        "total_score_seconds": 5474.663140088228,
+        "interpretation": "Tyre time already includes fitted degradation and weather adjustments; those terms are shown as diagnostics. Penalties are added to estimated tyre time and pit loss."
+      },
+      "HistoricalStrategySupport": 0.0,
+      "HistoricalStrategyPenalty": 0.0,
+      "HistoricalPitWindowPenalty": 0.0,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 2
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.4406982106997218,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5137271033697831,
+          "INTERMEDIATE": 0.10129576768670205,
+          "MEDIUM": 0.21599842615321108,
+          "SOFT": 0.16197027396005753,
+          "WET": 0.007008428830246073
+        },
+        {
+          "HARD": 0.3676693180296605,
+          "INTERMEDIATE": 0.08898658326451529,
+          "MEDIUM": 0.31712789146048304,
+          "SOFT": 0.2111049265723024,
+          "WET": 0.01511128067303844
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.5333333333333333,
+      "MaxSetUtilization": 1.0
+    }
+  ],
+  "top_feasible_strategies": [
+    {
+      "Season": 2024,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sakhir",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        18,
+        39
+      ],
+      "PitLaps": [
+        18
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 18,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5444.027656072967,
+      "PredictedLapTimeTotal": 5422.027656072967,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 25.033654669962218,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.2549849202297049,
+      "StrategyScore": 5444.282640993197,
+      "ScoreBreakdown": {
+        "estimated_tyre_time_seconds": 5422.027656072967,
+        "degradation_contribution_seconds": 25.033654669962218,
+        "pit_loss_seconds": 22.0,
+        "weather_adjustment_seconds": 0.0,
+        "historical_strategy_penalty_seconds": 0.0,
+        "historical_pit_window_penalty_seconds": 0.0,
+        "ml_support_penalty_seconds": 0.16894047578526042,
+        "age_inventory_penalty_seconds": 0.0860444444444445,
+        "unsupported_wet_penalty_seconds": 0.0,
+        "historical_strategy_support": 0.0,
+        "total_score_seconds": 5444.282640993197,
+        "interpretation": "Tyre time already includes fitted degradation and weather adjustments; those terms are shown as diagnostics. Penalties are added to estimated tyre time and pit loss."
+      },
+      "HistoricalStrategySupport": 0.0,
+      "HistoricalStrategyPenalty": 0.0,
+      "HistoricalPitWindowPenalty": 0.0,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5173129263278273,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5173129263278273,
+          "INTERMEDIATE": 0.08663657785169004,
+          "MEDIUM": 0.22548557004297173,
+          "SOFT": 0.1635564969472645,
+          "WET": 0.007008428830246073
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8666666666666667,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sakhir",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "HARD",
+        "MEDIUM"
+      ],
+      "Strategy": "HARD → MEDIUM",
+      "StintLengths": [
+        39,
+        18
+      ],
+      "PitLaps": [
+        39
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 39,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5444.027656072967,
+      "PredictedLapTimeTotal": 5422.027656072967,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 25.033654669962218,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.3236497734736312,
+      "StrategyScore": 5444.3513058464405,
+      "ScoreBreakdown": {
+        "estimated_tyre_time_seconds": 5422.027656072967,
+        "degradation_contribution_seconds": 25.033654669962218,
+        "pit_loss_seconds": 22.0,
+        "weather_adjustment_seconds": 0.0,
+        "historical_strategy_penalty_seconds": 0.0,
+        "historical_pit_window_penalty_seconds": 0.0,
+        "ml_support_penalty_seconds": 0.2376053290291867,
+        "age_inventory_penalty_seconds": 0.0860444444444445,
+        "unsupported_wet_penalty_seconds": 0.0,
+        "historical_strategy_support": 0.0,
+        "total_score_seconds": 5444.3513058464405,
+        "interpretation": "Tyre time already includes fitted degradation and weather adjustments; those terms are shown as diagnostics. Penalties are added to estimated tyre time and pit loss."
+      },
+      "HistoricalStrategySupport": 0.0,
+      "HistoricalStrategyPenalty": 0.0,
+      "HistoricalPitWindowPenalty": 0.0,
+      "TyreUsage": {
+        "HARD": 1,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.32112763134518074,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.2837072197550993,
+          "INTERMEDIATE": 0.0871005780125771,
+          "MEDIUM": 0.32112763134518074,
+          "SOFT": 0.29702533190339697,
+          "WET": 0.011039238983745613
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8666666666666667,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sakhir",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "HARD",
+        "SOFT"
+      ],
+      "Strategy": "HARD → SOFT",
+      "StintLengths": [
+        44,
+        13
+      ],
+      "PitLaps": [
+        44
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "SOFT",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 44,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5445.148160189899,
+      "PredictedLapTimeTotal": 5423.148160189899,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 30.02259500405407,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.4659584673180194,
+      "StrategyScore": 5445.614118657217,
+      "ScoreBreakdown": {
+        "estimated_tyre_time_seconds": 5423.148160189899,
+        "degradation_contribution_seconds": 30.02259500405407,
+        "pit_loss_seconds": 22.0,
+        "weather_adjustment_seconds": 0.0,
+        "historical_strategy_penalty_seconds": 0.0,
+        "historical_pit_window_penalty_seconds": 0.0,
+        "ml_support_penalty_seconds": 0.20016093645382188,
+        "age_inventory_penalty_seconds": 0.2657975308641975,
+        "unsupported_wet_penalty_seconds": 0.0,
+        "historical_strategy_support": 0.0,
+        "total_score_seconds": 5445.614118657217,
+        "interpretation": "Tyre time already includes fitted degradation and weather adjustments; those terms are shown as diagnostics. Penalties are added to estimated tyre time and pit loss."
+      },
+      "HistoricalStrategySupport": 0.0,
+      "HistoricalStrategyPenalty": 0.0,
+      "HistoricalPitWindowPenalty": 0.0,
+      "TyreUsage": {
+        "HARD": 1,
+        "SOFT": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.42811161013193744,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.20418946912490452,
+          "INTERMEDIATE": 0.08814806489331008,
+          "MEDIUM": 0.266034683929242,
+          "SOFT": 0.42811161013193744,
+          "WET": 0.013516171920605691
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.9777777777777777,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sakhir",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "SOFT",
+        "HARD"
+      ],
+      "Strategy": "SOFT → HARD",
+      "StintLengths": [
+        13,
+        44
+      ],
+      "PitLaps": [
+        13
+      ],
+      "FirstTyre": "SOFT",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 13,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5445.1481601898995,
+      "PredictedLapTimeTotal": 5423.1481601898995,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 30.02259500405407,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.47192603639961056,
+      "StrategyScore": 5445.6200862262995,
+      "ScoreBreakdown": {
+        "estimated_tyre_time_seconds": 5423.1481601898995,
+        "degradation_contribution_seconds": 30.02259500405407,
+        "pit_loss_seconds": 22.0,
+        "weather_adjustment_seconds": 0.0,
+        "historical_strategy_penalty_seconds": 0.0,
+        "historical_pit_window_penalty_seconds": 0.0,
+        "ml_support_penalty_seconds": 0.20612850553541306,
+        "age_inventory_penalty_seconds": 0.2657975308641975,
+        "unsupported_wet_penalty_seconds": 0.0,
+        "historical_strategy_support": 0.0,
+        "total_score_seconds": 5445.6200862262995,
+        "interpretation": "Tyre time already includes fitted degradation and weather adjustments; those terms are shown as diagnostics. Penalties are added to estimated tyre time and pit loss."
+      },
+      "HistoricalStrategySupport": 0.0,
+      "HistoricalStrategyPenalty": 0.0,
+      "HistoricalPitWindowPenalty": 0.0,
+      "TyreUsage": {
+        "SOFT": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.4110614127559626,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.4110614127559626,
+          "INTERMEDIATE": 0.10446558177402668,
+          "MEDIUM": 0.31952629095450896,
+          "SOFT": 0.15068283953746026,
+          "WET": 0.014263874978041444
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.9777777777777777,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sakhir",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "SOFT",
+        "MEDIUM"
+      ],
+      "Strategy": "SOFT → MEDIUM",
+      "StintLengths": [
+        22,
+        35
+      ],
+      "PitLaps": [
+        22
+      ],
+      "FirstTyre": "SOFT",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 22,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5454.340327055031,
+      "PredictedLapTimeTotal": 5432.340327055031,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 35.00292890442918,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.5469113596430283,
+      "StrategyScore": 5454.887238414673,
+      "ScoreBreakdown": {
+        "estimated_tyre_time_seconds": 5432.340327055031,
+        "degradation_contribution_seconds": 35.00292890442918,
+        "pit_loss_seconds": 22.0,
+        "weather_adjustment_seconds": 0.0,
+        "historical_strategy_penalty_seconds": 0.0,
+        "historical_pit_window_penalty_seconds": 0.0,
+        "ml_support_penalty_seconds": 0.23331135964302827,
+        "age_inventory_penalty_seconds": 0.31360000000000005,
+        "unsupported_wet_penalty_seconds": 0.0,
+        "historical_strategy_support": 0.0,
+        "total_score_seconds": 5454.887238414673,
+        "interpretation": "Tyre time already includes fitted degradation and weather adjustments; those terms are shown as diagnostics. Penalties are added to estimated tyre time and pit loss."
+      },
+      "HistoricalStrategySupport": 0.0,
+      "HistoricalStrategyPenalty": 0.0,
+      "HistoricalPitWindowPenalty": 0.0,
+      "TyreUsage": {
+        "SOFT": 1,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.3333961153056335,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.403181763128979,
+          "INTERMEDIATE": 0.10018692668456022,
+          "MEDIUM": 0.3333961153056335,
+          "SOFT": 0.14897131990278548,
+          "WET": 0.014263874978041444
+        }
+      ],
+      "MaxTyreAgeUtilization": 1.0,
+      "MaxSetUtilization": 0.3333333333333333
+    },
+    {
+      "Season": 2024,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sakhir",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "SOFT"
+      ],
+      "Strategy": "MEDIUM → SOFT",
+      "StintLengths": [
+        35,
+        22
+      ],
+      "PitLaps": [
+        35
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "SOFT",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 35,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5454.340327055031,
+      "PredictedLapTimeTotal": 5432.340327055031,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 35.00292890442918,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.5686835691936445,
+      "StrategyScore": 5454.909010624225,
+      "ScoreBreakdown": {
+        "estimated_tyre_time_seconds": 5432.340327055031,
+        "degradation_contribution_seconds": 35.00292890442918,
+        "pit_loss_seconds": 22.0,
+        "weather_adjustment_seconds": 0.0,
+        "historical_strategy_penalty_seconds": 0.0,
+        "historical_pit_window_penalty_seconds": 0.0,
+        "ml_support_penalty_seconds": 0.25508356919364444,
+        "age_inventory_penalty_seconds": 0.31360000000000005,
+        "unsupported_wet_penalty_seconds": 0.0,
+        "historical_strategy_support": 0.0,
+        "total_score_seconds": 5454.909010624225,
+        "interpretation": "Tyre time already includes fitted degradation and weather adjustments; those terms are shown as diagnostics. Penalties are added to estimated tyre time and pit loss."
+      },
+      "HistoricalStrategySupport": 0.0,
+      "HistoricalStrategyPenalty": 0.0,
+      "HistoricalPitWindowPenalty": 0.0,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "SOFT": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.27118980230387296,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.4290252403543756,
+          "INTERMEDIATE": 0.08298662925370116,
+          "MEDIUM": 0.1960164404096993,
+          "SOFT": 0.27118980230387296,
+          "WET": 0.02078188767835107
+        }
+      ],
+      "MaxTyreAgeUtilization": 1.0,
+      "MaxSetUtilization": 0.3333333333333333
+    },
+    {
+      "Season": 2024,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sakhir",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "2-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD → HARD",
+      "StintLengths": [
+        10,
+        23,
+        24
+      ],
+      "PitLaps": [
+        10,
+        33
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": "HARD",
+      "FourthTyre": null,
+      "PitLap1": 10,
+      "PitLap2": 33.0,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5474.304034461973,
+      "PredictedLapTimeTotal": 5430.304034461973,
+      "PitStopCost": 44.0,
+      "DegradationImpact": 15.641817460448348,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.3591056262550973,
+      "StrategyScore": 5474.663140088228,
+      "ScoreBreakdown": {
+        "estimated_tyre_time_seconds": 5430.304034461973,
+        "degradation_contribution_seconds": 15.641817460448348,
+        "pit_loss_seconds": 44.0,
+        "weather_adjustment_seconds": 0.0,
+        "historical_strategy_penalty_seconds": 0.0,
+        "historical_pit_window_penalty_seconds": 0.0,
+        "ml_support_penalty_seconds": 0.19575562625509735,
+        "age_inventory_penalty_seconds": 0.16334999999999994,
+        "unsupported_wet_penalty_seconds": 0.0,
+        "historical_strategy_support": 0.0,
+        "total_score_seconds": 5474.663140088228,
+        "interpretation": "Tyre time already includes fitted degradation and weather adjustments; those terms are shown as diagnostics. Penalties are added to estimated tyre time and pit loss."
+      },
+      "HistoricalStrategySupport": 0.0,
+      "HistoricalStrategyPenalty": 0.0,
+      "HistoricalPitWindowPenalty": 0.0,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 2
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.4406982106997218,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5137271033697831,
+          "INTERMEDIATE": 0.10129576768670205,
+          "MEDIUM": 0.21599842615321108,
+          "SOFT": 0.16197027396005753,
+          "WET": 0.007008428830246073
+        },
+        {
+          "HARD": 0.3676693180296605,
+          "INTERMEDIATE": 0.08898658326451529,
+          "MEDIUM": 0.31712789146048304,
+          "SOFT": 0.2111049265723024,
+          "WET": 0.01511128067303844
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.5333333333333333,
+      "MaxSetUtilization": 1.0
+    },
+    {
+      "Season": 2024,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sakhir",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "2-STOP",
+      "Tyres": [
+        "HARD",
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "HARD → MEDIUM → HARD",
+      "StintLengths": [
+        24,
+        10,
+        23
+      ],
+      "PitLaps": [
+        24,
+        34
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": "HARD",
+      "FourthTyre": null,
+      "PitLap1": 24,
+      "PitLap2": 34.0,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5474.304034461973,
+      "PredictedLapTimeTotal": 5430.304034461973,
+      "PitStopCost": 44.0,
+      "DegradationImpact": 15.641817460448348,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.3857044358320689,
+      "StrategyScore": 5474.689738897805,
+      "ScoreBreakdown": {
+        "estimated_tyre_time_seconds": 5430.304034461973,
+        "degradation_contribution_seconds": 15.641817460448348,
+        "pit_loss_seconds": 44.0,
+        "weather_adjustment_seconds": 0.0,
+        "historical_strategy_penalty_seconds": 0.0,
+        "historical_pit_window_penalty_seconds": 0.0,
+        "ml_support_penalty_seconds": 0.222354435832069,
+        "age_inventory_penalty_seconds": 0.16334999999999994,
+        "unsupported_wet_penalty_seconds": 0.0,
+        "historical_strategy_support": 0.0,
+        "total_score_seconds": 5474.689738897805,
+        "interpretation": "Tyre time already includes fitted degradation and weather adjustments; those terms are shown as diagnostics. Penalties are added to estimated tyre time and pit loss."
+      },
+      "HistoricalStrategySupport": 0.0,
+      "HistoricalStrategyPenalty": 0.0,
+      "HistoricalPitWindowPenalty": 0.0,
+      "TyreUsage": {
+        "HARD": 2,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.36470161190837425,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.3943997269280352,
+          "INTERMEDIATE": 0.10228139979239262,
+          "MEDIUM": 0.30969305219681637,
+          "SOFT": 0.18011820593090838,
+          "WET": 0.013507615151847147
+        },
+        {
+          "HARD": 0.4197101716199321,
+          "INTERMEDIATE": 0.098722857203069,
+          "MEDIUM": 0.20499016280544033,
+          "SOFT": 0.25764998310652226,
+          "WET": 0.01892682526503623
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.5333333333333333,
+      "MaxSetUtilization": 1.0
+    },
+    {
+      "Season": 2024,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sakhir",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "2-STOP",
+      "Tyres": [
+        "HARD",
+        "HARD",
+        "MEDIUM"
+      ],
+      "Strategy": "HARD → HARD → MEDIUM",
+      "StintLengths": [
+        23,
+        24,
+        10
+      ],
+      "PitLaps": [
+        23,
+        47
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "HARD",
+      "ThirdTyre": "MEDIUM",
+      "FourthTyre": null,
+      "PitLap1": 23,
+      "PitLap2": 47.0,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5474.304034461973,
+      "PredictedLapTimeTotal": 5430.304034461973,
+      "PitStopCost": 44.0,
+      "DegradationImpact": 15.641817460448348,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.4000237846530099,
+      "StrategyScore": 5474.704058246626,
+      "ScoreBreakdown": {
+        "estimated_tyre_time_seconds": 5430.304034461973,
+        "degradation_contribution_seconds": 15.641817460448348,
+        "pit_loss_seconds": 44.0,
+        "weather_adjustment_seconds": 0.0,
+        "historical_strategy_penalty_seconds": 0.0,
+        "historical_pit_window_penalty_seconds": 0.0,
+        "ml_support_penalty_seconds": 0.23667378465300995,
+        "age_inventory_penalty_seconds": 0.16334999999999994,
+        "unsupported_wet_penalty_seconds": 0.0,
+        "historical_strategy_support": 0.0,
+        "total_score_seconds": 5474.704058246626,
+        "interpretation": "Tyre time already includes fitted degradation and weather adjustments; those terms are shown as diagnostics. Penalties are added to estimated tyre time and pit loss."
+      },
+      "HistoricalStrategySupport": 0.0,
+      "HistoricalStrategyPenalty": 0.0,
+      "HistoricalPitWindowPenalty": 0.0,
+      "TyreUsage": {
+        "HARD": 2,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.3237891867056858,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.4061707051196891,
+          "INTERMEDIATE": 0.10775481944967427,
+          "MEDIUM": 0.3056894001734051,
+          "SOFT": 0.17090266456932507,
+          "WET": 0.0094824106879062
+        },
+        {
+          "HARD": 0.19085847414228496,
+          "INTERMEDIATE": 0.09853445742259867,
+          "MEDIUM": 0.2414076682916825,
+          "SOFT": 0.45568322822282825,
+          "WET": 0.013516171920605691
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.5333333333333333,
+      "MaxSetUtilization": 1.0
+    },
+    {
+      "Season": 2024,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sakhir",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "2-STOP",
+      "Tyres": [
+        "HARD",
+        "HARD",
+        "SOFT"
+      ],
+      "Strategy": "HARD → HARD → SOFT",
+      "StintLengths": [
+        23,
+        24,
+        10
+      ],
+      "PitLaps": [
+        23,
+        47
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "HARD",
+      "ThirdTyre": "SOFT",
+      "FourthTyre": null,
+      "PitLap1": 23,
+      "PitLap2": 47.0,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5474.892940755679,
+      "PredictedLapTimeTotal": 5430.892940755679,
+      "PitStopCost": 44.0,
+      "DegradationImpact": 16.87440687103779,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.36252556166505934,
+      "StrategyScore": 5475.255466317344,
+      "ScoreBreakdown": {
+        "estimated_tyre_time_seconds": 5430.892940755679,
+        "degradation_contribution_seconds": 16.87440687103779,
+        "pit_loss_seconds": 44.0,
+        "weather_adjustment_seconds": 0.0,
+        "historical_strategy_penalty_seconds": 0.0,
+        "historical_pit_window_penalty_seconds": 0.0,
+        "ml_support_penalty_seconds": 0.19917556166505943,
+        "age_inventory_penalty_seconds": 0.16334999999999994,
+        "unsupported_wet_penalty_seconds": 0.0,
+        "historical_strategy_support": 0.0,
+        "total_score_seconds": 5475.255466317344,
+        "interpretation": "Tyre time already includes fitted degradation and weather adjustments; those terms are shown as diagnostics. Penalties are added to estimated tyre time and pit loss."
+      },
+      "HistoricalStrategySupport": 0.0,
+      "HistoricalStrategyPenalty": 0.0,
+      "HistoricalPitWindowPenalty": 0.0,
+      "TyreUsage": {
+        "HARD": 2,
+        "SOFT": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.4309269666712587,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.4061707051196891,
+          "INTERMEDIATE": 0.10775481944967427,
+          "MEDIUM": 0.3056894001734051,
+          "SOFT": 0.17090266456932507,
+          "WET": 0.0094824106879062
+        },
+        {
+          "HARD": 0.19085847414228496,
+          "INTERMEDIATE": 0.09853445742259867,
+          "MEDIUM": 0.2414076682916825,
+          "SOFT": 0.45568322822282825,
+          "WET": 0.013516171920605691
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.5333333333333333,
+      "MaxSetUtilization": 1.0
+    }
+  ],
+  "strategy_alternatives": [
+    {
+      "Season": 2024,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sakhir",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "HARD",
+        "MEDIUM"
+      ],
+      "Strategy": "HARD → MEDIUM",
+      "StintLengths": [
+        39,
+        18
+      ],
+      "PitLaps": [
+        39
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 39,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5444.027656072967,
+      "PredictedLapTimeTotal": 5422.027656072967,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 25.033654669962218,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.3236497734736312,
+      "StrategyScore": 5444.3513058464405,
+      "ScoreBreakdown": {
+        "estimated_tyre_time_seconds": 5422.027656072967,
+        "degradation_contribution_seconds": 25.033654669962218,
+        "pit_loss_seconds": 22.0,
+        "weather_adjustment_seconds": 0.0,
+        "historical_strategy_penalty_seconds": 0.0,
+        "historical_pit_window_penalty_seconds": 0.0,
+        "ml_support_penalty_seconds": 0.2376053290291867,
+        "age_inventory_penalty_seconds": 0.0860444444444445,
+        "unsupported_wet_penalty_seconds": 0.0,
+        "historical_strategy_support": 0.0,
+        "total_score_seconds": 5444.3513058464405,
+        "interpretation": "Tyre time already includes fitted degradation and weather adjustments; those terms are shown as diagnostics. Penalties are added to estimated tyre time and pit loss."
+      },
+      "HistoricalStrategySupport": 0.0,
+      "HistoricalStrategyPenalty": 0.0,
+      "HistoricalPitWindowPenalty": 0.0,
+      "TyreUsage": {
+        "HARD": 1,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.32112763134518074,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.2837072197550993,
+          "INTERMEDIATE": 0.0871005780125771,
+          "MEDIUM": 0.32112763134518074,
+          "SOFT": 0.29702533190339697,
+          "WET": 0.011039238983745613
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8666666666666667,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sakhir",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "HARD",
+        "SOFT"
+      ],
+      "Strategy": "HARD → SOFT",
+      "StintLengths": [
+        44,
+        13
+      ],
+      "PitLaps": [
+        44
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "SOFT",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 44,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5445.148160189899,
+      "PredictedLapTimeTotal": 5423.148160189899,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 30.02259500405407,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.4659584673180194,
+      "StrategyScore": 5445.614118657217,
+      "ScoreBreakdown": {
+        "estimated_tyre_time_seconds": 5423.148160189899,
+        "degradation_contribution_seconds": 30.02259500405407,
+        "pit_loss_seconds": 22.0,
+        "weather_adjustment_seconds": 0.0,
+        "historical_strategy_penalty_seconds": 0.0,
+        "historical_pit_window_penalty_seconds": 0.0,
+        "ml_support_penalty_seconds": 0.20016093645382188,
+        "age_inventory_penalty_seconds": 0.2657975308641975,
+        "unsupported_wet_penalty_seconds": 0.0,
+        "historical_strategy_support": 0.0,
+        "total_score_seconds": 5445.614118657217,
+        "interpretation": "Tyre time already includes fitted degradation and weather adjustments; those terms are shown as diagnostics. Penalties are added to estimated tyre time and pit loss."
+      },
+      "HistoricalStrategySupport": 0.0,
+      "HistoricalStrategyPenalty": 0.0,
+      "HistoricalPitWindowPenalty": 0.0,
+      "TyreUsage": {
+        "HARD": 1,
+        "SOFT": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.42811161013193744,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.20418946912490452,
+          "INTERMEDIATE": 0.08814806489331008,
+          "MEDIUM": 0.266034683929242,
+          "SOFT": 0.42811161013193744,
+          "WET": 0.013516171920605691
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.9777777777777777,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sakhir",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "SOFT",
+        "HARD"
+      ],
+      "Strategy": "SOFT → HARD",
+      "StintLengths": [
+        13,
+        44
+      ],
+      "PitLaps": [
+        13
+      ],
+      "FirstTyre": "SOFT",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 13,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5445.1481601898995,
+      "PredictedLapTimeTotal": 5423.1481601898995,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 30.02259500405407,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.47192603639961056,
+      "StrategyScore": 5445.6200862262995,
+      "ScoreBreakdown": {
+        "estimated_tyre_time_seconds": 5423.1481601898995,
+        "degradation_contribution_seconds": 30.02259500405407,
+        "pit_loss_seconds": 22.0,
+        "weather_adjustment_seconds": 0.0,
+        "historical_strategy_penalty_seconds": 0.0,
+        "historical_pit_window_penalty_seconds": 0.0,
+        "ml_support_penalty_seconds": 0.20612850553541306,
+        "age_inventory_penalty_seconds": 0.2657975308641975,
+        "unsupported_wet_penalty_seconds": 0.0,
+        "historical_strategy_support": 0.0,
+        "total_score_seconds": 5445.6200862262995,
+        "interpretation": "Tyre time already includes fitted degradation and weather adjustments; those terms are shown as diagnostics. Penalties are added to estimated tyre time and pit loss."
+      },
+      "HistoricalStrategySupport": 0.0,
+      "HistoricalStrategyPenalty": 0.0,
+      "HistoricalPitWindowPenalty": 0.0,
+      "TyreUsage": {
+        "SOFT": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.4110614127559626,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.4110614127559626,
+          "INTERMEDIATE": 0.10446558177402668,
+          "MEDIUM": 0.31952629095450896,
+          "SOFT": 0.15068283953746026,
+          "WET": 0.014263874978041444
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.9777777777777777,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2024,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sakhir",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "SOFT",
+        "MEDIUM"
+      ],
+      "Strategy": "SOFT → MEDIUM",
+      "StintLengths": [
+        22,
+        35
+      ],
+      "PitLaps": [
+        22
+      ],
+      "FirstTyre": "SOFT",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 22,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5454.340327055031,
+      "PredictedLapTimeTotal": 5432.340327055031,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 35.00292890442918,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.5469113596430283,
+      "StrategyScore": 5454.887238414673,
+      "ScoreBreakdown": {
+        "estimated_tyre_time_seconds": 5432.340327055031,
+        "degradation_contribution_seconds": 35.00292890442918,
+        "pit_loss_seconds": 22.0,
+        "weather_adjustment_seconds": 0.0,
+        "historical_strategy_penalty_seconds": 0.0,
+        "historical_pit_window_penalty_seconds": 0.0,
+        "ml_support_penalty_seconds": 0.23331135964302827,
+        "age_inventory_penalty_seconds": 0.31360000000000005,
+        "unsupported_wet_penalty_seconds": 0.0,
+        "historical_strategy_support": 0.0,
+        "total_score_seconds": 5454.887238414673,
+        "interpretation": "Tyre time already includes fitted degradation and weather adjustments; those terms are shown as diagnostics. Penalties are added to estimated tyre time and pit loss."
+      },
+      "HistoricalStrategySupport": 0.0,
+      "HistoricalStrategyPenalty": 0.0,
+      "HistoricalPitWindowPenalty": 0.0,
+      "TyreUsage": {
+        "SOFT": 1,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.3333961153056335,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.403181763128979,
+          "INTERMEDIATE": 0.10018692668456022,
+          "MEDIUM": 0.3333961153056335,
+          "SOFT": 0.14897131990278548,
+          "WET": 0.014263874978041444
+        }
+      ],
+      "MaxTyreAgeUtilization": 1.0,
+      "MaxSetUtilization": 0.3333333333333333
+    },
+    {
+      "Season": 2024,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sakhir",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "SOFT"
+      ],
+      "Strategy": "MEDIUM → SOFT",
+      "StintLengths": [
+        35,
+        22
+      ],
+      "PitLaps": [
+        35
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "SOFT",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 35,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5454.340327055031,
+      "PredictedLapTimeTotal": 5432.340327055031,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 35.00292890442918,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.5686835691936445,
+      "StrategyScore": 5454.909010624225,
+      "ScoreBreakdown": {
+        "estimated_tyre_time_seconds": 5432.340327055031,
+        "degradation_contribution_seconds": 35.00292890442918,
+        "pit_loss_seconds": 22.0,
+        "weather_adjustment_seconds": 0.0,
+        "historical_strategy_penalty_seconds": 0.0,
+        "historical_pit_window_penalty_seconds": 0.0,
+        "ml_support_penalty_seconds": 0.25508356919364444,
+        "age_inventory_penalty_seconds": 0.31360000000000005,
+        "unsupported_wet_penalty_seconds": 0.0,
+        "historical_strategy_support": 0.0,
+        "total_score_seconds": 5454.909010624225,
+        "interpretation": "Tyre time already includes fitted degradation and weather adjustments; those terms are shown as diagnostics. Penalties are added to estimated tyre time and pit loss."
+      },
+      "HistoricalStrategySupport": 0.0,
+      "HistoricalStrategyPenalty": 0.0,
+      "HistoricalPitWindowPenalty": 0.0,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "SOFT": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.27118980230387296,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.4290252403543756,
+          "INTERMEDIATE": 0.08298662925370116,
+          "MEDIUM": 0.1960164404096993,
+          "SOFT": 0.27118980230387296,
+          "WET": 0.02078188767835107
+        }
+      ],
+      "MaxTyreAgeUtilization": 1.0,
+      "MaxSetUtilization": 0.3333333333333333
+    },
+    {
+      "Season": 2024,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sakhir",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "2-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD → HARD",
+      "StintLengths": [
+        10,
+        23,
+        24
+      ],
+      "PitLaps": [
+        10,
+        33
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": "HARD",
+      "FourthTyre": null,
+      "PitLap1": 10,
+      "PitLap2": 33.0,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5474.304034461973,
+      "PredictedLapTimeTotal": 5430.304034461973,
+      "PitStopCost": 44.0,
+      "DegradationImpact": 15.641817460448348,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.3591056262550973,
+      "StrategyScore": 5474.663140088228,
+      "ScoreBreakdown": {
+        "estimated_tyre_time_seconds": 5430.304034461973,
+        "degradation_contribution_seconds": 15.641817460448348,
+        "pit_loss_seconds": 44.0,
+        "weather_adjustment_seconds": 0.0,
+        "historical_strategy_penalty_seconds": 0.0,
+        "historical_pit_window_penalty_seconds": 0.0,
+        "ml_support_penalty_seconds": 0.19575562625509735,
+        "age_inventory_penalty_seconds": 0.16334999999999994,
+        "unsupported_wet_penalty_seconds": 0.0,
+        "historical_strategy_support": 0.0,
+        "total_score_seconds": 5474.663140088228,
+        "interpretation": "Tyre time already includes fitted degradation and weather adjustments; those terms are shown as diagnostics. Penalties are added to estimated tyre time and pit loss."
+      },
+      "HistoricalStrategySupport": 0.0,
+      "HistoricalStrategyPenalty": 0.0,
+      "HistoricalPitWindowPenalty": 0.0,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 2
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.4406982106997218,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5137271033697831,
+          "INTERMEDIATE": 0.10129576768670205,
+          "MEDIUM": 0.21599842615321108,
+          "SOFT": 0.16197027396005753,
+          "WET": 0.007008428830246073
+        },
+        {
+          "HARD": 0.3676693180296605,
+          "INTERMEDIATE": 0.08898658326451529,
+          "MEDIUM": 0.31712789146048304,
+          "SOFT": 0.2111049265723024,
+          "WET": 0.01511128067303844
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.5333333333333333,
+      "MaxSetUtilization": 1.0
+    },
+    {
+      "Season": 2024,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sakhir",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "2-STOP",
+      "Tyres": [
+        "HARD",
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "HARD → MEDIUM → HARD",
+      "StintLengths": [
+        24,
+        10,
+        23
+      ],
+      "PitLaps": [
+        24,
+        34
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": "HARD",
+      "FourthTyre": null,
+      "PitLap1": 24,
+      "PitLap2": 34.0,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5474.304034461973,
+      "PredictedLapTimeTotal": 5430.304034461973,
+      "PitStopCost": 44.0,
+      "DegradationImpact": 15.641817460448348,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.3857044358320689,
+      "StrategyScore": 5474.689738897805,
+      "ScoreBreakdown": {
+        "estimated_tyre_time_seconds": 5430.304034461973,
+        "degradation_contribution_seconds": 15.641817460448348,
+        "pit_loss_seconds": 44.0,
+        "weather_adjustment_seconds": 0.0,
+        "historical_strategy_penalty_seconds": 0.0,
+        "historical_pit_window_penalty_seconds": 0.0,
+        "ml_support_penalty_seconds": 0.222354435832069,
+        "age_inventory_penalty_seconds": 0.16334999999999994,
+        "unsupported_wet_penalty_seconds": 0.0,
+        "historical_strategy_support": 0.0,
+        "total_score_seconds": 5474.689738897805,
+        "interpretation": "Tyre time already includes fitted degradation and weather adjustments; those terms are shown as diagnostics. Penalties are added to estimated tyre time and pit loss."
+      },
+      "HistoricalStrategySupport": 0.0,
+      "HistoricalStrategyPenalty": 0.0,
+      "HistoricalPitWindowPenalty": 0.0,
+      "TyreUsage": {
+        "HARD": 2,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.36470161190837425,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.3943997269280352,
+          "INTERMEDIATE": 0.10228139979239262,
+          "MEDIUM": 0.30969305219681637,
+          "SOFT": 0.18011820593090838,
+          "WET": 0.013507615151847147
+        },
+        {
+          "HARD": 0.4197101716199321,
+          "INTERMEDIATE": 0.098722857203069,
+          "MEDIUM": 0.20499016280544033,
+          "SOFT": 0.25764998310652226,
+          "WET": 0.01892682526503623
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.5333333333333333,
+      "MaxSetUtilization": 1.0
+    },
+    {
+      "Season": 2024,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sakhir",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "2-STOP",
+      "Tyres": [
+        "HARD",
+        "HARD",
+        "MEDIUM"
+      ],
+      "Strategy": "HARD → HARD → MEDIUM",
+      "StintLengths": [
+        23,
+        24,
+        10
+      ],
+      "PitLaps": [
+        23,
+        47
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "HARD",
+      "ThirdTyre": "MEDIUM",
+      "FourthTyre": null,
+      "PitLap1": 23,
+      "PitLap2": 47.0,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5474.304034461973,
+      "PredictedLapTimeTotal": 5430.304034461973,
+      "PitStopCost": 44.0,
+      "DegradationImpact": 15.641817460448348,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.4000237846530099,
+      "StrategyScore": 5474.704058246626,
+      "ScoreBreakdown": {
+        "estimated_tyre_time_seconds": 5430.304034461973,
+        "degradation_contribution_seconds": 15.641817460448348,
+        "pit_loss_seconds": 44.0,
+        "weather_adjustment_seconds": 0.0,
+        "historical_strategy_penalty_seconds": 0.0,
+        "historical_pit_window_penalty_seconds": 0.0,
+        "ml_support_penalty_seconds": 0.23667378465300995,
+        "age_inventory_penalty_seconds": 0.16334999999999994,
+        "unsupported_wet_penalty_seconds": 0.0,
+        "historical_strategy_support": 0.0,
+        "total_score_seconds": 5474.704058246626,
+        "interpretation": "Tyre time already includes fitted degradation and weather adjustments; those terms are shown as diagnostics. Penalties are added to estimated tyre time and pit loss."
+      },
+      "HistoricalStrategySupport": 0.0,
+      "HistoricalStrategyPenalty": 0.0,
+      "HistoricalPitWindowPenalty": 0.0,
+      "TyreUsage": {
+        "HARD": 2,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.3237891867056858,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.4061707051196891,
+          "INTERMEDIATE": 0.10775481944967427,
+          "MEDIUM": 0.3056894001734051,
+          "SOFT": 0.17090266456932507,
+          "WET": 0.0094824106879062
+        },
+        {
+          "HARD": 0.19085847414228496,
+          "INTERMEDIATE": 0.09853445742259867,
+          "MEDIUM": 0.2414076682916825,
+          "SOFT": 0.45568322822282825,
+          "WET": 0.013516171920605691
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.5333333333333333,
+      "MaxSetUtilization": 1.0
+    },
+    {
+      "Season": 2024,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sakhir",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "2-STOP",
+      "Tyres": [
+        "HARD",
+        "HARD",
+        "SOFT"
+      ],
+      "Strategy": "HARD → HARD → SOFT",
+      "StintLengths": [
+        23,
+        24,
+        10
+      ],
+      "PitLaps": [
+        23,
+        47
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "HARD",
+      "ThirdTyre": "SOFT",
+      "FourthTyre": null,
+      "PitLap1": 23,
+      "PitLap2": 47.0,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5474.892940755679,
+      "PredictedLapTimeTotal": 5430.892940755679,
+      "PitStopCost": 44.0,
+      "DegradationImpact": 16.87440687103779,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.36252556166505934,
+      "StrategyScore": 5475.255466317344,
+      "ScoreBreakdown": {
+        "estimated_tyre_time_seconds": 5430.892940755679,
+        "degradation_contribution_seconds": 16.87440687103779,
+        "pit_loss_seconds": 44.0,
+        "weather_adjustment_seconds": 0.0,
+        "historical_strategy_penalty_seconds": 0.0,
+        "historical_pit_window_penalty_seconds": 0.0,
+        "ml_support_penalty_seconds": 0.19917556166505943,
+        "age_inventory_penalty_seconds": 0.16334999999999994,
+        "unsupported_wet_penalty_seconds": 0.0,
+        "historical_strategy_support": 0.0,
+        "total_score_seconds": 5475.255466317344,
+        "interpretation": "Tyre time already includes fitted degradation and weather adjustments; those terms are shown as diagnostics. Penalties are added to estimated tyre time and pit loss."
+      },
+      "HistoricalStrategySupport": 0.0,
+      "HistoricalStrategyPenalty": 0.0,
+      "HistoricalPitWindowPenalty": 0.0,
+      "TyreUsage": {
+        "HARD": 2,
+        "SOFT": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.4309269666712587,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.4061707051196891,
+          "INTERMEDIATE": 0.10775481944967427,
+          "MEDIUM": 0.3056894001734051,
+          "SOFT": 0.17090266456932507,
+          "WET": 0.0094824106879062
+        },
+        {
+          "HARD": 0.19085847414228496,
+          "INTERMEDIATE": 0.09853445742259867,
+          "MEDIUM": 0.2414076682916825,
+          "SOFT": 0.45568322822282825,
+          "WET": 0.013516171920605691
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.5333333333333333,
+      "MaxSetUtilization": 1.0
+    }
+  ],
+  "feasible_candidate_count": 7035,
+  "pit_loss_seconds_per_stop": 22.0,
+  "reason": "MEDIUM → HARD is the lowest-scoring feasible plan in 7,035 simulated candidates for Alexander Albon at Sakhir in 2024. It uses 1 pit stop(s) with stint lengths 18, 39; the estimate includes a 22-second loss per stop and the fitted tyre degradation. The physical set, dry-compound-diversity, and tyre-age constraints passed before ranking. The next-ranked candidate scores 0.01 seconds higher. Lap-time estimates blend the Random Forest with historical tyre profiles.",
+  "dry_strategy": "MEDIUM → HARD",
+  "weather_strategy": "MEDIUM → HARD",
+  "preferred_strategy": "1-STOP",
+  "primary_tyre": "MEDIUM",
+  "backup_tyre": "HARD",
+  "pit_lap_1": 18,
+  "pit_lap_2": null,
+  "weather_pit_lap_1": 18,
+  "one_stop_strategy": "MEDIUM → HARD",
+  "one_stop_time": 5444.027656072967,
+  "two_stop_strategy": "MEDIUM → HARD → HARD",
+  "two_stop_time": 5474.304034461973,
+  "three_stop_strategy": null,
+  "three_stop_time": null,
+  "strategy_score_difference": 30.380499095031155,
+  "prediction_timings": {
+    "surface_model_ms": 309.26,
+    "strategy_generation_ms": 5.12,
+    "strategy_simulation_ms": 1254.07
+  }
+}

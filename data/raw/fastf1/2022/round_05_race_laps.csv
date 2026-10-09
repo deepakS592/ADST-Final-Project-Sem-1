@@ -1,0 +1,1023 @@
+Season,Round,Race,EventName,OfficialEventName,Circuit,Country,Location,EventDate,RaceLaps,Driver,DriverName,DriverNumber,Team,Compound,LapNumber,TyreLife,Stint,LapTime,IsAccurate,Deleted,TrackStatus
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,1.0,1.0,1.0,97.528,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,2.0,2.0,1.0,94.542,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,3.0,3.0,1.0,94.55,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,4.0,4.0,1.0,94.287,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,5.0,5.0,1.0,94.32,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,6.0,6.0,1.0,94.227,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,7.0,7.0,1.0,94.267,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,8.0,8.0,1.0,94.318,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,9.0,9.0,1.0,95.415,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,10.0,10.0,1.0,94.107,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,11.0,11.0,1.0,94.466,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,12.0,12.0,1.0,93.991,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,13.0,13.0,1.0,94.09,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,14.0,14.0,1.0,93.866,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,15.0,15.0,1.0,93.51,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,16.0,16.0,1.0,94.225,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,17.0,17.0,1.0,93.742,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,18.0,18.0,1.0,93.946,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,19.0,19.0,1.0,93.684,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,20.0,20.0,1.0,93.249,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,21.0,21.0,1.0,93.347,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,22.0,22.0,1.0,93.193,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,23.0,23.0,1.0,93.275,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,24.0,24.0,1.0,93.487,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,25.0,25.0,1.0,93.286,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,26.0,26.0,1.0,98.505,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,27.0,1.0,2.0,108.047,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,28.0,2.0,2.0,93.135,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,29.0,3.0,2.0,92.779,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,30.0,4.0,2.0,93.216,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,31.0,5.0,2.0,93.033,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,32.0,6.0,2.0,92.742,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,33.0,7.0,2.0,92.813,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,34.0,8.0,2.0,92.714,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,35.0,9.0,2.0,92.696,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,36.0,10.0,2.0,92.596,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,37.0,11.0,2.0,92.325,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,38.0,12.0,2.0,92.417,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,39.0,13.0,2.0,92.415,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,40.0,14.0,2.0,92.444,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,41.0,15.0,2.0,111.339,False,,1264
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,45.0,19.0,2.0,142.077,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,47.0,21.0,2.0,93.959,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,48.0,22.0,2.0,92.397,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,49.0,23.0,2.0,92.292,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,50.0,24.0,2.0,91.878,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,51.0,25.0,2.0,92.05,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,52.0,26.0,2.0,92.037,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,53.0,27.0,2.0,91.456,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,54.0,28.0,2.0,91.361,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,55.0,29.0,2.0,91.75,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,56.0,30.0,2.0,91.74,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,57.0,31.0,2.0,91.458,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,1.0,1.0,1.0,100.671,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,2.0,2.0,1.0,96.07,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,3.0,3.0,1.0,95.683,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,4.0,4.0,1.0,95.591,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,5.0,5.0,1.0,96.268,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,6.0,6.0,1.0,96.911,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,7.0,7.0,1.0,96.583,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,8.0,8.0,1.0,96.358,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,9.0,9.0,1.0,95.856,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,10.0,10.0,1.0,95.6,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,11.0,11.0,1.0,95.596,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,12.0,12.0,1.0,95.447,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,13.0,13.0,1.0,95.539,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,14.0,14.0,1.0,95.458,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,15.0,15.0,1.0,95.223,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,16.0,16.0,1.0,100.169,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,17.0,1.0,2.0,110.83,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,18.0,2.0,2.0,95.185,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,19.0,3.0,2.0,95.053,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,20.0,4.0,2.0,95.256,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,21.0,5.0,2.0,95.253,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,22.0,6.0,2.0,95.105,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,23.0,7.0,2.0,94.879,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,24.0,8.0,2.0,96.593,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,25.0,9.0,2.0,95.173,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,26.0,10.0,2.0,94.686,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,27.0,11.0,2.0,94.915,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,28.0,12.0,2.0,94.964,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,29.0,13.0,2.0,94.983,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,30.0,14.0,2.0,94.948,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,31.0,15.0,2.0,94.552,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,32.0,16.0,2.0,95.424,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,33.0,17.0,2.0,94.77,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,34.0,18.0,2.0,94.508,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,35.0,19.0,2.0,94.67,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,36.0,20.0,2.0,94.574,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,37.0,21.0,2.0,94.552,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,38.0,22.0,2.0,94.487,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,39.0,23.0,2.0,98.47,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,HARD,40.0,24.0,2.0,123.527,False,,126
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,SOFT,44.0,7.0,3.0,114.71,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,GAS,Pierre Gasly,10,AlphaTauri,SOFT,45.0,8.0,3.0,112.962,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,1.0,1.0,1.0,99.04,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,2.0,2.0,1.0,95.274,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,3.0,3.0,1.0,94.94,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,4.0,4.0,1.0,94.831,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,5.0,5.0,1.0,94.71,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,6.0,6.0,1.0,94.711,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,7.0,7.0,1.0,94.826,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,8.0,8.0,1.0,95.136,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,9.0,9.0,1.0,94.914,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,10.0,10.0,1.0,94.461,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,11.0,11.0,1.0,94.522,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,12.0,12.0,1.0,94.522,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,13.0,13.0,1.0,94.586,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,14.0,14.0,1.0,94.375,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,15.0,15.0,1.0,93.831,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,16.0,16.0,1.0,94.128,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,17.0,17.0,1.0,93.865,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,18.0,18.0,1.0,94.378,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,19.0,19.0,1.0,98.146,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,20.0,20.0,1.0,95.73,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,21.0,21.0,1.0,94.674,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,22.0,22.0,1.0,94.158,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,23.0,23.0,1.0,94.275,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,24.0,24.0,1.0,93.918,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,25.0,25.0,1.0,94.365,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,26.0,26.0,1.0,94.8,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,27.0,27.0,1.0,99.943,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,28.0,1.0,2.0,108.374,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,29.0,2.0,2.0,93.224,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,30.0,3.0,2.0,93.89,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,31.0,4.0,2.0,93.838,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,32.0,5.0,2.0,93.368,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,33.0,6.0,2.0,93.542,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,34.0,7.0,2.0,93.237,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,35.0,8.0,2.0,93.688,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,36.0,9.0,2.0,93.35,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,37.0,10.0,2.0,93.65,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,38.0,11.0,2.0,93.904,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,39.0,12.0,2.0,93.083,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,40.0,13.0,2.0,95.003,False,,126
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,41.0,14.0,2.0,126.061,False,,64
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,42.0,1.0,3.0,131.29,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,45.0,4.0,3.0,135.947,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,46.0,5.0,3.0,149.861,False,,41
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,47.0,6.0,3.0,95.078,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,48.0,7.0,3.0,93.375,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,49.0,8.0,3.0,92.601,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,50.0,9.0,3.0,92.886,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,51.0,10.0,3.0,92.643,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,52.0,11.0,3.0,93.798,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,53.0,12.0,3.0,91.956,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,54.0,13.0,3.0,91.819,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,55.0,14.0,3.0,91.971,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,56.0,15.0,3.0,91.863,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,57.0,16.0,3.0,93.202,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,MEDIUM,1.0,1.0,1.0,101.48,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,MEDIUM,2.0,2.0,1.0,96.176,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,MEDIUM,3.0,3.0,1.0,96.848,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,MEDIUM,4.0,4.0,1.0,95.647,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,MEDIUM,5.0,5.0,1.0,95.73,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,MEDIUM,6.0,6.0,1.0,95.713,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,MEDIUM,7.0,7.0,1.0,96.824,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,MEDIUM,8.0,8.0,1.0,96.222,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,MEDIUM,9.0,9.0,1.0,95.859,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,MEDIUM,10.0,10.0,1.0,95.828,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,MEDIUM,11.0,11.0,1.0,95.656,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,MEDIUM,12.0,12.0,1.0,95.523,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,MEDIUM,13.0,13.0,1.0,95.504,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,MEDIUM,14.0,14.0,1.0,95.408,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,MEDIUM,15.0,15.0,1.0,101.221,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,16.0,2.0,2.0,113.03,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,17.0,3.0,2.0,95.662,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,18.0,4.0,2.0,95.417,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,19.0,5.0,2.0,95.106,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,20.0,6.0,2.0,95.114,True,,21
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,21.0,7.0,2.0,95.034,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,22.0,8.0,2.0,95.342,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,23.0,9.0,2.0,94.929,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,24.0,10.0,2.0,94.868,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,25.0,11.0,2.0,95.106,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,26.0,12.0,2.0,94.875,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,27.0,13.0,2.0,94.782,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,28.0,14.0,2.0,95.056,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,29.0,15.0,2.0,94.885,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,30.0,16.0,2.0,94.822,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,31.0,17.0,2.0,94.813,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,32.0,18.0,2.0,94.402,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,33.0,19.0,2.0,94.784,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,34.0,20.0,2.0,94.242,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,35.0,21.0,2.0,94.319,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,36.0,22.0,2.0,94.318,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,37.0,23.0,2.0,94.127,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,38.0,24.0,2.0,94.126,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,39.0,25.0,2.0,95.083,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,40.0,26.0,2.0,106.082,False,,126
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,41.0,27.0,2.0,119.256,False,,64
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,42.0,28.0,2.0,123.266,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,43.0,29.0,2.0,133.187,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,45.0,31.0,2.0,133.544,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,46.0,32.0,2.0,145.482,False,,41
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,47.0,33.0,2.0,96.239,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,48.0,34.0,2.0,94.362,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,49.0,35.0,2.0,93.96,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,50.0,36.0,2.0,94.731,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,51.0,37.0,2.0,94.765,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,52.0,38.0,2.0,94.17,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,53.0,39.0,2.0,93.331,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,54.0,40.0,2.0,93.42,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,55.0,41.0,2.0,93.441,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,56.0,42.0,2.0,93.344,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALO,Fernando Alonso,14,Alpine,HARD,57.0,43.0,2.0,93.884,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,1.0,1.0,1.0,96.677,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,2.0,2.0,1.0,94.389,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,3.0,3.0,1.0,94.465,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,4.0,4.0,1.0,94.323,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,5.0,5.0,1.0,93.963,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,6.0,6.0,1.0,94.467,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,7.0,7.0,1.0,94.546,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,8.0,8.0,1.0,95.109,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,9.0,9.0,1.0,96.091,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,10.0,10.0,1.0,94.826,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,11.0,11.0,1.0,94.68,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,12.0,12.0,1.0,95.096,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,13.0,13.0,1.0,94.2,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,14.0,14.0,1.0,93.867,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,15.0,15.0,1.0,94.146,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,16.0,16.0,1.0,94.34,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,17.0,17.0,1.0,93.816,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,18.0,18.0,1.0,93.729,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,19.0,19.0,1.0,93.669,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,20.0,20.0,1.0,93.56,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,21.0,21.0,1.0,93.997,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,22.0,22.0,1.0,93.579,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,23.0,23.0,1.0,93.141,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,24.0,24.0,1.0,98.829,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,25.0,1.0,2.0,111.128,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,26.0,2.0,2.0,93.358,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,27.0,3.0,2.0,93.054,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,28.0,4.0,2.0,92.95,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,29.0,5.0,2.0,93.155,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,30.0,6.0,2.0,93.058,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,31.0,7.0,2.0,93.049,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,32.0,8.0,2.0,93.125,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,33.0,9.0,2.0,92.366,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,34.0,10.0,2.0,92.878,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,35.0,11.0,2.0,92.544,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,36.0,12.0,2.0,92.528,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,37.0,13.0,2.0,92.64,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,38.0,14.0,2.0,92.486,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,39.0,15.0,2.0,92.096,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,40.0,16.0,2.0,92.43,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,41.0,17.0,2.0,114.587,False,,1264
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,44.0,20.0,2.0,148.72,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,45.0,21.0,2.0,140.865,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,47.0,23.0,2.0,93.856,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,48.0,24.0,2.0,92.707,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,49.0,25.0,2.0,91.85,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,50.0,26.0,2.0,92.15,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,51.0,27.0,2.0,91.981,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,52.0,28.0,2.0,92.26,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,53.0,29.0,2.0,91.488,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,54.0,30.0,2.0,91.781,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,55.0,31.0,2.0,91.844,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,56.0,32.0,2.0,92.444,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,57.0,33.0,2.0,93.114,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,1.0,3.0,1.0,113.387,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,2.0,4.0,1.0,97.539,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,3.0,5.0,1.0,97.042,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,4.0,6.0,1.0,96.912,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,5.0,7.0,1.0,96.621,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,6.0,8.0,1.0,96.828,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,7.0,9.0,1.0,96.659,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,8.0,10.0,1.0,98.121,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,9.0,11.0,1.0,96.982,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,10.0,12.0,1.0,96.038,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,11.0,13.0,1.0,96.061,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,12.0,14.0,1.0,95.945,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,13.0,15.0,1.0,95.874,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,14.0,16.0,1.0,96.596,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,15.0,17.0,1.0,96.237,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,16.0,18.0,1.0,96.606,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,17.0,19.0,1.0,95.631,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,18.0,20.0,1.0,95.651,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,19.0,21.0,1.0,95.332,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,20.0,22.0,1.0,95.175,True,,21
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,21.0,23.0,1.0,94.923,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,22.0,24.0,1.0,95.055,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,23.0,25.0,1.0,94.9,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,24.0,26.0,1.0,94.85,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,25.0,27.0,1.0,95.183,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,26.0,28.0,1.0,94.86,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,27.0,29.0,1.0,94.975,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,28.0,30.0,1.0,94.828,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,29.0,31.0,1.0,94.692,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,30.0,32.0,1.0,95.433,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,31.0,33.0,1.0,94.593,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,32.0,34.0,1.0,94.723,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,33.0,35.0,1.0,94.575,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,34.0,36.0,1.0,94.498,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,35.0,37.0,1.0,94.657,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,36.0,38.0,1.0,94.731,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,37.0,39.0,1.0,94.064,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,38.0,40.0,1.0,94.29,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,39.0,41.0,1.0,94.623,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,HARD,40.0,42.0,1.0,109.446,False,,126
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,41.0,3.0,2.0,131.776,False,,64
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,42.0,4.0,2.0,121.462,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,43.0,5.0,2.0,121.076,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,45.0,7.0,2.0,132.844,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,46.0,8.0,2.0,142.814,False,,41
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,47.0,9.0,2.0,99.782,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,48.0,10.0,2.0,94.599,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,49.0,11.0,2.0,93.754,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,50.0,12.0,2.0,95.225,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,51.0,13.0,2.0,93.63,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,52.0,14.0,2.0,93.312,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,53.0,15.0,2.0,95.122,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,54.0,16.0,2.0,95.369,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,55.0,17.0,2.0,93.84,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,56.0,18.0,2.0,95.307,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,57.0,19.0,2.0,93.432,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,1.0,1.0,1.0,104.954,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,2.0,2.0,1.0,97.576,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,3.0,3.0,1.0,95.762,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,4.0,4.0,1.0,95.642,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,5.0,5.0,1.0,96.136,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,6.0,6.0,1.0,98.323,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,7.0,7.0,1.0,96.445,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,8.0,8.0,1.0,96.182,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,9.0,9.0,1.0,95.652,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,10.0,10.0,1.0,95.286,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,11.0,11.0,1.0,96.228,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,12.0,12.0,1.0,101.389,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,13.0,1.0,2.0,110.202,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,14.0,2.0,2.0,94.761,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,15.0,3.0,2.0,95.441,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,16.0,4.0,2.0,96.394,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,17.0,5.0,2.0,95.017,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,18.0,6.0,2.0,94.561,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,19.0,7.0,2.0,96.118,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,20.0,8.0,2.0,95.09,True,,21
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,21.0,9.0,2.0,94.848,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,22.0,10.0,2.0,94.749,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,23.0,11.0,2.0,94.945,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,24.0,12.0,2.0,94.664,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,25.0,13.0,2.0,95.095,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,26.0,14.0,2.0,94.819,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,27.0,15.0,2.0,94.833,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,28.0,16.0,2.0,95.024,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,29.0,17.0,2.0,94.268,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,30.0,18.0,2.0,96.103,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,31.0,19.0,2.0,96.383,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,32.0,20.0,2.0,95.38,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,33.0,21.0,2.0,94.894,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,34.0,22.0,2.0,95.186,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,35.0,23.0,2.0,94.953,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,36.0,24.0,2.0,93.924,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,37.0,25.0,2.0,93.774,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,38.0,26.0,2.0,93.747,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,39.0,27.0,2.0,94.427,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,40.0,28.0,2.0,106.942,False,,126
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,41.0,29.0,2.0,123.991,False,,64
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,42.0,30.0,2.0,120.983,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,43.0,1.0,3.0,128.984,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,45.0,3.0,3.0,133.648,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,46.0,4.0,3.0,141.333,False,,41
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,47.0,5.0,3.0,97.486,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,48.0,6.0,3.0,95.665,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,49.0,7.0,3.0,95.001,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,50.0,8.0,3.0,94.427,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,51.0,9.0,3.0,93.743,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,52.0,10.0,3.0,93.511,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,53.0,11.0,3.0,95.088,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,54.0,12.0,3.0,95.227,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,55.0,13.0,3.0,94.021,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,56.0,14.0,3.0,96.634,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,1.0,1.0,1.0,103.367,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,2.0,2.0,1.0,97.169,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,3.0,3.0,1.0,96.339,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,4.0,4.0,1.0,95.962,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,5.0,5.0,1.0,96.836,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,6.0,6.0,1.0,99.018,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,7.0,7.0,1.0,96.688,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,8.0,8.0,1.0,96.383,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,9.0,9.0,1.0,97.376,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,10.0,10.0,1.0,97.222,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,11.0,11.0,1.0,101.385,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,12.0,1.0,2.0,111.044,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,13.0,2.0,2.0,95.73,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,14.0,3.0,2.0,95.801,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,15.0,4.0,2.0,95.909,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,16.0,5.0,2.0,95.879,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,17.0,6.0,2.0,96.175,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,18.0,7.0,2.0,96.229,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,19.0,8.0,2.0,97.477,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,20.0,9.0,2.0,95.827,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,21.0,10.0,2.0,96.67,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,22.0,11.0,2.0,95.405,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,23.0,12.0,2.0,96.243,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,24.0,13.0,2.0,96.959,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,25.0,14.0,2.0,95.312,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,26.0,15.0,2.0,95.341,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,27.0,16.0,2.0,95.257,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,28.0,17.0,2.0,95.29,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,29.0,18.0,2.0,95.35,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,30.0,19.0,2.0,95.729,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,31.0,20.0,2.0,95.095,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,32.0,21.0,2.0,94.84,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,33.0,22.0,2.0,94.532,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,34.0,23.0,2.0,94.744,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,35.0,24.0,2.0,94.414,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,36.0,25.0,2.0,94.084,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,37.0,26.0,2.0,94.039,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,38.0,27.0,2.0,96.179,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,39.0,28.0,2.0,94.232,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,40.0,29.0,2.0,112.425,False,,1264
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,44.0,6.0,3.0,107.875,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,45.0,7.0,3.0,95.329,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,46.0,8.0,3.0,95.642,False,,41
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,47.0,9.0,3.0,94.587,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,48.0,10.0,3.0,94.267,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,49.0,11.0,3.0,93.788,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,50.0,12.0,3.0,93.451,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,51.0,13.0,3.0,93.318,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,52.0,14.0,3.0,93.312,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,53.0,15.0,3.0,93.093,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,54.0,16.0,3.0,94.105,True,,21
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,55.0,17.0,3.0,93.035,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,56.0,18.0,3.0,93.69,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,57.0,19.0,3.0,95.133,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,1.0,1.0,1.0,106.365,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,2.0,2.0,1.0,97.782,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,3.0,3.0,1.0,96.666,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,4.0,4.0,1.0,95.885,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,5.0,5.0,1.0,95.962,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,6.0,6.0,1.0,98.191,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,7.0,7.0,1.0,96.651,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,8.0,8.0,1.0,97.001,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,9.0,9.0,1.0,96.221,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,10.0,10.0,1.0,96.947,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,11.0,11.0,1.0,95.899,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,12.0,12.0,1.0,96.654,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,13.0,13.0,1.0,96.045,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,14.0,14.0,1.0,95.648,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,15.0,15.0,1.0,95.72,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,16.0,16.0,1.0,100.786,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,17.0,1.0,2.0,111.738,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,18.0,2.0,2.0,95.14,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,19.0,3.0,2.0,95.026,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,20.0,4.0,2.0,95.059,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,21.0,5.0,2.0,95.112,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,22.0,6.0,2.0,94.964,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,23.0,7.0,2.0,94.999,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,24.0,8.0,2.0,94.827,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,25.0,9.0,2.0,94.814,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,26.0,10.0,2.0,94.877,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,27.0,11.0,2.0,95.398,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,28.0,12.0,2.0,94.648,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,29.0,13.0,2.0,96.381,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,30.0,14.0,2.0,94.85,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,31.0,15.0,2.0,95.038,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,32.0,16.0,2.0,94.877,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,33.0,17.0,2.0,94.499,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,34.0,18.0,2.0,94.622,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,35.0,19.0,2.0,94.364,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,36.0,20.0,2.0,94.062,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,37.0,21.0,2.0,93.693,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,38.0,22.0,2.0,93.909,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,39.0,23.0,2.0,93.706,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,40.0,24.0,2.0,110.96,False,,126
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,41.0,25.0,2.0,119.775,False,,64
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,42.0,26.0,2.0,121.51,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,43.0,27.0,2.0,121.287,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,45.0,29.0,2.0,132.382,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,46.0,30.0,2.0,143.795,False,,41
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,47.0,31.0,2.0,96.751,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,48.0,32.0,2.0,94.959,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,49.0,33.0,2.0,95.758,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,50.0,34.0,2.0,94.45,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,51.0,35.0,2.0,93.877,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,52.0,36.0,2.0,93.563,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,53.0,37.0,2.0,93.637,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,54.0,38.0,2.0,95.19,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,55.0,39.0,2.0,93.983,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,56.0,40.0,2.0,93.637,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ALB,Alexander Albon,23,Williams,HARD,57.0,41.0,2.0,93.447,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,1.0,1.0,1.0,105.5,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,2.0,2.0,1.0,97.487,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,3.0,3.0,1.0,96.727,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,4.0,4.0,1.0,95.731,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,5.0,5.0,1.0,95.883,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,6.0,6.0,1.0,121.705,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,1.0,1.0,1.0,104.136,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,2.0,2.0,1.0,98.124,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,3.0,3.0,1.0,96.95,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,4.0,4.0,1.0,95.499,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,5.0,5.0,1.0,96.385,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,6.0,6.0,1.0,98.289,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,7.0,7.0,1.0,96.703,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,8.0,8.0,1.0,96.448,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,9.0,9.0,1.0,96.962,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,10.0,10.0,1.0,96.213,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,11.0,11.0,1.0,96.027,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,12.0,12.0,1.0,95.936,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,13.0,13.0,1.0,96.913,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,14.0,14.0,1.0,96.296,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,15.0,15.0,1.0,95.814,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,16.0,16.0,1.0,95.836,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,17.0,17.0,1.0,95.439,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,18.0,18.0,1.0,95.796,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,19.0,19.0,1.0,95.487,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,20.0,20.0,1.0,95.261,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,21.0,21.0,1.0,95.356,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,22.0,22.0,1.0,95.429,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,23.0,23.0,1.0,95.672,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,24.0,24.0,1.0,95.0,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,25.0,25.0,1.0,95.201,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,26.0,26.0,1.0,94.996,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,27.0,27.0,1.0,95.144,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,28.0,28.0,1.0,95.152,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,29.0,29.0,1.0,94.821,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,30.0,30.0,1.0,100.604,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,HARD,31.0,1.0,2.0,111.887,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,HARD,32.0,2.0,2.0,95.347,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,HARD,33.0,3.0,2.0,94.947,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,HARD,34.0,4.0,2.0,95.081,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,HARD,35.0,5.0,2.0,94.712,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,HARD,36.0,6.0,2.0,94.234,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,HARD,37.0,7.0,2.0,94.125,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,HARD,38.0,8.0,2.0,94.556,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,HARD,39.0,9.0,2.0,93.949,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,HARD,40.0,10.0,2.0,110.505,False,,126
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,HARD,41.0,11.0,2.0,124.844,False,,64
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,SOFT,42.0,1.0,3.0,131.63,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,SOFT,43.0,2.0,3.0,108.667,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,SOFT,45.0,4.0,3.0,132.671,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,SOFT,46.0,5.0,3.0,137.982,False,,41
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,SOFT,47.0,6.0,3.0,95.761,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,SOFT,48.0,7.0,3.0,95.622,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,SOFT,49.0,8.0,3.0,94.468,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,SOFT,50.0,9.0,3.0,94.855,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,SOFT,51.0,10.0,3.0,93.738,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,SOFT,52.0,11.0,3.0,93.365,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,SOFT,53.0,12.0,3.0,93.978,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,SOFT,54.0,13.0,3.0,98.531,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,SOFT,55.0,14.0,3.0,93.572,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,SOFT,56.0,15.0,3.0,93.265,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RIC,Daniel Ricciardo,3,McLaren,SOFT,57.0,16.0,3.0,93.613,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,1.0,1.0,1.0,107.446,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,2.0,2.0,1.0,97.396,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,3.0,3.0,1.0,97.198,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,4.0,4.0,1.0,96.82,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,5.0,5.0,1.0,96.315,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,6.0,6.0,1.0,96.713,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,7.0,7.0,1.0,96.587,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,8.0,8.0,1.0,97.06,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,9.0,9.0,1.0,96.499,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,10.0,10.0,1.0,96.197,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,11.0,11.0,1.0,97.357,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,12.0,12.0,1.0,96.17,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,13.0,13.0,1.0,96.021,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,14.0,14.0,1.0,95.818,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,15.0,15.0,1.0,96.017,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,16.0,16.0,1.0,96.142,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,17.0,17.0,1.0,95.585,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,18.0,18.0,1.0,95.456,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,19.0,19.0,1.0,95.202,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,20.0,20.0,1.0,95.155,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,21.0,21.0,1.0,95.341,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,22.0,22.0,1.0,94.87,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,23.0,23.0,1.0,95.193,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,24.0,24.0,1.0,95.263,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,25.0,25.0,1.0,94.923,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,26.0,26.0,1.0,94.888,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,27.0,27.0,1.0,94.945,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,28.0,28.0,1.0,94.928,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,29.0,29.0,1.0,94.845,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,30.0,30.0,1.0,94.774,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,31.0,31.0,1.0,94.836,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,32.0,32.0,1.0,94.818,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,33.0,33.0,1.0,95.013,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,34.0,34.0,1.0,94.791,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,35.0,35.0,1.0,94.507,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,36.0,36.0,1.0,94.45,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,37.0,37.0,1.0,94.535,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,38.0,38.0,1.0,94.654,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,39.0,39.0,1.0,94.447,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,40.0,40.0,1.0,106.5,False,,126
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,HARD,41.0,41.0,1.0,122.285,False,,64
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,SOFT,42.0,1.0,2.0,131.736,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,SOFT,43.0,2.0,2.0,127.629,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,SOFT,45.0,4.0,2.0,132.915,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,SOFT,46.0,5.0,2.0,144.519,False,,41
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,SOFT,47.0,6.0,2.0,96.676,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,SOFT,48.0,7.0,2.0,94.437,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,SOFT,49.0,8.0,2.0,93.704,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,SOFT,50.0,9.0,2.0,94.372,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,SOFT,51.0,10.0,2.0,94.572,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,SOFT,52.0,11.0,2.0,94.197,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,SOFT,53.0,12.0,2.0,94.572,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,SOFT,54.0,13.0,2.0,93.523,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,SOFT,55.0,14.0,2.0,93.267,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,SOFT,56.0,15.0,2.0,93.163,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,OCO,Esteban Ocon,31,Alpine,SOFT,57.0,16.0,2.0,93.259,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,1.0,1.0,1.0,102.873,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,2.0,2.0,1.0,96.949,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,3.0,3.0,1.0,96.29,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,4.0,4.0,1.0,95.955,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,5.0,5.0,1.0,95.836,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,6.0,6.0,1.0,95.894,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,7.0,7.0,1.0,96.412,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,8.0,8.0,1.0,96.466,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,9.0,9.0,1.0,96.442,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,10.0,10.0,1.0,96.195,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,11.0,11.0,1.0,96.352,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,12.0,12.0,1.0,96.07,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,13.0,13.0,1.0,95.685,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,14.0,14.0,1.0,95.788,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,15.0,15.0,1.0,95.653,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,16.0,16.0,1.0,95.474,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,17.0,17.0,1.0,95.616,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,18.0,18.0,1.0,99.685,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,HARD,19.0,1.0,2.0,115.077,False,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,HARD,20.0,2.0,2.0,96.162,True,,21
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,HARD,21.0,3.0,2.0,95.046,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,HARD,22.0,4.0,2.0,94.47,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,HARD,23.0,5.0,2.0,94.79,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,HARD,24.0,6.0,2.0,95.358,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,HARD,25.0,7.0,2.0,94.66,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,HARD,26.0,8.0,2.0,95.251,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,HARD,27.0,9.0,2.0,94.772,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,HARD,28.0,10.0,2.0,94.6,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,HARD,29.0,11.0,2.0,94.81,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,HARD,30.0,12.0,2.0,94.427,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,HARD,31.0,13.0,2.0,95.063,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,HARD,32.0,14.0,2.0,95.597,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,HARD,33.0,15.0,2.0,95.165,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,HARD,34.0,16.0,2.0,94.309,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,HARD,35.0,17.0,2.0,95.172,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,HARD,36.0,18.0,2.0,93.568,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,HARD,37.0,19.0,2.0,93.411,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,HARD,38.0,20.0,2.0,93.909,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,NOR,Lando Norris,4,McLaren,HARD,39.0,21.0,2.0,94.19,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,1.0,1.0,1.0,101.774,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,2.0,2.0,1.0,96.564,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,3.0,3.0,1.0,95.73,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,4.0,4.0,1.0,95.17,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,5.0,5.0,1.0,95.248,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,6.0,6.0,1.0,96.181,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,7.0,7.0,1.0,96.301,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,8.0,8.0,1.0,95.574,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,9.0,9.0,1.0,95.618,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,10.0,10.0,1.0,95.264,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,11.0,11.0,1.0,95.216,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,12.0,12.0,1.0,95.166,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,13.0,13.0,1.0,95.03,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,14.0,14.0,1.0,94.665,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,15.0,15.0,1.0,95.038,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,16.0,16.0,1.0,95.159,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,17.0,17.0,1.0,95.474,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,18.0,18.0,1.0,94.798,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,19.0,19.0,1.0,94.853,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,20.0,20.0,1.0,96.119,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,21.0,21.0,1.0,95.388,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,22.0,22.0,1.0,99.933,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,23.0,1.0,2.0,109.237,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,24.0,2.0,2.0,94.143,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,25.0,3.0,2.0,93.843,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,26.0,4.0,2.0,93.738,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,27.0,5.0,2.0,93.561,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,28.0,6.0,2.0,95.342,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,29.0,7.0,2.0,93.592,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,30.0,8.0,2.0,93.783,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,31.0,9.0,2.0,93.781,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,32.0,10.0,2.0,93.552,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,33.0,11.0,2.0,94.201,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,34.0,12.0,2.0,93.711,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,35.0,13.0,2.0,93.436,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,36.0,14.0,2.0,93.286,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,37.0,15.0,2.0,93.34,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,38.0,16.0,2.0,93.173,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,39.0,17.0,2.0,93.276,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,40.0,18.0,2.0,99.368,False,,126
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,41.0,19.0,2.0,119.716,False,,64
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,42.0,20.0,2.0,122.068,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,45.0,23.0,2.0,134.428,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,46.0,24.0,2.0,148.673,False,,41
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,47.0,25.0,2.0,95.586,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,48.0,26.0,2.0,93.888,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,49.0,27.0,2.0,93.742,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,50.0,28.0,2.0,95.579,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,51.0,29.0,2.0,92.97,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,52.0,30.0,2.0,93.109,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,53.0,31.0,2.0,93.503,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,54.0,32.0,2.0,93.16,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,55.0,33.0,2.0,92.941,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,56.0,34.0,2.0,92.942,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,HAM,Lewis Hamilton,44,Mercedes,HARD,57.0,35.0,2.0,93.461,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,1.0,1.0,1.0,104.379,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,2.0,2.0,1.0,97.074,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,3.0,3.0,1.0,96.21,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,4.0,4.0,1.0,95.88,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,5.0,5.0,1.0,96.27,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,6.0,6.0,1.0,96.721,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,7.0,7.0,1.0,95.923,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,8.0,8.0,1.0,96.487,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,9.0,9.0,1.0,96.348,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,10.0,10.0,1.0,95.841,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,11.0,11.0,1.0,97.444,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,12.0,12.0,1.0,95.994,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,13.0,13.0,1.0,95.6,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,14.0,14.0,1.0,101.306,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,15.0,1.0,2.0,111.573,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,16.0,2.0,2.0,94.988,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,17.0,3.0,2.0,95.354,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,18.0,4.0,2.0,94.928,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,19.0,5.0,2.0,94.917,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,20.0,6.0,2.0,95.32,True,,21
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,21.0,7.0,2.0,94.911,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,22.0,8.0,2.0,94.688,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,23.0,9.0,2.0,95.07,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,24.0,10.0,2.0,94.567,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,25.0,11.0,2.0,95.285,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,26.0,12.0,2.0,94.908,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,27.0,13.0,2.0,94.756,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,28.0,14.0,2.0,94.571,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,29.0,15.0,2.0,94.687,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,30.0,16.0,2.0,94.823,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,31.0,17.0,2.0,96.363,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,32.0,18.0,2.0,95.643,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,33.0,19.0,2.0,95.07,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,34.0,20.0,2.0,94.195,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,35.0,21.0,2.0,94.426,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,36.0,22.0,2.0,93.944,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,37.0,23.0,2.0,93.674,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,38.0,24.0,2.0,94.014,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,39.0,25.0,2.0,93.997,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,40.0,26.0,2.0,106.482,False,,126
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,41.0,27.0,2.0,122.794,False,,64
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,42.0,28.0,2.0,117.245,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,43.0,29.0,2.0,131.497,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,45.0,31.0,2.0,132.983,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,46.0,32.0,2.0,145.392,False,,41
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,47.0,33.0,2.0,96.595,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,48.0,34.0,2.0,94.374,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,49.0,35.0,2.0,93.841,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,50.0,36.0,2.0,94.2,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,51.0,37.0,2.0,94.932,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,52.0,38.0,2.0,93.88,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,53.0,39.0,2.0,94.849,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,HARD,54.0,40.0,2.0,111.02,False,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,55.0,1.0,3.0,121.556,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,56.0,2.0,3.0,93.205,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,57.0,3.0,3.0,92.528,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,1.0,3.0,1.0,114.106,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,2.0,4.0,1.0,97.864,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,3.0,5.0,1.0,97.242,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,4.0,6.0,1.0,96.781,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,5.0,7.0,1.0,97.541,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,6.0,8.0,1.0,96.504,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,7.0,9.0,1.0,96.301,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,8.0,10.0,1.0,97.097,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,9.0,11.0,1.0,96.932,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,10.0,12.0,1.0,96.176,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,11.0,13.0,1.0,96.347,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,12.0,14.0,1.0,96.16,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,13.0,15.0,1.0,96.368,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,14.0,16.0,1.0,96.242,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,15.0,17.0,1.0,96.186,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,16.0,18.0,1.0,97.002,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,17.0,19.0,1.0,95.123,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,18.0,20.0,1.0,95.243,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,19.0,21.0,1.0,96.101,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,20.0,22.0,1.0,94.846,True,,21
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,21.0,23.0,1.0,94.708,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,22.0,24.0,1.0,94.987,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,23.0,25.0,1.0,94.859,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,24.0,26.0,1.0,94.605,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,25.0,27.0,1.0,95.564,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,26.0,28.0,1.0,94.504,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,27.0,29.0,1.0,95.987,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,28.0,30.0,1.0,95.086,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,29.0,31.0,1.0,94.448,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,30.0,32.0,1.0,95.288,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,31.0,33.0,1.0,97.385,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,32.0,34.0,1.0,95.724,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,33.0,35.0,1.0,94.835,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,34.0,36.0,1.0,94.472,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,35.0,37.0,1.0,97.375,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,36.0,38.0,1.0,93.971,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,37.0,39.0,1.0,94.137,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,38.0,40.0,1.0,93.944,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,39.0,41.0,1.0,93.596,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,40.0,42.0,1.0,112.102,False,,126
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,HARD,41.0,43.0,1.0,125.54,False,,64
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,42.0,3.0,2.0,132.994,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,43.0,4.0,2.0,113.143,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,45.0,6.0,2.0,133.895,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,46.0,7.0,2.0,139.146,False,,41
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,47.0,8.0,2.0,95.944,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,48.0,9.0,2.0,94.937,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,49.0,10.0,2.0,93.786,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,50.0,11.0,2.0,93.479,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,51.0,12.0,2.0,94.298,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,52.0,13.0,2.0,94.217,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,53.0,14.0,2.0,93.631,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,54.0,15.0,2.0,119.97,False,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,1.0,1.0,1.0,98.365,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,2.0,2.0,1.0,94.875,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,3.0,3.0,1.0,94.781,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,4.0,4.0,1.0,95.061,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,5.0,5.0,1.0,94.708,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,6.0,6.0,1.0,94.735,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,7.0,7.0,1.0,94.785,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,8.0,8.0,1.0,94.576,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,9.0,9.0,1.0,95.005,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,10.0,10.0,1.0,94.574,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,11.0,11.0,1.0,94.762,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,12.0,12.0,1.0,94.548,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,13.0,13.0,1.0,94.196,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,14.0,14.0,1.0,94.017,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,15.0,15.0,1.0,94.132,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,16.0,16.0,1.0,94.243,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,17.0,17.0,1.0,94.353,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,18.0,18.0,1.0,94.321,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,19.0,19.0,1.0,93.904,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,20.0,20.0,1.0,94.06,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,21.0,21.0,1.0,93.997,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,22.0,22.0,1.0,93.649,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,23.0,23.0,1.0,93.86,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,24.0,24.0,1.0,93.865,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,25.0,25.0,1.0,93.912,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,26.0,26.0,1.0,95.457,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,27.0,27.0,1.0,99.604,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,28.0,1.0,2.0,112.158,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,29.0,2.0,2.0,93.537,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,30.0,3.0,2.0,93.747,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,31.0,4.0,2.0,93.333,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,32.0,5.0,2.0,92.974,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,33.0,6.0,2.0,93.534,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,34.0,7.0,2.0,93.275,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,35.0,8.0,2.0,93.436,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,36.0,9.0,2.0,93.462,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,37.0,10.0,2.0,93.314,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,38.0,11.0,2.0,93.071,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,39.0,12.0,2.0,93.046,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,40.0,13.0,2.0,92.833,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,41.0,14.0,2.0,120.45,False,,1264
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,42.0,15.0,2.0,140.987,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,44.0,17.0,2.0,148.919,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,45.0,18.0,2.0,139.559,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,47.0,20.0,2.0,94.872,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,48.0,21.0,2.0,93.286,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,49.0,22.0,2.0,92.571,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,50.0,23.0,2.0,92.862,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,51.0,24.0,2.0,92.736,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,52.0,25.0,2.0,92.839,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,53.0,26.0,2.0,92.225,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,54.0,27.0,2.0,91.802,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,55.0,28.0,2.0,91.894,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,56.0,29.0,2.0,91.79,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,SAI,Carlos Sainz,55,Ferrari,HARD,57.0,30.0,2.0,92.044,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,1.0,1.0,1.0,107.32,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,2.0,2.0,1.0,99.05,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,3.0,3.0,1.0,97.75,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,4.0,4.0,1.0,96.966,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,5.0,5.0,1.0,96.857,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,6.0,6.0,1.0,96.941,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,7.0,7.0,1.0,97.385,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,8.0,8.0,1.0,97.112,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,9.0,9.0,1.0,96.912,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,10.0,10.0,1.0,96.917,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,11.0,11.0,1.0,97.033,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,12.0,12.0,1.0,96.717,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,13.0,13.0,1.0,96.494,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,14.0,14.0,1.0,96.683,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,15.0,15.0,1.0,97.426,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,16.0,16.0,1.0,99.225,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,17.0,17.0,1.0,97.847,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,18.0,18.0,1.0,97.216,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,19.0,19.0,1.0,96.798,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,20.0,20.0,1.0,97.559,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,21.0,21.0,1.0,96.566,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,22.0,22.0,1.0,96.467,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,23.0,23.0,1.0,96.249,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,24.0,24.0,1.0,98.071,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,25.0,25.0,1.0,96.353,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,26.0,26.0,1.0,95.978,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,27.0,27.0,1.0,96.685,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,28.0,28.0,1.0,95.256,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,29.0,29.0,1.0,95.51,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,30.0,30.0,1.0,95.411,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,31.0,31.0,1.0,96.264,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,32.0,32.0,1.0,95.509,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,33.0,33.0,1.0,95.418,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,HARD,34.0,34.0,1.0,100.889,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,MEDIUM,35.0,1.0,2.0,114.001,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,MEDIUM,36.0,2.0,2.0,98.402,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,MEDIUM,37.0,3.0,2.0,95.407,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,MEDIUM,38.0,4.0,2.0,95.164,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,MEDIUM,39.0,5.0,2.0,98.513,False,,126
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,MEDIUM,40.0,6.0,2.0,119.039,False,,64
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,MEDIUM,41.0,7.0,2.0,125.599,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,MEDIUM,44.0,10.0,2.0,109.073,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,MEDIUM,45.0,11.0,2.0,101.612,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,MEDIUM,46.0,12.0,2.0,95.799,False,,41
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,MEDIUM,47.0,13.0,2.0,94.575,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,MEDIUM,48.0,14.0,2.0,94.327,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,MEDIUM,49.0,15.0,2.0,95.274,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,MEDIUM,50.0,16.0,2.0,94.983,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,MEDIUM,51.0,17.0,2.0,94.697,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,MEDIUM,52.0,18.0,2.0,94.301,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,MEDIUM,53.0,19.0,2.0,94.169,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,MEDIUM,54.0,20.0,2.0,95.04,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,MEDIUM,55.0,21.0,2.0,94.8,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,MEDIUM,56.0,22.0,2.0,94.401,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,LAT,Nicholas Latifi,6,Williams,MEDIUM,57.0,23.0,2.0,95.588,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,1.0,1.0,1.0,106.166,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,2.0,2.0,1.0,97.623,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,3.0,3.0,1.0,96.49,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,4.0,4.0,1.0,95.936,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,5.0,5.0,1.0,95.785,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,6.0,6.0,1.0,98.548,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,7.0,7.0,1.0,97.011,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,8.0,8.0,1.0,96.686,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,9.0,9.0,1.0,96.276,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,10.0,10.0,1.0,96.225,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,11.0,11.0,1.0,96.114,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,12.0,12.0,1.0,95.629,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,13.0,13.0,1.0,95.275,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,14.0,14.0,1.0,95.258,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,15.0,15.0,1.0,95.198,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,16.0,16.0,1.0,94.829,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,17.0,17.0,1.0,94.729,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,18.0,18.0,1.0,94.786,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,19.0,19.0,1.0,94.845,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,20.0,20.0,1.0,94.749,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,21.0,21.0,1.0,95.254,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,22.0,22.0,1.0,94.839,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,23.0,23.0,1.0,94.398,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,24.0,24.0,1.0,94.419,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,25.0,25.0,1.0,93.869,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,26.0,26.0,1.0,94.212,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,27.0,27.0,1.0,94.327,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,28.0,28.0,1.0,93.957,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,29.0,29.0,1.0,93.996,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,30.0,30.0,1.0,94.364,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,31.0,31.0,1.0,94.114,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,32.0,32.0,1.0,93.766,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,33.0,33.0,1.0,93.91,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,34.0,34.0,1.0,94.112,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,35.0,35.0,1.0,93.91,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,36.0,36.0,1.0,93.85,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,37.0,37.0,1.0,93.749,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,38.0,38.0,1.0,93.881,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,39.0,39.0,1.0,93.413,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,HARD,40.0,40.0,1.0,103.317,False,,126
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,MEDIUM,41.0,1.0,2.0,132.581,False,,64
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,MEDIUM,42.0,2.0,2.0,118.22,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,MEDIUM,45.0,5.0,2.0,132.1,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,MEDIUM,46.0,6.0,2.0,146.998,False,,41
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,MEDIUM,47.0,7.0,2.0,95.944,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,MEDIUM,48.0,8.0,2.0,93.508,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,MEDIUM,49.0,9.0,2.0,93.567,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,MEDIUM,50.0,10.0,2.0,94.586,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,MEDIUM,51.0,11.0,2.0,92.362,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,MEDIUM,52.0,12.0,2.0,92.375,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,MEDIUM,53.0,13.0,2.0,95.294,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,MEDIUM,54.0,14.0,2.0,92.783,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,MEDIUM,55.0,15.0,2.0,92.244,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,MEDIUM,56.0,16.0,2.0,92.195,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,RUS,George Russell,63,Mercedes,MEDIUM,57.0,17.0,2.0,92.771,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,1.0,1.0,1.0,99.966,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,2.0,2.0,1.0,95.793,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,3.0,3.0,1.0,95.502,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,4.0,4.0,1.0,95.617,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,5.0,5.0,1.0,95.348,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,6.0,6.0,1.0,95.566,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,7.0,7.0,1.0,95.563,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,8.0,8.0,1.0,95.328,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,9.0,9.0,1.0,95.547,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,10.0,10.0,1.0,95.646,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,11.0,11.0,1.0,95.743,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,12.0,12.0,1.0,95.916,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,13.0,13.0,1.0,94.8,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,14.0,14.0,1.0,95.257,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,15.0,15.0,1.0,94.929,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,16.0,16.0,1.0,94.746,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,17.0,17.0,1.0,94.747,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,18.0,18.0,1.0,94.353,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,19.0,19.0,1.0,94.469,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,20.0,20.0,1.0,94.146,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,21.0,21.0,1.0,94.478,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,22.0,22.0,1.0,94.368,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,23.0,23.0,1.0,96.029,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,24.0,24.0,1.0,94.026,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,25.0,25.0,1.0,94.456,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,26.0,26.0,1.0,99.185,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,27.0,1.0,2.0,110.508,False,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,28.0,2.0,2.0,94.097,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,29.0,3.0,2.0,93.548,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,30.0,4.0,2.0,94.002,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,31.0,5.0,2.0,94.093,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,32.0,6.0,2.0,93.973,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,33.0,7.0,2.0,94.141,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,34.0,8.0,2.0,93.966,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,35.0,9.0,2.0,93.78,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,36.0,10.0,2.0,93.753,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,37.0,11.0,2.0,93.659,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,38.0,12.0,2.0,93.325,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,39.0,13.0,2.0,93.317,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,40.0,14.0,2.0,100.187,False,,126
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,41.0,15.0,2.0,119.505,False,,64
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,42.0,16.0,2.0,122.796,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,45.0,19.0,2.0,135.8,False,,4
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,46.0,20.0,2.0,149.458,False,,41
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,47.0,21.0,2.0,95.879,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,48.0,22.0,2.0,93.558,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,49.0,23.0,2.0,95.629,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,50.0,24.0,2.0,95.047,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,51.0,25.0,2.0,93.791,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,52.0,26.0,2.0,93.92,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,53.0,27.0,2.0,93.516,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,54.0,28.0,2.0,93.587,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,55.0,29.0,2.0,93.509,True,,1
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,56.0,30.0,2.0,93.184,True,,12
+2022,5,Miami Grand Prix,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,Miami,United States,Miami,2022-05-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,57.0,31.0,2.0,93.52,True,,1

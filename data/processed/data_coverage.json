@@ -1,0 +1,180 @@
+{
+  "source": "FastF1 race-session data plus supplied 2024 historical CSV where needed",
+  "configured_season_range": [
+    2019,
+    2026
+  ],
+  "generated_at": "2026-09-29T19:11:25.229263+00:00",
+  "available_seasons": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "season_coverage": [
+    {
+      "season": 2019,
+      "status": "historical; source-available races only",
+      "lap_rows": 23392,
+      "races": 21,
+      "drivers": 20,
+      "circuits": 21
+    },
+    {
+      "season": 2020,
+      "status": "historical; source-available races only",
+      "lap_rows": 17909,
+      "races": 17,
+      "drivers": 23,
+      "circuits": 14
+    },
+    {
+      "season": 2021,
+      "status": "historical; source-available races only",
+      "lap_rows": 23303,
+      "races": 22,
+      "drivers": 21,
+      "circuits": 21
+    },
+    {
+      "season": 2022,
+      "status": "historical; source-available races only",
+      "lap_rows": 23050,
+      "races": 22,
+      "drivers": 22,
+      "circuits": 22
+    },
+    {
+      "season": 2023,
+      "status": "historical; source-available races only",
+      "lap_rows": 23983,
+      "races": 22,
+      "drivers": 22,
+      "circuits": 22
+    },
+    {
+      "season": 2024,
+      "status": "historical; source-available races only",
+      "lap_rows": 31553,
+      "races": 24,
+      "drivers": 24,
+      "circuits": 24
+    },
+    {
+      "season": 2025,
+      "status": "historical; source-available races only",
+      "lap_rows": 26337,
+      "races": 24,
+      "drivers": 21,
+      "circuits": 24
+    },
+    {
+      "season": 2026,
+      "status": "current/partial season",
+      "lap_rows": 16854,
+      "races": 15,
+      "drivers": 23,
+      "circuits": 15
+    }
+  ],
+  "lap_rows": 186381,
+  "race_count": 167,
+  "driver_count": 40,
+  "team_count": 19,
+  "source_status_counts": {
+    "cached": 167,
+    "future/unrun": 8
+  },
+  "cleaned_coverage": {
+    "lap_rows": 181612,
+    "race_count": 168,
+    "driver_count": 40,
+    "team_count": 20,
+    "available_seasons": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "season_coverage": [
+      {
+        "season": 2019,
+        "status": "historical; strategy-ready laps",
+        "lap_rows": 23374,
+        "races": 21,
+        "drivers": 20,
+        "circuits": 21
+      },
+      {
+        "season": 2020,
+        "status": "historical; strategy-ready laps",
+        "lap_rows": 17820,
+        "races": 17,
+        "drivers": 23,
+        "circuits": 14
+      },
+      {
+        "season": 2021,
+        "status": "historical; strategy-ready laps",
+        "lap_rows": 23282,
+        "races": 21,
+        "drivers": 21,
+        "circuits": 20
+      },
+      {
+        "season": 2022,
+        "status": "historical; strategy-ready laps",
+        "lap_rows": 22435,
+        "races": 22,
+        "drivers": 22,
+        "circuits": 22
+      },
+      {
+        "season": 2023,
+        "status": "historical; strategy-ready laps",
+        "lap_rows": 23944,
+        "races": 22,
+        "drivers": 22,
+        "circuits": 22
+      },
+      {
+        "season": 2024,
+        "status": "historical; strategy-ready laps",
+        "lap_rows": 26352,
+        "races": 24,
+        "drivers": 24,
+        "circuits": 24
+      },
+      {
+        "season": 2025,
+        "status": "historical; strategy-ready laps",
+        "lap_rows": 25878,
+        "races": 24,
+        "drivers": 21,
+        "circuits": 24
+      },
+      {
+        "season": 2026,
+        "status": "current/partial season",
+        "lap_rows": 18527,
+        "races": 17,
+        "drivers": 23,
+        "circuits": 16
+      }
+    ],
+    "source_events_without_strategy_ready_laps": [
+      {
+        "season": 2021,
+        "race": "Belgian Grand Prix"
+      }
+    ]
+  }
+}

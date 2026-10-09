@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Formula 1 car silhouette</title>
+  <desc id="desc">A stylized red Formula 1 car on a dark telemetry grid.</desc>
+  <defs>
+    <linearGradient id="body" x1="104" y1="110" x2="625" y2="235" gradientUnits="userSpaceOnUse"><stop stop-color="#ff555d"/><stop offset=".52" stop-color="#d92735"/><stop offset="1" stop-color="#821921"/></linearGradient>
+    <linearGradient id="wing" x1="128" y1="157" x2="654" y2="180" gradientUnits="userSpaceOnUse"><stop stop-color="#f7f4ee"/><stop offset=".12" stop-color="#e33843"/><stop offset=".86" stop-color="#bd2632"/><stop offset="1" stop-color="#eee9e1"/></linearGradient>
+    <linearGradient id="carbon" x1="248" y1="106" x2="504" y2="226" gradientUnits="userSpaceOnUse"><stop stop-color="#35383f"/><stop offset="1" stop-color="#111318"/></linearGradient>
+    <filter id="shadow" x="57" y="56" width="650" height="242" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="14"/></filter>
+  </defs>
+  <ellipse cx="383" cy="247" fill="#da2734" fill-opacity=".2" filter="url(#shadow)" rx="284" ry="30"/>
+  <g opacity=".19" stroke="#9297a0" stroke-width="1"><path d="M36 270h690M58 286h644M100 54v226M172 38v245M244 50v235M316 34v248M388 45v238M460 34v248M532 48v237M604 36v246M676 58v226" stroke-dasharray="2 8"/></g>
+  <g transform="translate(0 -3)">
+    <path d="M179 105h67v79h-67c-14 0-25-11-25-25v-29c0-14 11-25 25-25ZM512 105h67c14 0 25 11 25 25v29c0 14-11 25-25 25h-67v-79Z" fill="#07090c" stroke="#666a72" stroke-width="4"/>
+    <path d="M78 153h122v11H78zM560 153h122v11H560z" fill="#16181e" stroke="#d7d3cb" stroke-width="3"/>
+    <path d="M127 142h74v36h-74zM559 142h74v36h-74z" fill="#202229" stroke="#a9abb0" stroke-width="3"/>
+    <path d="M193 157c17-5 30-19 45-39l34-43c10-12 24-18 40-18h105c16 0 31 7 41 19l29 36c15 19 28 34 50 44l-9 43c-16 10-43 16-77 19l-49 14H322l-48-14c-35-3-63-9-79-19l-2-42Z" fill="url(#body)" stroke="#ff8589" stroke-opacity=".75" stroke-width="3"/>
+    <path d="M282 75c11-13 24-18 39-18h94c17 0 29 6 40 19l29 36H254l28-37Z" fill="#f3eee7"/>
+    <path d="M315 64h91l40 49H275l40-49Z" fill="url(#carbon)" stroke="#72757d" stroke-width="3"/>
+    <path d="M329 69h64l20 31h-104l20-31Z" fill="#07090c" stroke="#bc2631" stroke-width="3"/>
+    <path d="M341 75h39l13 19h-65l13-19Z" fill="#252830"/>
+    <path d="M200 140h62l19 19-38 25h-45l2-44ZM496 140h62l2 44h-45l-38-25 19-19Z" fill="#8b1f28"/>
+    <path d="M276 149h205l30 38-72 20H319l-73-20 30-38Z" fill="url(#carbon)" stroke="#686c74" stroke-width="3"/>
+    <path d="m318 206 18 19h86l18-19M326 216h106" stroke="#ededeb" stroke-width="4" stroke-linecap="round"/>
+    <path d="M238 166h45M477 166h45" stroke="#ff7278" stroke-width="4" stroke-linecap="round"/>
+    <path d="M325 128h106" stroke="#f2eee7" stroke-width="3" opacity=".76"/>
+    <path d="M116 135h83v33h-83zM561 135h83v33h-83z" fill="#080a0d" stroke="#61656c" stroke-width="3"/>
+    <path d="M124 142h67v8h-67zM570 142h67v8h-67z" fill="#e43b46"/>
+    <path d="M295 115h169" stroke="#f2eee7" stroke-opacity=".65" stroke-width="2"/>
+    <circle cx="380" cy="169" r="6" fill="#f0c651"/>
+  </g>
+</svg>

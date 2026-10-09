@@ -1,0 +1,2 @@
+condition,weight,strategy,strategy_type,estimated_race_time,strategy_score,pit_laps,stint_lengths,tyre_usage,confidence_score,candidate_count,selected_event_laps_used_for_training,degradation_sensitivity_sd_seconds
+DRY,1.0,SOFT → HARD,1-STOP,5609.808788939147,5610.111870102754,[13],"[13, 38]","{'SOFT': 1, 'HARD': 1}",48.488525983348005,4850,False,18.873227232367213

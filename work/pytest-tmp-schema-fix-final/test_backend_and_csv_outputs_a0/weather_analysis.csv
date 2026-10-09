@@ -1,0 +1,2 @@
+Season,Race,Circuit,Country,Date,Time,Temperature,Precipitation,Rain,PrecipitationProbability,WindSpeed,WindDirection,WeatherCode,Weather,Condition,Impact,Source
+2024,Bahrain Grand Prix,Sakhir,Bahrain,2024-03-02,,,,,,,,,Unavailable,DRY,LOW,fallback assumption

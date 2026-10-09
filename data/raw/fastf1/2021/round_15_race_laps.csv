@@ -1,0 +1,1020 @@
+Season,Round,Race,EventName,OfficialEventName,Circuit,Country,Location,EventDate,RaceLaps,Driver,DriverName,DriverNumber,Team,Compound,LapNumber,TyreLife,Stint,LapTime,IsAccurate,Deleted,TrackStatus
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,1.0,1.0,1.0,109.826,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,2.0,2.0,1.0,102.034,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,3.0,3.0,1.0,102.1,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,4.0,4.0,1.0,102.734,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,5.0,5.0,1.0,102.718,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,6.0,6.0,1.0,102.414,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,7.0,7.0,1.0,102.3,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,8.0,8.0,1.0,102.076,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,9.0,9.0,1.0,102.134,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,10.0,10.0,1.0,102.211,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,11.0,11.0,1.0,102.348,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,12.0,12.0,1.0,102.263,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,13.0,13.0,1.0,101.953,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,14.0,14.0,1.0,101.942,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,15.0,15.0,1.0,101.434,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,16.0,16.0,1.0,101.491,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,17.0,17.0,1.0,101.552,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,18.0,18.0,1.0,101.478,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,19.0,19.0,1.0,101.642,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,20.0,20.0,1.0,101.799,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,21.0,21.0,1.0,101.787,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,22.0,22.0,1.0,101.381,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,23.0,23.0,1.0,100.281,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,24.0,24.0,1.0,99.908,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,25.0,25.0,1.0,100.051,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,26.0,26.0,1.0,105.751,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,HARD,27.0,1.0,2.0,119.008,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,HARD,28.0,2.0,2.0,100.471,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,HARD,29.0,3.0,2.0,98.844,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,HARD,30.0,4.0,2.0,98.244,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,HARD,31.0,5.0,2.0,98.009,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,HARD,32.0,6.0,2.0,98.134,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,HARD,33.0,7.0,2.0,98.316,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,HARD,34.0,8.0,2.0,98.007,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,HARD,35.0,9.0,2.0,98.2,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,HARD,36.0,10.0,2.0,98.273,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,HARD,37.0,11.0,2.0,97.77,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,HARD,38.0,12.0,2.0,97.689,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,HARD,39.0,13.0,2.0,97.719,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,HARD,40.0,14.0,2.0,97.608,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,HARD,41.0,15.0,2.0,97.832,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,HARD,42.0,16.0,2.0,97.678,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,HARD,43.0,17.0,2.0,97.575,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,HARD,44.0,18.0,2.0,97.789,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,HARD,45.0,19.0,2.0,98.092,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,HARD,46.0,20.0,2.0,98.942,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,HARD,47.0,21.0,2.0,102.612,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,HARD,48.0,22.0,2.0,115.73,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,HARD,49.0,23.0,2.0,116.879,False,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,50.0,1.0,3.0,126.316,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,51.0,2.0,3.0,113.532,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,52.0,3.0,3.0,112.659,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,53.0,4.0,3.0,111.465,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,1.0,1.0,1.0,114.968,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,2.0,2.0,1.0,105.39,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,3.0,3.0,1.0,103.964,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,4.0,4.0,1.0,101.814,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,5.0,5.0,1.0,102.08,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,6.0,6.0,1.0,102.521,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,7.0,7.0,1.0,102.384,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,8.0,8.0,1.0,101.703,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,9.0,9.0,1.0,101.952,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,10.0,10.0,1.0,103.052,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,11.0,11.0,1.0,102.048,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,12.0,12.0,1.0,102.3,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,13.0,13.0,1.0,101.548,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,14.0,14.0,1.0,101.676,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,15.0,15.0,1.0,101.745,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,16.0,16.0,1.0,100.295,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,17.0,17.0,1.0,100.272,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,18.0,18.0,1.0,100.178,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,19.0,19.0,1.0,100.602,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,20.0,20.0,1.0,101.386,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,21.0,21.0,1.0,101.095,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,22.0,22.0,1.0,101.555,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,23.0,23.0,1.0,101.112,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,24.0,24.0,1.0,101.239,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,25.0,25.0,1.0,101.044,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,HARD,26.0,26.0,1.0,105.393,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,27.0,1.0,2.0,119.772,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,28.0,2.0,2.0,98.396,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,29.0,3.0,2.0,98.91,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,30.0,4.0,2.0,99.676,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,31.0,5.0,2.0,101.151,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,32.0,6.0,2.0,99.978,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,33.0,7.0,2.0,101.65,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,34.0,8.0,2.0,100.528,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,35.0,9.0,2.0,99.977,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,36.0,10.0,2.0,100.32,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,37.0,11.0,2.0,100.972,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,38.0,12.0,2.0,102.004,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,39.0,13.0,2.0,100.979,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,40.0,14.0,2.0,100.444,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,41.0,15.0,2.0,100.237,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,42.0,16.0,2.0,99.356,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,43.0,17.0,2.0,99.642,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,44.0,18.0,2.0,99.3,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,45.0,19.0,2.0,99.806,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,46.0,20.0,2.0,100.497,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,47.0,21.0,2.0,106.932,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,48.0,22.0,2.0,123.08,False,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,INTERMEDIATE,49.0,1.0,3.0,127.65,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,INTERMEDIATE,50.0,2.0,3.0,112.546,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,INTERMEDIATE,51.0,3.0,3.0,112.992,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,INTERMEDIATE,52.0,4.0,3.0,111.87,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VER,Max Verstappen,33,Red Bull Racing,INTERMEDIATE,53.0,5.0,3.0,112.291,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,1.0,1.0,1.0,102.997,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,2.0,2.0,1.0,102.076,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,3.0,3.0,1.0,101.668,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,4.0,4.0,1.0,101.533,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,5.0,5.0,1.0,101.396,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,6.0,6.0,1.0,101.734,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,7.0,7.0,1.0,102.291,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,8.0,8.0,1.0,102.444,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,9.0,9.0,1.0,102.426,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,10.0,10.0,1.0,102.336,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,11.0,11.0,1.0,102.566,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,12.0,12.0,1.0,102.81,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,13.0,13.0,1.0,103.871,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,14.0,14.0,1.0,108.223,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,15.0,1.0,2.0,121.968,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,16.0,2.0,2.0,100.86,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,17.0,3.0,2.0,101.118,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,18.0,4.0,2.0,100.677,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,19.0,5.0,2.0,100.797,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,20.0,6.0,2.0,100.941,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,21.0,7.0,2.0,101.242,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,22.0,8.0,2.0,101.239,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,23.0,9.0,2.0,101.272,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,24.0,10.0,2.0,101.403,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,25.0,11.0,2.0,101.402,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,26.0,12.0,2.0,101.356,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,27.0,13.0,2.0,100.747,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,28.0,14.0,2.0,100.792,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,29.0,15.0,2.0,101.328,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,30.0,16.0,2.0,101.646,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,31.0,17.0,2.0,101.384,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,32.0,18.0,2.0,101.488,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,33.0,19.0,2.0,101.332,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,34.0,20.0,2.0,100.053,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,35.0,21.0,2.0,99.557,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,36.0,22.0,2.0,99.9,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,37.0,23.0,2.0,99.391,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,38.0,24.0,2.0,99.646,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,39.0,25.0,2.0,99.446,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,40.0,26.0,2.0,99.294,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,41.0,27.0,2.0,99.665,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,42.0,28.0,2.0,99.725,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,43.0,29.0,2.0,99.528,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,44.0,30.0,2.0,99.552,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,45.0,31.0,2.0,100.005,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,46.0,32.0,2.0,100.703,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,47.0,33.0,2.0,108.246,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,HARD,48.0,34.0,2.0,132.87,False,,21
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,INTERMEDIATE,49.0,7.0,3.0,130.409,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,INTERMEDIATE,50.0,8.0,3.0,113.285,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,INTERMEDIATE,51.0,9.0,3.0,113.632,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,INTERMEDIATE,52.0,10.0,3.0,113.72,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,SAI,Carlos Sainz,55,Ferrari,INTERMEDIATE,53.0,11.0,3.0,113.486,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,1.0,1.0,1.0,108.221,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,2.0,2.0,1.0,102.835,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,3.0,3.0,1.0,102.415,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,4.0,4.0,1.0,102.741,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,5.0,5.0,1.0,102.682,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,6.0,6.0,1.0,102.401,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,7.0,7.0,1.0,102.171,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,8.0,8.0,1.0,102.052,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,9.0,9.0,1.0,101.945,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,10.0,10.0,1.0,102.298,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,11.0,11.0,1.0,102.233,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,12.0,12.0,1.0,102.215,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,13.0,13.0,1.0,102.109,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,14.0,14.0,1.0,101.647,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,15.0,15.0,1.0,101.519,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,16.0,16.0,1.0,101.57,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,17.0,17.0,1.0,101.548,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,18.0,18.0,1.0,101.414,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,19.0,19.0,1.0,101.704,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,20.0,20.0,1.0,101.789,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,21.0,21.0,1.0,101.715,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,22.0,22.0,1.0,106.2,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,23.0,1.0,2.0,125.09,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,24.0,2.0,2.0,99.124,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,25.0,3.0,2.0,99.596,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,26.0,4.0,2.0,99.92,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,27.0,5.0,2.0,100.208,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,28.0,6.0,2.0,99.48,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,29.0,7.0,2.0,99.787,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,30.0,8.0,2.0,100.61,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,31.0,9.0,2.0,100.31,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,32.0,10.0,2.0,101.098,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,33.0,11.0,2.0,101.532,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,34.0,12.0,2.0,100.319,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,35.0,13.0,2.0,99.761,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,36.0,14.0,2.0,99.935,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,37.0,15.0,2.0,99.847,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,38.0,16.0,2.0,99.603,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,39.0,17.0,2.0,99.683,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,40.0,18.0,2.0,99.722,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,41.0,19.0,2.0,100.05,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,42.0,20.0,2.0,99.303,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,43.0,21.0,2.0,99.481,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,44.0,22.0,2.0,102.111,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,45.0,23.0,2.0,100.299,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,46.0,24.0,2.0,100.681,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,47.0,25.0,2.0,107.423,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,HARD,48.0,26.0,2.0,130.096,False,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,49.0,4.0,3.0,132.503,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,50.0,5.0,3.0,113.443,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,51.0,6.0,3.0,115.603,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,52.0,7.0,3.0,112.106,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,53.0,8.0,3.0,112.46,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,1.0,1.0,1.0,114.016,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,2.0,2.0,1.0,105.895,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,3.0,3.0,1.0,103.892,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,4.0,4.0,1.0,101.437,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,5.0,5.0,1.0,102.259,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,6.0,6.0,1.0,103.825,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,7.0,7.0,1.0,102.366,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,8.0,8.0,1.0,102.839,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,9.0,9.0,1.0,102.203,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,10.0,10.0,1.0,103.615,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,11.0,11.0,1.0,102.188,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,12.0,12.0,1.0,102.112,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,13.0,13.0,1.0,102.309,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,14.0,14.0,1.0,102.953,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,15.0,15.0,1.0,102.565,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,16.0,16.0,1.0,102.461,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,17.0,17.0,1.0,101.8,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,18.0,18.0,1.0,101.449,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,19.0,19.0,1.0,101.474,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,20.0,20.0,1.0,101.694,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,21.0,21.0,1.0,101.606,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,22.0,22.0,1.0,101.56,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,23.0,23.0,1.0,101.011,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,24.0,24.0,1.0,101.286,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,25.0,25.0,1.0,101.438,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,26.0,26.0,1.0,101.932,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,27.0,27.0,1.0,102.362,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,HARD,28.0,28.0,1.0,105.623,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,29.0,1.0,2.0,118.45,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,30.0,2.0,2.0,99.547,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,31.0,3.0,2.0,98.216,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,32.0,4.0,2.0,98.931,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,33.0,5.0,2.0,98.849,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,34.0,6.0,2.0,99.783,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,35.0,7.0,2.0,100.24,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,36.0,8.0,2.0,101.236,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,37.0,9.0,2.0,100.674,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,38.0,10.0,2.0,100.613,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,39.0,11.0,2.0,100.76,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,40.0,12.0,2.0,101.316,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,41.0,13.0,2.0,100.366,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,42.0,14.0,2.0,101.106,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,43.0,15.0,2.0,101.933,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,44.0,16.0,2.0,101.155,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,45.0,17.0,2.0,101.185,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,46.0,18.0,2.0,102.242,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,47.0,19.0,2.0,116.105,False,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,INTERMEDIATE,48.0,1.0,3.0,127.04,False,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,INTERMEDIATE,49.0,2.0,3.0,109.681,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,INTERMEDIATE,50.0,3.0,3.0,115.759,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,INTERMEDIATE,51.0,4.0,3.0,111.609,True,,21
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,INTERMEDIATE,52.0,5.0,3.0,111.263,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,BOT,Valtteri Bottas,77,Mercedes,INTERMEDIATE,53.0,6.0,3.0,110.305,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,1.0,1.0,1.0,109.347,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,2.0,2.0,1.0,104.282,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,3.0,3.0,1.0,103.653,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,4.0,4.0,1.0,102.442,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,5.0,5.0,1.0,102.597,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,6.0,6.0,1.0,102.382,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,7.0,7.0,1.0,102.348,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,8.0,8.0,1.0,103.012,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,9.0,9.0,1.0,101.762,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,10.0,10.0,1.0,102.163,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,11.0,11.0,1.0,102.059,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,12.0,12.0,1.0,101.911,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,13.0,13.0,1.0,101.986,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,14.0,14.0,1.0,101.848,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,15.0,15.0,1.0,101.733,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,16.0,16.0,1.0,101.374,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,17.0,17.0,1.0,101.412,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,18.0,18.0,1.0,101.441,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,19.0,19.0,1.0,101.446,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,20.0,20.0,1.0,101.692,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,21.0,21.0,1.0,101.1,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,22.0,22.0,1.0,101.543,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,23.0,23.0,1.0,100.982,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,24.0,24.0,1.0,100.947,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,25.0,25.0,1.0,100.836,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,26.0,26.0,1.0,100.441,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,27.0,27.0,1.0,100.314,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,28.0,28.0,1.0,100.277,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,29.0,29.0,1.0,100.098,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,30.0,30.0,1.0,99.946,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,31.0,31.0,1.0,100.353,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,32.0,32.0,1.0,100.379,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,33.0,33.0,1.0,100.304,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,34.0,34.0,1.0,100.592,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,35.0,35.0,1.0,100.13,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,HARD,36.0,36.0,1.0,105.367,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,37.0,1.0,2.0,120.677,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,38.0,2.0,2.0,100.222,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,39.0,3.0,2.0,100.93,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,40.0,4.0,2.0,100.494,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,41.0,5.0,2.0,100.009,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,42.0,6.0,2.0,99.303,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,43.0,7.0,2.0,99.445,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,44.0,8.0,2.0,98.686,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,45.0,9.0,2.0,99.22,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,46.0,10.0,2.0,100.673,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,47.0,11.0,2.0,105.093,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,48.0,12.0,2.0,119.419,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,49.0,13.0,2.0,112.063,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,50.0,14.0,2.0,139.378,False,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,51.0,1.0,3.0,138.546,False,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,52.0,2.0,3.0,111.226,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,53.0,3.0,3.0,112.439,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,1.0,1.0,1.0,104.272,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,2.0,2.0,1.0,102.204,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,3.0,3.0,1.0,101.697,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,4.0,4.0,1.0,101.84,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,5.0,5.0,1.0,101.739,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,6.0,6.0,1.0,101.883,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,7.0,7.0,1.0,101.804,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,8.0,8.0,1.0,101.755,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,9.0,9.0,1.0,102.202,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,10.0,10.0,1.0,102.278,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,11.0,11.0,1.0,103.453,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,12.0,12.0,1.0,102.558,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,13.0,13.0,1.0,101.142,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,14.0,14.0,1.0,101.531,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,15.0,15.0,1.0,101.361,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,16.0,16.0,1.0,101.175,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,17.0,17.0,1.0,100.829,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,18.0,18.0,1.0,100.863,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,19.0,19.0,1.0,100.849,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,20.0,20.0,1.0,100.866,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,21.0,21.0,1.0,100.689,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,22.0,22.0,1.0,100.906,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,23.0,23.0,1.0,100.788,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,24.0,24.0,1.0,100.638,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,25.0,25.0,1.0,101.057,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,26.0,26.0,1.0,101.118,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,27.0,27.0,1.0,100.933,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,MEDIUM,28.0,28.0,1.0,105.622,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,HARD,29.0,1.0,2.0,119.439,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,HARD,30.0,2.0,2.0,98.642,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,HARD,31.0,3.0,2.0,98.889,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,HARD,32.0,4.0,2.0,98.788,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,HARD,33.0,5.0,2.0,99.458,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,HARD,34.0,6.0,2.0,98.649,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,HARD,35.0,7.0,2.0,98.797,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,HARD,36.0,8.0,2.0,99.074,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,HARD,37.0,9.0,2.0,98.91,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,HARD,38.0,10.0,2.0,98.118,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,HARD,39.0,11.0,2.0,97.423,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,HARD,40.0,12.0,2.0,97.834,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,HARD,41.0,13.0,2.0,97.913,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,HARD,42.0,14.0,2.0,97.873,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,HARD,43.0,15.0,2.0,97.755,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,HARD,44.0,16.0,2.0,97.84,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,HARD,45.0,17.0,2.0,98.067,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,HARD,46.0,18.0,2.0,99.12,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,HARD,47.0,19.0,2.0,102.783,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,HARD,48.0,20.0,2.0,114.639,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,HARD,49.0,21.0,2.0,112.785,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,HARD,50.0,22.0,2.0,117.502,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,INTERMEDIATE,52.0,6.0,3.0,136.377,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,NOR,Lando Norris,4,McLaren,INTERMEDIATE,53.0,7.0,3.0,112.417,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,1.0,1.0,1.0,111.778,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,2.0,2.0,1.0,104.594,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,3.0,3.0,1.0,102.94,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,4.0,4.0,1.0,102.363,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,5.0,5.0,1.0,102.99,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,6.0,6.0,1.0,102.602,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,7.0,7.0,1.0,102.451,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,8.0,8.0,1.0,102.41,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,9.0,9.0,1.0,102.598,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,10.0,10.0,1.0,102.351,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,11.0,11.0,1.0,102.296,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,12.0,12.0,1.0,102.278,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,13.0,13.0,1.0,102.295,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,14.0,14.0,1.0,102.506,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,15.0,15.0,1.0,106.725,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,16.0,1.0,2.0,122.624,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,17.0,2.0,2.0,101.204,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,18.0,3.0,2.0,101.315,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,19.0,4.0,2.0,100.956,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,20.0,5.0,2.0,101.322,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,21.0,6.0,2.0,100.823,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,22.0,7.0,2.0,101.001,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,23.0,8.0,2.0,101.317,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,24.0,9.0,2.0,100.308,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,25.0,10.0,2.0,100.826,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,26.0,11.0,2.0,101.186,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,27.0,12.0,2.0,101.391,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,28.0,13.0,2.0,100.902,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,29.0,14.0,2.0,100.995,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,30.0,15.0,2.0,100.563,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,31.0,16.0,2.0,100.753,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,32.0,17.0,2.0,100.631,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,33.0,18.0,2.0,100.686,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,34.0,19.0,2.0,100.289,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,35.0,20.0,2.0,100.47,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,36.0,21.0,2.0,100.588,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,37.0,22.0,2.0,100.831,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,38.0,23.0,2.0,100.777,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,39.0,24.0,2.0,100.503,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,40.0,25.0,2.0,101.655,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,41.0,26.0,2.0,100.816,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,42.0,27.0,2.0,101.283,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,43.0,28.0,2.0,102.308,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,44.0,29.0,2.0,101.073,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,45.0,30.0,2.0,101.08,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,46.0,31.0,2.0,101.804,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,47.0,32.0,2.0,118.451,False,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,INTERMEDIATE,48.0,1.0,3.0,130.407,False,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,INTERMEDIATE,49.0,2.0,3.0,114.619,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,INTERMEDIATE,50.0,3.0,3.0,115.617,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,INTERMEDIATE,51.0,4.0,3.0,116.517,True,,21
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,INTERMEDIATE,52.0,5.0,3.0,114.289,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,INTERMEDIATE,53.0,6.0,3.0,114.599,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,1.0,1.0,1.0,110.617,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,2.0,2.0,1.0,103.853,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,3.0,3.0,1.0,101.628,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,4.0,4.0,1.0,101.781,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,5.0,5.0,1.0,102.236,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,6.0,6.0,1.0,102.474,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,7.0,7.0,1.0,102.246,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,8.0,8.0,1.0,102.072,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,9.0,9.0,1.0,102.209,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,10.0,10.0,1.0,102.162,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,11.0,11.0,1.0,102.224,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,12.0,12.0,1.0,102.521,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,13.0,13.0,1.0,102.08,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,14.0,14.0,1.0,101.818,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,15.0,15.0,1.0,101.822,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,16.0,16.0,1.0,101.372,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,17.0,17.0,1.0,101.4,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,18.0,18.0,1.0,101.498,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,19.0,19.0,1.0,101.637,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,20.0,20.0,1.0,101.708,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,21.0,21.0,1.0,101.615,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,22.0,22.0,1.0,101.63,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,23.0,23.0,1.0,100.671,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,24.0,24.0,1.0,100.525,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,25.0,25.0,1.0,100.247,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,26.0,26.0,1.0,100.255,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,27.0,27.0,1.0,99.547,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,28.0,28.0,1.0,99.888,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,29.0,29.0,1.0,99.516,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,30.0,30.0,1.0,99.547,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,31.0,31.0,1.0,99.36,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,32.0,32.0,1.0,99.618,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,33.0,33.0,1.0,99.556,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,34.0,34.0,1.0,99.625,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,35.0,35.0,1.0,100.384,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,HARD,36.0,36.0,1.0,105.808,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,37.0,1.0,2.0,125.912,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,38.0,2.0,2.0,99.46,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,39.0,3.0,2.0,99.631,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,40.0,4.0,2.0,99.693,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,41.0,5.0,2.0,100.196,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,42.0,6.0,2.0,99.218,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,43.0,7.0,2.0,99.475,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,44.0,8.0,2.0,100.078,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,45.0,9.0,2.0,99.215,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,46.0,10.0,2.0,99.368,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,47.0,11.0,2.0,104.92,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,48.0,12.0,2.0,123.134,True,,21
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,49.0,13.0,2.0,114.125,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,50.0,14.0,2.0,142.334,False,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,51.0,1.0,3.0,139.167,False,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,52.0,2.0,3.0,114.875,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,53.0,3.0,3.0,113.126,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,MEDIUM,1.0,1.0,1.0,106.318,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,MEDIUM,2.0,2.0,1.0,102.795,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,MEDIUM,3.0,3.0,1.0,102.882,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,MEDIUM,4.0,4.0,1.0,102.79,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,MEDIUM,5.0,5.0,1.0,102.657,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,MEDIUM,6.0,6.0,1.0,102.262,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,MEDIUM,7.0,7.0,1.0,102.006,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,MEDIUM,8.0,8.0,1.0,102.043,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,MEDIUM,9.0,9.0,1.0,102.075,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,MEDIUM,10.0,10.0,1.0,102.197,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,MEDIUM,11.0,11.0,1.0,102.26,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,MEDIUM,12.0,12.0,1.0,102.281,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,MEDIUM,13.0,13.0,1.0,106.855,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,14.0,1.0,2.0,122.549,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,15.0,2.0,2.0,101.768,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,16.0,3.0,2.0,101.346,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,17.0,4.0,2.0,101.377,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,18.0,5.0,2.0,101.439,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,19.0,6.0,2.0,101.915,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,20.0,7.0,2.0,101.608,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,21.0,8.0,2.0,101.205,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,22.0,9.0,2.0,101.614,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,23.0,10.0,2.0,101.632,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,24.0,11.0,2.0,101.365,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,25.0,12.0,2.0,101.372,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,26.0,13.0,2.0,102.247,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,27.0,14.0,2.0,101.856,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,28.0,15.0,2.0,101.854,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,29.0,16.0,2.0,101.006,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,30.0,17.0,2.0,100.869,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,31.0,18.0,2.0,100.739,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,32.0,19.0,2.0,100.731,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,33.0,20.0,2.0,100.685,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,34.0,21.0,2.0,100.673,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,35.0,22.0,2.0,100.727,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,36.0,23.0,2.0,100.789,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,37.0,24.0,2.0,100.704,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,38.0,25.0,2.0,100.599,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,39.0,26.0,2.0,100.66,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,40.0,27.0,2.0,100.596,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,41.0,28.0,2.0,100.804,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,42.0,29.0,2.0,102.208,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,43.0,30.0,2.0,100.881,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,44.0,31.0,2.0,101.102,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,45.0,32.0,2.0,101.091,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,46.0,33.0,2.0,103.194,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,HARD,47.0,34.0,2.0,118.652,False,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,INTERMEDIATE,48.0,5.0,3.0,132.545,False,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,INTERMEDIATE,49.0,6.0,3.0,114.598,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,INTERMEDIATE,50.0,7.0,3.0,117.84,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,INTERMEDIATE,51.0,8.0,3.0,119.971,True,,21
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,INTERMEDIATE,52.0,9.0,3.0,118.22,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,RUS,George Russell,63,Williams,INTERMEDIATE,53.0,10.0,3.0,117.1,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,1.0,1.0,1.0,107.279,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,2.0,2.0,1.0,102.732,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,3.0,3.0,1.0,102.709,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,4.0,4.0,1.0,102.848,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,5.0,5.0,1.0,102.628,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,6.0,6.0,1.0,102.326,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,7.0,7.0,1.0,102.1,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,8.0,8.0,1.0,102.064,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,9.0,9.0,1.0,101.999,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,10.0,10.0,1.0,102.281,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,11.0,11.0,1.0,102.223,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,12.0,12.0,1.0,106.628,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,13.0,1.0,2.0,121.392,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,14.0,2.0,2.0,100.793,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,15.0,3.0,2.0,102.195,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,16.0,4.0,2.0,101.058,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,17.0,5.0,2.0,101.325,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,18.0,6.0,2.0,101.1,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,19.0,7.0,2.0,101.033,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,20.0,8.0,2.0,101.137,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,21.0,9.0,2.0,101.16,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,22.0,10.0,2.0,100.964,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,23.0,11.0,2.0,100.863,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,24.0,12.0,2.0,100.962,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,25.0,13.0,2.0,101.077,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,26.0,14.0,2.0,101.017,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,27.0,15.0,2.0,101.615,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,28.0,16.0,2.0,100.964,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,29.0,17.0,2.0,101.44,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,30.0,18.0,2.0,100.617,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,31.0,19.0,2.0,102.234,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,32.0,20.0,2.0,101.612,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,33.0,21.0,2.0,101.215,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,34.0,22.0,2.0,100.883,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,35.0,23.0,2.0,100.464,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,36.0,24.0,2.0,100.534,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,37.0,25.0,2.0,101.392,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,38.0,26.0,2.0,101.066,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,39.0,27.0,2.0,100.84,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,40.0,28.0,2.0,100.576,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,41.0,29.0,2.0,100.508,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,42.0,30.0,2.0,100.984,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,43.0,31.0,2.0,101.06,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,44.0,32.0,2.0,101.976,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,45.0,33.0,2.0,101.689,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,46.0,34.0,2.0,102.16,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,47.0,35.0,2.0,112.923,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,HARD,48.0,36.0,2.0,135.262,False,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,49.0,1.0,3.0,146.082,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,50.0,2.0,3.0,118.043,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,51.0,3.0,3.0,114.079,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,52.0,4.0,3.0,111.645,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,53.0,5.0,3.0,111.443,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,1.0,1.0,1.0,112.276,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,2.0,2.0,1.0,104.638,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,3.0,3.0,1.0,103.059,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,4.0,4.0,1.0,102.348,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,5.0,5.0,1.0,103.144,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,6.0,6.0,1.0,102.773,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,7.0,7.0,1.0,102.316,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,8.0,8.0,1.0,102.425,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,9.0,9.0,1.0,102.609,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,10.0,10.0,1.0,103.342,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,11.0,11.0,1.0,101.955,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,12.0,12.0,1.0,102.28,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,13.0,13.0,1.0,103.587,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,14.0,14.0,1.0,103.447,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,15.0,15.0,1.0,102.365,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,16.0,16.0,1.0,101.835,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,17.0,17.0,1.0,101.574,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,18.0,18.0,1.0,101.453,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,19.0,19.0,1.0,101.325,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,20.0,20.0,1.0,102.174,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,21.0,21.0,1.0,101.4,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,22.0,22.0,1.0,101.37,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,23.0,23.0,1.0,101.351,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,24.0,24.0,1.0,101.419,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,25.0,25.0,1.0,101.46,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,26.0,26.0,1.0,105.825,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,HARD,27.0,1.0,2.0,119.82,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,HARD,28.0,2.0,2.0,99.559,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,HARD,29.0,3.0,2.0,101.004,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,HARD,30.0,4.0,2.0,99.99,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,HARD,31.0,5.0,2.0,99.358,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,HARD,32.0,6.0,2.0,99.786,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,HARD,33.0,7.0,2.0,99.892,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,HARD,34.0,8.0,2.0,100.0,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,HARD,35.0,9.0,2.0,100.31,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,HARD,36.0,10.0,2.0,100.672,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,HARD,37.0,11.0,2.0,100.655,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,HARD,38.0,12.0,2.0,100.823,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,HARD,39.0,13.0,2.0,101.264,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,HARD,40.0,14.0,2.0,100.897,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,HARD,41.0,15.0,2.0,100.818,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,HARD,42.0,16.0,2.0,101.154,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,HARD,43.0,17.0,2.0,100.404,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,HARD,44.0,18.0,2.0,99.251,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,HARD,45.0,19.0,2.0,100.647,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,HARD,46.0,20.0,2.0,100.54,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,HARD,47.0,21.0,2.0,107.499,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,HARD,48.0,22.0,2.0,114.467,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,HARD,49.0,23.0,2.0,114.396,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,51.0,1.0,3.0,135.571,False,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,52.0,2.0,3.0,110.141,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,1.0,1.0,1.0,113.699,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,2.0,2.0,1.0,105.494,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,3.0,3.0,1.0,102.868,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,4.0,4.0,1.0,102.339,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,5.0,5.0,1.0,102.392,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,6.0,6.0,1.0,103.159,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,7.0,7.0,1.0,102.358,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,8.0,8.0,1.0,103.465,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,9.0,9.0,1.0,102.113,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,10.0,10.0,1.0,103.609,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,11.0,11.0,1.0,102.134,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,12.0,12.0,1.0,102.295,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,13.0,13.0,1.0,102.255,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,14.0,14.0,1.0,102.841,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,15.0,15.0,1.0,102.619,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,16.0,16.0,1.0,102.437,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,17.0,17.0,1.0,101.724,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,18.0,18.0,1.0,101.594,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,19.0,19.0,1.0,101.305,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,20.0,20.0,1.0,101.814,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,21.0,21.0,1.0,101.397,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,22.0,22.0,1.0,101.272,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,23.0,23.0,1.0,101.51,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,24.0,24.0,1.0,101.244,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,25.0,25.0,1.0,101.612,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,26.0,26.0,1.0,101.583,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,27.0,27.0,1.0,101.324,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,28.0,28.0,1.0,100.907,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,29.0,29.0,1.0,101.201,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,30.0,30.0,1.0,101.817,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,31.0,31.0,1.0,101.306,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,32.0,32.0,1.0,101.611,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,33.0,33.0,1.0,105.981,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,34.0,1.0,2.0,119.518,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,35.0,2.0,2.0,98.279,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,36.0,3.0,2.0,99.007,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,37.0,4.0,2.0,98.949,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,38.0,5.0,2.0,99.015,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,39.0,6.0,2.0,99.207,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,40.0,7.0,2.0,100.509,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,41.0,8.0,2.0,100.265,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,42.0,9.0,2.0,100.987,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,43.0,10.0,2.0,102.043,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,44.0,11.0,2.0,101.577,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,45.0,12.0,2.0,101.581,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,46.0,13.0,2.0,102.338,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,47.0,14.0,2.0,109.754,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,48.0,15.0,2.0,121.03,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,49.0,16.0,2.0,114.255,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,51.0,1.0,3.0,133.506,False,,21
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,52.0,2.0,3.0,108.907,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,1.0,1.0,1.0,111.098,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,2.0,2.0,1.0,104.295,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,3.0,3.0,1.0,102.951,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,4.0,4.0,1.0,102.456,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,5.0,5.0,1.0,102.753,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,6.0,6.0,1.0,102.635,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,7.0,7.0,1.0,102.3,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,8.0,8.0,1.0,102.657,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,9.0,9.0,1.0,102.438,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,10.0,10.0,1.0,102.255,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,11.0,11.0,1.0,102.226,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,12.0,12.0,1.0,102.334,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,13.0,13.0,1.0,102.243,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,14.0,14.0,1.0,102.278,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,15.0,15.0,1.0,106.731,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,16.0,1.0,2.0,121.779,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,17.0,2.0,2.0,100.879,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,18.0,3.0,2.0,100.95,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,19.0,4.0,2.0,100.775,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,20.0,5.0,2.0,101.2,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,21.0,6.0,2.0,101.009,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,22.0,7.0,2.0,100.737,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,23.0,8.0,2.0,100.986,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,24.0,9.0,2.0,101.696,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,25.0,10.0,2.0,100.704,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,26.0,11.0,2.0,100.896,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,27.0,12.0,2.0,101.772,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,28.0,13.0,2.0,101.029,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,29.0,14.0,2.0,100.809,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,30.0,15.0,2.0,100.929,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,31.0,16.0,2.0,100.795,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,32.0,17.0,2.0,100.933,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,33.0,18.0,2.0,100.807,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,34.0,19.0,2.0,100.598,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,35.0,20.0,2.0,100.786,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,36.0,21.0,2.0,100.782,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,37.0,22.0,2.0,100.714,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,38.0,23.0,2.0,100.806,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,39.0,24.0,2.0,100.609,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,40.0,25.0,2.0,101.53,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,41.0,26.0,2.0,100.905,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,42.0,27.0,2.0,101.361,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,43.0,28.0,2.0,100.852,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,44.0,29.0,2.0,101.502,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,45.0,30.0,2.0,101.433,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,46.0,31.0,2.0,102.147,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,47.0,32.0,2.0,112.836,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,48.0,33.0,2.0,121.726,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,HARD,49.0,34.0,2.0,120.34,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,51.0,1.0,3.0,135.361,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,52.0,2.0,3.0,110.61,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,1.0,1.0,1.0,112.66,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,2.0,2.0,1.0,105.188,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,3.0,3.0,1.0,103.003,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,4.0,4.0,1.0,102.081,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,5.0,5.0,1.0,103.036,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,6.0,6.0,1.0,103.147,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,7.0,7.0,1.0,102.089,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,8.0,8.0,1.0,102.333,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,9.0,9.0,1.0,102.561,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,10.0,10.0,1.0,104.637,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,11.0,11.0,1.0,101.905,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,12.0,12.0,1.0,102.186,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,13.0,13.0,1.0,102.405,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,14.0,14.0,1.0,100.993,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,15.0,15.0,1.0,101.707,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,16.0,16.0,1.0,101.152,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,17.0,17.0,1.0,100.867,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,18.0,18.0,1.0,100.587,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,19.0,19.0,1.0,100.952,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,20.0,20.0,1.0,100.565,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,21.0,21.0,1.0,100.639,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,22.0,22.0,1.0,100.767,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,23.0,23.0,1.0,101.024,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,24.0,24.0,1.0,101.413,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,25.0,25.0,1.0,100.889,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,26.0,26.0,1.0,100.873,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,27.0,27.0,1.0,100.411,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,28.0,28.0,1.0,100.336,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,29.0,29.0,1.0,100.264,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,30.0,30.0,1.0,100.223,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,31.0,31.0,1.0,100.442,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,32.0,32.0,1.0,100.582,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,33.0,33.0,1.0,100.564,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,34.0,34.0,1.0,102.317,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,HARD,35.0,35.0,1.0,106.626,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,36.0,1.0,2.0,123.068,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,37.0,2.0,2.0,100.863,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,38.0,3.0,2.0,100.696,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,39.0,4.0,2.0,99.894,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,40.0,5.0,2.0,99.158,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,41.0,6.0,2.0,99.664,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,42.0,7.0,2.0,99.212,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,43.0,8.0,2.0,99.076,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,44.0,9.0,2.0,99.034,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,45.0,10.0,2.0,98.994,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,46.0,11.0,2.0,99.581,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,47.0,12.0,2.0,104.838,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,48.0,13.0,2.0,116.506,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,49.0,14.0,2.0,110.485,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,50.0,15.0,2.0,135.695,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LEC,Charles Leclerc,16,Ferrari,INTERMEDIATE,52.0,1.0,3.0,141.156,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,1.0,1.0,1.0,116.132,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,2.0,2.0,1.0,105.941,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,3.0,3.0,1.0,103.939,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,4.0,4.0,1.0,103.568,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,5.0,5.0,1.0,103.251,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,6.0,6.0,1.0,103.411,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,7.0,7.0,1.0,104.325,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,8.0,8.0,1.0,105.532,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,9.0,9.0,1.0,103.532,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,10.0,10.0,1.0,103.975,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,11.0,11.0,1.0,103.939,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,12.0,12.0,1.0,104.175,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,13.0,13.0,1.0,101.849,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,14.0,14.0,1.0,102.224,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,15.0,15.0,1.0,102.113,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,16.0,16.0,1.0,101.998,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,17.0,17.0,1.0,101.647,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,18.0,18.0,1.0,101.413,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,19.0,19.0,1.0,101.465,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,20.0,20.0,1.0,101.693,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,21.0,21.0,1.0,101.321,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,22.0,22.0,1.0,102.866,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,23.0,23.0,1.0,102.541,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,24.0,24.0,1.0,103.48,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,25.0,25.0,1.0,101.496,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,26.0,26.0,1.0,101.61,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,27.0,27.0,1.0,101.344,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,28.0,28.0,1.0,101.318,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,29.0,29.0,1.0,103.313,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,30.0,30.0,1.0,102.21,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,31.0,31.0,1.0,101.691,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,32.0,32.0,1.0,101.26,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,33.0,33.0,1.0,101.056,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,34.0,34.0,1.0,101.0,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,35.0,35.0,1.0,102.38,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,36.0,36.0,1.0,106.508,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,37.0,1.0,2.0,121.557,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,38.0,2.0,2.0,99.116,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,39.0,3.0,2.0,99.058,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,40.0,4.0,2.0,99.456,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,41.0,5.0,2.0,99.725,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,42.0,6.0,2.0,99.652,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,43.0,7.0,2.0,99.645,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,44.0,8.0,2.0,99.707,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,45.0,9.0,2.0,101.67,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,46.0,10.0,2.0,103.308,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,47.0,11.0,2.0,118.854,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,48.0,12.0,2.0,118.0,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,49.0,13.0,2.0,117.169,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,INTERMEDIATE,51.0,1.0,3.0,144.163,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,INTERMEDIATE,52.0,2.0,3.0,118.579,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,1.0,1.0,1.0,116.581,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,2.0,2.0,1.0,106.433,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,3.0,3.0,1.0,104.403,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,4.0,4.0,1.0,102.965,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,5.0,5.0,1.0,103.342,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,6.0,6.0,1.0,103.463,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,7.0,7.0,1.0,104.263,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,8.0,8.0,1.0,105.576,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,9.0,9.0,1.0,104.334,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,10.0,10.0,1.0,103.663,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,11.0,11.0,1.0,105.06,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,12.0,12.0,1.0,104.388,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,13.0,13.0,1.0,108.912,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,14.0,1.0,2.0,122.484,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,15.0,2.0,2.0,103.458,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,16.0,3.0,2.0,101.946,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,17.0,4.0,2.0,101.233,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,18.0,5.0,2.0,100.924,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,19.0,6.0,2.0,101.336,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,20.0,7.0,2.0,101.187,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,21.0,8.0,2.0,101.318,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,22.0,9.0,2.0,101.422,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,23.0,10.0,2.0,101.295,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,24.0,11.0,2.0,101.198,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,25.0,12.0,2.0,101.743,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,26.0,13.0,2.0,101.14,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,27.0,14.0,2.0,101.44,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,28.0,15.0,2.0,100.882,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,29.0,16.0,2.0,100.907,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,30.0,17.0,2.0,100.999,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,31.0,18.0,2.0,100.869,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,32.0,19.0,2.0,101.009,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,33.0,20.0,2.0,100.863,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,34.0,21.0,2.0,101.215,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,35.0,22.0,2.0,100.739,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,36.0,23.0,2.0,100.945,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,37.0,24.0,2.0,100.612,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,38.0,25.0,2.0,100.589,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,39.0,26.0,2.0,100.384,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,40.0,27.0,2.0,100.236,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,41.0,28.0,2.0,100.147,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,42.0,29.0,2.0,99.96,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,43.0,30.0,2.0,100.033,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,44.0,31.0,2.0,100.63,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,45.0,32.0,2.0,101.536,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,46.0,33.0,2.0,104.232,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,47.0,34.0,2.0,136.543,False,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,48.0,1.0,3.0,143.412,False,,21
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,49.0,2.0,3.0,144.845,False,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,50.0,4.0,4.0,147.373,False,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,51.0,5.0,4.0,121.058,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,52.0,6.0,4.0,116.963,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,MEDIUM,1.0,1.0,1.0,113.218,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,MEDIUM,2.0,2.0,1.0,105.317,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,MEDIUM,3.0,3.0,1.0,104.684,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,MEDIUM,4.0,4.0,1.0,104.639,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,MEDIUM,5.0,5.0,1.0,103.117,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,MEDIUM,6.0,6.0,1.0,103.583,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,MEDIUM,7.0,7.0,1.0,104.749,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,MEDIUM,8.0,8.0,1.0,104.601,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,MEDIUM,9.0,9.0,1.0,104.059,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,MEDIUM,10.0,10.0,1.0,104.021,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,MEDIUM,11.0,11.0,1.0,104.52,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,MEDIUM,12.0,12.0,1.0,104.678,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,MEDIUM,13.0,13.0,1.0,104.751,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,MEDIUM,14.0,14.0,1.0,107.794,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,15.0,1.0,2.0,123.999,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,16.0,2.0,2.0,104.918,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,17.0,3.0,2.0,102.559,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,18.0,4.0,2.0,102.301,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,19.0,5.0,2.0,102.003,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,20.0,6.0,2.0,102.032,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,21.0,7.0,2.0,102.259,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,22.0,8.0,2.0,102.436,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,23.0,9.0,2.0,102.178,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,24.0,10.0,2.0,101.713,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,25.0,11.0,2.0,102.019,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,26.0,12.0,2.0,101.722,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,27.0,13.0,2.0,101.837,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,28.0,14.0,2.0,101.72,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,29.0,15.0,2.0,102.425,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,30.0,16.0,2.0,101.837,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,31.0,17.0,2.0,105.109,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,32.0,18.0,2.0,102.84,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,33.0,19.0,2.0,102.044,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,34.0,20.0,2.0,102.866,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,35.0,21.0,2.0,102.928,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,36.0,22.0,2.0,102.921,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,37.0,23.0,2.0,102.868,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,38.0,24.0,2.0,105.387,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,39.0,25.0,2.0,102.957,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,40.0,26.0,2.0,103.295,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,41.0,27.0,2.0,103.132,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,42.0,28.0,2.0,103.093,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,43.0,29.0,2.0,103.621,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,44.0,30.0,2.0,113.968,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,45.0,31.0,2.0,107.431,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,HARD,46.0,32.0,2.0,133.746,False,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,INTERMEDIATE,47.0,1.0,3.0,139.226,False,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,INTERMEDIATE,48.0,2.0,3.0,120.309,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,INTERMEDIATE,49.0,3.0,3.0,126.584,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,INTERMEDIATE,50.0,4.0,3.0,124.949,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MAZ,Nikita Mazepin,9,Haas F1 Team,INTERMEDIATE,51.0,5.0,3.0,116.061,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,1.0,1.0,1.0,114.413,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,2.0,2.0,1.0,106.95,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,3.0,3.0,1.0,103.851,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,4.0,4.0,1.0,103.635,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,5.0,5.0,1.0,103.169,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,6.0,6.0,1.0,103.379,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,7.0,7.0,1.0,104.666,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,8.0,8.0,1.0,105.362,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,9.0,9.0,1.0,103.363,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,10.0,10.0,1.0,104.119,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,11.0,11.0,1.0,106.205,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,12.0,12.0,1.0,104.06,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,13.0,13.0,1.0,108.268,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,14.0,1.0,2.0,121.725,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,15.0,2.0,2.0,101.457,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,16.0,3.0,2.0,101.383,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,17.0,4.0,2.0,101.372,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,18.0,5.0,2.0,102.123,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,19.0,6.0,2.0,101.836,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,20.0,7.0,2.0,101.492,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,21.0,8.0,2.0,101.439,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,22.0,9.0,2.0,101.377,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,23.0,10.0,2.0,102.02,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,24.0,11.0,2.0,101.82,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,25.0,12.0,2.0,101.644,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,26.0,13.0,2.0,100.865,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,27.0,14.0,2.0,101.044,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,28.0,15.0,2.0,100.679,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,29.0,16.0,2.0,100.809,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,30.0,17.0,2.0,100.841,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,31.0,18.0,2.0,100.908,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,32.0,19.0,2.0,100.585,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,33.0,20.0,2.0,100.82,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,34.0,21.0,2.0,100.524,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,35.0,22.0,2.0,100.463,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,36.0,23.0,2.0,100.628,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,37.0,24.0,2.0,100.293,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,38.0,25.0,2.0,100.121,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,39.0,26.0,2.0,100.34,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,40.0,27.0,2.0,100.236,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,41.0,28.0,2.0,100.443,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,42.0,29.0,2.0,100.0,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,43.0,30.0,2.0,100.117,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,44.0,31.0,2.0,100.414,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,45.0,32.0,2.0,100.79,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,46.0,33.0,2.0,101.642,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,LAT,Nicholas Latifi,6,Williams,HARD,47.0,34.0,2.0,137.724,False,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,1.0,1.0,1.0,115.78,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,2.0,2.0,1.0,106.75,True,,12
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,3.0,3.0,1.0,104.331,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,4.0,4.0,1.0,104.586,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,5.0,5.0,1.0,103.579,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,6.0,6.0,1.0,103.712,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,7.0,7.0,1.0,103.801,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,8.0,8.0,1.0,105.062,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,9.0,9.0,1.0,104.737,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,10.0,10.0,1.0,104.293,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,11.0,11.0,1.0,104.574,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,12.0,12.0,1.0,104.99,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,13.0,13.0,1.0,104.631,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,14.0,14.0,1.0,104.289,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,15.0,15.0,1.0,103.419,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,16.0,16.0,1.0,103.647,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,17.0,17.0,1.0,103.197,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,18.0,18.0,1.0,103.133,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,19.0,19.0,1.0,104.054,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,20.0,20.0,1.0,108.013,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,HARD,21.0,1.0,2.0,122.492,False,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,HARD,22.0,2.0,2.0,100.276,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,HARD,23.0,3.0,2.0,100.333,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,HARD,24.0,4.0,2.0,100.552,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,HARD,25.0,5.0,2.0,100.769,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,HARD,26.0,6.0,2.0,100.698,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,HARD,27.0,7.0,2.0,101.093,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,HARD,28.0,8.0,2.0,101.5,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,HARD,29.0,9.0,2.0,102.243,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,HARD,30.0,10.0,2.0,101.901,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,HARD,31.0,11.0,2.0,102.539,True,,1
+2021,15,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2021,Sochi,Russia,Sochi,2021-09-26,53,MSC,Mick Schumacher,47,Haas F1 Team,HARD,32.0,12.0,2.0,107.201,False,,1

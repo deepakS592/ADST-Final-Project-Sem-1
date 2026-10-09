@@ -1,0 +1,969 @@
+Season,Round,Race,EventName,OfficialEventName,Circuit,Country,Location,EventDate,RaceLaps,Driver,DriverName,DriverNumber,Team,Compound,LapNumber,TyreLife,Stint,LapTime,IsAccurate,Deleted,TrackStatus
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,1.0,1.0,1.0,90.827,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,2.0,2.0,1.0,86.401,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,3.0,3.0,1.0,86.181,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,4.0,4.0,1.0,85.782,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,5.0,5.0,1.0,85.512,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,6.0,6.0,1.0,85.66,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,7.0,7.0,1.0,85.297,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,8.0,8.0,1.0,85.618,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,9.0,9.0,1.0,85.886,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,10.0,10.0,1.0,85.953,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,11.0,11.0,1.0,85.858,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,12.0,12.0,1.0,107.245,False,,1267
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,13.0,13.0,1.0,88.719,False,,71
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,14.0,14.0,1.0,85.615,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,15.0,15.0,1.0,85.794,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,16.0,16.0,1.0,85.903,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,17.0,17.0,1.0,85.87,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,18.0,18.0,1.0,85.985,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,19.0,19.0,1.0,85.799,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,20.0,20.0,1.0,85.75,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,21.0,21.0,1.0,85.79,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,22.0,22.0,1.0,85.901,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,23.0,23.0,1.0,85.719,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,24.0,24.0,1.0,85.8,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,25.0,25.0,1.0,89.712,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,26.0,1.0,2.0,105.038,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,27.0,2.0,2.0,85.012,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,28.0,3.0,2.0,85.19,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,29.0,4.0,2.0,84.829,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,30.0,5.0,2.0,84.798,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,31.0,6.0,2.0,85.071,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,32.0,7.0,2.0,84.918,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,33.0,8.0,2.0,85.095,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,34.0,9.0,2.0,84.857,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,35.0,10.0,2.0,84.831,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,36.0,11.0,2.0,84.919,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,37.0,12.0,2.0,84.829,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,38.0,13.0,2.0,84.745,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,39.0,14.0,2.0,84.815,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,40.0,15.0,2.0,84.905,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,41.0,16.0,2.0,85.078,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,42.0,17.0,2.0,84.926,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,43.0,18.0,2.0,85.01,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,44.0,19.0,2.0,85.122,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,45.0,20.0,2.0,84.824,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,46.0,21.0,2.0,85.257,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,47.0,22.0,2.0,84.75,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,48.0,23.0,2.0,112.443,False,,24
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,49.0,1.0,3.0,134.689,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,50.0,2.0,3.0,100.364,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,51.0,3.0,3.0,136.259,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,52.0,4.0,3.0,143.993,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VER,Max Verstappen,1,Red Bull Racing,SOFT,53.0,5.0,3.0,132.367,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,1.0,1.0,1.0,91.681,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,2.0,2.0,1.0,88.201,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,3.0,3.0,1.0,87.625,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,4.0,4.0,1.0,87.365,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,5.0,5.0,1.0,87.534,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,6.0,6.0,1.0,87.316,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,7.0,7.0,1.0,87.368,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,8.0,8.0,1.0,87.232,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,9.0,9.0,1.0,87.534,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,10.0,10.0,1.0,87.606,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,11.0,11.0,1.0,87.449,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,12.0,12.0,1.0,110.771,False,,2671
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,13.0,13.0,1.0,88.402,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,14.0,14.0,1.0,88.309,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,15.0,15.0,1.0,87.628,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,16.0,16.0,1.0,87.528,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,17.0,17.0,1.0,87.722,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,18.0,18.0,1.0,91.609,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,19.0,2.0,2.0,108.908,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,20.0,3.0,2.0,87.469,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,21.0,4.0,2.0,87.447,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,22.0,5.0,2.0,87.33,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,23.0,6.0,2.0,86.946,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,24.0,7.0,2.0,87.026,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,25.0,8.0,2.0,87.074,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,26.0,9.0,2.0,87.196,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,27.0,10.0,2.0,86.916,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,28.0,11.0,2.0,86.891,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,29.0,12.0,2.0,87.108,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,30.0,13.0,2.0,86.718,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,31.0,14.0,2.0,87.564,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,32.0,15.0,2.0,87.509,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,33.0,16.0,2.0,87.08,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,34.0,17.0,2.0,87.093,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,35.0,18.0,2.0,87.023,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,36.0,19.0,2.0,88.619,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,37.0,20.0,2.0,87.632,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,38.0,21.0,2.0,87.047,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,39.0,22.0,2.0,86.932,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,40.0,23.0,2.0,86.949,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,41.0,24.0,2.0,86.721,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,42.0,25.0,2.0,86.817,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,43.0,26.0,2.0,86.734,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,44.0,27.0,2.0,87.055,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,45.0,28.0,2.0,88.377,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,46.0,29.0,2.0,86.744,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,47.0,30.0,2.0,110.41,False,,24
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,48.0,31.0,2.0,118.291,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,49.0,32.0,2.0,105.775,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,50.0,33.0,2.0,122.698,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,51.0,34.0,2.0,91.926,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,52.0,35.0,2.0,89.512,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,53.0,36.0,2.0,123.49,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,1.0,1.0,1.0,96.234,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,2.0,2.0,1.0,90.459,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,3.0,3.0,1.0,87.557,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,4.0,4.0,1.0,87.263,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,5.0,5.0,1.0,87.266,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,6.0,6.0,1.0,87.535,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,7.0,7.0,1.0,92.185,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,8.0,1.0,2.0,107.579,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,9.0,2.0,2.0,87.176,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,10.0,3.0,2.0,86.794,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,11.0,4.0,2.0,95.458,False,,126
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,12.0,5.0,2.0,100.78,False,,671
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,13.0,6.0,2.0,86.068,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,14.0,7.0,2.0,86.154,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,15.0,8.0,2.0,86.102,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,16.0,9.0,2.0,86.205,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,17.0,10.0,2.0,85.969,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,18.0,11.0,2.0,86.902,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,19.0,12.0,2.0,86.315,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,20.0,13.0,2.0,86.346,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,21.0,14.0,2.0,87.185,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,22.0,15.0,2.0,86.75,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,23.0,16.0,2.0,87.262,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,24.0,17.0,2.0,86.742,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,25.0,18.0,2.0,86.109,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,26.0,19.0,2.0,86.255,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,27.0,20.0,2.0,86.13,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,28.0,21.0,2.0,86.084,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,29.0,22.0,2.0,86.096,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,30.0,23.0,2.0,86.19,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,31.0,24.0,2.0,86.351,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,32.0,25.0,2.0,85.985,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,33.0,26.0,2.0,87.146,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,34.0,27.0,2.0,86.172,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,35.0,28.0,2.0,86.025,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,36.0,29.0,2.0,86.165,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,37.0,30.0,2.0,85.933,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,38.0,31.0,2.0,85.868,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,39.0,32.0,2.0,85.57,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,40.0,33.0,2.0,85.572,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,41.0,34.0,2.0,85.7,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,HARD,42.0,35.0,2.0,89.491,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,SOFT,43.0,1.0,3.0,104.0,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,SOFT,44.0,2.0,3.0,84.457,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,SOFT,45.0,3.0,3.0,84.566,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,SOFT,46.0,4.0,3.0,84.03,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,SOFT,47.0,5.0,3.0,103.427,False,,24
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,SOFT,48.0,6.0,3.0,120.013,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,SOFT,49.0,7.0,3.0,124.016,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,SOFT,50.0,8.0,3.0,123.446,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,SOFT,51.0,9.0,3.0,93.801,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,SOFT,52.0,10.0,3.0,87.911,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,PER,Sergio Perez,11,Red Bull Racing,SOFT,53.0,11.0,3.0,126.807,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,1.0,1.0,1.0,93.058,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,2.0,2.0,1.0,88.272,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,3.0,3.0,1.0,87.607,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,4.0,4.0,1.0,87.417,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,5.0,5.0,1.0,87.502,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,6.0,6.0,1.0,87.446,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,7.0,7.0,1.0,87.203,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,8.0,8.0,1.0,87.415,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,9.0,9.0,1.0,87.487,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,10.0,10.0,1.0,87.975,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,11.0,11.0,1.0,87.748,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,12.0,12.0,1.0,110.187,False,,2671
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,13.0,13.0,1.0,87.45,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,14.0,14.0,1.0,88.185,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,15.0,15.0,1.0,87.867,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,16.0,16.0,1.0,87.472,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,17.0,17.0,1.0,87.682,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,18.0,18.0,1.0,88.351,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,19.0,19.0,1.0,87.324,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,20.0,20.0,1.0,87.728,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,21.0,21.0,1.0,87.668,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,22.0,22.0,1.0,87.615,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,23.0,23.0,1.0,88.055,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,24.0,24.0,1.0,87.83,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,25.0,25.0,1.0,87.452,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,26.0,26.0,1.0,87.583,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,27.0,27.0,1.0,88.363,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,28.0,28.0,1.0,87.865,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,29.0,29.0,1.0,87.698,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,30.0,30.0,1.0,87.385,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ALO,Fernando Alonso,14,Alpine,MEDIUM,31.0,31.0,1.0,93.429,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,1.0,1.0,1.0,88.085,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,2.0,2.0,1.0,86.535,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,3.0,3.0,1.0,86.352,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,4.0,4.0,1.0,85.802,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,5.0,5.0,1.0,85.902,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,6.0,6.0,1.0,85.559,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,7.0,7.0,1.0,85.467,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,8.0,8.0,1.0,85.784,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,9.0,9.0,1.0,86.092,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,10.0,10.0,1.0,86.266,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,11.0,11.0,1.0,85.796,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,12.0,12.0,1.0,109.019,False,,1267
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,13.0,1.0,2.0,106.038,False,,71
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,14.0,2.0,2.0,85.257,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,15.0,3.0,2.0,85.631,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,16.0,4.0,2.0,85.428,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,17.0,5.0,2.0,85.145,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,18.0,6.0,2.0,85.428,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,19.0,7.0,2.0,85.664,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,20.0,8.0,2.0,85.525,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,21.0,9.0,2.0,85.473,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,22.0,10.0,2.0,85.641,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,23.0,11.0,2.0,85.471,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,24.0,12.0,2.0,85.365,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,25.0,13.0,2.0,85.225,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,26.0,14.0,2.0,85.507,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,27.0,15.0,2.0,86.04,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,28.0,16.0,2.0,85.683,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,29.0,17.0,2.0,85.512,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,30.0,18.0,2.0,85.602,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,31.0,19.0,2.0,85.769,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,32.0,20.0,2.0,85.962,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,33.0,21.0,2.0,90.03,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,34.0,1.0,3.0,105.007,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,35.0,2.0,3.0,85.228,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,36.0,3.0,3.0,84.908,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,37.0,4.0,3.0,84.51,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,38.0,5.0,3.0,84.336,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,39.0,6.0,3.0,84.411,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,40.0,7.0,3.0,84.745,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,41.0,8.0,3.0,84.522,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,42.0,9.0,3.0,84.612,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,43.0,10.0,3.0,84.532,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,44.0,11.0,3.0,84.793,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,45.0,12.0,3.0,85.17,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,46.0,13.0,3.0,84.452,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,47.0,14.0,3.0,85.325,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,48.0,15.0,3.0,118.392,False,,24
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,49.0,4.0,4.0,134.508,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,50.0,5.0,4.0,99.418,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,51.0,6.0,4.0,117.073,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,52.0,7.0,4.0,143.218,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LEC,Charles Leclerc,16,Ferrari,SOFT,53.0,8.0,4.0,132.742,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,1.0,2.0,1.0,94.774,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,2.0,3.0,1.0,88.722,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,3.0,4.0,1.0,88.096,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,4.0,5.0,1.0,87.618,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,5.0,6.0,1.0,87.637,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,6.0,7.0,1.0,88.499,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,7.0,8.0,1.0,87.694,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,8.0,9.0,1.0,87.783,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,9.0,10.0,1.0,87.902,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,10.0,11.0,1.0,88.014,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,11.0,12.0,1.0,88.112,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,12.0,13.0,1.0,110.745,False,,2671
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,13.0,14.0,1.0,87.931,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,14.0,15.0,1.0,87.527,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,15.0,16.0,1.0,87.915,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,16.0,17.0,1.0,87.824,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,17.0,18.0,1.0,88.819,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,18.0,19.0,1.0,92.349,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,HARD,19.0,2.0,2.0,108.132,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,HARD,20.0,3.0,2.0,88.51,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,HARD,21.0,4.0,2.0,88.442,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,HARD,22.0,5.0,2.0,87.815,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,HARD,23.0,6.0,2.0,87.595,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,HARD,24.0,7.0,2.0,88.746,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,HARD,25.0,8.0,2.0,87.749,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,HARD,26.0,9.0,2.0,87.704,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,HARD,27.0,10.0,2.0,87.491,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,HARD,28.0,11.0,2.0,87.687,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,HARD,29.0,12.0,2.0,87.583,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,HARD,30.0,13.0,2.0,87.499,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,HARD,31.0,14.0,2.0,87.761,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,HARD,32.0,15.0,2.0,87.641,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,HARD,33.0,16.0,2.0,87.5,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,HARD,34.0,17.0,2.0,87.467,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,HARD,35.0,18.0,2.0,88.234,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,HARD,36.0,19.0,2.0,88.569,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,HARD,37.0,20.0,2.0,88.318,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,HARD,38.0,21.0,2.0,87.475,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,STR,Lance Stroll,18,Aston Martin,HARD,39.0,22.0,2.0,94.274,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,1.0,1.0,1.0,95.277,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,2.0,2.0,1.0,89.935,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,3.0,3.0,1.0,88.221,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,4.0,4.0,1.0,89.212,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,5.0,5.0,1.0,88.126,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,6.0,6.0,1.0,87.918,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,7.0,7.0,1.0,87.833,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,8.0,8.0,1.0,88.877,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,9.0,9.0,1.0,88.644,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,10.0,10.0,1.0,87.835,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,11.0,11.0,1.0,88.421,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,12.0,12.0,1.0,110.858,False,,2671
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,13.0,13.0,1.0,88.457,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,14.0,14.0,1.0,88.137,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,15.0,15.0,1.0,88.232,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,16.0,16.0,1.0,88.755,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,17.0,17.0,1.0,88.144,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,18.0,18.0,1.0,88.771,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,19.0,19.0,1.0,87.88,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,20.0,20.0,1.0,89.423,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,21.0,21.0,1.0,88.625,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,22.0,22.0,1.0,88.395,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,23.0,23.0,1.0,88.011,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,24.0,24.0,1.0,92.278,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,25.0,1.0,2.0,114.426,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,26.0,2.0,2.0,87.631,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,27.0,3.0,2.0,88.535,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,28.0,4.0,2.0,87.082,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,29.0,5.0,2.0,86.853,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,30.0,6.0,2.0,87.2,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,31.0,7.0,2.0,87.763,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,32.0,8.0,2.0,86.976,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,33.0,9.0,2.0,87.203,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,34.0,10.0,2.0,87.087,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,35.0,11.0,2.0,87.034,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,36.0,12.0,2.0,87.156,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,37.0,13.0,2.0,86.798,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,38.0,14.0,2.0,87.075,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,39.0,15.0,2.0,87.498,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,40.0,16.0,2.0,87.061,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,41.0,17.0,2.0,87.645,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,42.0,18.0,2.0,87.416,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,43.0,19.0,2.0,88.341,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,44.0,20.0,2.0,87.224,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,45.0,21.0,2.0,87.573,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,46.0,22.0,2.0,97.824,False,,124
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,47.0,1.0,3.0,145.263,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,48.0,2.0,3.0,137.528,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,49.0,3.0,3.0,124.196,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,50.0,4.0,3.0,93.236,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,51.0,5.0,3.0,88.536,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,52.0,6.0,3.0,127.732,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,1.0,1.0,1.0,97.42,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,2.0,2.0,1.0,89.541,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,3.0,3.0,1.0,89.333,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,4.0,4.0,1.0,88.198,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,5.0,5.0,1.0,87.638,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,6.0,6.0,1.0,87.372,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,7.0,7.0,1.0,87.55,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,8.0,8.0,1.0,87.331,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,9.0,9.0,1.0,87.578,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,10.0,10.0,1.0,87.564,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,11.0,11.0,1.0,88.534,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,12.0,12.0,1.0,111.102,False,,2671
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,13.0,13.0,1.0,87.377,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,14.0,14.0,1.0,87.591,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,15.0,15.0,1.0,87.51,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,16.0,16.0,1.0,87.405,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,17.0,17.0,1.0,87.5,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,18.0,18.0,1.0,87.927,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,19.0,19.0,1.0,92.068,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,20.0,2.0,2.0,108.269,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,21.0,3.0,2.0,87.243,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,22.0,4.0,2.0,87.53,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,23.0,5.0,2.0,87.272,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,24.0,6.0,2.0,87.256,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,25.0,7.0,2.0,87.329,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,26.0,8.0,2.0,87.372,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,27.0,9.0,2.0,87.217,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,28.0,10.0,2.0,86.897,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,29.0,11.0,2.0,87.083,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,30.0,12.0,2.0,87.186,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,31.0,13.0,2.0,87.227,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,32.0,14.0,2.0,87.075,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,33.0,15.0,2.0,87.032,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,34.0,16.0,2.0,87.105,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,35.0,17.0,2.0,87.017,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,36.0,18.0,2.0,87.043,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,37.0,19.0,2.0,87.075,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,38.0,20.0,2.0,86.93,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,39.0,21.0,2.0,86.99,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,40.0,22.0,2.0,87.86,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,41.0,23.0,2.0,87.268,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,42.0,24.0,2.0,87.286,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,43.0,25.0,2.0,86.857,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,44.0,26.0,2.0,87.136,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,45.0,27.0,2.0,87.877,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,46.0,28.0,2.0,87.742,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,47.0,29.0,2.0,117.816,False,,24
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,48.0,1.0,3.0,135.298,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,49.0,2.0,3.0,92.703,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,50.0,3.0,3.0,124.291,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,51.0,4.0,3.0,143.787,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,TSU,Yuki Tsunoda,22,AlphaTauri,SOFT,52.0,5.0,3.0,132.263,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,1.0,1.0,1.0,93.823,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,2.0,2.0,1.0,88.445,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,3.0,3.0,1.0,87.989,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,4.0,4.0,1.0,87.296,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,5.0,5.0,1.0,87.546,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,6.0,6.0,1.0,87.369,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,7.0,7.0,1.0,87.3,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,8.0,8.0,1.0,87.953,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,9.0,9.0,1.0,87.651,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,10.0,10.0,1.0,87.471,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,11.0,11.0,1.0,87.709,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,12.0,12.0,1.0,110.966,False,,2671
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,13.0,13.0,1.0,87.247,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,14.0,14.0,1.0,87.611,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,15.0,15.0,1.0,88.143,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,16.0,16.0,1.0,87.771,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,17.0,17.0,1.0,87.774,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,18.0,18.0,1.0,92.22,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,19.0,1.0,2.0,109.541,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,20.0,2.0,2.0,87.075,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,21.0,3.0,2.0,86.598,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,22.0,4.0,2.0,87.281,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,23.0,5.0,2.0,87.155,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,24.0,6.0,2.0,86.996,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,25.0,7.0,2.0,86.763,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,26.0,8.0,2.0,86.93,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,27.0,9.0,2.0,86.904,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,28.0,10.0,2.0,86.842,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,29.0,11.0,2.0,86.824,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,30.0,12.0,2.0,87.098,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,31.0,13.0,2.0,86.927,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,32.0,14.0,2.0,87.421,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,33.0,15.0,2.0,86.896,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,34.0,16.0,2.0,87.383,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,35.0,17.0,2.0,87.592,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,36.0,18.0,2.0,87.669,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,37.0,19.0,2.0,87.278,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,38.0,20.0,2.0,87.156,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,39.0,21.0,2.0,87.224,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,40.0,22.0,2.0,86.991,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,41.0,23.0,2.0,86.361,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,42.0,24.0,2.0,87.208,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,43.0,25.0,2.0,87.411,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,44.0,26.0,2.0,88.275,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,45.0,27.0,2.0,87.156,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,46.0,28.0,2.0,86.962,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,47.0,29.0,2.0,111.203,False,,24
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,48.0,30.0,2.0,117.798,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,49.0,31.0,2.0,105.91,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,50.0,32.0,2.0,121.689,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,51.0,33.0,2.0,92.886,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,52.0,34.0,2.0,90.037,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,53.0,35.0,2.0,121.697,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,1.0,1.0,1.0,90.751,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,2.0,2.0,1.0,88.398,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,3.0,3.0,1.0,87.818,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,4.0,4.0,1.0,87.26,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,5.0,5.0,1.0,87.441,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,6.0,6.0,1.0,87.406,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,7.0,7.0,1.0,87.222,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,8.0,8.0,1.0,87.266,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,9.0,9.0,1.0,87.567,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,10.0,10.0,1.0,87.661,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,11.0,11.0,1.0,87.466,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,12.0,12.0,1.0,109.865,False,,2671
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,13.0,13.0,1.0,89.644,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,14.0,14.0,1.0,87.727,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,15.0,15.0,1.0,87.711,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,16.0,16.0,1.0,87.509,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,17.0,17.0,1.0,87.614,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,18.0,18.0,1.0,87.753,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,MEDIUM,19.0,19.0,1.0,91.516,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,20.0,1.0,2.0,109.019,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,21.0,2.0,2.0,87.372,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,22.0,3.0,2.0,87.37,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,23.0,4.0,2.0,86.911,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,24.0,5.0,2.0,87.094,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,25.0,6.0,2.0,86.971,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,26.0,7.0,2.0,87.173,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,27.0,8.0,2.0,86.918,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,28.0,9.0,2.0,86.972,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,29.0,10.0,2.0,87.175,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,30.0,11.0,2.0,86.938,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,31.0,12.0,2.0,87.317,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,32.0,13.0,2.0,87.498,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,33.0,14.0,2.0,87.143,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,34.0,15.0,2.0,87.1,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,35.0,16.0,2.0,86.978,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,36.0,17.0,2.0,87.207,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,37.0,18.0,2.0,88.336,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,38.0,19.0,2.0,86.778,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,39.0,20.0,2.0,86.603,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,40.0,21.0,2.0,86.759,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,41.0,22.0,2.0,86.751,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,42.0,23.0,2.0,86.775,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,43.0,24.0,2.0,86.751,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,44.0,25.0,2.0,87.184,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RIC,Daniel Ricciardo,3,McLaren,HARD,45.0,26.0,2.0,87.296,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,SOFT,1.0,1.0,1.0,95.68,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,SOFT,2.0,2.0,1.0,88.849,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,SOFT,3.0,3.0,1.0,88.228,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,SOFT,4.0,4.0,1.0,87.725,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,SOFT,5.0,5.0,1.0,88.005,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,SOFT,6.0,6.0,1.0,88.533,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,SOFT,7.0,7.0,1.0,87.642,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,SOFT,8.0,8.0,1.0,87.379,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,SOFT,9.0,9.0,1.0,87.876,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,SOFT,10.0,10.0,1.0,88.206,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,SOFT,11.0,11.0,1.0,87.655,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,SOFT,12.0,12.0,1.0,110.48,False,,2671
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,SOFT,13.0,13.0,1.0,87.636,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,SOFT,14.0,14.0,1.0,87.859,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,SOFT,15.0,15.0,1.0,87.709,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,SOFT,16.0,16.0,1.0,88.442,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,SOFT,17.0,17.0,1.0,88.196,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,SOFT,18.0,18.0,1.0,87.885,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,SOFT,19.0,19.0,1.0,91.754,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,20.0,1.0,2.0,107.973,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,21.0,2.0,2.0,87.215,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,22.0,3.0,2.0,87.16,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,23.0,4.0,2.0,87.158,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,24.0,5.0,2.0,87.106,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,25.0,6.0,2.0,87.223,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,26.0,7.0,2.0,87.054,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,27.0,8.0,2.0,86.898,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,28.0,9.0,2.0,86.93,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,29.0,10.0,2.0,87.144,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,30.0,11.0,2.0,87.095,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,31.0,12.0,2.0,86.865,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,32.0,13.0,2.0,86.858,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,33.0,14.0,2.0,87.124,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,34.0,15.0,2.0,86.881,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,35.0,16.0,2.0,86.901,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,36.0,17.0,2.0,86.798,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,37.0,18.0,2.0,86.593,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,38.0,19.0,2.0,86.667,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,39.0,20.0,2.0,86.704,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,40.0,21.0,2.0,86.594,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,41.0,22.0,2.0,86.703,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,42.0,23.0,2.0,86.99,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,43.0,24.0,2.0,87.996,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,44.0,25.0,2.0,87.391,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,45.0,26.0,2.0,86.869,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,46.0,27.0,2.0,87.079,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,47.0,28.0,2.0,112.313,False,,24
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,48.0,29.0,2.0,118.126,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,49.0,30.0,2.0,104.374,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,50.0,31.0,2.0,120.734,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,51.0,32.0,2.0,93.303,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,52.0,33.0,2.0,90.957,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,OCO,Esteban Ocon,31,Alpine,HARD,53.0,34.0,2.0,120.319,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,1.0,1.0,1.0,92.356,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,2.0,2.0,1.0,88.196,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,3.0,3.0,1.0,87.655,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,4.0,4.0,1.0,87.326,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,5.0,5.0,1.0,87.553,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,6.0,6.0,1.0,87.381,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,7.0,7.0,1.0,87.265,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,8.0,8.0,1.0,87.38,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,9.0,9.0,1.0,87.295,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,10.0,10.0,1.0,87.565,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,11.0,11.0,1.0,88.23,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,12.0,12.0,1.0,110.69,False,,2671
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,13.0,13.0,1.0,88.568,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,14.0,14.0,1.0,87.824,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,15.0,15.0,1.0,88.013,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,16.0,16.0,1.0,87.414,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,17.0,17.0,1.0,87.45,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,18.0,18.0,1.0,87.353,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,19.0,19.0,1.0,87.291,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,20.0,20.0,1.0,87.08,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,21.0,21.0,1.0,87.298,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,22.0,22.0,1.0,86.88,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,23.0,23.0,1.0,86.861,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,24.0,24.0,1.0,87.371,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,25.0,25.0,1.0,86.902,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,26.0,26.0,1.0,87.082,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,27.0,27.0,1.0,86.837,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,28.0,28.0,1.0,87.067,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,29.0,29.0,1.0,86.987,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,30.0,30.0,1.0,86.991,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,31.0,31.0,1.0,86.928,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,32.0,32.0,1.0,87.114,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,33.0,33.0,1.0,87.017,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,34.0,34.0,1.0,87.001,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,MEDIUM,35.0,35.0,1.0,91.485,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,SOFT,36.0,3.0,2.0,111.134,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,SOFT,37.0,4.0,2.0,85.309,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,SOFT,38.0,5.0,2.0,85.167,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,SOFT,39.0,6.0,2.0,85.034,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,SOFT,40.0,7.0,2.0,84.926,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,SOFT,41.0,8.0,2.0,84.799,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,SOFT,42.0,9.0,2.0,85.082,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,SOFT,43.0,10.0,2.0,84.718,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,SOFT,44.0,11.0,2.0,84.891,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,SOFT,45.0,12.0,2.0,84.825,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,SOFT,46.0,13.0,2.0,84.985,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,SOFT,47.0,14.0,2.0,106.482,False,,24
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,SOFT,48.0,4.0,3.0,138.377,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,SOFT,49.0,5.0,3.0,109.062,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,SOFT,50.0,6.0,3.0,120.916,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,SOFT,51.0,7.0,3.0,93.826,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,SOFT,52.0,8.0,3.0,88.203,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,NOR,Lando Norris,4,McLaren,SOFT,53.0,9.0,3.0,126.276,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,1.0,1.0,1.0,97.652,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,2.0,2.0,1.0,90.032,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,3.0,3.0,1.0,88.954,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,4.0,4.0,1.0,88.153,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,5.0,5.0,1.0,87.806,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,6.0,6.0,1.0,87.335,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,7.0,7.0,1.0,87.943,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,8.0,8.0,1.0,87.783,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,9.0,9.0,1.0,86.724,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,10.0,10.0,1.0,87.646,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,11.0,11.0,1.0,87.226,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,12.0,12.0,1.0,110.598,False,,2671
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,13.0,13.0,1.0,87.207,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,14.0,14.0,1.0,87.307,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,15.0,15.0,1.0,87.462,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,16.0,16.0,1.0,87.227,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,17.0,17.0,1.0,86.762,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,18.0,18.0,1.0,87.409,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,19.0,19.0,1.0,86.576,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,20.0,20.0,1.0,87.01,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,21.0,21.0,1.0,86.722,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,22.0,22.0,1.0,86.646,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,23.0,23.0,1.0,87.023,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,24.0,24.0,1.0,88.066,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,25.0,25.0,1.0,87.467,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,26.0,26.0,1.0,87.183,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,27.0,27.0,1.0,87.06,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,28.0,28.0,1.0,86.906,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,29.0,29.0,1.0,86.957,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,30.0,30.0,1.0,87.17,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,31.0,31.0,1.0,86.885,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,32.0,32.0,1.0,86.771,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,33.0,33.0,1.0,91.186,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,34.0,1.0,2.0,106.142,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,35.0,2.0,2.0,85.491,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,36.0,3.0,2.0,86.376,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,37.0,4.0,2.0,85.282,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,38.0,5.0,2.0,84.82,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,39.0,6.0,2.0,84.714,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,40.0,7.0,2.0,84.525,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,41.0,8.0,2.0,84.49,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,42.0,9.0,2.0,84.471,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,43.0,10.0,2.0,84.434,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,44.0,11.0,2.0,84.984,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,45.0,12.0,2.0,84.845,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,46.0,13.0,2.0,84.944,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,47.0,14.0,2.0,100.37,False,,24
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,48.0,15.0,2.0,121.22,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,49.0,16.0,2.0,131.745,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,50.0,17.0,2.0,123.645,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,51.0,18.0,2.0,93.562,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,52.0,19.0,2.0,89.345,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,53.0,20.0,2.0,126.632,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,SOFT,1.0,1.0,1.0,93.491,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,SOFT,2.0,2.0,1.0,88.416,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,SOFT,3.0,3.0,1.0,87.566,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,SOFT,4.0,4.0,1.0,87.459,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,SOFT,5.0,5.0,1.0,87.428,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,SOFT,6.0,6.0,1.0,87.466,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,SOFT,7.0,7.0,1.0,87.341,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,SOFT,8.0,8.0,1.0,87.328,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,SOFT,9.0,9.0,1.0,88.071,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,SOFT,10.0,10.0,1.0,87.381,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,SOFT,11.0,11.0,1.0,87.798,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,SOFT,12.0,12.0,1.0,110.794,False,,2671
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,SOFT,13.0,13.0,1.0,87.451,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,SOFT,14.0,14.0,1.0,87.859,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,SOFT,15.0,15.0,1.0,88.096,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,SOFT,16.0,16.0,1.0,87.554,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,SOFT,17.0,17.0,1.0,87.623,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,SOFT,18.0,18.0,1.0,87.836,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,SOFT,19.0,19.0,1.0,92.409,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,20.0,1.0,2.0,108.296,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,21.0,2.0,2.0,87.098,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,22.0,3.0,2.0,86.748,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,23.0,4.0,2.0,86.925,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,24.0,5.0,2.0,86.818,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,25.0,6.0,2.0,86.643,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,26.0,7.0,2.0,87.115,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,27.0,8.0,2.0,86.756,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,28.0,9.0,2.0,86.968,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,29.0,10.0,2.0,86.923,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,30.0,11.0,2.0,86.993,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,31.0,12.0,2.0,87.478,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,32.0,13.0,2.0,87.401,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,33.0,14.0,2.0,87.145,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,34.0,15.0,2.0,87.101,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,35.0,16.0,2.0,87.879,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,36.0,17.0,2.0,88.091,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,37.0,18.0,2.0,87.149,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,38.0,19.0,2.0,87.324,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,39.0,20.0,2.0,87.198,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,40.0,21.0,2.0,86.824,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,41.0,22.0,2.0,86.624,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,42.0,23.0,2.0,87.153,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,43.0,24.0,2.0,87.266,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,44.0,25.0,2.0,87.348,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,45.0,26.0,2.0,86.949,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,46.0,27.0,2.0,87.2,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,47.0,28.0,2.0,111.564,False,,24
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,48.0,29.0,2.0,118.039,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,49.0,30.0,2.0,105.07,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,50.0,31.0,2.0,122.781,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,51.0,32.0,2.0,91.836,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,52.0,33.0,2.0,89.693,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,DEV,Nyck De Vries,45,Williams,MEDIUM,53.0,34.0,2.0,122.87,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,1.0,1.0,1.0,97.137,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,2.0,2.0,1.0,90.906,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,3.0,3.0,1.0,89.301,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,4.0,4.0,1.0,88.248,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,5.0,5.0,1.0,87.412,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,6.0,6.0,1.0,87.712,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,7.0,7.0,1.0,87.949,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,8.0,8.0,1.0,88.199,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,9.0,9.0,1.0,88.693,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,10.0,10.0,1.0,87.574,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,11.0,11.0,1.0,88.826,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,12.0,12.0,1.0,109.9,False,,2671
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,13.0,13.0,1.0,88.08,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,14.0,14.0,1.0,88.348,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,15.0,15.0,1.0,88.021,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,16.0,16.0,1.0,87.322,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,17.0,17.0,1.0,87.525,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,18.0,18.0,1.0,87.548,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,19.0,19.0,1.0,87.645,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,20.0,20.0,1.0,87.885,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,21.0,21.0,1.0,87.856,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,22.0,22.0,1.0,87.537,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,23.0,23.0,1.0,87.545,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,24.0,24.0,1.0,88.403,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,25.0,25.0,1.0,87.674,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,26.0,26.0,1.0,87.491,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,27.0,27.0,1.0,87.034,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,28.0,28.0,1.0,87.511,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,29.0,29.0,1.0,87.652,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,30.0,30.0,1.0,87.424,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,31.0,31.0,1.0,87.197,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,32.0,32.0,1.0,87.51,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,MEDIUM,33.0,33.0,1.0,91.716,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,34.0,1.0,2.0,107.444,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,35.0,2.0,2.0,85.882,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,36.0,3.0,2.0,86.2,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,37.0,4.0,2.0,87.488,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,38.0,5.0,2.0,85.708,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,39.0,6.0,2.0,86.523,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,40.0,7.0,2.0,87.339,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,41.0,8.0,2.0,86.805,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,42.0,9.0,2.0,86.195,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,43.0,10.0,2.0,85.298,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,44.0,11.0,2.0,85.993,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,45.0,12.0,2.0,86.264,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,46.0,13.0,2.0,86.242,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,47.0,14.0,2.0,114.264,False,,24
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,48.0,15.0,2.0,118.611,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,49.0,16.0,2.0,100.536,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,50.0,17.0,2.0,119.681,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,51.0,18.0,2.0,93.67,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,52.0,19.0,2.0,91.571,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,MSC,Mick Schumacher,47,Haas F1 Team,SOFT,53.0,20.0,2.0,117.565,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,1.0,2.0,1.0,94.498,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,2.0,3.0,1.0,89.616,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,3.0,4.0,1.0,88.338,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,4.0,5.0,1.0,87.501,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,5.0,6.0,1.0,87.928,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,6.0,7.0,1.0,88.087,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,7.0,8.0,1.0,87.662,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,8.0,9.0,1.0,87.956,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,9.0,10.0,1.0,87.851,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,VET,Sebastian Vettel,5,Aston Martin,MEDIUM,10.0,11.0,1.0,88.788,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,1.0,1.0,1.0,96.448,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,2.0,2.0,1.0,89.685,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,3.0,3.0,1.0,87.539,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,4.0,4.0,1.0,87.044,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,5.0,5.0,1.0,86.543,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,6.0,6.0,1.0,86.343,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,7.0,7.0,1.0,86.477,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,8.0,8.0,1.0,86.592,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,9.0,9.0,1.0,86.94,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,10.0,10.0,1.0,86.791,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,11.0,11.0,1.0,86.909,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,12.0,12.0,1.0,109.85,False,,2671
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,13.0,13.0,1.0,87.747,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,14.0,14.0,1.0,86.823,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,15.0,15.0,1.0,86.523,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,16.0,16.0,1.0,86.59,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,17.0,17.0,1.0,86.312,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,18.0,18.0,1.0,87.093,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,19.0,19.0,1.0,86.898,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,20.0,20.0,1.0,86.807,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,21.0,21.0,1.0,86.819,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,22.0,22.0,1.0,86.715,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,23.0,23.0,1.0,86.676,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,24.0,24.0,1.0,86.655,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,25.0,25.0,1.0,86.742,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,26.0,26.0,1.0,86.752,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,27.0,27.0,1.0,86.897,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,28.0,28.0,1.0,86.675,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,29.0,29.0,1.0,86.986,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,30.0,30.0,1.0,91.091,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,SOFT,31.0,1.0,2.0,104.998,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,SOFT,32.0,2.0,2.0,85.322,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,SOFT,33.0,3.0,2.0,85.577,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,SOFT,34.0,4.0,2.0,85.313,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,SOFT,35.0,5.0,2.0,84.999,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,SOFT,36.0,6.0,2.0,85.347,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,SOFT,37.0,7.0,2.0,85.014,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,SOFT,38.0,8.0,2.0,84.565,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,SOFT,39.0,9.0,2.0,84.42,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,SOFT,40.0,10.0,2.0,84.652,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,SOFT,41.0,11.0,2.0,84.446,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,SOFT,42.0,12.0,2.0,84.739,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,SOFT,43.0,13.0,2.0,84.599,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,SOFT,44.0,14.0,2.0,84.498,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,SOFT,45.0,15.0,2.0,84.684,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,SOFT,46.0,16.0,2.0,84.58,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,SOFT,47.0,17.0,2.0,94.912,False,,124
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,SOFT,48.0,1.0,3.0,145.332,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,SOFT,49.0,2.0,3.0,137.028,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,SOFT,50.0,3.0,3.0,123.87,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,SOFT,51.0,4.0,3.0,93.571,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,SOFT,52.0,5.0,3.0,89.168,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,SAI,Carlos Sainz,55,Ferrari,SOFT,53.0,6.0,3.0,126.976,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,1.0,1.0,1.0,95.968,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,2.0,2.0,1.0,90.629,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,3.0,3.0,1.0,89.308,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,4.0,4.0,1.0,87.944,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,5.0,5.0,1.0,87.837,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,6.0,6.0,1.0,87.773,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,7.0,7.0,1.0,88.283,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,8.0,8.0,1.0,88.76,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,9.0,9.0,1.0,88.305,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,10.0,10.0,1.0,87.967,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,11.0,11.0,1.0,88.664,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,12.0,12.0,1.0,110.0,False,,2671
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,13.0,13.0,1.0,87.316,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,14.0,14.0,1.0,87.504,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,15.0,15.0,1.0,91.889,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,16.0,1.0,2.0,110.672,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,17.0,2.0,2.0,86.798,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,18.0,3.0,2.0,86.831,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,19.0,4.0,2.0,87.449,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,20.0,5.0,2.0,87.218,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,21.0,6.0,2.0,87.208,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,22.0,7.0,2.0,87.196,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,23.0,8.0,2.0,87.346,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,24.0,9.0,2.0,87.394,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,25.0,10.0,2.0,87.22,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,26.0,11.0,2.0,87.04,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,27.0,12.0,2.0,87.095,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,28.0,13.0,2.0,87.028,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,29.0,14.0,2.0,87.15,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,30.0,15.0,2.0,87.194,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,31.0,16.0,2.0,88.348,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,32.0,17.0,2.0,87.292,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,33.0,18.0,2.0,87.074,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,34.0,19.0,2.0,87.496,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,35.0,20.0,2.0,86.945,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,36.0,21.0,2.0,87.266,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,37.0,22.0,2.0,87.071,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,38.0,23.0,2.0,88.025,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,39.0,24.0,2.0,87.309,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,40.0,25.0,2.0,87.284,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,41.0,26.0,2.0,88.779,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,42.0,27.0,2.0,88.415,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,43.0,28.0,2.0,87.331,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,44.0,29.0,2.0,87.99,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,45.0,30.0,2.0,87.452,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,46.0,31.0,2.0,87.87,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,HARD,47.0,32.0,2.0,120.449,False,,24
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,SOFT,48.0,1.0,3.0,134.429,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,SOFT,49.0,2.0,3.0,95.047,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,SOFT,50.0,3.0,3.0,114.072,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,SOFT,51.0,4.0,3.0,144.227,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,LAT,Nicholas Latifi,6,Williams,SOFT,52.0,5.0,3.0,131.146,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,1.0,1.0,1.0,89.427,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,2.0,2.0,1.0,86.724,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,3.0,3.0,1.0,86.432,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,4.0,4.0,1.0,86.143,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,5.0,5.0,1.0,86.878,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,6.0,6.0,1.0,85.761,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,7.0,7.0,1.0,86.255,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,8.0,8.0,1.0,86.273,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,9.0,9.0,1.0,86.404,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,10.0,10.0,1.0,86.169,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,11.0,11.0,1.0,86.551,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,12.0,12.0,1.0,108.631,False,,2167
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,13.0,13.0,1.0,88.268,False,,71
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,14.0,14.0,1.0,86.289,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,15.0,15.0,1.0,86.302,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,16.0,16.0,1.0,86.396,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,17.0,17.0,1.0,86.234,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,18.0,18.0,1.0,86.412,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,19.0,19.0,1.0,86.452,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,20.0,20.0,1.0,86.537,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,21.0,21.0,1.0,86.491,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,22.0,22.0,1.0,86.714,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,23.0,23.0,1.0,90.661,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,24.0,1.0,2.0,107.766,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,25.0,2.0,2.0,85.678,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,26.0,3.0,2.0,85.593,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,27.0,4.0,2.0,85.917,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,28.0,5.0,2.0,85.792,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,29.0,6.0,2.0,86.159,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,30.0,7.0,2.0,86.14,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,31.0,8.0,2.0,85.938,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,32.0,9.0,2.0,86.041,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,33.0,10.0,2.0,85.957,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,34.0,11.0,2.0,86.087,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,35.0,12.0,2.0,85.714,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,36.0,13.0,2.0,85.893,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,37.0,14.0,2.0,85.985,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,38.0,15.0,2.0,85.645,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,39.0,16.0,2.0,85.652,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,40.0,17.0,2.0,85.288,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,41.0,18.0,2.0,85.366,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,42.0,19.0,2.0,85.431,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,43.0,20.0,2.0,85.509,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,44.0,21.0,2.0,86.052,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,45.0,22.0,2.0,86.052,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,46.0,23.0,2.0,85.833,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,HARD,47.0,24.0,2.0,92.39,False,,124
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,49.0,5.0,3.0,136.908,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,50.0,6.0,3.0,124.303,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,51.0,7.0,3.0,93.77,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,52.0,8.0,3.0,88.695,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,RUS,George Russell,63,Mercedes,SOFT,53.0,9.0,3.0,126.853,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,1.0,1.0,1.0,98.273,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,2.0,2.0,1.0,89.846,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,3.0,3.0,1.0,89.643,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,4.0,4.0,1.0,88.362,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,5.0,5.0,1.0,87.56,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,6.0,6.0,1.0,87.704,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,7.0,7.0,1.0,88.065,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,8.0,8.0,1.0,88.043,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,9.0,9.0,1.0,88.987,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,10.0,10.0,1.0,87.942,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,11.0,11.0,1.0,88.315,False,,126
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,12.0,12.0,1.0,110.882,False,,671
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,13.0,13.0,1.0,87.509,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,14.0,14.0,1.0,87.992,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,15.0,15.0,1.0,88.072,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,16.0,16.0,1.0,88.411,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,17.0,17.0,1.0,87.57,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,18.0,18.0,1.0,87.434,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,19.0,19.0,1.0,87.491,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,20.0,20.0,1.0,87.637,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,21.0,21.0,1.0,87.669,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,22.0,22.0,1.0,88.688,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,23.0,23.0,1.0,87.671,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,24.0,24.0,1.0,87.827,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,25.0,25.0,1.0,87.549,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,26.0,26.0,1.0,87.771,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,27.0,27.0,1.0,87.813,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,28.0,28.0,1.0,87.648,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,29.0,29.0,1.0,88.377,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,30.0,30.0,1.0,87.303,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,31.0,31.0,1.0,87.602,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,32.0,32.0,1.0,87.322,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,33.0,33.0,1.0,87.182,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,34.0,34.0,1.0,86.993,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,35.0,35.0,1.0,91.014,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,36.0,1.0,2.0,106.684,False,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,37.0,2.0,2.0,86.481,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,38.0,3.0,2.0,86.105,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,39.0,4.0,2.0,86.123,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,40.0,5.0,2.0,86.104,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,41.0,6.0,2.0,86.356,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,42.0,7.0,2.0,86.197,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,43.0,8.0,2.0,86.25,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,44.0,9.0,2.0,86.062,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,45.0,10.0,2.0,85.706,True,,1
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,46.0,11.0,2.0,86.749,True,,12
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,47.0,12.0,2.0,114.237,False,,24
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,48.0,13.0,2.0,118.624,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,49.0,14.0,2.0,104.343,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,50.0,15.0,2.0,131.878,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,51.0,16.0,2.0,143.805,False,,4
+2022,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Monza,Italy,Monza,2022-09-11,53,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,52.0,17.0,2.0,132.057,False,,4

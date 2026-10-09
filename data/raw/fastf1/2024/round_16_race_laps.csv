@@ -1,0 +1,1009 @@
+Season,Round,Race,EventName,OfficialEventName,Circuit,Country,Location,EventDate,RaceLaps,Driver,DriverName,DriverNumber,Team,Compound,LapNumber,TyreLife,Stint,LapTime,IsAccurate,Deleted,TrackStatus
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,1.0,1.0,1.0,88.179,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,2.0,2.0,1.0,85.396,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,3.0,3.0,1.0,85.179,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,4.0,4.0,1.0,84.81,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,5.0,5.0,1.0,84.603,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,6.0,6.0,1.0,84.663,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,7.0,7.0,1.0,84.434,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,8.0,8.0,1.0,84.569,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,9.0,9.0,1.0,84.362,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,10.0,10.0,1.0,84.432,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,11.0,11.0,1.0,84.846,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,12.0,12.0,1.0,84.916,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,13.0,13.0,1.0,85.529,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,14.0,14.0,1.0,85.606,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,15.0,15.0,1.0,90.192,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,16.0,1.0,2.0,104.888,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,17.0,2.0,2.0,84.27,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,18.0,3.0,2.0,83.875,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,19.0,4.0,2.0,84.203,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,20.0,5.0,2.0,83.826,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,21.0,6.0,2.0,83.88,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,22.0,7.0,2.0,83.768,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,23.0,8.0,2.0,83.864,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,24.0,9.0,2.0,83.64,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,25.0,10.0,2.0,83.59,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,26.0,11.0,2.0,83.321,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,27.0,12.0,2.0,83.534,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,28.0,13.0,2.0,83.284,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,29.0,14.0,2.0,83.229,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,30.0,15.0,2.0,83.359,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,31.0,16.0,2.0,83.972,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,32.0,17.0,2.0,83.274,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,33.0,18.0,2.0,83.226,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,34.0,19.0,2.0,83.43,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,35.0,20.0,2.0,83.681,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,36.0,21.0,2.0,83.714,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,37.0,22.0,2.0,83.55,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,38.0,23.0,2.0,83.624,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,39.0,24.0,2.0,83.718,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,40.0,25.0,2.0,83.69,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,41.0,26.0,2.0,83.611,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,42.0,27.0,2.0,83.67,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,43.0,28.0,2.0,83.867,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,44.0,29.0,2.0,83.43,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,45.0,30.0,2.0,83.731,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,46.0,31.0,2.0,83.597,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,47.0,32.0,2.0,83.676,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,48.0,33.0,2.0,83.518,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,49.0,34.0,2.0,83.467,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,50.0,35.0,2.0,83.461,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,51.0,36.0,2.0,83.555,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,52.0,37.0,2.0,83.75,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,LEC,Charles Leclerc,16,Ferrari,HARD,53.0,38.0,2.0,83.268,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,1.0,1.0,1.0,87.623,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,2.0,2.0,1.0,85.116,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,3.0,3.0,1.0,85.261,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,4.0,4.0,1.0,84.695,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,5.0,5.0,1.0,84.66,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,6.0,6.0,1.0,84.603,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,7.0,7.0,1.0,84.418,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,8.0,8.0,1.0,84.57,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,9.0,9.0,1.0,84.375,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,10.0,10.0,1.0,84.077,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,11.0,11.0,1.0,84.247,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,12.0,12.0,1.0,84.748,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,13.0,13.0,1.0,84.67,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,14.0,14.0,1.0,85.048,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,15.0,15.0,1.0,85.166,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,16.0,16.0,1.0,89.939,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,17.0,1.0,2.0,104.25,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,18.0,2.0,2.0,84.028,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,19.0,3.0,2.0,84.602,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,20.0,4.0,2.0,83.986,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,21.0,5.0,2.0,83.903,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,22.0,6.0,2.0,83.647,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,23.0,7.0,2.0,83.66,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,24.0,8.0,2.0,83.315,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,25.0,9.0,2.0,83.23,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,26.0,10.0,2.0,83.133,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,27.0,11.0,2.0,83.088,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,28.0,12.0,2.0,83.168,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,29.0,13.0,2.0,83.066,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,30.0,14.0,2.0,82.968,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,31.0,15.0,2.0,83.221,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,32.0,16.0,2.0,83.48,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,33.0,17.0,2.0,83.148,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,34.0,18.0,2.0,83.456,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,35.0,19.0,2.0,83.409,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,36.0,20.0,2.0,83.746,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,37.0,21.0,2.0,83.691,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,38.0,22.0,2.0,88.125,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,39.0,1.0,3.0,103.438,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,40.0,2.0,3.0,82.264,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,41.0,3.0,3.0,82.066,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,42.0,4.0,3.0,82.331,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,43.0,5.0,3.0,82.092,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,44.0,6.0,3.0,82.628,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,45.0,7.0,3.0,83.675,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,46.0,8.0,3.0,82.537,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,47.0,9.0,3.0,82.253,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,48.0,10.0,3.0,82.725,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,49.0,11.0,3.0,82.945,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,50.0,12.0,3.0,82.586,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,51.0,13.0,3.0,82.424,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,52.0,14.0,3.0,81.948,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PIA,Oscar Piastri,81,McLaren,HARD,53.0,15.0,3.0,81.943,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,MEDIUM,1.0,1.0,1.0,88.971,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,MEDIUM,2.0,2.0,1.0,85.458,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,MEDIUM,3.0,3.0,1.0,85.11,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,MEDIUM,4.0,4.0,1.0,85.168,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,MEDIUM,5.0,5.0,1.0,84.674,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,MEDIUM,6.0,6.0,1.0,84.768,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,MEDIUM,7.0,7.0,1.0,84.531,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,MEDIUM,8.0,8.0,1.0,84.674,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,MEDIUM,9.0,9.0,1.0,84.664,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,MEDIUM,10.0,10.0,1.0,84.391,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,MEDIUM,11.0,11.0,1.0,84.448,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,MEDIUM,12.0,12.0,1.0,84.655,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,MEDIUM,13.0,13.0,1.0,85.359,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,MEDIUM,14.0,14.0,1.0,89.417,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,15.0,1.0,2.0,103.84,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,16.0,2.0,2.0,84.154,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,17.0,3.0,2.0,85.585,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,18.0,4.0,2.0,83.92,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,19.0,5.0,2.0,84.152,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,20.0,6.0,2.0,83.882,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,21.0,7.0,2.0,83.753,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,22.0,8.0,2.0,83.652,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,23.0,9.0,2.0,83.581,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,24.0,10.0,2.0,83.601,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,25.0,11.0,2.0,83.321,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,26.0,12.0,2.0,83.469,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,27.0,13.0,2.0,83.267,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,28.0,14.0,2.0,83.067,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,29.0,15.0,2.0,83.3,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,30.0,16.0,2.0,83.614,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,31.0,17.0,2.0,84.94,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,32.0,18.0,2.0,87.414,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,33.0,1.0,3.0,104.073,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,34.0,2.0,3.0,82.837,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,35.0,3.0,3.0,83.137,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,36.0,4.0,3.0,83.114,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,37.0,5.0,3.0,83.178,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,38.0,6.0,3.0,83.133,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,39.0,7.0,3.0,83.061,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,40.0,8.0,3.0,84.162,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,41.0,9.0,3.0,82.234,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,42.0,10.0,3.0,82.678,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,43.0,11.0,3.0,82.25,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,44.0,12.0,3.0,82.403,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,45.0,13.0,3.0,82.398,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,46.0,14.0,3.0,82.041,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,47.0,15.0,3.0,83.852,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,48.0,16.0,3.0,81.824,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,49.0,17.0,3.0,82.436,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,50.0,18.0,3.0,83.266,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,51.0,19.0,3.0,82.269,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,52.0,20.0,3.0,82.302,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,NOR,Lando Norris,4,McLaren,HARD,53.0,21.0,3.0,81.432,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,1.0,1.0,1.0,89.345,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,2.0,2.0,1.0,85.731,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,3.0,3.0,1.0,85.358,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,4.0,4.0,1.0,85.086,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,5.0,5.0,1.0,85.006,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,6.0,6.0,1.0,84.642,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,7.0,7.0,1.0,84.715,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,8.0,8.0,1.0,84.87,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,9.0,9.0,1.0,84.774,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,10.0,10.0,1.0,84.684,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,11.0,11.0,1.0,85.066,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,12.0,12.0,1.0,85.276,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,13.0,13.0,1.0,85.423,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,14.0,14.0,1.0,85.234,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,15.0,15.0,1.0,85.183,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,16.0,16.0,1.0,85.341,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,17.0,17.0,1.0,85.407,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,18.0,18.0,1.0,85.678,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,MEDIUM,19.0,19.0,1.0,90.388,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,20.0,1.0,2.0,104.811,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,21.0,2.0,2.0,84.499,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,22.0,3.0,2.0,84.226,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,23.0,4.0,2.0,84.557,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,24.0,5.0,2.0,83.682,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,25.0,6.0,2.0,83.687,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,26.0,7.0,2.0,83.503,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,27.0,8.0,2.0,83.503,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,28.0,9.0,2.0,83.751,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,29.0,10.0,2.0,83.473,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,30.0,11.0,2.0,83.584,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,31.0,12.0,2.0,83.33,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,32.0,13.0,2.0,83.354,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,33.0,14.0,2.0,83.412,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,34.0,15.0,2.0,83.285,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,35.0,16.0,2.0,83.334,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,36.0,17.0,2.0,83.27,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,37.0,18.0,2.0,83.29,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,38.0,19.0,2.0,83.551,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,39.0,20.0,2.0,83.809,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,40.0,21.0,2.0,83.803,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,41.0,22.0,2.0,83.337,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,42.0,23.0,2.0,83.838,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,43.0,24.0,2.0,83.793,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,44.0,25.0,2.0,83.931,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,45.0,26.0,2.0,85.113,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,46.0,27.0,2.0,84.001,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,47.0,28.0,2.0,84.09,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,48.0,29.0,2.0,84.939,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,49.0,30.0,2.0,83.921,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,50.0,31.0,2.0,83.769,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,51.0,32.0,2.0,83.754,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,52.0,33.0,2.0,83.722,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,SAI,Carlos Sainz,55,Ferrari,HARD,53.0,34.0,2.0,83.219,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,1.0,1.0,1.0,89.674,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,2.0,2.0,1.0,86.043,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,3.0,3.0,1.0,85.63,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,4.0,4.0,1.0,85.722,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,5.0,5.0,1.0,84.771,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,6.0,6.0,1.0,84.919,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,7.0,7.0,1.0,85.205,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,8.0,8.0,1.0,84.871,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,9.0,9.0,1.0,85.035,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,10.0,10.0,1.0,84.909,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,11.0,11.0,1.0,84.938,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,12.0,12.0,1.0,84.932,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,13.0,13.0,1.0,85.329,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,14.0,14.0,1.0,85.817,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,15.0,15.0,1.0,90.365,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,16.0,1.0,2.0,105.664,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,17.0,2.0,2.0,84.843,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,18.0,3.0,2.0,84.831,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,19.0,4.0,2.0,84.649,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,20.0,5.0,2.0,84.64,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,21.0,6.0,2.0,84.915,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,22.0,7.0,2.0,84.613,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,23.0,8.0,2.0,84.132,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,24.0,9.0,2.0,83.818,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,25.0,10.0,2.0,83.804,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,26.0,11.0,2.0,83.673,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,27.0,12.0,2.0,83.495,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,28.0,13.0,2.0,83.64,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,29.0,14.0,2.0,83.507,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,30.0,15.0,2.0,83.445,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,31.0,16.0,2.0,83.36,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,32.0,17.0,2.0,83.328,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,33.0,18.0,2.0,83.397,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,34.0,19.0,2.0,83.531,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,35.0,20.0,2.0,83.378,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,36.0,21.0,2.0,83.601,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,37.0,22.0,2.0,88.349,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,38.0,1.0,3.0,102.426,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,39.0,2.0,3.0,82.968,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,40.0,3.0,3.0,83.012,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,41.0,4.0,3.0,82.927,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,42.0,5.0,3.0,82.52,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,43.0,6.0,3.0,82.396,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,44.0,7.0,3.0,82.136,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,45.0,8.0,3.0,82.176,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,46.0,9.0,3.0,82.307,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,47.0,10.0,3.0,82.471,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,48.0,11.0,3.0,82.794,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,49.0,12.0,3.0,82.446,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,50.0,13.0,3.0,82.243,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,51.0,14.0,3.0,82.737,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,52.0,15.0,3.0,85.703,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HAM,Lewis Hamilton,44,Mercedes,HARD,53.0,16.0,3.0,81.512,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,1.0,1.0,1.0,90.354,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,2.0,2.0,1.0,86.17,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,3.0,3.0,1.0,85.855,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,4.0,4.0,1.0,85.633,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,5.0,5.0,1.0,85.218,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,6.0,6.0,1.0,85.096,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,7.0,7.0,1.0,85.042,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,8.0,8.0,1.0,84.918,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,9.0,9.0,1.0,85.05,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,10.0,10.0,1.0,84.964,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,11.0,11.0,1.0,84.978,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,12.0,12.0,1.0,84.968,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,13.0,13.0,1.0,84.957,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,14.0,14.0,1.0,85.287,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,15.0,15.0,1.0,85.746,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,16.0,16.0,1.0,85.244,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,17.0,17.0,1.0,85.34,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,18.0,18.0,1.0,85.469,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,19.0,19.0,1.0,85.537,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,20.0,20.0,1.0,85.559,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,21.0,21.0,1.0,85.381,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,22.0,22.0,1.0,89.668,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,23.0,1.0,2.0,107.839,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,24.0,2.0,2.0,83.545,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,25.0,3.0,2.0,83.801,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,26.0,4.0,2.0,83.618,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,27.0,5.0,2.0,83.524,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,28.0,6.0,2.0,83.509,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,29.0,7.0,2.0,83.452,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,30.0,8.0,2.0,83.542,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,31.0,9.0,2.0,83.424,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,32.0,10.0,2.0,83.49,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,33.0,11.0,2.0,83.621,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,34.0,12.0,2.0,83.576,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,35.0,13.0,2.0,83.589,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,36.0,14.0,2.0,83.559,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,37.0,15.0,2.0,83.485,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,38.0,16.0,2.0,83.427,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,39.0,17.0,2.0,83.501,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,40.0,18.0,2.0,84.337,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,HARD,41.0,19.0,2.0,88.738,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,42.0,1.0,3.0,104.09,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,43.0,2.0,3.0,81.745,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,44.0,3.0,3.0,83.045,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,45.0,4.0,3.0,83.363,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,46.0,5.0,3.0,82.941,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,47.0,6.0,3.0,82.52,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,48.0,7.0,3.0,82.57,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,49.0,8.0,3.0,82.584,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,50.0,9.0,3.0,82.585,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,51.0,10.0,3.0,82.574,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,52.0,11.0,3.0,82.92,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,53.0,12.0,3.0,83.711,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,MEDIUM,1.0,1.0,1.0,91.512,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,MEDIUM,2.0,2.0,1.0,86.055,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,MEDIUM,3.0,3.0,1.0,85.733,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,MEDIUM,4.0,4.0,1.0,85.762,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,MEDIUM,5.0,5.0,1.0,85.494,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,MEDIUM,6.0,6.0,1.0,85.101,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,MEDIUM,7.0,7.0,1.0,85.046,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,MEDIUM,8.0,8.0,1.0,85.216,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,MEDIUM,9.0,9.0,1.0,85.115,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,MEDIUM,10.0,10.0,1.0,85.468,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,MEDIUM,11.0,11.0,1.0,91.175,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,12.0,1.0,2.0,113.412,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,13.0,2.0,2.0,84.546,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,14.0,3.0,2.0,84.548,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,15.0,4.0,2.0,84.56,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,16.0,5.0,2.0,84.692,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,17.0,6.0,2.0,84.546,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,18.0,7.0,2.0,84.521,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,19.0,8.0,2.0,84.706,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,20.0,9.0,2.0,85.504,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,21.0,10.0,2.0,84.626,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,22.0,11.0,2.0,84.711,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,23.0,12.0,2.0,84.624,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,24.0,13.0,2.0,84.621,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,25.0,14.0,2.0,85.174,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,26.0,15.0,2.0,83.575,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,27.0,16.0,2.0,83.732,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,28.0,17.0,2.0,83.383,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,29.0,18.0,2.0,83.516,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,30.0,19.0,2.0,83.177,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,31.0,20.0,2.0,85.331,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,32.0,21.0,2.0,83.542,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,33.0,22.0,2.0,88.264,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,34.0,1.0,3.0,104.863,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,35.0,2.0,3.0,82.944,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,36.0,3.0,3.0,83.333,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,37.0,4.0,3.0,83.158,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,38.0,5.0,3.0,85.166,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,39.0,6.0,3.0,83.142,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,40.0,7.0,3.0,82.886,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,41.0,8.0,3.0,84.039,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,42.0,9.0,3.0,82.799,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,43.0,10.0,3.0,82.939,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,44.0,11.0,3.0,82.923,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,45.0,12.0,3.0,82.685,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,46.0,13.0,3.0,82.419,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,47.0,14.0,3.0,82.343,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,48.0,15.0,3.0,82.165,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,49.0,16.0,3.0,82.036,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,50.0,17.0,3.0,82.156,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,51.0,18.0,3.0,82.311,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,52.0,19.0,3.0,82.447,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RUS,George Russell,63,Mercedes,HARD,53.0,20.0,3.0,82.7,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,1.0,1.0,1.0,91.698,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,2.0,2.0,1.0,86.411,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,3.0,3.0,1.0,85.757,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,4.0,4.0,1.0,85.805,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,5.0,5.0,1.0,85.447,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,6.0,6.0,1.0,85.105,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,7.0,7.0,1.0,85.434,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,8.0,8.0,1.0,85.186,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,9.0,9.0,1.0,84.977,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,10.0,10.0,1.0,84.841,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,11.0,11.0,1.0,84.773,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,12.0,12.0,1.0,84.654,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,13.0,13.0,1.0,85.041,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,14.0,14.0,1.0,85.229,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,15.0,15.0,1.0,85.543,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,16.0,16.0,1.0,85.434,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,17.0,17.0,1.0,85.444,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,18.0,18.0,1.0,85.448,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,19.0,19.0,1.0,85.683,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,20.0,20.0,1.0,86.111,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,21.0,21.0,1.0,85.864,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,22.0,22.0,1.0,85.709,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,23.0,23.0,1.0,89.869,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,24.0,1.0,2.0,105.017,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,25.0,2.0,2.0,84.109,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,26.0,3.0,2.0,83.975,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,27.0,4.0,2.0,83.784,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,28.0,5.0,2.0,83.598,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,29.0,6.0,2.0,83.854,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,30.0,7.0,2.0,83.474,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,31.0,8.0,2.0,85.086,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,32.0,9.0,2.0,83.825,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,33.0,10.0,2.0,83.473,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,34.0,11.0,2.0,83.611,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,HARD,35.0,12.0,2.0,88.255,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,36.0,1.0,3.0,104.074,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,37.0,2.0,3.0,83.291,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,38.0,3.0,3.0,86.243,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,39.0,4.0,3.0,83.707,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,40.0,5.0,3.0,83.393,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,41.0,6.0,3.0,83.267,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,42.0,7.0,3.0,83.908,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,43.0,8.0,3.0,84.537,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,44.0,9.0,3.0,83.617,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,45.0,10.0,3.0,83.033,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,46.0,11.0,3.0,82.996,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,47.0,12.0,3.0,82.971,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,48.0,13.0,3.0,83.315,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,49.0,14.0,3.0,83.612,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,50.0,15.0,3.0,83.39,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,51.0,16.0,3.0,83.415,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,52.0,17.0,3.0,84.071,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,53.0,18.0,3.0,84.511,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,MEDIUM,1.0,1.0,1.0,91.965,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,MEDIUM,2.0,2.0,1.0,87.011,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,MEDIUM,3.0,3.0,1.0,86.282,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,MEDIUM,4.0,4.0,1.0,86.527,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,MEDIUM,5.0,5.0,1.0,86.039,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,MEDIUM,6.0,6.0,1.0,85.946,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,MEDIUM,7.0,7.0,1.0,85.99,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,MEDIUM,8.0,8.0,1.0,85.963,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,MEDIUM,9.0,9.0,1.0,85.666,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,MEDIUM,10.0,10.0,1.0,85.711,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,MEDIUM,11.0,11.0,1.0,85.734,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,MEDIUM,12.0,12.0,1.0,85.468,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,MEDIUM,13.0,13.0,1.0,85.533,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,MEDIUM,14.0,14.0,1.0,86.14,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,MEDIUM,15.0,15.0,1.0,86.463,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,MEDIUM,16.0,16.0,1.0,86.454,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,MEDIUM,17.0,17.0,1.0,91.436,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,18.0,1.0,2.0,106.033,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,19.0,2.0,2.0,85.254,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,20.0,3.0,2.0,85.074,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,21.0,4.0,2.0,84.86,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,22.0,5.0,2.0,85.053,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,23.0,6.0,2.0,85.132,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,24.0,7.0,2.0,85.196,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,25.0,8.0,2.0,84.707,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,26.0,9.0,2.0,85.065,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,27.0,10.0,2.0,84.949,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,28.0,11.0,2.0,84.793,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,29.0,12.0,2.0,84.871,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,30.0,13.0,2.0,84.754,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,31.0,14.0,2.0,85.229,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,32.0,15.0,2.0,84.412,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,33.0,16.0,2.0,86.282,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,34.0,17.0,2.0,85.57,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,35.0,18.0,2.0,84.994,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,36.0,19.0,2.0,84.748,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,37.0,20.0,2.0,85.882,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,38.0,21.0,2.0,85.214,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,39.0,22.0,2.0,84.971,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,40.0,23.0,2.0,84.552,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,41.0,24.0,2.0,84.372,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,42.0,25.0,2.0,84.874,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,43.0,26.0,2.0,84.669,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,44.0,27.0,2.0,84.678,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,45.0,28.0,2.0,84.569,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,46.0,29.0,2.0,84.554,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,47.0,30.0,2.0,84.383,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,48.0,31.0,2.0,84.149,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,49.0,32.0,2.0,84.262,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,50.0,33.0,2.0,83.956,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,51.0,34.0,2.0,83.921,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,52.0,35.0,2.0,83.955,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALB,Alexander Albon,23,Williams,HARD,53.0,36.0,2.0,83.918,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,1.0,1.0,1.0,93.931,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,2.0,2.0,1.0,87.205,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,3.0,3.0,1.0,86.584,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,4.0,4.0,1.0,86.372,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,5.0,5.0,1.0,86.142,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,6.0,6.0,1.0,85.902,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,7.0,7.0,1.0,85.825,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,8.0,8.0,1.0,85.966,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,9.0,9.0,1.0,85.785,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,10.0,10.0,1.0,85.799,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,11.0,11.0,1.0,86.04,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,12.0,12.0,1.0,86.145,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,13.0,13.0,1.0,86.286,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,14.0,14.0,1.0,89.943,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,15.0,1.0,2.0,107.023,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,16.0,2.0,2.0,85.644,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,17.0,3.0,2.0,84.769,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,18.0,4.0,2.0,86.533,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,19.0,5.0,2.0,85.109,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,20.0,6.0,2.0,85.154,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,21.0,7.0,2.0,84.793,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,22.0,8.0,2.0,85.071,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,23.0,9.0,2.0,85.057,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,24.0,10.0,2.0,85.131,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,25.0,11.0,2.0,85.504,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,26.0,12.0,2.0,85.199,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,27.0,13.0,2.0,84.64,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,28.0,14.0,2.0,84.415,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,29.0,15.0,2.0,84.799,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,30.0,16.0,2.0,84.573,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,31.0,17.0,2.0,84.458,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,32.0,18.0,2.0,84.408,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,33.0,19.0,2.0,84.853,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,34.0,20.0,2.0,84.702,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,35.0,21.0,2.0,84.17,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,36.0,22.0,2.0,84.276,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,37.0,23.0,2.0,83.95,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,38.0,24.0,2.0,84.803,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,39.0,25.0,2.0,84.463,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,40.0,26.0,2.0,84.282,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,41.0,27.0,2.0,84.625,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,42.0,28.0,2.0,84.628,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,43.0,29.0,2.0,84.605,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,44.0,30.0,2.0,85.205,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,45.0,31.0,2.0,84.272,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,46.0,32.0,2.0,84.124,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,47.0,33.0,2.0,83.971,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,48.0,34.0,2.0,83.741,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,49.0,35.0,2.0,83.708,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,50.0,36.0,2.0,83.603,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,51.0,37.0,2.0,83.437,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,52.0,38.0,2.0,83.691,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,53.0,39.0,2.0,83.715,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,1.0,2.0,1.0,92.411,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,2.0,3.0,1.0,87.236,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,3.0,4.0,1.0,86.41,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,4.0,5.0,1.0,86.411,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,5.0,6.0,1.0,86.218,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,6.0,7.0,1.0,85.911,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,7.0,8.0,1.0,85.95,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,8.0,9.0,1.0,85.693,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,9.0,10.0,1.0,85.969,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,10.0,11.0,1.0,85.832,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,11.0,12.0,1.0,85.758,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,12.0,13.0,1.0,89.74,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,13.0,2.0,2.0,105.594,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,14.0,3.0,2.0,85.832,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,15.0,4.0,2.0,84.67,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,16.0,5.0,2.0,84.614,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,17.0,6.0,2.0,84.574,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,18.0,7.0,2.0,84.882,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,19.0,8.0,2.0,85.314,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,20.0,9.0,2.0,85.676,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,21.0,10.0,2.0,85.297,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,22.0,11.0,2.0,85.451,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,23.0,12.0,2.0,85.017,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,24.0,13.0,2.0,84.588,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,25.0,14.0,2.0,84.504,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,26.0,15.0,2.0,84.937,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,27.0,16.0,2.0,84.891,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,28.0,17.0,2.0,84.725,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,29.0,18.0,2.0,85.011,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,30.0,19.0,2.0,85.039,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,31.0,20.0,2.0,85.128,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,32.0,21.0,2.0,85.099,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,33.0,22.0,2.0,85.289,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,34.0,23.0,2.0,85.083,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,35.0,24.0,2.0,89.799,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,36.0,3.0,3.0,104.152,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,37.0,4.0,3.0,83.703,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,38.0,5.0,3.0,83.847,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,39.0,6.0,3.0,83.77,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,40.0,7.0,3.0,83.683,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,41.0,8.0,3.0,83.822,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,42.0,9.0,3.0,83.637,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,43.0,10.0,3.0,83.681,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,44.0,11.0,3.0,83.529,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,45.0,12.0,3.0,83.484,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,46.0,13.0,3.0,82.944,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,47.0,14.0,3.0,83.221,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,48.0,15.0,3.0,83.245,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,49.0,16.0,3.0,83.525,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,50.0,17.0,3.0,83.511,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,51.0,18.0,3.0,83.468,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,52.0,19.0,3.0,83.761,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ALO,Fernando Alonso,14,Aston Martin,HARD,53.0,20.0,3.0,83.686,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,MEDIUM,1.0,1.0,1.0,95.885,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,MEDIUM,2.0,2.0,1.0,87.845,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,MEDIUM,3.0,3.0,1.0,86.578,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,MEDIUM,4.0,4.0,1.0,86.25,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,MEDIUM,5.0,5.0,1.0,87.151,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,MEDIUM,6.0,6.0,1.0,86.057,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,MEDIUM,7.0,7.0,1.0,87.204,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,MEDIUM,8.0,8.0,1.0,86.385,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,MEDIUM,9.0,9.0,1.0,86.222,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,MEDIUM,10.0,10.0,1.0,86.289,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,MEDIUM,11.0,11.0,1.0,86.607,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,MEDIUM,12.0,12.0,1.0,86.5,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,MEDIUM,13.0,13.0,1.0,86.41,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,MEDIUM,14.0,14.0,1.0,86.93,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,MEDIUM,15.0,15.0,1.0,86.672,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,MEDIUM,16.0,16.0,1.0,91.193,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,17.0,1.0,2.0,106.349,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,18.0,2.0,2.0,84.485,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,19.0,3.0,2.0,84.928,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,20.0,4.0,2.0,85.148,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,21.0,5.0,2.0,84.784,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,22.0,6.0,2.0,84.852,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,23.0,7.0,2.0,84.649,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,24.0,8.0,2.0,84.635,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,25.0,9.0,2.0,84.916,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,26.0,10.0,2.0,84.639,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,27.0,11.0,2.0,84.497,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,28.0,12.0,2.0,85.005,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,29.0,13.0,2.0,85.634,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,30.0,14.0,2.0,85.412,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,31.0,15.0,2.0,85.586,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,32.0,16.0,2.0,85.433,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,33.0,17.0,2.0,84.868,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,34.0,18.0,2.0,84.921,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,35.0,19.0,2.0,84.798,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,36.0,20.0,2.0,84.84,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,37.0,21.0,2.0,85.345,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,38.0,22.0,2.0,85.194,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,39.0,23.0,2.0,85.128,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,40.0,24.0,2.0,85.147,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,41.0,25.0,2.0,84.801,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,42.0,26.0,2.0,84.62,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,43.0,27.0,2.0,85.979,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,44.0,28.0,2.0,85.161,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,45.0,29.0,2.0,84.812,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,46.0,30.0,2.0,84.939,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,47.0,31.0,2.0,84.697,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,48.0,32.0,2.0,84.538,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,49.0,33.0,2.0,84.474,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,50.0,34.0,2.0,84.3,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,51.0,35.0,2.0,84.186,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,52.0,36.0,2.0,84.429,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,COL,Franco Colapinto,43,Williams,HARD,53.0,37.0,2.0,83.728,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,MEDIUM,1.0,1.0,1.0,93.104,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,MEDIUM,2.0,2.0,1.0,87.177,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,MEDIUM,3.0,3.0,1.0,86.588,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,MEDIUM,4.0,4.0,1.0,86.488,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,MEDIUM,5.0,5.0,1.0,86.251,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,MEDIUM,6.0,6.0,1.0,85.899,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,MEDIUM,7.0,7.0,1.0,85.713,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,MEDIUM,8.0,8.0,1.0,85.993,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,MEDIUM,9.0,9.0,1.0,85.815,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,MEDIUM,10.0,10.0,1.0,86.111,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,MEDIUM,11.0,11.0,1.0,91.962,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,12.0,2.0,2.0,112.188,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,13.0,3.0,2.0,86.122,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,14.0,4.0,2.0,85.827,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,15.0,5.0,2.0,85.572,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,16.0,6.0,2.0,85.398,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,17.0,7.0,2.0,85.028,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,18.0,8.0,2.0,85.062,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,19.0,9.0,2.0,84.897,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,20.0,10.0,2.0,84.753,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,21.0,11.0,2.0,84.991,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,22.0,12.0,2.0,85.08,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,23.0,13.0,2.0,84.848,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,24.0,14.0,2.0,84.931,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,25.0,15.0,2.0,85.047,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,26.0,16.0,2.0,84.906,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,27.0,17.0,2.0,85.595,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,28.0,18.0,2.0,85.38,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,29.0,19.0,2.0,84.835,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,30.0,20.0,2.0,84.97,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,31.0,21.0,2.0,84.875,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,32.0,22.0,2.0,84.69,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,33.0,23.0,2.0,84.662,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,34.0,24.0,2.0,84.777,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,35.0,25.0,2.0,85.588,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,36.0,26.0,2.0,85.081,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,37.0,27.0,2.0,85.095,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,38.0,28.0,2.0,85.288,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,39.0,29.0,2.0,85.033,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,40.0,30.0,2.0,85.025,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,41.0,31.0,2.0,84.945,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,42.0,32.0,2.0,84.954,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,43.0,33.0,2.0,85.179,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,44.0,34.0,2.0,84.776,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,45.0,35.0,2.0,85.063,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,46.0,36.0,2.0,85.685,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,47.0,37.0,2.0,84.775,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,48.0,38.0,2.0,84.518,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,49.0,39.0,2.0,84.617,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,50.0,40.0,2.0,84.817,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,51.0,41.0,2.0,84.639,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,52.0,42.0,2.0,84.219,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,RIC,Daniel Ricciardo,3,RB,HARD,53.0,43.0,2.0,84.347,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,1.0,1.0,1.0,95.432,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,2.0,2.0,1.0,86.837,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,3.0,3.0,1.0,86.466,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,4.0,4.0,1.0,86.297,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,5.0,5.0,1.0,86.568,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,6.0,6.0,1.0,85.684,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,7.0,7.0,1.0,86.006,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,8.0,8.0,1.0,86.053,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,9.0,9.0,1.0,85.369,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,10.0,10.0,1.0,86.035,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,11.0,11.0,1.0,86.349,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,12.0,12.0,1.0,85.954,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,13.0,13.0,1.0,86.059,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,14.0,14.0,1.0,86.307,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,15.0,15.0,1.0,86.677,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,16.0,16.0,1.0,86.694,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,17.0,17.0,1.0,86.002,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,18.0,18.0,1.0,86.234,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,19.0,19.0,1.0,86.174,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,20.0,20.0,1.0,87.326,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,21.0,21.0,1.0,86.45,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,22.0,22.0,1.0,86.327,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,23.0,23.0,1.0,86.201,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,24.0,24.0,1.0,86.77,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,25.0,25.0,1.0,87.519,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,26.0,26.0,1.0,86.383,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,27.0,27.0,1.0,86.725,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,28.0,28.0,1.0,86.013,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,29.0,29.0,1.0,86.099,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,30.0,30.0,1.0,86.025,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,HARD,31.0,31.0,1.0,90.757,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,32.0,1.0,2.0,104.71,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,33.0,2.0,2.0,84.652,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,34.0,3.0,2.0,84.965,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,35.0,4.0,2.0,85.019,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,36.0,5.0,2.0,84.942,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,37.0,6.0,2.0,84.613,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,38.0,7.0,2.0,84.845,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,39.0,8.0,2.0,85.267,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,40.0,9.0,2.0,85.211,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,41.0,10.0,2.0,85.06,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,42.0,11.0,2.0,85.119,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,43.0,12.0,2.0,86.111,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,44.0,13.0,2.0,84.669,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,45.0,14.0,2.0,84.587,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,46.0,15.0,2.0,84.449,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,47.0,16.0,2.0,84.506,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,48.0,17.0,2.0,84.458,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,49.0,18.0,2.0,85.79,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,50.0,19.0,2.0,85.688,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,51.0,20.0,2.0,84.59,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,OCO,Esteban Ocon,31,Alpine,MEDIUM,52.0,21.0,2.0,84.343,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,1.0,1.0,1.0,94.873,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,2.0,2.0,1.0,86.606,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,3.0,3.0,1.0,86.646,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,4.0,4.0,1.0,86.395,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,5.0,5.0,1.0,86.361,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,6.0,6.0,1.0,86.042,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,7.0,7.0,1.0,85.82,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,8.0,8.0,1.0,86.465,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,9.0,9.0,1.0,87.148,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,10.0,10.0,1.0,91.535,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,11.0,1.0,2.0,105.677,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,12.0,2.0,2.0,85.07,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,13.0,3.0,2.0,84.816,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,14.0,4.0,2.0,85.214,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,15.0,5.0,2.0,85.529,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,16.0,6.0,2.0,85.537,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,17.0,7.0,2.0,85.165,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,18.0,8.0,2.0,86.182,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,19.0,9.0,2.0,85.403,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,20.0,10.0,2.0,85.058,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,21.0,11.0,2.0,84.878,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,22.0,12.0,2.0,85.105,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,23.0,13.0,2.0,86.161,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,24.0,14.0,2.0,85.882,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,25.0,15.0,2.0,85.988,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,26.0,16.0,2.0,85.742,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,27.0,17.0,2.0,87.191,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,28.0,18.0,2.0,85.823,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,29.0,19.0,2.0,86.079,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,30.0,20.0,2.0,91.004,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,31.0,1.0,3.0,105.757,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,32.0,2.0,3.0,84.423,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,33.0,3.0,3.0,84.252,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,34.0,4.0,3.0,84.383,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,35.0,5.0,3.0,84.822,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,36.0,6.0,3.0,85.591,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,37.0,7.0,3.0,84.386,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,38.0,8.0,3.0,85.229,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,39.0,9.0,3.0,84.591,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,40.0,10.0,3.0,85.104,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,41.0,11.0,3.0,85.772,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,42.0,12.0,3.0,84.605,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,43.0,13.0,3.0,85.142,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,44.0,14.0,3.0,86.175,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,45.0,15.0,3.0,85.425,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,46.0,16.0,3.0,84.403,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,47.0,17.0,3.0,83.923,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,48.0,18.0,3.0,84.036,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,49.0,19.0,3.0,83.852,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,50.0,20.0,3.0,84.077,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,51.0,21.0,3.0,83.755,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,GAS,Pierre Gasly,10,Alpine,HARD,52.0,22.0,3.0,83.973,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,1.0,2.0,1.0,96.375,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,2.0,3.0,1.0,88.377,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,3.0,4.0,1.0,86.918,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,4.0,5.0,1.0,86.324,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,5.0,6.0,1.0,88.242,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,6.0,7.0,1.0,86.499,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,7.0,8.0,1.0,86.359,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,8.0,9.0,1.0,86.206,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,9.0,10.0,1.0,86.188,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,10.0,11.0,1.0,86.118,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,11.0,12.0,1.0,86.47,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,12.0,13.0,1.0,86.207,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,13.0,14.0,1.0,86.349,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,14.0,15.0,1.0,86.481,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,15.0,16.0,1.0,86.79,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,16.0,17.0,1.0,86.569,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,17.0,18.0,1.0,86.396,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,18.0,19.0,1.0,86.359,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,19.0,20.0,1.0,86.456,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,20.0,21.0,1.0,86.803,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,21.0,22.0,1.0,87.23,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,22.0,23.0,1.0,87.404,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,23.0,24.0,1.0,86.943,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,24.0,25.0,1.0,86.542,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,25.0,26.0,1.0,86.863,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,26.0,27.0,1.0,86.885,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,27.0,28.0,1.0,86.309,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,28.0,29.0,1.0,85.804,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,29.0,30.0,1.0,86.827,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,30.0,31.0,1.0,86.022,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,31.0,32.0,1.0,86.004,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,32.0,33.0,1.0,87.859,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,HARD,33.0,34.0,1.0,90.924,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,34.0,2.0,2.0,105.462,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,35.0,3.0,2.0,85.336,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,36.0,4.0,2.0,85.114,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,37.0,5.0,2.0,85.213,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,38.0,6.0,2.0,86.704,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,39.0,7.0,2.0,85.081,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,40.0,8.0,2.0,85.16,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,41.0,9.0,2.0,86.31,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,42.0,10.0,2.0,86.036,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,43.0,11.0,2.0,84.637,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,44.0,12.0,2.0,84.792,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,45.0,13.0,2.0,84.588,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,46.0,14.0,2.0,84.358,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,47.0,15.0,2.0,84.089,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,48.0,16.0,2.0,85.126,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,49.0,17.0,2.0,83.885,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,50.0,18.0,2.0,84.357,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,51.0,19.0,2.0,83.979,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,52.0,20.0,2.0,83.609,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,1.0,1.0,1.0,95.519,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,2.0,2.0,1.0,87.512,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,3.0,3.0,1.0,86.434,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,4.0,4.0,1.0,86.541,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,5.0,5.0,1.0,91.729,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,6.0,1.0,2.0,120.178,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,7.0,2.0,2.0,85.882,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,8.0,3.0,2.0,85.351,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,9.0,4.0,2.0,85.191,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,10.0,5.0,2.0,85.194,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,11.0,6.0,2.0,85.322,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,12.0,7.0,2.0,85.166,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,13.0,8.0,2.0,84.983,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,14.0,9.0,2.0,85.014,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,15.0,10.0,2.0,85.862,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,16.0,11.0,2.0,85.017,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,17.0,12.0,2.0,86.119,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,18.0,13.0,2.0,85.465,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,19.0,14.0,2.0,85.326,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,20.0,15.0,2.0,86.113,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,21.0,16.0,2.0,85.735,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,22.0,17.0,2.0,85.565,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,23.0,18.0,2.0,85.632,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,24.0,19.0,2.0,85.608,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,25.0,20.0,2.0,85.716,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,26.0,21.0,2.0,85.506,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,27.0,22.0,2.0,85.674,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,28.0,23.0,2.0,85.43,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,29.0,24.0,2.0,85.57,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,30.0,25.0,2.0,85.628,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,31.0,26.0,2.0,85.142,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,32.0,27.0,2.0,89.903,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,33.0,1.0,3.0,116.554,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,34.0,2.0,3.0,83.587,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,35.0,3.0,3.0,83.761,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,36.0,4.0,3.0,83.772,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,37.0,5.0,3.0,87.809,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,38.0,6.0,3.0,83.88,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,39.0,7.0,3.0,84.019,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,40.0,8.0,3.0,83.621,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,41.0,9.0,3.0,83.449,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,42.0,10.0,3.0,83.624,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,43.0,11.0,3.0,83.591,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,44.0,12.0,3.0,83.275,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,45.0,13.0,3.0,83.807,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,46.0,14.0,3.0,84.107,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,47.0,15.0,3.0,86.991,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,48.0,16.0,3.0,85.125,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,49.0,17.0,3.0,83.404,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,50.0,18.0,3.0,84.017,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,51.0,19.0,3.0,84.211,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,52.0,20.0,3.0,83.966,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,1.0,2.0,1.0,96.732,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,2.0,3.0,1.0,88.721,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,3.0,4.0,1.0,86.997,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,4.0,5.0,1.0,86.226,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,5.0,6.0,1.0,89.256,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,6.0,7.0,1.0,85.942,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,7.0,8.0,1.0,86.381,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,8.0,9.0,1.0,86.411,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,9.0,10.0,1.0,86.315,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,10.0,11.0,1.0,86.128,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,11.0,12.0,1.0,86.488,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,12.0,13.0,1.0,86.348,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,13.0,14.0,1.0,86.802,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,14.0,15.0,1.0,87.092,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,15.0,16.0,1.0,92.048,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,16.0,2.0,2.0,109.128,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,17.0,3.0,2.0,85.092,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,18.0,4.0,2.0,85.245,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,19.0,5.0,2.0,85.777,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,20.0,6.0,2.0,85.588,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,21.0,7.0,2.0,85.743,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,22.0,8.0,2.0,85.876,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,23.0,9.0,2.0,86.061,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,24.0,10.0,2.0,86.041,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,25.0,11.0,2.0,85.583,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,26.0,12.0,2.0,85.549,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,27.0,13.0,2.0,85.603,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,28.0,14.0,2.0,85.699,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,29.0,15.0,2.0,85.515,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,30.0,16.0,2.0,85.491,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,31.0,17.0,2.0,85.478,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,32.0,18.0,2.0,85.356,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,33.0,19.0,2.0,85.451,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,34.0,20.0,2.0,85.487,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,35.0,21.0,2.0,85.52,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,36.0,22.0,2.0,86.606,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,37.0,23.0,2.0,85.205,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,38.0,24.0,2.0,86.652,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,39.0,25.0,2.0,85.584,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,40.0,26.0,2.0,85.82,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,41.0,27.0,2.0,86.437,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,42.0,28.0,2.0,87.64,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,43.0,29.0,2.0,86.916,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,44.0,30.0,2.0,86.918,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,45.0,31.0,2.0,85.632,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,46.0,32.0,2.0,85.857,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,47.0,33.0,2.0,87.442,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,48.0,34.0,2.0,85.84,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,49.0,35.0,2.0,86.298,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,50.0,36.0,2.0,85.539,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,51.0,37.0,2.0,85.946,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,52.0,38.0,2.0,87.28,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,1.0,2.0,1.0,95.81,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,2.0,3.0,1.0,88.342,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,3.0,4.0,1.0,86.734,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,4.0,5.0,1.0,86.253,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,5.0,6.0,1.0,87.234,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,6.0,7.0,1.0,85.558,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,7.0,8.0,1.0,86.208,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,8.0,9.0,1.0,85.799,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,9.0,10.0,1.0,86.024,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,10.0,11.0,1.0,86.182,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,11.0,12.0,1.0,85.675,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,12.0,13.0,1.0,85.947,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,13.0,14.0,1.0,86.143,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,14.0,15.0,1.0,85.895,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,15.0,16.0,1.0,86.986,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,16.0,17.0,1.0,86.593,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,17.0,18.0,1.0,86.584,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,18.0,19.0,1.0,87.524,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,19.0,20.0,1.0,91.321,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,20.0,3.0,2.0,105.665,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,21.0,4.0,2.0,84.721,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,22.0,5.0,2.0,84.721,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,23.0,6.0,2.0,84.659,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,24.0,7.0,2.0,84.768,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,25.0,8.0,2.0,84.743,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,26.0,9.0,2.0,84.491,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,27.0,10.0,2.0,84.437,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,28.0,11.0,2.0,84.618,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,29.0,12.0,2.0,85.397,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,30.0,13.0,2.0,86.377,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,31.0,14.0,2.0,84.749,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,32.0,15.0,2.0,85.576,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,33.0,16.0,2.0,84.947,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,34.0,17.0,2.0,84.856,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,35.0,18.0,2.0,84.863,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,HARD,36.0,19.0,2.0,89.334,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,37.0,2.0,3.0,103.775,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,38.0,3.0,3.0,83.617,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,39.0,4.0,3.0,84.43,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,40.0,5.0,3.0,85.777,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,41.0,6.0,3.0,83.702,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,42.0,7.0,3.0,83.823,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,43.0,8.0,3.0,83.81,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,44.0,9.0,3.0,83.654,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,45.0,10.0,3.0,83.427,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,46.0,11.0,3.0,83.906,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,47.0,12.0,3.0,84.014,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,48.0,13.0,3.0,86.104,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,49.0,14.0,3.0,85.064,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,MEDIUM,50.0,15.0,3.0,90.186,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,SOFT,51.0,1.0,4.0,110.98,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,STR,Lance Stroll,18,Aston Martin,SOFT,52.0,2.0,4.0,82.232,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,TSU,Yuki Tsunoda,22,RB,HARD,1.0,2.0,1.0,95.235,False,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,TSU,Yuki Tsunoda,22,RB,HARD,2.0,3.0,1.0,87.538,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,TSU,Yuki Tsunoda,22,RB,HARD,3.0,4.0,1.0,86.665,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,TSU,Yuki Tsunoda,22,RB,HARD,4.0,5.0,1.0,86.198,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,TSU,Yuki Tsunoda,22,RB,HARD,5.0,6.0,1.0,92.241,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,TSU,Yuki Tsunoda,22,RB,HARD,6.0,7.0,1.0,88.473,True,,1
+2024,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Monza,Italy,Monza,2024-09-01,53,TSU,Yuki Tsunoda,22,RB,HARD,7.0,8.0,1.0,100.319,False,,1

@@ -1,0 +1,336 @@
+{
+  "analysis_mode": "PRE-RACE",
+  "season": 2026,
+  "round": 15,
+  "race": "Azerbaijan Grand Prix",
+  "event_status": "UPCOMING",
+  "official_event_name": "FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
+  "circuit": "Baku",
+  "country": "Azerbaijan",
+  "race_date": "2026-09-26",
+  "race_distance": 51,
+  "race_distance_source": "prior same-event median; backtest-safe estimate",
+  "driver": "ALB",
+  "selected_race_start_time_utc": "2026-09-26T00:00:00+00:00",
+  "training_cutoff_time_utc": "2026-09-26T00:00:00+00:00",
+  "training_cutoff_policy": "race start time unavailable; event-date midnight UTC conservative cutoff; lap history has date precision only, so training excludes the full event date",
+  "training_rows": 178996,
+  "training_event_count": 165,
+  "selected_event_laps_used_for_training": false,
+  "models_trained_only_on_pre_cutoff_data": true,
+  "model_metrics": {
+    "lap_time": {
+      "available": true,
+      "training_rows": 178996,
+      "evaluation_method": "temporal season holdout when multiple seasons are available; final model refit on all available data",
+      "held_out_season": 2025,
+      "MAE": 7.097969095187867,
+      "RMSE": 10.502671035950312,
+      "R2": 0.3877351711677993,
+      "baseline": {
+        "name": "training-set historical median lap time",
+        "MAE": 10.646360074194297,
+        "RMSE": 13.46885040909608,
+        "R2": -0.006933629964742449
+      },
+      "test_rows": 25878,
+      "test_races": [
+        "Abu Dhabi Grand Prix",
+        "Australian Grand Prix",
+        "Austrian Grand Prix",
+        "Azerbaijan Grand Prix",
+        "Bahrain Grand Prix",
+        "Belgian Grand Prix",
+        "British Grand Prix",
+        "Canadian Grand Prix",
+        "Chinese Grand Prix",
+        "Dutch Grand Prix",
+        "Emilia Romagna Grand Prix",
+        "Hungarian Grand Prix",
+        "Italian Grand Prix",
+        "Japanese Grand Prix",
+        "Las Vegas Grand Prix",
+        "Mexico City Grand Prix",
+        "Miami Grand Prix",
+        "Monaco Grand Prix",
+        "Qatar Grand Prix",
+        "Saudi Arabian Grand Prix",
+        "Singapore Grand Prix",
+        "Spanish Grand Prix",
+        "São Paulo Grand Prix",
+        "United States Grand Prix"
+      ],
+      "test_groups": 1238,
+      "test_seasons": [
+        2025
+      ]
+    },
+    "pit_stop": {
+      "available": true,
+      "training_rows": 5201,
+      "classes": [
+        "HARD",
+        "INTERMEDIATE",
+        "MEDIUM",
+        "SOFT",
+        "WET"
+      ],
+      "evaluation_method": "temporal season holdout; final model refit on all available data",
+      "held_out_season": 2025,
+      "accuracy": 0.5699067909454061,
+      "baseline_accuracy": 0.4274300932090546,
+      "baseline_name": "most common training-set next tyre",
+      "confusion_matrix": [
+        [
+          207,
+          17,
+          48,
+          49,
+          0
+        ],
+        [
+          2,
+          10,
+          4,
+          14,
+          0
+        ],
+        [
+          35,
+          24,
+          130,
+          78,
+          1
+        ],
+        [
+          32,
+          3,
+          16,
+          81,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "confusion_matrix_labels": [
+        "HARD",
+        "INTERMEDIATE",
+        "MEDIUM",
+        "SOFT",
+        "WET"
+      ],
+      "test_rows": 751,
+      "test_races": [
+        "Abu Dhabi Grand Prix",
+        "Australian Grand Prix",
+        "Austrian Grand Prix",
+        "Azerbaijan Grand Prix",
+        "Bahrain Grand Prix",
+        "Belgian Grand Prix",
+        "British Grand Prix",
+        "Canadian Grand Prix",
+        "Chinese Grand Prix",
+        "Dutch Grand Prix",
+        "Emilia Romagna Grand Prix",
+        "Hungarian Grand Prix",
+        "Italian Grand Prix",
+        "Japanese Grand Prix",
+        "Las Vegas Grand Prix",
+        "Mexico City Grand Prix",
+        "Miami Grand Prix",
+        "Monaco Grand Prix",
+        "Qatar Grand Prix",
+        "Saudi Arabian Grand Prix",
+        "Singapore Grand Prix",
+        "Spanish Grand Prix",
+        "São Paulo Grand Prix",
+        "United States Grand Prix"
+      ],
+      "test_seasons": [
+        "2025"
+      ]
+    }
+  },
+  "nomination": {
+    "available": true,
+    "role_mapping_available": true,
+    "status": "official/verified",
+    "season": 2026,
+    "race": "Azerbaijan Grand Prix",
+    "round": 15,
+    "HardCompound": "C3",
+    "MediumCompound": "C4",
+    "SoftCompound": "C5",
+    "NominatedRange": "C3-C5",
+    "Source": "Pirelli Press Release",
+    "SourceURL": "https://press.pirelli.com/tyre-compound-selections-for-baku-sepang-and-singapore/",
+    "VerifiedAt": "2026-08-27",
+    "allocation": {},
+    "official_allocation_complete": false,
+    "allocation_source": "Pirelli Press Release",
+    "allocation_source_url": "https://press.pirelli.com/tyre-compound-selections-for-baku-sepang-and-singapore/",
+    "allocation_status": "official",
+    "allocation_verified_at": "2026-08-27",
+    "sprint_weekend": false,
+    "source_status": "official",
+    "reason": "Nomination and allocation are source-attributed in the project register."
+  },
+  "inventory": {
+    "SOFT": 8,
+    "MEDIUM": 3,
+    "HARD": 2,
+    "INTERMEDIATE": 4,
+    "WET": 4
+  },
+  "inventory_source": "model assumption: 8/3/2 slick sets and 4/4 wet sets",
+  "weather": {
+    "current": {
+      "available": false,
+      "reason": "Weather lookup disabled."
+    },
+    "forecast": {
+      "available": false,
+      "reason": "Weather lookup disabled.",
+      "hourly": []
+    },
+    "source": "disabled"
+  },
+  "weather_scenarios": {
+    "available": false,
+    "weights": {
+      "DRY": 1.0
+    },
+    "source": "forecast unavailable; dry is a simulation assumption"
+  },
+  "scenarios": [
+    {
+      "condition": "DRY",
+      "weight": 1.0,
+      "strategy": "SOFT → HARD",
+      "strategy_type": "1-STOP",
+      "estimated_race_time": 5609.808788939147,
+      "strategy_score": 5610.111870102754,
+      "pit_laps": [
+        13
+      ],
+      "stint_lengths": [
+        13,
+        38
+      ],
+      "tyre_usage": {
+        "SOFT": 1,
+        "HARD": 1
+      },
+      "confidence_score": 48.488525983348005,
+      "candidate_count": 4850,
+      "selected_event_laps_used_for_training": false,
+      "degradation_sensitivity_sd_seconds": 18.873227232367213
+    }
+  ],
+  "expected_strategy": {
+    "condition": "DRY",
+    "weight": 1.0,
+    "strategy": "SOFT → HARD",
+    "strategy_type": "1-STOP",
+    "estimated_race_time": 5609.808788939147,
+    "strategy_score": 5610.111870102754,
+    "pit_laps": [
+      13
+    ],
+    "stint_lengths": [
+      13,
+      38
+    ],
+    "tyre_usage": {
+      "SOFT": 1,
+      "HARD": 1
+    },
+    "confidence_score": 48.488525983348005,
+    "candidate_count": 4850,
+    "selected_event_laps_used_for_training": false,
+    "degradation_sensitivity_sd_seconds": 18.873227232367213
+  },
+  "primary_strategy": {
+    "condition": "DRY",
+    "weight": 1.0,
+    "strategy": "SOFT → HARD",
+    "strategy_type": "1-STOP",
+    "estimated_race_time": 5609.808788939147,
+    "strategy_score": 5610.111870102754,
+    "pit_laps": [
+      13
+    ],
+    "stint_lengths": [
+      13,
+      38
+    ],
+    "tyre_usage": {
+      "SOFT": 1,
+      "HARD": 1
+    },
+    "confidence_score": 48.488525983348005,
+    "candidate_count": 4850,
+    "selected_event_laps_used_for_training": false,
+    "degradation_sensitivity_sd_seconds": 18.873227232367213
+  },
+  "robust_strategy": {
+    "type": "adaptive contingency policy",
+    "by_condition": {
+      "DRY": {
+        "strategy": "SOFT → HARD",
+        "pit_laps": [
+          13
+        ],
+        "stint_lengths": [
+          13,
+          38
+        ],
+        "scenario_weight": 1.0
+      }
+    },
+    "rules": [
+      "Forecast unavailable. Use the dry baseline as an explicit assumption and refresh closer to race day."
+    ],
+    "interpretation": "Scenario-best plans are evaluated separately by condition. Expected/worst/best times summarize this adaptive policy, not one fixed tyre plan held unchanged across every weather state."
+  },
+  "robustness": {
+    "expected_race_time_seconds": 5609.808788939147,
+    "best_scenario_time_seconds": 5609.808788939147,
+    "worst_scenario_time_seconds": 5609.808788939147,
+    "scenario_standard_deviation_seconds": 0.0,
+    "scenario_variance_seconds_squared": 0.0,
+    "monte_carlo": {
+      "simulations": 500,
+      "seed": 42,
+      "mean_race_time_seconds": 5606.243082171463,
+      "standard_deviation_seconds": 67.07806294566143,
+      "percentile_05_seconds": 5492.188894100735,
+      "percentile_50_seconds": 5609.26056852675,
+      "percentile_95_seconds": 5715.801355064867,
+      "lap_model_error_sigma_seconds": 63.53004027335375,
+      "degradation_uncertainty_source": "robust cross-stint slope spread (1.4826 × median absolute deviation), using plausible slopes from 0.002 to 0.20 s/lap and at least three historical stints per compound",
+      "degradation_compounds_with_measured_spread": [
+        "HARD",
+        "INTERMEDIATE",
+        "MEDIUM",
+        "SOFT"
+      ],
+      "assumptions": "weather scenario sampled by heuristic weights; per-lap model errors treated as independent normal residuals; degradation slope error uses a robust spread estimate from plausible historical cross-stint slopes"
+    },
+    "strategy_stability": {
+      "scenario_weight_by_strategy": {
+        "SOFT → HARD": 1.0
+      },
+      "most_frequent_plan_share": 1.0
+    },
+    "metric_scope": "best feasible plan per included weather scenario; adaptive-policy summary"
+  },
+  "confidence_score": 48.488525983348005,
+  "confidence_level": "LOW",
+  "confidence_is_win_probability": false
+}

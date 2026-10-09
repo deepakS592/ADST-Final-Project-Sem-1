@@ -1,0 +1,1691 @@
+{
+  "season": 2019,
+  "season_status": "historical source-available data",
+  "race": "Abu Dhabi Grand Prix",
+  "official_event_name": "FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2019",
+  "event_round": 21,
+  "driver": "BOT",
+  "driver_name": "Valtteri Bottas",
+  "driver_number": "77",
+  "team": "Mercedes",
+  "circuit": "Yas Island",
+  "location": "Yas Island",
+  "country": "Abu Dhabi",
+  "race_date": "2019-12-01",
+  "race_distance": 55,
+  "data_coverage": {
+    "available_seasons": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "season_status": "historical source-available data",
+    "selected_race_rows": 1074,
+    "selected_driver_rows": 55,
+    "selected_season_races": 21,
+    "selected_season_drivers": 20,
+    "total_lap_rows": 179886
+  },
+  "weather": {
+    "season": 2019,
+    "race": "Abu Dhabi Grand Prix",
+    "circuit": "Yas Island",
+    "country": "Abu Dhabi",
+    "date": "2019-12-01",
+    "condition": "DRY",
+    "impact": "LOW",
+    "temperature": 25.591666666666665,
+    "precipitation": 0.0,
+    "rain": 0.0,
+    "precipitation_probability": null,
+    "wind_speed": 13.691666666666665,
+    "wind_direction": 297.5,
+    "dominant_weather": "Clear",
+    "source": "Open-Meteo historical archive",
+    "weather_certainty": "HIGH",
+    "reason": "Condition is classified from observed historical precipitation during the local race-day window; wind contributes to the impact label when available.",
+    "hourly": [
+      {
+        "time": "2019-12-01T00:00",
+        "temperature_2m": 22.9,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "weather_name": "Clear",
+        "precipitation_probability": null,
+        "wind_speed_10m": 10.2,
+        "wind_direction_10m": 318.0
+      },
+      {
+        "time": "2019-12-01T01:00",
+        "temperature_2m": 22.7,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "weather_name": "Clear",
+        "precipitation_probability": null,
+        "wind_speed_10m": 11.2,
+        "wind_direction_10m": 318.0
+      },
+      {
+        "time": "2019-12-01T02:00",
+        "temperature_2m": 22.3,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "weather_name": "Clear",
+        "precipitation_probability": null,
+        "wind_speed_10m": 11.7,
+        "wind_direction_10m": 317.0
+      },
+      {
+        "time": "2019-12-01T03:00",
+        "temperature_2m": 21.8,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "weather_name": "Clear",
+        "precipitation_probability": null,
+        "wind_speed_10m": 10.5,
+        "wind_direction_10m": 319.0
+      },
+      {
+        "time": "2019-12-01T04:00",
+        "temperature_2m": 21.7,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 1,
+        "weather_name": "Cloudy",
+        "precipitation_probability": null,
+        "wind_speed_10m": 6.4,
+        "wind_direction_10m": 333.0
+      },
+      {
+        "time": "2019-12-01T05:00",
+        "temperature_2m": 23.7,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "weather_name": "Clear",
+        "precipitation_probability": null,
+        "wind_speed_10m": 3.8,
+        "wind_direction_10m": 311.0
+      },
+      {
+        "time": "2019-12-01T06:00",
+        "temperature_2m": 23.3,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 1,
+        "weather_name": "Cloudy",
+        "precipitation_probability": null,
+        "wind_speed_10m": 2.3,
+        "wind_direction_10m": 231.0
+      },
+      {
+        "time": "2019-12-01T07:00",
+        "temperature_2m": 20.4,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 1,
+        "weather_name": "Cloudy",
+        "precipitation_probability": null,
+        "wind_speed_10m": 5.6,
+        "wind_direction_10m": 165.0
+      },
+      {
+        "time": "2019-12-01T08:00",
+        "temperature_2m": 21.5,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 1,
+        "weather_name": "Cloudy",
+        "precipitation_probability": null,
+        "wind_speed_10m": 8.9,
+        "wind_direction_10m": 153.0
+      },
+      {
+        "time": "2019-12-01T09:00",
+        "temperature_2m": 22.9,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "weather_name": "Clear",
+        "precipitation_probability": null,
+        "wind_speed_10m": 10.7,
+        "wind_direction_10m": 160.0
+      },
+      {
+        "time": "2019-12-01T10:00",
+        "temperature_2m": 24.5,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "weather_name": "Clear",
+        "precipitation_probability": null,
+        "wind_speed_10m": 8.6,
+        "wind_direction_10m": 180.0
+      },
+      {
+        "time": "2019-12-01T11:00",
+        "temperature_2m": 25.7,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "weather_name": "Clear",
+        "precipitation_probability": null,
+        "wind_speed_10m": 4.7,
+        "wind_direction_10m": 270.0
+      },
+      {
+        "time": "2019-12-01T12:00",
+        "temperature_2m": 26.9,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 1,
+        "weather_name": "Cloudy",
+        "precipitation_probability": null,
+        "wind_speed_10m": 11.2,
+        "wind_direction_10m": 318.0
+      },
+      {
+        "time": "2019-12-01T13:00",
+        "temperature_2m": 27.7,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "weather_name": "Clear",
+        "precipitation_probability": null,
+        "wind_speed_10m": 14.6,
+        "wind_direction_10m": 327.0
+      },
+      {
+        "time": "2019-12-01T14:00",
+        "temperature_2m": 27.8,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "weather_name": "Clear",
+        "precipitation_probability": null,
+        "wind_speed_10m": 18.7,
+        "wind_direction_10m": 332.0
+      },
+      {
+        "time": "2019-12-01T15:00",
+        "temperature_2m": 27.5,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "weather_name": "Clear",
+        "precipitation_probability": null,
+        "wind_speed_10m": 19.8,
+        "wind_direction_10m": 335.0
+      },
+      {
+        "time": "2019-12-01T16:00",
+        "temperature_2m": 26.2,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "weather_name": "Clear",
+        "precipitation_probability": null,
+        "wind_speed_10m": 20.6,
+        "wind_direction_10m": 324.0
+      },
+      {
+        "time": "2019-12-01T17:00",
+        "temperature_2m": 25.8,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "weather_name": "Clear",
+        "precipitation_probability": null,
+        "wind_speed_10m": 18.7,
+        "wind_direction_10m": 326.0
+      },
+      {
+        "time": "2019-12-01T18:00",
+        "temperature_2m": 25.1,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "weather_name": "Clear",
+        "precipitation_probability": null,
+        "wind_speed_10m": 14.9,
+        "wind_direction_10m": 328.0
+      },
+      {
+        "time": "2019-12-01T19:00",
+        "temperature_2m": 24.6,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "weather_name": "Clear",
+        "precipitation_probability": null,
+        "wind_speed_10m": 14.2,
+        "wind_direction_10m": 336.0
+      },
+      {
+        "time": "2019-12-01T20:00",
+        "temperature_2m": 24.0,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "weather_name": "Clear",
+        "precipitation_probability": null,
+        "wind_speed_10m": 10.0,
+        "wind_direction_10m": 334.0
+      },
+      {
+        "time": "2019-12-01T21:00",
+        "temperature_2m": 23.3,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "weather_name": "Clear",
+        "precipitation_probability": null,
+        "wind_speed_10m": 8.6,
+        "wind_direction_10m": 338.0
+      },
+      {
+        "time": "2019-12-01T22:00",
+        "temperature_2m": 22.5,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "weather_name": "Clear",
+        "precipitation_probability": null,
+        "wind_speed_10m": 8.3,
+        "wind_direction_10m": 2.0
+      },
+      {
+        "time": "2019-12-01T23:00",
+        "temperature_2m": 21.6,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "weather_code": 0,
+        "weather_name": "Clear",
+        "precipitation_probability": null,
+        "wind_speed_10m": 9.2,
+        "wind_direction_10m": 59.0
+      }
+    ]
+  },
+  "track_condition": "DRY",
+  "weather_impact": "LOW",
+  "weather_source": "Open-Meteo historical archive",
+  "temperature": 25.591666666666665,
+  "rain": 0.0,
+  "precipitation": 0.0,
+  "precipitation_probability": null,
+  "wind_speed": 13.691666666666665,
+  "wind_direction": 297.5,
+  "weather_reason": "Condition is classified from observed historical precipitation during the local race-day window; wind contributes to the impact label when available.",
+  "recommended_strategy": {
+    "Season": 2019,
+    "Race": "Abu Dhabi Grand Prix",
+    "Circuit": "Yas Island",
+    "Driver": "BOT",
+    "Team": "Mercedes",
+    "StrategyType": "1-STOP",
+    "Tyres": [
+      "MEDIUM",
+      "HARD"
+    ],
+    "Strategy": "MEDIUM → HARD",
+    "StintLengths": [
+      18,
+      37
+    ],
+    "PitLaps": [
+      18
+    ],
+    "FirstTyre": "MEDIUM",
+    "SecondTyre": "HARD",
+    "ThirdTyre": null,
+    "PitLap1": 18,
+    "PitLap2": null,
+    "EstimatedRaceTime": 5281.198617537116,
+    "PredictedLapTimeTotal": 5259.198617537116,
+    "PitStopCost": 22.0,
+    "DegradationImpact": 22.755766741037252,
+    "WeatherAdjustment": 0.0,
+    "StrategyPenalty": 0.1868498080072742,
+    "StrategyScore": 5281.385467345123,
+    "TyreUsage": {
+      "MEDIUM": 1,
+      "HARD": 1
+    },
+    "PhysicalConstraintsSatisfied": true,
+    "MLSupportProbability": 0.5855649224483523,
+    "MLTransitionProbabilities": [
+      {
+        "HARD": 0.5855649224483523,
+        "INTERMEDIATE": 0.06432377248784543,
+        "MEDIUM": 0.20877333355284491,
+        "SOFT": 0.13912609210639787,
+        "WET": 0.002211879404559456
+      }
+    ],
+    "MaxTyreAgeUtilization": 0.8222222222222222,
+    "MaxSetUtilization": 0.5
+  },
+  "strategy": "MEDIUM → HARD",
+  "strategy_type": "1-STOP",
+  "pit_laps": [
+    18
+  ],
+  "stint_lengths": [
+    18,
+    37
+  ],
+  "stints": [
+    "18 laps on MEDIUM",
+    "37 laps on HARD"
+  ],
+  "tyre_usage": {
+    "MEDIUM": 1,
+    "HARD": 1
+  },
+  "physical_constraints_satisfied": true,
+  "estimated_race_time": 5281.198617537116,
+  "first_lap_prediction": 106.39070966240952,
+  "pit_stop_cost": 22.0,
+  "degradation_impact": 22.755766741037252,
+  "weather_adjustment_seconds": 0.0,
+  "strategy_penalty": 0.1868498080072742,
+  "strategy_score": 5281.385467345123,
+  "confidence_score": 42.249557521978986,
+  "confidence_level": "LOW",
+  "confidence_factors": {
+    "historical_data_support": 4.12,
+    "lap_model_quality": 1.69,
+    "strategy_margin": 0.44,
+    "weather_certainty": 10.0,
+    "strategy_robustness": 3.07,
+    "ml_transition_support": 2.93,
+    "unsupported_wet_model_adjustment": 0.0,
+    "top_distinct_sequence_gap_seconds": 0.07
+  },
+  "ml_predicted_tyre": "HARD",
+  "ml_probabilities_fraction": {
+    "HARD": 0.5855649224483523,
+    "INTERMEDIATE": 0.06432377248784543,
+    "MEDIUM": 0.208773333552845,
+    "SOFT": 0.13912609210639787,
+    "WET": 0.002211879404559456
+  },
+  "ml_probabilities": {
+    "HARD": 58.556,
+    "INTERMEDIATE": 6.432,
+    "MEDIUM": 20.877,
+    "SOFT": 13.913,
+    "WET": 0.221
+  },
+  "ml_explanation": "The classifier supports the recommendation with P(HARD)=0.586. It does not override inventory checks.",
+  "model_metrics": {
+    "lap_time": {
+      "available": true,
+      "training_rows": 179886,
+      "evaluation_method": "temporal season holdout when multiple seasons are available; final model refit on all available data",
+      "held_out_season": 2025,
+      "MAE": 7.0979690951878665,
+      "RMSE": 10.502671035950314,
+      "R2": 0.3877351711677992,
+      "test_rows": 25878,
+      "test_races": [
+        "Abu Dhabi Grand Prix",
+        "Australian Grand Prix",
+        "Austrian Grand Prix",
+        "Azerbaijan Grand Prix",
+        "Bahrain Grand Prix",
+        "Belgian Grand Prix",
+        "British Grand Prix",
+        "Canadian Grand Prix",
+        "Chinese Grand Prix",
+        "Dutch Grand Prix",
+        "Emilia Romagna Grand Prix",
+        "Hungarian Grand Prix",
+        "Italian Grand Prix",
+        "Japanese Grand Prix",
+        "Las Vegas Grand Prix",
+        "Mexico City Grand Prix",
+        "Miami Grand Prix",
+        "Monaco Grand Prix",
+        "Qatar Grand Prix",
+        "Saudi Arabian Grand Prix",
+        "Singapore Grand Prix",
+        "Spanish Grand Prix",
+        "São Paulo Grand Prix",
+        "United States Grand Prix"
+      ],
+      "test_groups": 1238,
+      "test_seasons": [
+        2025
+      ]
+    },
+    "pit_stop": {
+      "available": true,
+      "training_rows": 5219,
+      "classes": [
+        "HARD",
+        "INTERMEDIATE",
+        "MEDIUM",
+        "SOFT",
+        "WET"
+      ],
+      "evaluation_method": "temporal season holdout; final model refit on all available data",
+      "held_out_season": 2025,
+      "accuracy": 0.5699067909454061,
+      "test_rows": 751,
+      "test_races": [
+        "Abu Dhabi Grand Prix",
+        "Australian Grand Prix",
+        "Austrian Grand Prix",
+        "Azerbaijan Grand Prix",
+        "Bahrain Grand Prix",
+        "Belgian Grand Prix",
+        "British Grand Prix",
+        "Canadian Grand Prix",
+        "Chinese Grand Prix",
+        "Dutch Grand Prix",
+        "Emilia Romagna Grand Prix",
+        "Hungarian Grand Prix",
+        "Italian Grand Prix",
+        "Japanese Grand Prix",
+        "Las Vegas Grand Prix",
+        "Mexico City Grand Prix",
+        "Miami Grand Prix",
+        "Monaco Grand Prix",
+        "Qatar Grand Prix",
+        "Saudi Arabian Grand Prix",
+        "Singapore Grand Prix",
+        "Spanish Grand Prix",
+        "São Paulo Grand Prix",
+        "United States Grand Prix"
+      ],
+      "test_seasons": [
+        "2025"
+      ]
+    }
+  },
+  "lap_prediction_sources": {
+    "SOFT": "Random Forest + historical tyre profile",
+    "MEDIUM": "Random Forest + historical tyre profile",
+    "HARD": "Random Forest + historical tyre profile",
+    "INTERMEDIATE": "Random Forest + historical tyre profile",
+    "WET": "Random Forest + historical tyre profile"
+  },
+  "tyre_performance": [
+    {
+      "Compound": "SOFT",
+      "DataPoints": 28342,
+      "CompoundOffset": 0.25449999999999307,
+      "OffsetSource": "historical",
+      "DegradationRate": 0.04499398968120631,
+      "DegradationSource": "historical",
+      "StintsUsed": 524,
+      "R2": 0.170628594893102
+    },
+    {
+      "Compound": "MEDIUM",
+      "DataPoints": 66649,
+      "CompoundOffset": 0.20950000000000557,
+      "OffsetSource": "historical",
+      "DegradationRate": 0.03300439057572186,
+      "DegradationSource": "historical",
+      "StintsUsed": 1089,
+      "R2": 0.15429971964542566
+    },
+    {
+      "Compound": "HARD",
+      "DataPoints": 75362,
+      "CompoundOffset": -0.26500000000000057,
+      "OffsetSource": "historical",
+      "DegradationRate": 0.02658572820263034,
+      "DegradationSource": "historical",
+      "StintsUsed": 961,
+      "R2": 0.14446894931676724
+    },
+    {
+      "Compound": "INTERMEDIATE",
+      "DataPoints": 8887,
+      "CompoundOffset": 0.9609999999999985,
+      "OffsetSource": "historical",
+      "DegradationRate": 0.08515341096716642,
+      "DegradationSource": "historical",
+      "StintsUsed": 66,
+      "R2": 0.035570528403596924
+    },
+    {
+      "Compound": "WET",
+      "DataPoints": 646,
+      "CompoundOffset": 15.099249999999998,
+      "OffsetSource": "historical",
+      "DegradationRate": null,
+      "DegradationSource": "unavailable",
+      "StintsUsed": 1,
+      "R2": 0.008998085933399902
+    }
+  ],
+  "degradation_rates": {
+    "SOFT": 0.04499398968120631,
+    "MEDIUM": 0.03300439057572186,
+    "HARD": 0.02658572820263034,
+    "INTERMEDIATE": 0.08515341096716642,
+    "WET": 0.05
+  },
+  "strategy_comparison": [
+    {
+      "Season": 2019,
+      "Race": "Abu Dhabi Grand Prix",
+      "Circuit": "Yas Island",
+      "Driver": "BOT",
+      "Team": "Mercedes",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        18,
+        37
+      ],
+      "PitLaps": [
+        18
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "PitLap1": 18,
+      "PitLap2": null,
+      "EstimatedRaceTime": 5281.198617537116,
+      "PredictedLapTimeTotal": 5259.198617537116,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 22.755766741037252,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.1868498080072742,
+      "StrategyScore": 5281.385467345123,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5855649224483523,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5855649224483523,
+          "INTERMEDIATE": 0.06432377248784543,
+          "MEDIUM": 0.20877333355284491,
+          "SOFT": 0.13912609210639787,
+          "WET": 0.002211879404559456
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8222222222222222,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2019,
+      "Race": "Abu Dhabi Grand Prix",
+      "Circuit": "Yas Island",
+      "Driver": "BOT",
+      "Team": "Mercedes",
+      "StrategyType": "2-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD → HARD",
+      "StintLengths": [
+        10,
+        22,
+        23
+      ],
+      "PitLaps": [
+        10,
+        32
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": "HARD",
+      "PitLap1": 10,
+      "PitLap2": 32.0,
+      "EstimatedRaceTime": 5312.535584239116,
+      "PredictedLapTimeTotal": 5268.535584239116,
+      "PitStopCost": 44.0,
+      "DegradationImpact": 14.352690025980568,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.35634450078643143,
+      "StrategyScore": 5312.891928739903,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 2
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.4485871406101958,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.579342911910461,
+          "INTERMEDIATE": 0.07688381698581385,
+          "MEDIUM": 0.20560084309879714,
+          "SOFT": 0.13670138235225215,
+          "WET": 0.0014710456526759806
+        },
+        {
+          "HARD": 0.31783136930993067,
+          "INTERMEDIATE": 0.09215295328138567,
+          "MEDIUM": 0.3737931335596336,
+          "SOFT": 0.20608714680665235,
+          "WET": 0.010135397042397597
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.5111111111111111,
+      "MaxSetUtilization": 1.0
+    }
+  ],
+  "top_feasible_strategies": [
+    {
+      "Season": 2019,
+      "Race": "Abu Dhabi Grand Prix",
+      "Circuit": "Yas Island",
+      "Driver": "BOT",
+      "Team": "Mercedes",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        18,
+        37
+      ],
+      "PitLaps": [
+        18
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "PitLap1": 18,
+      "PitLap2": null,
+      "EstimatedRaceTime": 5281.198617537116,
+      "PredictedLapTimeTotal": 5259.198617537116,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 22.755766741037252,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.1868498080072742,
+      "StrategyScore": 5281.385467345123,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5855649224483523,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5855649224483523,
+          "INTERMEDIATE": 0.06432377248784543,
+          "MEDIUM": 0.20877333355284491,
+          "SOFT": 0.13912609210639787,
+          "WET": 0.002211879404559456
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8222222222222222,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2019,
+      "Race": "Abu Dhabi Grand Prix",
+      "Circuit": "Yas Island",
+      "Driver": "BOT",
+      "Team": "Mercedes",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        17,
+        38
+      ],
+      "PitLaps": [
+        17
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "PitLap1": 17,
+      "PitLap2": null,
+      "EstimatedRaceTime": 5281.180451593413,
+      "PredictedLapTimeTotal": 5259.180451593413,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 23.178364044747305,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.20699795615542238,
+      "StrategyScore": 5281.387449549568,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5855649224483523,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5855649224483523,
+          "INTERMEDIATE": 0.06432377248784543,
+          "MEDIUM": 0.20877333355284491,
+          "SOFT": 0.13912609210639787,
+          "WET": 0.002211879404559456
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8444444444444444,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2019,
+      "Race": "Abu Dhabi Grand Prix",
+      "Circuit": "Yas Island",
+      "Driver": "BOT",
+      "Team": "Mercedes",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        19,
+        36
+      ],
+      "PitLaps": [
+        19
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "PitLap1": 19,
+      "PitLap2": null,
+      "EstimatedRaceTime": 5281.237640022389,
+      "PredictedLapTimeTotal": 5259.237640022389,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 22.392759556105553,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.1706522771430767,
+      "StrategyScore": 5281.408292299532,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5855649224483523,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5855649224483523,
+          "INTERMEDIATE": 0.06432377248784543,
+          "MEDIUM": 0.20877333355284491,
+          "SOFT": 0.13912609210639787,
+          "WET": 0.002211879404559456
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2019,
+      "Race": "Abu Dhabi Grand Prix",
+      "Circuit": "Yas Island",
+      "Driver": "BOT",
+      "Team": "Mercedes",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        16,
+        39
+      ],
+      "PitLaps": [
+        16
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "PitLap1": 16,
+      "PitLap2": null,
+      "EstimatedRaceTime": 5281.183142191284,
+      "PredictedLapTimeTotal": 5259.183142191284,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 23.660551467235706,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.23109672158752118,
+      "StrategyScore": 5281.414238912871,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5855649224483523,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5855649224483523,
+          "INTERMEDIATE": 0.06432377248784543,
+          "MEDIUM": 0.20877333355284491,
+          "SOFT": 0.13912609210639787,
+          "WET": 0.002211879404559456
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8666666666666667,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2019,
+      "Race": "Abu Dhabi Grand Prix",
+      "Circuit": "Yas Island",
+      "Driver": "BOT",
+      "Team": "Mercedes",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        20,
+        35
+      ],
+      "PitLaps": [
+        20
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "PitLap1": 20,
+      "PitLap2": null,
+      "EstimatedRaceTime": 5281.297519049235,
+      "PredictedLapTimeTotal": 5259.297519049235,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 22.089342489952205,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.15785986702156188,
+      "StrategyScore": 5281.455378916256,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.587123483994832,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.587123483994832,
+          "INTERMEDIATE": 0.06432377248784543,
+          "MEDIUM": 0.2072709171783543,
+          "SOFT": 0.13906994693440888,
+          "WET": 0.002211879404559456
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7777777777777778,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2019,
+      "Race": "Abu Dhabi Grand Prix",
+      "Circuit": "Yas Island",
+      "Driver": "BOT",
+      "Team": "Mercedes",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "HARD",
+        "MEDIUM"
+      ],
+      "Strategy": "HARD → MEDIUM",
+      "StintLengths": [
+        37,
+        18
+      ],
+      "PitLaps": [
+        37
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": null,
+      "PitLap1": 37,
+      "PitLap2": null,
+      "EstimatedRaceTime": 5281.198617537118,
+      "PredictedLapTimeTotal": 5259.198617537118,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 22.755766741037252,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.2570511354533058,
+      "StrategyScore": 5281.455668672571,
+      "TyreUsage": {
+        "HARD": 1,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.3849897011739762,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.23483914896121036,
+          "INTERMEDIATE": 0.09938269278826053,
+          "MEDIUM": 0.3849897011739762,
+          "SOFT": 0.2691877185458782,
+          "WET": 0.011600738530674863
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8222222222222222,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2019,
+      "Race": "Abu Dhabi Grand Prix",
+      "Circuit": "Yas Island",
+      "Driver": "BOT",
+      "Team": "Mercedes",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "HARD",
+        "MEDIUM"
+      ],
+      "Strategy": "HARD → MEDIUM",
+      "StintLengths": [
+        38,
+        17
+      ],
+      "PitLaps": [
+        38
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": null,
+      "PitLap1": 38,
+      "PitLap2": null,
+      "EstimatedRaceTime": 5281.1804515934155,
+      "PredictedLapTimeTotal": 5259.1804515934155,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 23.178364044747305,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.27802285382558106,
+      "StrategyScore": 5281.458474447241,
+      "TyreUsage": {
+        "HARD": 1,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.3826366433907561,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.23172399780343822,
+          "INTERMEDIATE": 0.10042723464772196,
+          "MEDIUM": 0.3826366433907561,
+          "SOFT": 0.27361138562740905,
+          "WET": 0.011600738530674863
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8444444444444444,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2019,
+      "Race": "Abu Dhabi Grand Prix",
+      "Circuit": "Yas Island",
+      "Driver": "BOT",
+      "Team": "Mercedes",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        15,
+        40
+      ],
+      "PitLaps": [
+        15
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "PitLap1": 15,
+      "PitLap2": null,
+      "EstimatedRaceTime": 5281.206689330728,
+      "PredictedLapTimeTotal": 5259.206689330728,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 24.20232900850246,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.25914610430357043,
+      "StrategyScore": 5281.465835435032,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5855649224483523,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5855649224483523,
+          "INTERMEDIATE": 0.06432377248784543,
+          "MEDIUM": 0.20877333355284491,
+          "SOFT": 0.13912609210639787,
+          "WET": 0.002211879404559456
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8888888888888888,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2019,
+      "Race": "Abu Dhabi Grand Prix",
+      "Circuit": "Yas Island",
+      "Driver": "BOT",
+      "Team": "Mercedes",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "HARD",
+        "MEDIUM"
+      ],
+      "Strategy": "HARD → MEDIUM",
+      "StintLengths": [
+        36,
+        19
+      ],
+      "PitLaps": [
+        36
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": null,
+      "PitLap1": 36,
+      "PitLap2": null,
+      "EstimatedRaceTime": 5281.237640022391,
+      "PredictedLapTimeTotal": 5259.237640022391,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 22.392759556105553,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.2334630453742914,
+      "StrategyScore": 5281.471103067765,
+      "TyreUsage": {
+        "HARD": 1,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.40610558464488183,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.2653180620719636,
+          "INTERMEDIATE": 0.09455687321865554,
+          "MEDIUM": 0.40610558464488183,
+          "SOFT": 0.22388408302210155,
+          "WET": 0.010135397042397597
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2019,
+      "Race": "Abu Dhabi Grand Prix",
+      "Circuit": "Yas Island",
+      "Driver": "BOT",
+      "Team": "Mercedes",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "HARD",
+        "MEDIUM"
+      ],
+      "Strategy": "HARD → MEDIUM",
+      "StintLengths": [
+        39,
+        16
+      ],
+      "PitLaps": [
+        39
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": null,
+      "PitLap1": 39,
+      "PitLap2": null,
+      "EstimatedRaceTime": 5281.183142191287,
+      "PredictedLapTimeTotal": 5259.183142191287,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 23.660551467235706,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.30379327761601277,
+      "StrategyScore": 5281.486935468903,
+      "TyreUsage": {
+        "HARD": 1,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.3778604766526621,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.22554976162231766,
+          "INTERMEDIATE": 0.10059758085511787,
+          "MEDIUM": 0.3778604766526621,
+          "SOFT": 0.2843914423392278,
+          "WET": 0.011600738530674863
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8666666666666667,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2019,
+      "Race": "Abu Dhabi Grand Prix",
+      "Circuit": "Yas Island",
+      "Driver": "BOT",
+      "Team": "Mercedes",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "HARD",
+        "MEDIUM"
+      ],
+      "Strategy": "HARD → MEDIUM",
+      "StintLengths": [
+        35,
+        20
+      ],
+      "PitLaps": [
+        35
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": null,
+      "PitLap1": 35,
+      "PitLap2": null,
+      "EstimatedRaceTime": 5281.297519049238,
+      "PredictedLapTimeTotal": 5259.297519049238,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 22.089342489952205,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.21964363992066052,
+      "StrategyScore": 5281.517162689159,
+      "TyreUsage": {
+        "HARD": 1,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.41059841856883594,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.26876924941738173,
+          "INTERMEDIATE": 0.0928258086923658,
+          "MEDIUM": 0.41059841856883594,
+          "SOFT": 0.21767112627901905,
+          "WET": 0.010135397042397597
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7777777777777778,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2019,
+      "Race": "Abu Dhabi Grand Prix",
+      "Circuit": "Yas Island",
+      "Driver": "BOT",
+      "Team": "Mercedes",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        21,
+        34
+      ],
+      "PitLaps": [
+        21
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "PitLap1": 21,
+      "PitLap2": null,
+      "EstimatedRaceTime": 5281.378254617655,
+      "PredictedLapTimeTotal": 5259.378254617655,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 21.84551554257721,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.14956357072526555,
+      "StrategyScore": 5281.5278181883805,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.587123483994832,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.587123483994832,
+          "INTERMEDIATE": 0.06432377248784543,
+          "MEDIUM": 0.2072709171783543,
+          "SOFT": 0.13906994693440888,
+          "WET": 0.002211879404559456
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7555555555555555,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2019,
+      "Race": "Abu Dhabi Grand Prix",
+      "Circuit": "Yas Island",
+      "Driver": "BOT",
+      "Team": "Mercedes",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        14,
+        41
+      ],
+      "PitLaps": [
+        14
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "PitLap1": 14,
+      "PitLap2": null,
+      "EstimatedRaceTime": 5281.251093011744,
+      "PredictedLapTimeTotal": 5259.251093011744,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 24.80369666854757,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.2911461043035705,
+      "StrategyScore": 5281.542239116047,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5855649224483523,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5855649224483523,
+          "INTERMEDIATE": 0.06432377248784543,
+          "MEDIUM": 0.20877333355284491,
+          "SOFT": 0.13912609210639787,
+          "WET": 0.002211879404559456
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.9111111111111111,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2019,
+      "Race": "Abu Dhabi Grand Prix",
+      "Circuit": "Yas Island",
+      "Driver": "BOT",
+      "Team": "Mercedes",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "HARD",
+        "MEDIUM"
+      ],
+      "Strategy": "HARD → MEDIUM",
+      "StintLengths": [
+        40,
+        15
+      ],
+      "PitLaps": [
+        40
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": null,
+      "PitLap1": 40,
+      "PitLap2": null,
+      "EstimatedRaceTime": 5281.206689330729,
+      "PredictedLapTimeTotal": 5259.206689330729,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 24.20232900850246,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.34386244037720404,
+      "StrategyScore": 5281.550551771106,
+      "TyreUsage": {
+        "HARD": 1,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.3435182479522564,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.1995989906337597,
+          "INTERMEDIATE": 0.09668723219745996,
+          "MEDIUM": 0.3435182479522564,
+          "SOFT": 0.3442162596124029,
+          "WET": 0.015979269604121195
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8888888888888888,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2019,
+      "Race": "Abu Dhabi Grand Prix",
+      "Circuit": "Yas Island",
+      "Driver": "BOT",
+      "Team": "Mercedes",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "HARD",
+        "MEDIUM"
+      ],
+      "Strategy": "HARD → MEDIUM",
+      "StintLengths": [
+        34,
+        21
+      ],
+      "PitLaps": [
+        34
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": null,
+      "PitLap1": 34,
+      "PitLap2": null,
+      "EstimatedRaceTime": 5281.378254617657,
+      "PredictedLapTimeTotal": 5259.378254617657,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 21.84551554257721,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.21083240761457928,
+      "StrategyScore": 5281.5890870252715,
+      "TyreUsage": {
+        "HARD": 1,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.41206966431107866,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.28074843486509704,
+          "INTERMEDIATE": 0.09039503346690529,
+          "MEDIUM": 0.41206966431107866,
+          "SOFT": 0.20665147031452147,
+          "WET": 0.010135397042397597
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7555555555555555,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2019,
+      "Race": "Abu Dhabi Grand Prix",
+      "Circuit": "Yas Island",
+      "Driver": "BOT",
+      "Team": "Mercedes",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        22,
+        33
+      ],
+      "PitLaps": [
+        22
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "PitLap1": 22,
+      "PitLap2": null,
+      "EstimatedRaceTime": 5281.479846727646,
+      "PredictedLapTimeTotal": 5259.479846727646,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 21.66127871398057,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.14421789171291988,
+      "StrategyScore": 5281.624064619359,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5899806268519749,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5899806268519749,
+          "INTERMEDIATE": 0.0641939023579753,
+          "MEDIUM": 0.2052903976978348,
+          "SOFT": 0.1383231936876556,
+          "WET": 0.002211879404559456
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7333333333333333,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2019,
+      "Race": "Abu Dhabi Grand Prix",
+      "Circuit": "Yas Island",
+      "Driver": "BOT",
+      "Team": "Mercedes",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "HARD",
+        "MEDIUM"
+      ],
+      "Strategy": "HARD → MEDIUM",
+      "StintLengths": [
+        41,
+        14
+      ],
+      "PitLaps": [
+        41
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": null,
+      "PitLap1": 41,
+      "PitLap2": null,
+      "EstimatedRaceTime": 5281.251093011745,
+      "PredictedLapTimeTotal": 5259.251093011745,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 24.80369666854757,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.3797590399451931,
+      "StrategyScore": 5281.63085205169,
+      "TyreUsage": {
+        "HARD": 1,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.33238510632943047,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.18326153143469065,
+          "INTERMEDIATE": 0.10335569724842182,
+          "MEDIUM": 0.33238510632943047,
+          "SOFT": 0.35999002211725767,
+          "WET": 0.02100764287019938
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.9111111111111111,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2019,
+      "Race": "Abu Dhabi Grand Prix",
+      "Circuit": "Yas Island",
+      "Driver": "BOT",
+      "Team": "Mercedes",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        13,
+        42
+      ],
+      "PitLaps": [
+        13
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "PitLap1": 13,
+      "PitLap2": null,
+      "EstimatedRaceTime": 5281.316353234332,
+      "PredictedLapTimeTotal": 5259.316353234332,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 25.46465444737103,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.3276542458873519,
+      "StrategyScore": 5281.644007480219,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5839719958774074,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5839719958774074,
+          "INTERMEDIATE": 0.0686024275773119,
+          "MEDIUM": 0.20741699288157717,
+          "SOFT": 0.137796704259144,
+          "WET": 0.002211879404559456
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.9333333333333333,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2019,
+      "Race": "Abu Dhabi Grand Prix",
+      "Circuit": "Yas Island",
+      "Driver": "BOT",
+      "Team": "Mercedes",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "HARD",
+        "MEDIUM"
+      ],
+      "Strategy": "HARD → MEDIUM",
+      "StintLengths": [
+        33,
+        22
+      ],
+      "PitLaps": [
+        33
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": null,
+      "PitLap1": 33,
+      "PitLap2": null,
+      "EstimatedRaceTime": 5281.479846727649,
+      "PredictedLapTimeTotal": 5259.479846727649,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 21.66127871398057,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.20648672860223358,
+      "StrategyScore": 5281.686333456251,
+      "TyreUsage": {
+        "HARD": 1,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.41206966431107866,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.28074843486509704,
+          "INTERMEDIATE": 0.09039503346690529,
+          "MEDIUM": 0.41206966431107866,
+          "SOFT": 0.20665147031452147,
+          "WET": 0.010135397042397597
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7333333333333333,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2019,
+      "Race": "Abu Dhabi Grand Prix",
+      "Circuit": "Yas Island",
+      "Driver": "BOT",
+      "Team": "Mercedes",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "HARD",
+        "MEDIUM"
+      ],
+      "Strategy": "HARD → MEDIUM",
+      "StintLengths": [
+        42,
+        13
+      ],
+      "PitLaps": [
+        42
+      ],
+      "FirstTyre": "HARD",
+      "SecondTyre": "MEDIUM",
+      "ThirdTyre": null,
+      "PitLap1": 42,
+      "PitLap2": null,
+      "EstimatedRaceTime": 5281.316353234333,
+      "PredictedLapTimeTotal": 5259.316353234333,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 25.46465444737103,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.4178977452611493,
+      "StrategyScore": 5281.734250979594,
+      "TyreUsage": {
+        "HARD": 1,
+        "MEDIUM": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.32613342623798613,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.17680988116384802,
+          "INTERMEDIATE": 0.1060478052271631,
+          "MEDIUM": 0.32613342623798613,
+          "SOFT": 0.3700012445008034,
+          "WET": 0.02100764287019938
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.9333333333333333,
+      "MaxSetUtilization": 0.5
+    }
+  ],
+  "feasible_candidate_count": 6330,
+  "pit_loss_seconds_per_stop": 22.0,
+  "reason": "MEDIUM → HARD is the lowest-scoring feasible plan in 6,330 simulated candidates for Valtteri Bottas at Yas Island in 2019. It uses 1 pit stop(s) with stint lengths 18, 37; the estimate includes a 22-second loss per stop and the fitted tyre degradation. The physical set, dry-compound-diversity, and tyre-age constraints passed before ranking. The next-ranked candidate scores 0.00 seconds higher. Lap-time estimates blend the Random Forest with historical tyre profiles.",
+  "dry_strategy": "MEDIUM → HARD",
+  "weather_strategy": "MEDIUM → HARD",
+  "preferred_strategy": "1-STOP",
+  "primary_tyre": "MEDIUM",
+  "backup_tyre": "HARD",
+  "pit_lap_1": 18,
+  "pit_lap_2": null,
+  "weather_pit_lap_1": 18,
+  "one_stop_strategy": "MEDIUM → HARD",
+  "one_stop_time": 5281.198617537116,
+  "two_stop_strategy": "MEDIUM → HARD → HARD",
+  "two_stop_time": 5312.535584239116,
+  "strategy_score_difference": 31.506461394779762
+}

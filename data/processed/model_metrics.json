@@ -1,0 +1,138 @@
+{
+  "lap_time": {
+    "available": true,
+    "training_rows": 175577,
+    "evaluation_method": "temporal season holdout when multiple seasons are available; final model refit on all available data",
+    "held_out_season": 2025,
+    "MAE": 7.260098274111618,
+    "RMSE": 10.528439780755374,
+    "R2": 0.3847270504330269,
+    "baseline": {
+      "name": "training-set historical median lap time",
+      "MAE": 10.648814359687766,
+      "RMSE": 13.484308337891894,
+      "R2": -0.009246231227955537
+    },
+    "test_rows": 25878,
+    "test_races": [
+      "Abu Dhabi Grand Prix",
+      "Australian Grand Prix",
+      "Austrian Grand Prix",
+      "Azerbaijan Grand Prix",
+      "Bahrain Grand Prix",
+      "Belgian Grand Prix",
+      "British Grand Prix",
+      "Canadian Grand Prix",
+      "Chinese Grand Prix",
+      "Dutch Grand Prix",
+      "Emilia Romagna Grand Prix",
+      "Hungarian Grand Prix",
+      "Italian Grand Prix",
+      "Japanese Grand Prix",
+      "Las Vegas Grand Prix",
+      "Mexico City Grand Prix",
+      "Miami Grand Prix",
+      "Monaco Grand Prix",
+      "Qatar Grand Prix",
+      "Saudi Arabian Grand Prix",
+      "Singapore Grand Prix",
+      "Spanish Grand Prix",
+      "S\u00e3o Paulo Grand Prix",
+      "United States Grand Prix"
+    ],
+    "test_groups": 1238,
+    "test_seasons": [
+      2025
+    ]
+  },
+  "pit_stop": {
+    "available": true,
+    "training_rows": 5089,
+    "classes": [
+      "HARD",
+      "INTERMEDIATE",
+      "MEDIUM",
+      "SOFT",
+      "WET"
+    ],
+    "evaluation_method": "temporal season holdout; final model refit on all available data",
+    "held_out_season": 2025,
+    "accuracy": 0.5525965379494008,
+    "baseline_accuracy": 0.4274300932090546,
+    "baseline_name": "most common training-set next tyre",
+    "confusion_matrix": [
+      [
+        206,
+        20,
+        47,
+        48,
+        0
+      ],
+      [
+        2,
+        10,
+        4,
+        14,
+        0
+      ],
+      [
+        35,
+        39,
+        119,
+        72,
+        3
+      ],
+      [
+        33,
+        5,
+        14,
+        80,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "confusion_matrix_labels": [
+      "HARD",
+      "INTERMEDIATE",
+      "MEDIUM",
+      "SOFT",
+      "WET"
+    ],
+    "test_rows": 751,
+    "test_races": [
+      "Abu Dhabi Grand Prix",
+      "Australian Grand Prix",
+      "Austrian Grand Prix",
+      "Azerbaijan Grand Prix",
+      "Bahrain Grand Prix",
+      "Belgian Grand Prix",
+      "British Grand Prix",
+      "Canadian Grand Prix",
+      "Chinese Grand Prix",
+      "Dutch Grand Prix",
+      "Emilia Romagna Grand Prix",
+      "Hungarian Grand Prix",
+      "Italian Grand Prix",
+      "Japanese Grand Prix",
+      "Las Vegas Grand Prix",
+      "Mexico City Grand Prix",
+      "Miami Grand Prix",
+      "Monaco Grand Prix",
+      "Qatar Grand Prix",
+      "Saudi Arabian Grand Prix",
+      "Singapore Grand Prix",
+      "Spanish Grand Prix",
+      "S\u00e3o Paulo Grand Prix",
+      "United States Grand Prix"
+    ],
+    "test_seasons": [
+      "2025"
+    ]
+  }
+}

@@ -1,0 +1,433 @@
+Season,Round,Race,EventName,OfficialEventName,Circuit,Country,Location,EventDate,RaceLaps,Driver,DriverName,DriverNumber,Team,Compound,LapNumber,TyreLife,Stint,LapTime,IsAccurate,Deleted,TrackStatus
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,INTERMEDIATE,1.0,1.0,1.0,122.046,False,,124
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,WET,6.0,4.0,2.0,110.761,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,WET,7.0,5.0,2.0,112.865,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,INTERMEDIATE,8.0,1.0,3.0,130.625,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,INTERMEDIATE,9.0,2.0,3.0,105.148,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,INTERMEDIATE,10.0,3.0,3.0,104.911,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,INTERMEDIATE,11.0,4.0,3.0,105.011,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,INTERMEDIATE,12.0,5.0,3.0,105.403,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,INTERMEDIATE,13.0,6.0,3.0,105.802,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,INTERMEDIATE,14.0,7.0,3.0,106.813,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,INTERMEDIATE,15.0,8.0,3.0,107.348,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,INTERMEDIATE,16.0,9.0,3.0,107.516,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,INTERMEDIATE,17.0,10.0,3.0,107.416,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,INTERMEDIATE,18.0,11.0,3.0,107.598,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,INTERMEDIATE,19.0,12.0,3.0,107.654,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,INTERMEDIATE,20.0,13.0,3.0,107.742,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,INTERMEDIATE,21.0,14.0,3.0,107.563,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,INTERMEDIATE,22.0,15.0,3.0,107.35,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,INTERMEDIATE,23.0,16.0,3.0,107.651,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,INTERMEDIATE,24.0,17.0,3.0,107.582,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,INTERMEDIATE,25.0,18.0,3.0,107.794,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,INTERMEDIATE,26.0,19.0,3.0,107.991,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,INTERMEDIATE,27.0,20.0,3.0,108.249,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VER,Max Verstappen,1,Red Bull Racing,INTERMEDIATE,28.0,21.0,3.0,108.944,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,1.0,1.0,1.0,169.982,False,,124
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,WET,6.0,4.0,3.0,117.895,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,WET,7.0,5.0,3.0,117.813,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,8.0,1.0,4.0,131.737,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,9.0,2.0,4.0,109.38,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,10.0,3.0,4.0,108.87,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,11.0,4.0,4.0,107.854,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,12.0,5.0,4.0,109.115,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,13.0,6.0,4.0,109.131,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,14.0,7.0,4.0,110.338,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,15.0,8.0,4.0,109.763,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,16.0,9.0,4.0,110.492,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,17.0,10.0,4.0,110.916,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,18.0,11.0,4.0,110.802,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,19.0,12.0,4.0,113.384,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,20.0,1.0,5.0,127.438,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,21.0,2.0,5.0,105.592,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,22.0,3.0,5.0,105.387,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,23.0,4.0,5.0,106.686,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,24.0,5.0,5.0,108.888,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,25.0,6.0,5.0,108.189,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,26.0,7.0,5.0,109.689,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,27.0,8.0,5.0,110.958,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,GAS,Pierre Gasly,10,AlphaTauri,INTERMEDIATE,28.0,9.0,5.0,109.735,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,1.0,1.0,1.0,127.539,False,,124
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,WET,6.0,4.0,2.0,113.662,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,WET,7.0,5.0,2.0,114.053,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,8.0,1.0,3.0,131.551,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,9.0,2.0,3.0,107.73,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,10.0,3.0,3.0,107.088,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,11.0,4.0,3.0,106.12,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,12.0,5.0,3.0,106.165,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,13.0,6.0,3.0,107.12,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,14.0,7.0,3.0,107.253,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,15.0,8.0,3.0,107.387,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,16.0,9.0,3.0,107.885,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,17.0,10.0,3.0,108.246,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,18.0,11.0,3.0,108.133,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,19.0,12.0,3.0,108.126,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,20.0,13.0,3.0,107.338,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,21.0,14.0,3.0,108.221,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,22.0,15.0,3.0,107.591,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,23.0,16.0,3.0,108.819,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,24.0,17.0,3.0,109.857,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,25.0,18.0,3.0,109.165,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,26.0,19.0,3.0,109.258,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,27.0,20.0,3.0,109.491,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,PER,Sergio Perez,11,Red Bull Racing,INTERMEDIATE,28.0,21.0,3.0,110.319,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,1.0,1.0,1.0,139.009,False,,124
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,WET,6.0,4.0,2.0,116.3,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,WET,7.0,5.0,2.0,113.315,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,WET,8.0,6.0,2.0,112.739,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,9.0,1.0,3.0,132.203,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,10.0,2.0,3.0,108.497,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,11.0,3.0,3.0,109.226,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,12.0,4.0,3.0,106.995,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,13.0,5.0,3.0,106.965,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,14.0,6.0,3.0,106.677,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,15.0,7.0,3.0,107.525,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,16.0,8.0,3.0,108.376,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,17.0,9.0,3.0,108.726,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,18.0,10.0,3.0,108.852,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,19.0,11.0,3.0,108.965,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,20.0,12.0,3.0,109.103,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,21.0,13.0,3.0,109.038,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,22.0,14.0,3.0,111.629,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,23.0,1.0,4.0,125.304,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,24.0,2.0,4.0,104.469,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,25.0,3.0,4.0,104.412,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,26.0,4.0,4.0,105.047,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,27.0,5.0,4.0,106.296,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ALO,Fernando Alonso,14,Alpine,INTERMEDIATE,28.0,6.0,4.0,108.054,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,INTERMEDIATE,1.0,1.0,1.0,124.571,False,,124
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,WET,6.0,4.0,2.0,111.393,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,WET,7.0,5.0,2.0,112.863,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,INTERMEDIATE,8.0,1.0,3.0,132.483,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,INTERMEDIATE,9.0,2.0,3.0,106.672,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,INTERMEDIATE,10.0,3.0,3.0,104.489,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,INTERMEDIATE,11.0,4.0,3.0,105.481,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,INTERMEDIATE,12.0,5.0,3.0,106.628,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,INTERMEDIATE,13.0,6.0,3.0,107.272,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,INTERMEDIATE,14.0,7.0,3.0,108.247,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,INTERMEDIATE,15.0,8.0,3.0,108.731,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,INTERMEDIATE,16.0,9.0,3.0,108.44,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,INTERMEDIATE,17.0,10.0,3.0,108.644,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,INTERMEDIATE,18.0,11.0,3.0,108.678,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,INTERMEDIATE,19.0,12.0,3.0,108.31,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,INTERMEDIATE,20.0,13.0,3.0,108.442,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,INTERMEDIATE,21.0,14.0,3.0,108.844,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,INTERMEDIATE,22.0,15.0,3.0,108.618,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,INTERMEDIATE,23.0,16.0,3.0,109.122,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,INTERMEDIATE,24.0,17.0,3.0,110.087,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,INTERMEDIATE,25.0,18.0,3.0,109.001,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,INTERMEDIATE,26.0,19.0,3.0,109.523,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,INTERMEDIATE,27.0,20.0,3.0,109.229,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LEC,Charles Leclerc,16,Ferrari,INTERMEDIATE,28.0,21.0,3.0,110.666,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,1.0,1.0,1.0,150.337,False,,124
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,WET,6.0,4.0,2.0,120.467,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,WET,7.0,5.0,2.0,118.562,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,8.0,1.0,3.0,130.741,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,9.0,2.0,3.0,108.388,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,10.0,3.0,3.0,108.474,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,11.0,4.0,3.0,109.142,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,12.0,5.0,3.0,109.389,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,13.0,6.0,3.0,108.6,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,14.0,7.0,3.0,109.289,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,15.0,8.0,3.0,109.281,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,16.0,9.0,3.0,109.813,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,17.0,10.0,3.0,109.852,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,18.0,11.0,3.0,110.399,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,19.0,12.0,3.0,112.859,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,20.0,1.0,4.0,125.88,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,21.0,2.0,4.0,105.205,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,22.0,3.0,4.0,107.493,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,23.0,4.0,4.0,107.396,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,24.0,5.0,4.0,107.181,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,25.0,6.0,4.0,107.304,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,26.0,7.0,4.0,108.102,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,27.0,8.0,4.0,109.672,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,STR,Lance Stroll,18,Aston Martin,INTERMEDIATE,28.0,9.0,4.0,109.611,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,INTERMEDIATE,1.0,1.0,1.0,152.254,False,,124
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,WET,6.0,4.0,2.0,118.579,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,WET,7.0,5.0,2.0,118.331,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,INTERMEDIATE,8.0,1.0,3.0,133.938,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,INTERMEDIATE,9.0,2.0,3.0,111.148,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,INTERMEDIATE,10.0,3.0,3.0,108.072,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,INTERMEDIATE,11.0,4.0,3.0,108.123,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,INTERMEDIATE,12.0,5.0,3.0,109.322,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,INTERMEDIATE,13.0,6.0,3.0,109.35,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,INTERMEDIATE,14.0,7.0,3.0,109.649,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,INTERMEDIATE,15.0,8.0,3.0,109.655,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,INTERMEDIATE,16.0,9.0,3.0,110.801,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,INTERMEDIATE,17.0,10.0,3.0,110.282,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,INTERMEDIATE,18.0,11.0,3.0,110.493,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,INTERMEDIATE,19.0,12.0,3.0,110.283,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,INTERMEDIATE,20.0,13.0,3.0,110.514,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,INTERMEDIATE,21.0,14.0,3.0,110.526,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,INTERMEDIATE,22.0,15.0,3.0,110.634,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,INTERMEDIATE,23.0,16.0,3.0,110.168,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,INTERMEDIATE,24.0,17.0,3.0,112.046,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,INTERMEDIATE,25.0,18.0,3.0,111.458,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,INTERMEDIATE,26.0,19.0,3.0,110.432,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,INTERMEDIATE,27.0,20.0,3.0,110.317,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MAG,Kevin Magnussen,20,Haas F1 Team,INTERMEDIATE,28.0,21.0,3.0,110.125,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,1.0,1.0,1.0,147.133,False,,124
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,WET,6.0,4.0,2.0,119.016,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,WET,7.0,5.0,2.0,118.102,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,8.0,1.0,3.0,131.821,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,9.0,2.0,3.0,108.188,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,10.0,3.0,3.0,108.667,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,11.0,4.0,3.0,109.599,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,12.0,5.0,3.0,108.769,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,13.0,6.0,3.0,108.535,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,14.0,7.0,3.0,108.974,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,15.0,8.0,3.0,110.662,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,16.0,9.0,3.0,110.166,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,17.0,10.0,3.0,110.093,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,18.0,11.0,3.0,110.158,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,19.0,12.0,3.0,110.089,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,20.0,13.0,3.0,112.768,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,21.0,1.0,4.0,128.07,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,22.0,2.0,4.0,105.893,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,23.0,3.0,4.0,107.606,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,24.0,4.0,4.0,107.919,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,25.0,5.0,4.0,109.217,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,26.0,6.0,4.0,107.094,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,27.0,7.0,4.0,107.181,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,TSU,Yuki Tsunoda,22,AlphaTauri,INTERMEDIATE,28.0,8.0,4.0,107.639,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,INTERMEDIATE,1.0,1.0,1.0,167.346,False,,124
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,WET,6.0,4.0,2.0,117.862,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,WET,7.0,5.0,2.0,114.06,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,WET,8.0,6.0,2.0,113.826,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,WET,9.0,7.0,2.0,115.996,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,INTERMEDIATE,10.0,1.0,3.0,130.761,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,INTERMEDIATE,11.0,2.0,3.0,106.008,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,INTERMEDIATE,12.0,3.0,3.0,106.748,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,INTERMEDIATE,13.0,4.0,3.0,107.972,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,INTERMEDIATE,14.0,5.0,3.0,109.791,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,INTERMEDIATE,15.0,6.0,3.0,109.907,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,INTERMEDIATE,16.0,7.0,3.0,110.717,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,INTERMEDIATE,17.0,8.0,3.0,111.073,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,INTERMEDIATE,18.0,9.0,3.0,113.531,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,INTERMEDIATE,19.0,1.0,4.0,127.171,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,INTERMEDIATE,20.0,2.0,4.0,104.411,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,INTERMEDIATE,21.0,3.0,4.0,106.464,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,INTERMEDIATE,22.0,4.0,4.0,106.607,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,INTERMEDIATE,23.0,5.0,4.0,107.907,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,INTERMEDIATE,24.0,6.0,4.0,110.415,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,INTERMEDIATE,25.0,7.0,4.0,107.595,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,INTERMEDIATE,26.0,8.0,4.0,110.343,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,INTERMEDIATE,27.0,9.0,4.0,110.38,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,ZHO,Guanyu Zhou,24,Alfa Romeo,INTERMEDIATE,28.0,10.0,4.0,109.847,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,1.0,1.0,1.0,144.913,False,,124
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,WET,6.0,4.0,2.0,118.762,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,WET,7.0,5.0,2.0,114.988,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,WET,8.0,6.0,2.0,115.504,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,9.0,1.0,3.0,134.512,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,10.0,2.0,3.0,108.046,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,11.0,3.0,3.0,107.843,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,12.0,4.0,3.0,108.404,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,13.0,5.0,3.0,108.845,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,14.0,6.0,3.0,109.269,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,15.0,7.0,3.0,109.927,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,16.0,8.0,3.0,110.509,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,17.0,9.0,3.0,110.327,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,18.0,10.0,3.0,110.202,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,19.0,11.0,3.0,110.807,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,20.0,12.0,3.0,109.513,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,21.0,13.0,3.0,109.453,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,22.0,14.0,3.0,109.177,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,23.0,15.0,3.0,109.707,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,24.0,16.0,3.0,109.624,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,25.0,17.0,3.0,109.437,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,26.0,18.0,3.0,109.538,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,27.0,19.0,3.0,109.793,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RIC,Daniel Ricciardo,3,McLaren,INTERMEDIATE,28.0,20.0,3.0,109.565,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,1.0,1.0,1.0,132.607,False,,124
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,WET,6.0,4.0,2.0,114.73,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,WET,7.0,5.0,2.0,114.89,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,8.0,1.0,3.0,131.686,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,9.0,2.0,3.0,108.747,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,10.0,3.0,3.0,108.104,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,11.0,4.0,3.0,106.559,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,12.0,5.0,3.0,107.152,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,13.0,6.0,3.0,107.106,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,14.0,7.0,3.0,107.56,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,15.0,8.0,3.0,108.178,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,16.0,9.0,3.0,108.364,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,17.0,10.0,3.0,108.958,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,18.0,11.0,3.0,108.428,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,19.0,12.0,3.0,109.109,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,20.0,13.0,3.0,109.271,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,21.0,14.0,3.0,109.012,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,22.0,15.0,3.0,109.454,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,23.0,16.0,3.0,109.121,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,24.0,17.0,3.0,109.213,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,25.0,18.0,3.0,109.26,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,26.0,19.0,3.0,109.064,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,27.0,20.0,3.0,109.261,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,OCO,Esteban Ocon,31,Alpine,INTERMEDIATE,28.0,21.0,3.0,109.582,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,INTERMEDIATE,1.0,1.0,1.0,154.186,False,,124
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,WET,6.0,4.0,2.0,122.34,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,INTERMEDIATE,7.0,1.0,3.0,131.652,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,INTERMEDIATE,8.0,2.0,3.0,108.175,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,INTERMEDIATE,9.0,3.0,3.0,108.837,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,INTERMEDIATE,10.0,4.0,3.0,108.942,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,INTERMEDIATE,11.0,5.0,3.0,110.127,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,INTERMEDIATE,12.0,6.0,3.0,108.984,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,INTERMEDIATE,13.0,7.0,3.0,108.788,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,INTERMEDIATE,14.0,8.0,3.0,109.358,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,INTERMEDIATE,15.0,9.0,3.0,110.54,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,INTERMEDIATE,16.0,10.0,3.0,110.681,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,INTERMEDIATE,17.0,11.0,3.0,110.079,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,INTERMEDIATE,18.0,12.0,3.0,109.576,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,INTERMEDIATE,19.0,13.0,3.0,109.717,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,INTERMEDIATE,20.0,14.0,3.0,109.913,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,INTERMEDIATE,21.0,15.0,3.0,109.723,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,INTERMEDIATE,22.0,16.0,3.0,109.339,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,INTERMEDIATE,23.0,17.0,3.0,110.008,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,INTERMEDIATE,24.0,18.0,3.0,109.644,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,INTERMEDIATE,25.0,19.0,3.0,110.13,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,INTERMEDIATE,26.0,20.0,3.0,110.237,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,INTERMEDIATE,27.0,21.0,3.0,110.435,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,NOR,Lando Norris,4,McLaren,INTERMEDIATE,28.0,22.0,3.0,110.653,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,1.0,2.0,1.0,136.349,False,,124
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,WET,6.0,5.0,2.0,115.173,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,WET,7.0,6.0,2.0,115.367,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,8.0,4.0,3.0,132.216,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,9.0,5.0,3.0,107.518,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,10.0,6.0,3.0,109.566,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,11.0,7.0,3.0,105.53,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,12.0,8.0,3.0,107.03,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,13.0,9.0,3.0,106.816,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,14.0,10.0,3.0,107.378,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,15.0,11.0,3.0,108.212,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,16.0,12.0,3.0,108.283,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,17.0,13.0,3.0,108.915,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,18.0,14.0,3.0,108.663,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,19.0,15.0,3.0,108.808,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,20.0,16.0,3.0,109.315,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,21.0,17.0,3.0,109.202,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,22.0,18.0,3.0,109.239,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,23.0,19.0,3.0,109.38,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,24.0,20.0,3.0,108.944,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,25.0,21.0,3.0,109.457,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,26.0,22.0,3.0,109.461,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,27.0,23.0,3.0,108.784,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,HAM,Lewis Hamilton,44,Mercedes,INTERMEDIATE,28.0,24.0,3.0,109.835,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,INTERMEDIATE,1.0,1.0,1.0,148.607,False,,124
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,WET,6.0,4.0,2.0,119.53,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,WET,7.0,5.0,2.0,115.038,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,WET,8.0,6.0,2.0,113.513,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,WET,9.0,7.0,2.0,114.213,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,WET,10.0,8.0,2.0,114.672,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,WET,11.0,9.0,2.0,120.481,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,INTERMEDIATE,12.0,1.0,3.0,129.854,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,INTERMEDIATE,13.0,2.0,3.0,106.545,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,INTERMEDIATE,14.0,3.0,3.0,107.094,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,INTERMEDIATE,15.0,4.0,3.0,108.285,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,INTERMEDIATE,16.0,5.0,3.0,108.209,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,INTERMEDIATE,17.0,6.0,3.0,109.17,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,INTERMEDIATE,18.0,7.0,3.0,109.611,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,INTERMEDIATE,19.0,8.0,3.0,109.631,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,INTERMEDIATE,20.0,9.0,3.0,109.941,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,INTERMEDIATE,21.0,10.0,3.0,109.53,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,INTERMEDIATE,22.0,11.0,3.0,111.956,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,INTERMEDIATE,23.0,12.0,3.0,110.564,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,INTERMEDIATE,24.0,13.0,3.0,111.728,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,INTERMEDIATE,25.0,14.0,3.0,111.77,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,INTERMEDIATE,26.0,15.0,3.0,110.227,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,INTERMEDIATE,27.0,16.0,3.0,110.332,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,MSC,Mick Schumacher,47,Haas F1 Team,INTERMEDIATE,28.0,17.0,3.0,110.417,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,1.0,1.0,1.0,162.377,False,,124
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,6.0,1.0,3.0,132.958,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,7.0,2.0,3.0,108.401,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,8.0,3.0,3.0,110.163,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,9.0,4.0,3.0,108.638,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,10.0,5.0,3.0,108.481,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,11.0,6.0,3.0,110.458,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,12.0,7.0,3.0,107.053,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,13.0,8.0,3.0,106.964,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,14.0,9.0,3.0,106.988,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,15.0,10.0,3.0,107.746,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,16.0,11.0,3.0,108.222,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,17.0,12.0,3.0,108.993,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,18.0,13.0,3.0,108.714,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,19.0,14.0,3.0,108.624,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,20.0,15.0,3.0,109.064,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,21.0,16.0,3.0,108.803,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,22.0,17.0,3.0,109.224,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,23.0,18.0,3.0,108.978,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,24.0,19.0,3.0,109.423,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,25.0,20.0,3.0,109.208,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,26.0,21.0,3.0,109.358,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,27.0,22.0,3.0,109.822,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,VET,Sebastian Vettel,5,Aston Martin,INTERMEDIATE,28.0,23.0,3.0,110.368,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,1.0,1.0,1.0,158.944,False,,124
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,6.0,1.0,3.0,135.69,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,7.0,2.0,3.0,108.663,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,8.0,3.0,3.0,109.015,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,9.0,4.0,3.0,110.071,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,10.0,5.0,3.0,108.919,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,11.0,6.0,3.0,109.947,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,12.0,7.0,3.0,108.371,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,13.0,8.0,3.0,108.641,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,14.0,9.0,3.0,108.606,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,15.0,10.0,3.0,109.155,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,16.0,11.0,3.0,108.893,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,17.0,12.0,3.0,109.366,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,18.0,13.0,3.0,109.57,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,19.0,14.0,3.0,109.954,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,20.0,15.0,3.0,111.084,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,21.0,16.0,3.0,110.594,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,22.0,17.0,3.0,110.087,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,23.0,18.0,3.0,109.876,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,24.0,19.0,3.0,111.378,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,25.0,20.0,3.0,110.665,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,26.0,21.0,3.0,110.697,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,27.0,22.0,3.0,110.878,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,LAT,Nicholas Latifi,6,Williams,INTERMEDIATE,28.0,23.0,3.0,110.706,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,INTERMEDIATE,1.0,1.0,1.0,142.299,False,,124
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,WET,6.0,4.0,2.0,117.437,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,WET,7.0,5.0,2.0,116.796,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,INTERMEDIATE,8.0,3.0,3.0,136.643,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,INTERMEDIATE,9.0,4.0,3.0,108.586,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,INTERMEDIATE,10.0,5.0,3.0,108.568,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,INTERMEDIATE,11.0,6.0,3.0,108.944,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,INTERMEDIATE,12.0,7.0,3.0,108.83,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,INTERMEDIATE,13.0,8.0,3.0,108.439,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,INTERMEDIATE,14.0,9.0,3.0,109.056,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,INTERMEDIATE,15.0,10.0,3.0,108.365,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,INTERMEDIATE,16.0,11.0,3.0,108.384,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,INTERMEDIATE,17.0,12.0,3.0,108.416,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,INTERMEDIATE,18.0,13.0,3.0,108.877,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,INTERMEDIATE,19.0,14.0,3.0,109.097,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,INTERMEDIATE,20.0,15.0,3.0,107.622,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,INTERMEDIATE,21.0,16.0,3.0,107.004,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,INTERMEDIATE,22.0,17.0,3.0,107.663,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,INTERMEDIATE,23.0,18.0,3.0,108.097,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,INTERMEDIATE,24.0,19.0,3.0,108.055,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,INTERMEDIATE,25.0,20.0,3.0,108.738,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,INTERMEDIATE,26.0,21.0,3.0,107.709,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,INTERMEDIATE,27.0,22.0,3.0,108.359,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,RUS,George Russell,63,Mercedes,INTERMEDIATE,28.0,23.0,3.0,109.685,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,INTERMEDIATE,1.0,1.0,1.0,156.668,False,,124
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,WET,6.0,4.0,2.0,122.174,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,INTERMEDIATE,7.0,1.0,3.0,132.897,False,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,INTERMEDIATE,8.0,2.0,3.0,110.819,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,INTERMEDIATE,9.0,3.0,3.0,112.751,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,INTERMEDIATE,10.0,4.0,3.0,108.646,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,INTERMEDIATE,11.0,5.0,3.0,107.82,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,INTERMEDIATE,12.0,6.0,3.0,108.891,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,INTERMEDIATE,13.0,7.0,3.0,109.344,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,INTERMEDIATE,14.0,8.0,3.0,109.695,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,INTERMEDIATE,15.0,9.0,3.0,109.576,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,INTERMEDIATE,16.0,10.0,3.0,110.856,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,INTERMEDIATE,17.0,11.0,3.0,110.036,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,INTERMEDIATE,18.0,12.0,3.0,110.824,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,INTERMEDIATE,19.0,13.0,3.0,110.28,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,INTERMEDIATE,20.0,14.0,3.0,110.509,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,INTERMEDIATE,21.0,15.0,3.0,110.245,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,INTERMEDIATE,22.0,16.0,3.0,111.033,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,INTERMEDIATE,23.0,17.0,3.0,111.041,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,INTERMEDIATE,24.0,18.0,3.0,111.137,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,INTERMEDIATE,25.0,19.0,3.0,111.252,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,INTERMEDIATE,26.0,20.0,3.0,110.481,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,INTERMEDIATE,27.0,21.0,3.0,110.336,True,,1
+2022,18,Japanese Grand Prix,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Suzuka,Japan,Suzuka,2022-10-09,28,BOT,Valtteri Bottas,77,Alfa Romeo,INTERMEDIATE,28.0,22.0,3.0,110.089,True,,1

@@ -1,0 +1,1719 @@
+{
+  "analysis_mode": "PRE-RACE",
+  "training_cutoff_time_utc": "2026-10-04T00:00:00+00:00",
+  "selected_event_laps_used_for_training": false,
+  "training_rows": 179886,
+  "season": 2026,
+  "season_status": "current/partial season",
+  "race": "Bahrain Grand Prix",
+  "official_event_name": "FORMULA 1 GULF AIR BAHRAIN GRAND PRIX IN MALAYSIA 2026",
+  "event_round": 16,
+  "driver": "VER",
+  "driver_name": "Max Verstappen",
+  "driver_number": "1",
+  "team": "Red Bull Racing",
+  "circuit": "Sepang International Circuit",
+  "location": "Kuala Lumpur",
+  "country": "Malaysia",
+  "race_date": "2026-10-04",
+  "race_distance": 56,
+  "data_coverage": {
+    "available_seasons": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "season_status": "current/partial season",
+    "selected_race_rows": 0,
+    "selected_driver_rows": 9069,
+    "selected_season_races": 15,
+    "selected_season_drivers": 23,
+    "total_lap_rows": 179886
+  },
+  "inventory": {
+    "SOFT": 8,
+    "MEDIUM": 3,
+    "HARD": 2,
+    "INTERMEDIATE": 4,
+    "WET": 4
+  },
+  "inventory_source": "event nomination register",
+  "weather": {
+    "season": 2026,
+    "race": "Bahrain Grand Prix",
+    "circuit": "Sepang International Circuit",
+    "country": "Malaysia",
+    "date": "2026-10-04",
+    "condition": "DAMP",
+    "impact": "MEDIUM",
+    "temperature": 29.433333333333334,
+    "precipitation": 3.500000000000001,
+    "rain": 1.4000000000000004,
+    "precipitation_probability": 53.333333333333336,
+    "wind_speed": 3.4333333333333336,
+    "wind_direction": 277.0833333333333,
+    "dominant_weather": "User-selected scenario",
+    "source": "Open-Meteo forecast scenario",
+    "weather_certainty": "MEDIUM",
+    "reason": "DAMP scenario generated from event-date forecast variables; scenario weights are heuristic and not calibrated.",
+    "hourly": [
+      {
+        "time": "2026-10-04T11:00",
+        "temperature_2m": 29.5,
+        "apparent_temperature": 35.7,
+        "precipitation": 0.0,
+        "rain": 0.0,
+        "precipitation_probability": 2.0,
+        "wind_speed_10m": 3.1,
+        "wind_direction_10m": 246.0,
+        "wind_gusts_10m": 13.3,
+        "cloud_cover": 24.0,
+        "relative_humidity_2m": 73.0,
+        "weather_code": 1,
+        "weather_name": "Cloudy"
+      },
+      {
+        "time": "2026-10-04T12:00",
+        "temperature_2m": 30.8,
+        "apparent_temperature": 37.9,
+        "precipitation": 0.1,
+        "rain": 0.0,
+        "precipitation_probability": 17.0,
+        "wind_speed_10m": 4.4,
+        "wind_direction_10m": 240.0,
+        "wind_gusts_10m": 15.5,
+        "cloud_cover": 43.0,
+        "relative_humidity_2m": 68.0,
+        "weather_code": 51,
+        "weather_name": "Drizzle"
+      },
+      {
+        "time": "2026-10-04T13:00",
+        "temperature_2m": 31.7,
+        "apparent_temperature": 38.8,
+        "precipitation": 0.1,
+        "rain": 0.0,
+        "precipitation_probability": 38.0,
+        "wind_speed_10m": 5.3,
+        "wind_direction_10m": 232.0,
+        "wind_gusts_10m": 18.0,
+        "cloud_cover": 75.0,
+        "relative_humidity_2m": 64.0,
+        "weather_code": 51,
+        "weather_name": "Drizzle"
+      },
+      {
+        "time": "2026-10-04T14:00",
+        "temperature_2m": 32.1,
+        "apparent_temperature": 38.7,
+        "precipitation": 0.1,
+        "rain": 0.0,
+        "precipitation_probability": 57.0,
+        "wind_speed_10m": 5.4,
+        "wind_direction_10m": 230.0,
+        "wind_gusts_10m": 19.8,
+        "cloud_cover": 98.0,
+        "relative_humidity_2m": 62.0,
+        "weather_code": 51,
+        "weather_name": "Drizzle"
+      },
+      {
+        "time": "2026-10-04T15:00",
+        "temperature_2m": 31.7,
+        "apparent_temperature": 37.2,
+        "precipitation": 0.8,
+        "rain": 0.3,
+        "precipitation_probability": 75.0,
+        "wind_speed_10m": 3.8,
+        "wind_direction_10m": 239.0,
+        "wind_gusts_10m": 21.6,
+        "cloud_cover": 100.0,
+        "relative_humidity_2m": 64.0,
+        "weather_code": 95,
+        "weather_name": "Thunderstorm"
+      },
+      {
+        "time": "2026-10-04T16:00",
+        "temperature_2m": 30.7,
+        "apparent_temperature": 36.7,
+        "precipitation": 0.8,
+        "rain": 0.3,
+        "precipitation_probability": 92.0,
+        "wind_speed_10m": 1.6,
+        "wind_direction_10m": 276.0,
+        "wind_gusts_10m": 22.7,
+        "cloud_cover": 97.0,
+        "relative_humidity_2m": 69.0,
+        "weather_code": 53,
+        "weather_name": "Drizzle"
+      },
+      {
+        "time": "2026-10-04T17:00",
+        "temperature_2m": 29.7,
+        "apparent_temperature": 35.8,
+        "precipitation": 0.8,
+        "rain": 0.3,
+        "precipitation_probability": 98.0,
+        "wind_speed_10m": 2.0,
+        "wind_direction_10m": 333.0,
+        "wind_gusts_10m": 22.7,
+        "cloud_cover": 88.0,
+        "relative_humidity_2m": 74.0,
+        "weather_code": 53,
+        "weather_name": "Drizzle"
+      },
+      {
+        "time": "2026-10-04T18:00",
+        "temperature_2m": 28.9,
+        "apparent_temperature": 35.0,
+        "precipitation": 0.2,
+        "rain": 0.1,
+        "precipitation_probability": 87.0,
+        "wind_speed_10m": 2.4,
+        "wind_direction_10m": 318.0,
+        "wind_gusts_10m": 19.8,
+        "cloud_cover": 75.0,
+        "relative_humidity_2m": 78.0,
+        "weather_code": 51,
+        "weather_name": "Drizzle"
+      },
+      {
+        "time": "2026-10-04T19:00",
+        "temperature_2m": 28.0,
+        "apparent_temperature": 34.0,
+        "precipitation": 0.2,
+        "rain": 0.1,
+        "precipitation_probability": 66.0,
+        "wind_speed_10m": 3.3,
+        "wind_direction_10m": 292.0,
+        "wind_gusts_10m": 15.8,
+        "cloud_cover": 59.0,
+        "relative_humidity_2m": 83.0,
+        "weather_code": 51,
+        "weather_name": "Drizzle"
+      },
+      {
+        "time": "2026-10-04T20:00",
+        "temperature_2m": 27.2,
+        "apparent_temperature": 33.2,
+        "precipitation": 0.2,
+        "rain": 0.1,
+        "precipitation_probability": 47.0,
+        "wind_speed_10m": 3.9,
+        "wind_direction_10m": 283.0,
+        "wind_gusts_10m": 12.2,
+        "cloud_cover": 48.0,
+        "relative_humidity_2m": 87.0,
+        "weather_code": 51,
+        "weather_name": "Drizzle"
+      },
+      {
+        "time": "2026-10-04T21:00",
+        "temperature_2m": 26.7,
+        "apparent_temperature": 32.7,
+        "precipitation": 0.1,
+        "rain": 0.1,
+        "precipitation_probability": 35.0,
+        "wind_speed_10m": 3.3,
+        "wind_direction_10m": 299.0,
+        "wind_gusts_10m": 10.4,
+        "cloud_cover": 49.0,
+        "relative_humidity_2m": 89.0,
+        "weather_code": 51,
+        "weather_name": "Drizzle"
+      },
+      {
+        "time": "2026-10-04T22:00",
+        "temperature_2m": 26.2,
+        "apparent_temperature": 32.3,
+        "precipitation": 0.1,
+        "rain": 0.1,
+        "precipitation_probability": 26.0,
+        "wind_speed_10m": 2.7,
+        "wind_direction_10m": 337.0,
+        "wind_gusts_10m": 9.4,
+        "cloud_cover": 54.0,
+        "relative_humidity_2m": 91.0,
+        "weather_code": 51,
+        "weather_name": "Drizzle"
+      }
+    ]
+  },
+  "track_condition": "DAMP",
+  "weather_impact": "MEDIUM",
+  "weather_source": "Open-Meteo forecast scenario",
+  "temperature": 29.433333333333334,
+  "rain": 1.4000000000000004,
+  "precipitation": 3.500000000000001,
+  "precipitation_probability": 53.333333333333336,
+  "wind_speed": 3.4333333333333336,
+  "wind_direction": 277.0833333333333,
+  "weather_reason": "DAMP scenario generated from event-date forecast variables; scenario weights are heuristic and not calibrated.",
+  "recommended_strategy": {
+    "Season": 2026,
+    "Race": "Bahrain Grand Prix",
+    "Circuit": "Sepang International Circuit",
+    "Driver": "VER",
+    "Team": "Red Bull Racing",
+    "StrategyType": "1-STOP",
+    "Tyres": [
+      "INTERMEDIATE",
+      "HARD"
+    ],
+    "Strategy": "INTERMEDIATE → HARD",
+    "StintLengths": [
+      21,
+      35
+    ],
+    "PitLaps": [
+      21
+    ],
+    "FirstTyre": "INTERMEDIATE",
+    "SecondTyre": "HARD",
+    "ThirdTyre": null,
+    "FourthTyre": null,
+    "PitLap1": 21,
+    "PitLap2": null,
+    "PitLap3": null,
+    "EstimatedRaceTime": 5312.955525986278,
+    "PredictedLapTimeTotal": 5290.955525986278,
+    "PitStopCost": 22.0,
+    "DegradationImpact": 33.700724583669995,
+    "WeatherAdjustment": 14.76875,
+    "StrategyPenalty": 0.3016869530655998,
+    "StrategyScore": 5313.257212939344,
+    "TyreUsage": {
+      "INTERMEDIATE": 1,
+      "HARD": 1
+    },
+    "PhysicalConstraintsSatisfied": true,
+    "MLSupportProbability": 0.17618895244043792,
+    "MLTransitionProbabilities": [
+      {
+        "HARD": 0.17618895244043792,
+        "INTERMEDIATE": 0.3248077220528415,
+        "MEDIUM": 0.28718839909062327,
+        "SOFT": 0.15110387138367312,
+        "WET": 0.060711055032424285
+      }
+    ],
+    "MaxTyreAgeUtilization": 0.7777777777777778,
+    "MaxSetUtilization": 0.5
+  },
+  "strategy": "INTERMEDIATE → HARD",
+  "strategy_type": "1-STOP",
+  "pit_laps": [
+    21
+  ],
+  "stint_lengths": [
+    21,
+    35
+  ],
+  "stints": [
+    "21 laps on INTERMEDIATE",
+    "35 laps on HARD"
+  ],
+  "tyre_usage": {
+    "INTERMEDIATE": 1,
+    "HARD": 1
+  },
+  "physical_constraints_satisfied": true,
+  "estimated_race_time": 5312.955525986278,
+  "first_lap_prediction": 115.50194947601935,
+  "pit_stop_cost": 22.0,
+  "degradation_impact": 33.700724583669995,
+  "weather_adjustment_seconds": 14.76875,
+  "strategy_penalty": 0.3016869530655998,
+  "strategy_score": 5313.257212939344,
+  "confidence_score": 72.40558604205827,
+  "confidence_level": "MEDIUM",
+  "confidence_factors": {
+    "historical_data_support": 15.0,
+    "lap_model_quality": 1.69,
+    "strategy_margin": 25.0,
+    "weather_certainty": 6.5,
+    "strategy_robustness": 3.33,
+    "ml_transition_support": 0.88,
+    "unsupported_wet_model_adjustment": 0.0,
+    "top_distinct_sequence_gap_seconds": 6.795
+  },
+  "ml_predicted_tyre": "INTERMEDIATE",
+  "ml_probabilities_fraction": {
+    "HARD": 0.1761889524404379,
+    "INTERMEDIATE": 0.3248077220528414,
+    "MEDIUM": 0.2871883990906232,
+    "SOFT": 0.15110387138367312,
+    "WET": 0.060711055032424285
+  },
+  "ml_probabilities": {
+    "HARD": 17.619,
+    "INTERMEDIATE": 32.481,
+    "MEDIUM": 28.719,
+    "SOFT": 15.11,
+    "WET": 6.071
+  },
+  "ml_explanation": "The classifier supports the recommendation with P(HARD)=0.176. It does not override inventory checks.",
+  "model_metrics": {
+    "lap_time": {
+      "available": true,
+      "training_rows": 179886,
+      "evaluation_method": "temporal season holdout when multiple seasons are available; final model refit on all available data",
+      "held_out_season": 2025,
+      "MAE": 7.097969095187868,
+      "RMSE": 10.502671035950314,
+      "R2": 0.3877351711677991,
+      "baseline": {
+        "name": "training-set historical median lap time",
+        "MAE": 10.646360074194297,
+        "RMSE": 13.46885040909608,
+        "R2": -0.006933629964742449
+      },
+      "test_rows": 25878,
+      "test_races": [
+        "Abu Dhabi Grand Prix",
+        "Australian Grand Prix",
+        "Austrian Grand Prix",
+        "Azerbaijan Grand Prix",
+        "Bahrain Grand Prix",
+        "Belgian Grand Prix",
+        "British Grand Prix",
+        "Canadian Grand Prix",
+        "Chinese Grand Prix",
+        "Dutch Grand Prix",
+        "Emilia Romagna Grand Prix",
+        "Hungarian Grand Prix",
+        "Italian Grand Prix",
+        "Japanese Grand Prix",
+        "Las Vegas Grand Prix",
+        "Mexico City Grand Prix",
+        "Miami Grand Prix",
+        "Monaco Grand Prix",
+        "Qatar Grand Prix",
+        "Saudi Arabian Grand Prix",
+        "Singapore Grand Prix",
+        "Spanish Grand Prix",
+        "São Paulo Grand Prix",
+        "United States Grand Prix"
+      ],
+      "test_groups": 1238,
+      "test_seasons": [
+        2025
+      ]
+    },
+    "pit_stop": {
+      "available": true,
+      "training_rows": 5219,
+      "classes": [
+        "HARD",
+        "INTERMEDIATE",
+        "MEDIUM",
+        "SOFT",
+        "WET"
+      ],
+      "evaluation_method": "temporal season holdout; final model refit on all available data",
+      "held_out_season": 2025,
+      "accuracy": 0.5699067909454061,
+      "baseline_accuracy": 0.4274300932090546,
+      "baseline_name": "most common training-set next tyre",
+      "confusion_matrix": [
+        [
+          207,
+          17,
+          48,
+          49,
+          0
+        ],
+        [
+          2,
+          10,
+          4,
+          14,
+          0
+        ],
+        [
+          35,
+          24,
+          130,
+          78,
+          1
+        ],
+        [
+          32,
+          3,
+          16,
+          81,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "confusion_matrix_labels": [
+        "HARD",
+        "INTERMEDIATE",
+        "MEDIUM",
+        "SOFT",
+        "WET"
+      ],
+      "test_rows": 751,
+      "test_races": [
+        "Abu Dhabi Grand Prix",
+        "Australian Grand Prix",
+        "Austrian Grand Prix",
+        "Azerbaijan Grand Prix",
+        "Bahrain Grand Prix",
+        "Belgian Grand Prix",
+        "British Grand Prix",
+        "Canadian Grand Prix",
+        "Chinese Grand Prix",
+        "Dutch Grand Prix",
+        "Emilia Romagna Grand Prix",
+        "Hungarian Grand Prix",
+        "Italian Grand Prix",
+        "Japanese Grand Prix",
+        "Las Vegas Grand Prix",
+        "Mexico City Grand Prix",
+        "Miami Grand Prix",
+        "Monaco Grand Prix",
+        "Qatar Grand Prix",
+        "Saudi Arabian Grand Prix",
+        "Singapore Grand Prix",
+        "Spanish Grand Prix",
+        "São Paulo Grand Prix",
+        "United States Grand Prix"
+      ],
+      "test_seasons": [
+        "2025"
+      ]
+    }
+  },
+  "lap_prediction_sources": {
+    "SOFT": "Random Forest + historical tyre profile",
+    "MEDIUM": "Random Forest + historical tyre profile",
+    "HARD": "Random Forest + historical tyre profile",
+    "INTERMEDIATE": "Random Forest + historical tyre profile",
+    "WET": "Random Forest + historical tyre profile"
+  },
+  "tyre_performance": [
+    {
+      "Compound": "SOFT",
+      "DataPoints": 28342,
+      "CompoundOffset": 0.25449999999999307,
+      "OffsetSource": "historical",
+      "DegradationRate": 0.04499398968120631,
+      "DegradationSource": "historical",
+      "StintsUsed": 524,
+      "R2": 0.170628594893102
+    },
+    {
+      "Compound": "MEDIUM",
+      "DataPoints": 66649,
+      "CompoundOffset": 0.20950000000000557,
+      "OffsetSource": "historical",
+      "DegradationRate": 0.03300439057572186,
+      "DegradationSource": "historical",
+      "StintsUsed": 1089,
+      "R2": 0.15429971964542566
+    },
+    {
+      "Compound": "HARD",
+      "DataPoints": 75362,
+      "CompoundOffset": -0.26500000000000057,
+      "OffsetSource": "historical",
+      "DegradationRate": 0.02658572820263034,
+      "DegradationSource": "historical",
+      "StintsUsed": 961,
+      "R2": 0.14446894931676724
+    },
+    {
+      "Compound": "INTERMEDIATE",
+      "DataPoints": 8887,
+      "CompoundOffset": 0.9609999999999985,
+      "OffsetSource": "historical",
+      "DegradationRate": 0.08515341096716642,
+      "DegradationSource": "historical",
+      "StintsUsed": 66,
+      "R2": 0.035570528403596924
+    },
+    {
+      "Compound": "WET",
+      "DataPoints": 646,
+      "CompoundOffset": 15.099249999999998,
+      "OffsetSource": "historical",
+      "DegradationRate": null,
+      "DegradationSource": "unavailable",
+      "StintsUsed": 1,
+      "R2": 0.008998085933399902
+    }
+  ],
+  "degradation_rates": {
+    "SOFT": 0.04499398968120631,
+    "MEDIUM": 0.03300439057572186,
+    "HARD": 0.02658572820263034,
+    "INTERMEDIATE": 0.08515341096716642,
+    "WET": 0.05
+  },
+  "strategy_comparison": [
+    {
+      "Season": 2026,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sepang International Circuit",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "INTERMEDIATE",
+        "HARD"
+      ],
+      "Strategy": "INTERMEDIATE → HARD",
+      "StintLengths": [
+        21,
+        35
+      ],
+      "PitLaps": [
+        21
+      ],
+      "FirstTyre": "INTERMEDIATE",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 21,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5312.955525986278,
+      "PredictedLapTimeTotal": 5290.955525986278,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 33.700724583669995,
+      "WeatherAdjustment": 14.76875,
+      "StrategyPenalty": 0.3016869530655998,
+      "StrategyScore": 5313.257212939344,
+      "TyreUsage": {
+        "INTERMEDIATE": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.17618895244043792,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.17618895244043792,
+          "INTERMEDIATE": 0.3248077220528415,
+          "MEDIUM": 0.28718839909062327,
+          "SOFT": 0.15110387138367312,
+          "WET": 0.060711055032424285
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7777777777777778,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sepang International Circuit",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "2-STOP",
+      "Tyres": [
+        "INTERMEDIATE",
+        "HARD",
+        "HARD"
+      ],
+      "Strategy": "INTERMEDIATE → HARD → HARD",
+      "StintLengths": [
+        18,
+        19,
+        19
+      ],
+      "PitLaps": [
+        18,
+        37
+      ],
+      "FirstTyre": "INTERMEDIATE",
+      "SecondTyre": "HARD",
+      "ThirdTyre": "HARD",
+      "FourthTyre": null,
+      "PitLap1": 18,
+      "PitLap2": 37.0,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5345.602122953884,
+      "PredictedLapTimeTotal": 5301.602122953884,
+      "PitStopCost": 44.0,
+      "DegradationImpact": 22.12079092327604,
+      "WeatherAdjustment": 17.44946428571429,
+      "StrategyPenalty": 0.43808081834895485,
+      "StrategyScore": 5346.040203772232,
+      "TyreUsage": {
+        "INTERMEDIATE": 1,
+        "HARD": 2
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.2150548047172715,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.17604690698589245,
+          "INTERMEDIATE": 0.31590620690132637,
+          "MEDIUM": 0.29490620212092633,
+          "SOFT": 0.15242962895943069,
+          "WET": 0.060711055032424285
+        },
+        {
+          "HARD": 0.2540627024486506,
+          "INTERMEDIATE": 0.0971826182326942,
+          "MEDIUM": 0.35957404791843806,
+          "SOFT": 0.2777359823587492,
+          "WET": 0.011444649041467837
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.5142857142857142,
+      "MaxSetUtilization": 1.0
+    }
+  ],
+  "top_feasible_strategies": [
+    {
+      "Season": 2026,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sepang International Circuit",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "INTERMEDIATE",
+        "HARD"
+      ],
+      "Strategy": "INTERMEDIATE → HARD",
+      "StintLengths": [
+        21,
+        35
+      ],
+      "PitLaps": [
+        21
+      ],
+      "FirstTyre": "INTERMEDIATE",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 21,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5312.955525986278,
+      "PredictedLapTimeTotal": 5290.955525986278,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 33.700724583669995,
+      "WeatherAdjustment": 14.76875,
+      "StrategyPenalty": 0.3016869530655998,
+      "StrategyScore": 5313.257212939344,
+      "TyreUsage": {
+        "INTERMEDIATE": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.17618895244043792,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.17618895244043792,
+          "INTERMEDIATE": 0.3248077220528415,
+          "MEDIUM": 0.28718839909062327,
+          "SOFT": 0.15110387138367312,
+          "WET": 0.060711055032424285
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7777777777777778,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sepang International Circuit",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "INTERMEDIATE",
+        "HARD"
+      ],
+      "Strategy": "INTERMEDIATE → HARD",
+      "StintLengths": [
+        22,
+        34
+      ],
+      "PitLaps": [
+        22
+      ],
+      "FirstTyre": "INTERMEDIATE",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 22,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5312.995084011643,
+      "PredictedLapTimeTotal": 5290.995084011643,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 34.58503145509106,
+      "WeatherAdjustment": 13.924821428571429,
+      "StrategyPenalty": 0.2933906567693035,
+      "StrategyScore": 5313.288474668412,
+      "TyreUsage": {
+        "INTERMEDIATE": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.17618895244043792,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.17618895244043792,
+          "INTERMEDIATE": 0.3248077220528415,
+          "MEDIUM": 0.28718839909062327,
+          "SOFT": 0.15110387138367312,
+          "WET": 0.060711055032424285
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7555555555555555,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sepang International Circuit",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "INTERMEDIATE",
+        "HARD"
+      ],
+      "Strategy": "INTERMEDIATE → HARD",
+      "StintLengths": [
+        20,
+        36
+      ],
+      "PitLaps": [
+        20
+      ],
+      "FirstTyre": "INTERMEDIATE",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 20,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5312.979898088193,
+      "PredictedLapTimeTotal": 5290.979898088193,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 32.928156851418734,
+      "WeatherAdjustment": 15.6375,
+      "StrategyPenalty": 0.31393386664584677,
+      "StrategyScore": 5313.293831954839,
+      "TyreUsage": {
+        "INTERMEDIATE": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.17618895244043792,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.17618895244043792,
+          "INTERMEDIATE": 0.3248077220528415,
+          "MEDIUM": 0.28718839909062327,
+          "SOFT": 0.15110387138367312,
+          "WET": 0.060711055032424285
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sepang International Circuit",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "INTERMEDIATE",
+        "HARD"
+      ],
+      "Strategy": "INTERMEDIATE → HARD",
+      "StintLengths": [
+        23,
+        33
+      ],
+      "PitLaps": [
+        23
+      ],
+      "FirstTyre": "INTERMEDIATE",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 23,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5313.098572164288,
+      "PredictedLapTimeTotal": 5291.098572164288,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 35.58107746568192,
+      "WeatherAdjustment": 13.105714285714287,
+      "StrategyPenalty": 0.2890005626093425,
+      "StrategyScore": 5313.387572726898,
+      "TyreUsage": {
+        "INTERMEDIATE": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.17631585286219606,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.17631585286219606,
+          "INTERMEDIATE": 0.3046390594717086,
+          "MEDIUM": 0.2811054919167425,
+          "SOFT": 0.15426950952297344,
+          "WET": 0.08367008622637948
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7333333333333333,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sepang International Circuit",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "INTERMEDIATE",
+        "HARD"
+      ],
+      "Strategy": "INTERMEDIATE → HARD",
+      "StintLengths": [
+        19,
+        37
+      ],
+      "PitLaps": [
+        19
+      ],
+      "FirstTyre": "INTERMEDIATE",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 19,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5313.06820031739,
+      "PredictedLapTimeTotal": 5291.06820031739,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 32.267328258337265,
+      "WeatherAdjustment": 16.53107142857143,
+      "StrategyPenalty": 0.33018111341913514,
+      "StrategyScore": 5313.3983814308085,
+      "TyreUsage": {
+        "INTERMEDIATE": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.17604690698589245,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.17604690698589245,
+          "INTERMEDIATE": 0.31590620690132637,
+          "MEDIUM": 0.29490620212092633,
+          "SOFT": 0.15242962895943069,
+          "WET": 0.060711055032424285
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8222222222222222,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sepang International Circuit",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "INTERMEDIATE",
+        "HARD"
+      ],
+      "Strategy": "INTERMEDIATE → HARD",
+      "StintLengths": [
+        24,
+        32
+      ],
+      "PitLaps": [
+        24
+      ],
+      "FirstTyre": "INTERMEDIATE",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 24,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5313.2659904442135,
+      "PredictedLapTimeTotal": 5291.2659904442135,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 36.688862615442574,
+      "WeatherAdjustment": 12.311428571428571,
+      "StrategyPenalty": 0.28834584337972424,
+      "StrategyScore": 5313.554336287593,
+      "TyreUsage": {
+        "INTERMEDIATE": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.1761547332007878,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.1761547332007878,
+          "INTERMEDIATE": 0.3140050952654555,
+          "MEDIUM": 0.2799779214836699,
+          "SOFT": 0.1523008921296233,
+          "WET": 0.07756135792046348
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7111111111111111,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sepang International Circuit",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "INTERMEDIATE",
+        "HARD"
+      ],
+      "Strategy": "INTERMEDIATE → HARD",
+      "StintLengths": [
+        18,
+        38
+      ],
+      "PitLaps": [
+        18
+      ],
+      "FirstTyre": "INTERMEDIATE",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 18,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5313.220432673867,
+      "PredictedLapTimeTotal": 5291.220432673867,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 31.718238804425596,
+      "WeatherAdjustment": 17.449464285714285,
+      "StrategyPenalty": 0.35032926156728333,
+      "StrategyScore": 5313.570761935434,
+      "TyreUsage": {
+        "INTERMEDIATE": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.17604690698589245,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.17604690698589245,
+          "INTERMEDIATE": 0.31590620690132637,
+          "MEDIUM": 0.29490620212092633,
+          "SOFT": 0.15242962895943069,
+          "WET": 0.060711055032424285
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8444444444444444,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sepang International Circuit",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "INTERMEDIATE",
+        "HARD"
+      ],
+      "Strategy": "INTERMEDIATE → HARD",
+      "StintLengths": [
+        25,
+        31
+      ],
+      "PitLaps": [
+        25
+      ],
+      "FirstTyre": "INTERMEDIATE",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 25,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5313.497338851422,
+      "PredictedLapTimeTotal": 5291.497338851422,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 37.90838690437303,
+      "WeatherAdjustment": 11.541964285714288,
+      "StrategyPenalty": 0.28834584337972424,
+      "StrategyScore": 5313.785684694802,
+      "TyreUsage": {
+        "INTERMEDIATE": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.1761547332007878,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.1761547332007878,
+          "INTERMEDIATE": 0.3140050952654555,
+          "MEDIUM": 0.2799779214836699,
+          "SOFT": 0.1523008921296233,
+          "WET": 0.07756135792046348
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7142857142857143,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sepang International Circuit",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "INTERMEDIATE",
+        "HARD"
+      ],
+      "Strategy": "INTERMEDIATE → HARD",
+      "StintLengths": [
+        17,
+        39
+      ],
+      "PitLaps": [
+        17
+      ],
+      "FirstTyre": "INTERMEDIATE",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 17,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5313.436595157626,
+      "PredictedLapTimeTotal": 5291.436595157626,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 31.28088848968371,
+      "WeatherAdjustment": 18.39267857142857,
+      "StrategyPenalty": 0.37442802699938216,
+      "StrategyScore": 5313.811023184625,
+      "TyreUsage": {
+        "INTERMEDIATE": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.17604690698589245,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.17604690698589245,
+          "INTERMEDIATE": 0.31590620690132637,
+          "MEDIUM": 0.29490620212092633,
+          "SOFT": 0.15242962895943069,
+          "WET": 0.060711055032424285
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8666666666666667,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sepang International Circuit",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "INTERMEDIATE",
+        "HARD"
+      ],
+      "Strategy": "INTERMEDIATE → HARD",
+      "StintLengths": [
+        26,
+        30
+      ],
+      "PitLaps": [
+        26
+      ],
+      "FirstTyre": "INTERMEDIATE",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 26,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5313.7926173859105,
+      "PredictedLapTimeTotal": 5291.7926173859105,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 39.23965033247328,
+      "WeatherAdjustment": 10.79732142857143,
+      "StrategyPenalty": 0.2904356392980916,
+      "StrategyScore": 5314.083053025209,
+      "TyreUsage": {
+        "INTERMEDIATE": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.1761547332007878,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.1761547332007878,
+          "INTERMEDIATE": 0.3140050952654555,
+          "MEDIUM": 0.2799779214836699,
+          "SOFT": 0.1523008921296233,
+          "WET": 0.07756135792046348
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7428571428571429,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sepang International Circuit",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "INTERMEDIATE",
+        "HARD"
+      ],
+      "Strategy": "INTERMEDIATE → HARD",
+      "StintLengths": [
+        16,
+        40
+      ],
+      "PitLaps": [
+        16
+      ],
+      "FirstTyre": "INTERMEDIATE",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 16,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5313.716687768665,
+      "PredictedLapTimeTotal": 5291.716687768665,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 30.955277314111633,
+      "WeatherAdjustment": 19.360714285714288,
+      "StrategyPenalty": 0.40247740971543144,
+      "StrategyScore": 5314.11916517838,
+      "TyreUsage": {
+        "INTERMEDIATE": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.17604690698589245,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.17604690698589245,
+          "INTERMEDIATE": 0.31590620690132637,
+          "MEDIUM": 0.29490620212092633,
+          "SOFT": 0.15242962895943069,
+          "WET": 0.060711055032424285
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8888888888888888,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sepang International Circuit",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "INTERMEDIATE",
+        "HARD"
+      ],
+      "Strategy": "INTERMEDIATE → HARD",
+      "StintLengths": [
+        27,
+        29
+      ],
+      "PitLaps": [
+        27
+      ],
+      "FirstTyre": "INTERMEDIATE",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 27,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5314.1518260476805,
+      "PredictedLapTimeTotal": 5292.1518260476805,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 40.68265289974333,
+      "WeatherAdjustment": 10.077499999999999,
+      "StrategyPenalty": 0.29929142079338206,
+      "StrategyScore": 5314.451117468474,
+      "TyreUsage": {
+        "INTERMEDIATE": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.17510906012386473,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.17510906012386473,
+          "INTERMEDIATE": 0.3006294084522687,
+          "MEDIUM": 0.2767636357693842,
+          "SOFT": 0.15752582344830462,
+          "WET": 0.08997207220617777
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7714285714285715,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sepang International Circuit",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "INTERMEDIATE",
+        "HARD"
+      ],
+      "Strategy": "INTERMEDIATE → HARD",
+      "StintLengths": [
+        15,
+        41
+      ],
+      "PitLaps": [
+        15
+      ],
+      "FirstTyre": "INTERMEDIATE",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 15,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5314.060710506984,
+      "PredictedLapTimeTotal": 5292.060710506984,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 30.741405277709354,
+      "WeatherAdjustment": 20.35357142857143,
+      "StrategyPenalty": 0.4344774097154315,
+      "StrategyScore": 5314.495187916699,
+      "TyreUsage": {
+        "INTERMEDIATE": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.17604690698589245,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.17604690698589245,
+          "INTERMEDIATE": 0.31590620690132637,
+          "MEDIUM": 0.29490620212092633,
+          "SOFT": 0.15242962895943069,
+          "WET": 0.060711055032424285
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.9111111111111111,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sepang International Circuit",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "INTERMEDIATE",
+        "HARD"
+      ],
+      "Strategy": "INTERMEDIATE → HARD",
+      "StintLengths": [
+        28,
+        28
+      ],
+      "PitLaps": [
+        28
+      ],
+      "FirstTyre": "INTERMEDIATE",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 28,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5314.574964836731,
+      "PredictedLapTimeTotal": 5292.574964836731,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 42.23739460618317,
+      "WeatherAdjustment": 9.382499999999999,
+      "StrategyPenalty": 0.3164618399278122,
+      "StrategyScore": 5314.891426676659,
+      "TyreUsage": {
+        "INTERMEDIATE": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.16896617163482247,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.16896617163482247,
+          "INTERMEDIATE": 0.2667713243025696,
+          "MEDIUM": 0.26897349708905893,
+          "SOFT": 0.15146438541212529,
+          "WET": 0.1438246215614237
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sepang International Circuit",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "INTERMEDIATE",
+        "HARD"
+      ],
+      "Strategy": "INTERMEDIATE → HARD",
+      "StintLengths": [
+        14,
+        42
+      ],
+      "PitLaps": [
+        14
+      ],
+      "FirstTyre": "INTERMEDIATE",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 14,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5314.468663372586,
+      "PredictedLapTimeTotal": 5292.468663372586,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 30.639272380476868,
+      "WeatherAdjustment": 21.371250000000003,
+      "StrategyPenalty": 0.470720156695827,
+      "StrategyScore": 5314.939383529282,
+      "TyreUsage": {
+        "INTERMEDIATE": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.1752122507103356,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.1752122507103356,
+          "INTERMEDIATE": 0.31879112295462886,
+          "MEDIUM": 0.29165086224504233,
+          "SOFT": 0.15363470905756893,
+          "WET": 0.060711055032424285
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.9333333333333333,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sepang International Circuit",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "INTERMEDIATE",
+        "HARD"
+      ],
+      "Strategy": "INTERMEDIATE → HARD",
+      "StintLengths": [
+        29,
+        27
+      ],
+      "PitLaps": [
+        29
+      ],
+      "FirstTyre": "INTERMEDIATE",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 29,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5315.062033753062,
+      "PredictedLapTimeTotal": 5293.062033753062,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 43.903875451792814,
+      "WeatherAdjustment": 8.712321428571428,
+      "StrategyPenalty": 0.33780156753695045,
+      "StrategyScore": 5315.399835320599,
+      "TyreUsage": {
+        "INTERMEDIATE": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.1695698653463225,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.1695698653463225,
+          "INTERMEDIATE": 0.25735004249981175,
+          "MEDIUM": 0.27179005782513654,
+          "SOFT": 0.15586174724611418,
+          "WET": 0.145428287082615
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8285714285714286,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sepang International Circuit",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "INTERMEDIATE",
+        "HARD"
+      ],
+      "Strategy": "INTERMEDIATE → HARD",
+      "StintLengths": [
+        13,
+        43
+      ],
+      "PitLaps": [
+        13
+      ],
+      "FirstTyre": "INTERMEDIATE",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 13,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5314.940546365467,
+      "PredictedLapTimeTotal": 5292.940546365467,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 30.648878622414177,
+      "WeatherAdjustment": 22.41375,
+      "StrategyPenalty": 0.5122450488577458,
+      "StrategyScore": 5315.452791414325,
+      "TyreUsage": {
+        "INTERMEDIATE": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.17057322901314292,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.17057322901314292,
+          "INTERMEDIATE": 0.3230697780440953,
+          "MEDIUM": 0.2940819555138803,
+          "SOFT": 0.15156398239645713,
+          "WET": 0.060711055032424285
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.9555555555555556,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sepang International Circuit",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "INTERMEDIATE",
+        "HARD"
+      ],
+      "Strategy": "INTERMEDIATE → HARD",
+      "StintLengths": [
+        30,
+        26
+      ],
+      "PitLaps": [
+        30
+      ],
+      "FirstTyre": "INTERMEDIATE",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 30,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5315.613032796673,
+      "PredictedLapTimeTotal": 5293.613032796673,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 45.682095436572254,
+      "WeatherAdjustment": 8.066964285714286,
+      "StrategyPenalty": 0.3658832001900116,
+      "StrategyScore": 5315.978915996863,
+      "TyreUsage": {
+        "INTERMEDIATE": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.1695698653463225,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.1695698653463225,
+          "INTERMEDIATE": 0.25735004249981175,
+          "MEDIUM": 0.27179005782513654,
+          "SOFT": 0.15586174724611418,
+          "WET": 0.145428287082615
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8571428571428571,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sepang International Circuit",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "INTERMEDIATE",
+        "HARD"
+      ],
+      "Strategy": "INTERMEDIATE → HARD",
+      "StintLengths": [
+        12,
+        44
+      ],
+      "PitLaps": [
+        12
+      ],
+      "FirstTyre": "INTERMEDIATE",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 12,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5315.47635948563,
+      "PredictedLapTimeTotal": 5293.47635948563,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 30.770224003521285,
+      "WeatherAdjustment": 23.48107142857143,
+      "StrategyPenalty": 0.5558580984922306,
+      "StrategyScore": 5316.032217584123,
+      "TyreUsage": {
+        "INTERMEDIATE": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.1712555210627626,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.1712555210627626,
+          "INTERMEDIATE": 0.3336126536307725,
+          "MEDIUM": 0.28726896084028003,
+          "SOFT": 0.14715180943376055,
+          "WET": 0.060711055032424285
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.9777777777777777,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Bahrain Grand Prix",
+      "Circuit": "Sepang International Circuit",
+      "Driver": "VER",
+      "Team": "Red Bull Racing",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "INTERMEDIATE",
+        "HARD"
+      ],
+      "Strategy": "INTERMEDIATE → HARD",
+      "StintLengths": [
+        31,
+        25
+      ],
+      "PitLaps": [
+        31
+      ],
+      "FirstTyre": "INTERMEDIATE",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 31,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5316.227961967566,
+      "PredictedLapTimeTotal": 5294.227961967566,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 47.57205456052149,
+      "WeatherAdjustment": 7.446428571428572,
+      "StrategyPenalty": 0.40126381027166846,
+      "StrategyScore": 5316.629225777838,
+      "TyreUsage": {
+        "INTERMEDIATE": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.16737453625004334,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.16737453625004334,
+          "INTERMEDIATE": 0.2605807675186531,
+          "MEDIUM": 0.26784352615820795,
+          "SOFT": 0.15968158362013146,
+          "WET": 0.14451958645296417
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8857142857142857,
+      "MaxSetUtilization": 0.5
+    }
+  ],
+  "feasible_candidate_count": 31716,
+  "pit_loss_seconds_per_stop": 22.0,
+  "reason": "INTERMEDIATE → HARD is the lowest-scoring feasible plan in 31,716 simulated candidates for Max Verstappen at Sepang International Circuit in 2026. It uses 1 pit stop(s) with stint lengths 21, 35; the estimate includes a 22-second loss per stop and the fitted tyre degradation. The physical set, weather-appropriate compound, and tyre-age constraints passed before ranking. The next-ranked candidate scores 0.03 seconds higher. Lap-time estimates blend the Random Forest with historical tyre profiles.",
+  "dry_strategy": "INTERMEDIATE → HARD",
+  "weather_strategy": "INTERMEDIATE → HARD",
+  "preferred_strategy": "1-STOP",
+  "primary_tyre": "INTERMEDIATE",
+  "backup_tyre": "HARD",
+  "pit_lap_1": 21,
+  "pit_lap_2": null,
+  "weather_pit_lap_1": 21,
+  "one_stop_strategy": "INTERMEDIATE → HARD",
+  "one_stop_time": 5312.955525986278,
+  "two_stop_strategy": "INTERMEDIATE → HARD → HARD",
+  "two_stop_time": 5345.602122953884,
+  "three_stop_strategy": null,
+  "three_stop_time": null,
+  "strategy_score_difference": 32.78299083288857
+}

@@ -1,0 +1,931 @@
+Season,Round,Race,EventName,OfficialEventName,Circuit,Country,Location,EventDate,RaceLaps,Driver,DriverName,DriverNumber,Team,Compound,LapNumber,TyreLife,Stint,LapTime,IsAccurate,Deleted,TrackStatus
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,1.0,1.0,1.0,110.456,False,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,2.0,2.0,1.0,107.707,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,3.0,3.0,1.0,107.677,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,4.0,4.0,1.0,107.108,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,5.0,5.0,1.0,107.476,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,6.0,6.0,1.0,107.202,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,7.0,7.0,1.0,106.995,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,8.0,8.0,1.0,106.801,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,9.0,9.0,1.0,106.944,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,10.0,10.0,1.0,110.778,False,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,14.0,4.0,2.0,106.936,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,15.0,5.0,2.0,105.687,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,16.0,6.0,2.0,105.497,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,17.0,7.0,2.0,105.498,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,18.0,8.0,2.0,105.425,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,19.0,9.0,2.0,105.66,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,20.0,10.0,2.0,105.446,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,21.0,11.0,2.0,105.793,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,22.0,12.0,2.0,105.67,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,23.0,13.0,2.0,105.902,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,24.0,14.0,2.0,105.738,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,25.0,15.0,2.0,105.657,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,26.0,16.0,2.0,105.855,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,27.0,17.0,2.0,105.625,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,28.0,18.0,2.0,105.694,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,29.0,19.0,2.0,106.365,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,30.0,20.0,2.0,105.575,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,31.0,21.0,2.0,105.348,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,32.0,22.0,2.0,105.354,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,33.0,23.0,2.0,105.343,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,34.0,24.0,2.0,105.218,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,35.0,25.0,2.0,105.121,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,36.0,26.0,2.0,105.05,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,37.0,27.0,2.0,105.319,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,38.0,28.0,2.0,105.474,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,39.0,29.0,2.0,105.15,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,40.0,30.0,2.0,105.418,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,41.0,31.0,2.0,105.123,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,42.0,32.0,2.0,105.15,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,43.0,33.0,2.0,104.843,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,44.0,34.0,2.0,105.275,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,45.0,35.0,2.0,105.14,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,46.0,36.0,2.0,104.686,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,47.0,37.0,2.0,104.734,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,48.0,38.0,2.0,104.566,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,49.0,39.0,2.0,104.474,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,50.0,40.0,2.0,104.554,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,VER,Max Verstappen,1,Red Bull Racing,HARD,51.0,41.0,2.0,104.232,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,1.0,1.0,1.0,119.785,False,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,2.0,2.0,1.0,109.99,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,3.0,3.0,1.0,109.075,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,4.0,4.0,1.0,108.873,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,5.0,5.0,1.0,113.152,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,6.0,1.0,2.0,124.865,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,7.0,2.0,2.0,107.722,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,8.0,3.0,2.0,109.057,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,9.0,4.0,2.0,107.851,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,10.0,5.0,2.0,122.028,False,,124
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,11.0,6.0,2.0,148.597,False,,4
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,12.0,7.0,2.0,136.496,False,,4
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,13.0,8.0,2.0,146.528,False,,41
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,14.0,9.0,2.0,112.872,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,15.0,10.0,2.0,108.951,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,16.0,11.0,2.0,108.072,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,17.0,12.0,2.0,107.915,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,18.0,13.0,2.0,107.57,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,19.0,14.0,2.0,108.031,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,20.0,15.0,2.0,107.796,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,21.0,16.0,2.0,107.873,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,22.0,17.0,2.0,108.054,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,23.0,18.0,2.0,112.208,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,24.0,1.0,3.0,124.713,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,25.0,2.0,3.0,106.561,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,26.0,3.0,3.0,106.173,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,27.0,4.0,3.0,106.462,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,28.0,5.0,3.0,106.43,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,29.0,6.0,3.0,106.547,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,30.0,7.0,3.0,106.601,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,31.0,8.0,3.0,106.646,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,32.0,9.0,3.0,107.951,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,33.0,10.0,3.0,106.903,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,34.0,11.0,3.0,106.481,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,35.0,12.0,3.0,106.639,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,36.0,13.0,3.0,106.54,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,37.0,14.0,3.0,106.491,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,38.0,15.0,3.0,107.075,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,39.0,16.0,3.0,107.215,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,40.0,17.0,3.0,107.919,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,41.0,18.0,3.0,107.206,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,42.0,19.0,3.0,107.076,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,43.0,20.0,3.0,106.863,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,44.0,21.0,3.0,106.048,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,45.0,22.0,3.0,105.915,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,46.0,23.0,3.0,105.776,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,47.0,24.0,3.0,105.54,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,48.0,25.0,3.0,105.556,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,49.0,26.0,3.0,105.582,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,50.0,27.0,3.0,105.599,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,GAS,Pierre Gasly,10,Alpine,HARD,51.0,28.0,3.0,105.899,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,1.0,1.0,1.0,111.373,False,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,2.0,2.0,1.0,107.717,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,3.0,3.0,1.0,107.657,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,4.0,4.0,1.0,107.404,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,5.0,5.0,1.0,107.615,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,6.0,6.0,1.0,107.073,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,7.0,7.0,1.0,106.885,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,8.0,8.0,1.0,106.807,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,9.0,9.0,1.0,106.448,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,10.0,10.0,1.0,106.905,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,11.0,11.0,1.0,142.994,False,,24
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,14.0,3.0,2.0,105.798,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,15.0,4.0,2.0,105.803,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,16.0,5.0,2.0,105.518,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,17.0,6.0,2.0,105.523,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,18.0,7.0,2.0,105.504,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,19.0,8.0,2.0,105.471,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,20.0,9.0,2.0,105.677,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,21.0,10.0,2.0,105.838,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,22.0,11.0,2.0,105.695,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,23.0,12.0,2.0,105.779,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,24.0,13.0,2.0,105.734,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,25.0,14.0,2.0,105.666,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,26.0,15.0,2.0,105.732,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,27.0,16.0,2.0,105.521,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,28.0,17.0,2.0,105.538,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,29.0,18.0,2.0,105.745,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,30.0,19.0,2.0,105.394,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,31.0,20.0,2.0,105.485,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,32.0,21.0,2.0,105.311,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,33.0,22.0,2.0,105.395,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,34.0,23.0,2.0,105.262,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,35.0,24.0,2.0,104.869,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,36.0,25.0,2.0,104.898,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,37.0,26.0,2.0,104.97,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,38.0,27.0,2.0,105.017,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,39.0,28.0,2.0,105.092,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,40.0,29.0,2.0,105.342,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,41.0,30.0,2.0,105.676,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,42.0,31.0,2.0,105.096,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,43.0,32.0,2.0,104.875,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,44.0,33.0,2.0,104.75,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,45.0,34.0,2.0,104.96,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,46.0,35.0,2.0,104.731,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,47.0,36.0,2.0,105.139,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,48.0,37.0,2.0,104.892,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,49.0,38.0,2.0,104.611,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,50.0,39.0,2.0,104.589,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PER,Sergio Perez,11,Red Bull Racing,HARD,51.0,40.0,2.0,104.926,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,1.0,1.0,1.0,114.002,False,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,2.0,2.0,1.0,108.064,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,3.0,3.0,1.0,107.782,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,4.0,4.0,1.0,107.912,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,5.0,5.0,1.0,107.899,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,6.0,6.0,1.0,108.367,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,7.0,7.0,1.0,107.955,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,8.0,8.0,1.0,107.062,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,9.0,9.0,1.0,108.83,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,10.0,10.0,1.0,107.416,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,11.0,11.0,1.0,148.557,False,,24
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,14.0,3.0,2.0,108.907,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,15.0,4.0,2.0,106.929,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,16.0,5.0,2.0,106.404,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,17.0,6.0,2.0,106.869,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,18.0,7.0,2.0,107.199,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,19.0,8.0,2.0,106.856,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,20.0,9.0,2.0,107.025,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,21.0,10.0,2.0,106.86,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,22.0,11.0,2.0,106.229,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,23.0,12.0,2.0,106.646,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,24.0,13.0,2.0,106.162,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,25.0,14.0,2.0,106.62,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,26.0,15.0,2.0,106.381,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,27.0,16.0,2.0,106.064,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,28.0,17.0,2.0,106.091,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,29.0,18.0,2.0,105.847,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,30.0,19.0,2.0,105.691,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,31.0,20.0,2.0,105.781,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,32.0,21.0,2.0,106.194,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,33.0,22.0,2.0,106.35,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,34.0,23.0,2.0,106.152,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,35.0,24.0,2.0,105.816,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,36.0,25.0,2.0,106.079,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,37.0,26.0,2.0,105.344,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,38.0,27.0,2.0,105.955,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,39.0,28.0,2.0,105.642,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,40.0,29.0,2.0,105.372,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,41.0,30.0,2.0,104.998,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,42.0,31.0,2.0,104.933,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,43.0,32.0,2.0,104.673,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,44.0,33.0,2.0,104.782,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,45.0,34.0,2.0,104.967,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,46.0,35.0,2.0,104.803,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,47.0,36.0,2.0,104.879,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,48.0,37.0,2.0,104.541,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,49.0,38.0,2.0,104.241,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,50.0,39.0,2.0,104.439,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALO,Fernando Alonso,14,Aston Martin,HARD,51.0,40.0,2.0,104.273,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,1.0,1.0,1.0,110.109,False,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,2.0,2.0,1.0,107.656,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,3.0,3.0,1.0,108.151,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,4.0,4.0,1.0,107.966,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,5.0,5.0,1.0,107.757,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,6.0,6.0,1.0,108.067,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,7.0,7.0,1.0,107.157,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,8.0,8.0,1.0,107.707,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,9.0,9.0,1.0,107.421,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,10.0,10.0,1.0,107.034,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,11.0,11.0,1.0,144.96,False,,24
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,14.0,3.0,2.0,108.511,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,15.0,4.0,2.0,106.741,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,16.0,5.0,2.0,106.345,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,17.0,6.0,2.0,106.392,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,18.0,7.0,2.0,106.727,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,19.0,8.0,2.0,106.688,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,20.0,9.0,2.0,106.752,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,21.0,10.0,2.0,106.697,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,22.0,11.0,2.0,106.481,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,23.0,12.0,2.0,106.554,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,24.0,13.0,2.0,106.51,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,25.0,14.0,2.0,106.43,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,26.0,15.0,2.0,106.711,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,27.0,16.0,2.0,106.399,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,28.0,17.0,2.0,105.874,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,29.0,18.0,2.0,105.938,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,30.0,19.0,2.0,106.375,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,31.0,20.0,2.0,106.018,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,32.0,21.0,2.0,105.627,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,33.0,22.0,2.0,105.726,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,34.0,23.0,2.0,105.873,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,35.0,24.0,2.0,105.589,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,36.0,25.0,2.0,105.446,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,37.0,26.0,2.0,105.332,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,38.0,27.0,2.0,105.266,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,39.0,28.0,2.0,105.265,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,40.0,29.0,2.0,105.363,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,41.0,30.0,2.0,105.383,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,42.0,31.0,2.0,105.006,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,43.0,32.0,2.0,104.67,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,44.0,33.0,2.0,105.323,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,45.0,34.0,2.0,104.886,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,46.0,35.0,2.0,104.927,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,47.0,36.0,2.0,105.048,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,48.0,37.0,2.0,105.045,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,49.0,38.0,2.0,104.561,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,50.0,39.0,2.0,104.977,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,LEC,Charles Leclerc,16,Ferrari,HARD,51.0,40.0,2.0,105.409,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,1.0,1.0,1.0,114.568,False,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,2.0,2.0,1.0,108.409,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,3.0,3.0,1.0,107.753,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,4.0,4.0,1.0,107.914,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,5.0,5.0,1.0,107.689,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,6.0,6.0,1.0,108.268,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,7.0,7.0,1.0,108.173,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,8.0,8.0,1.0,107.944,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,9.0,9.0,1.0,108.023,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,10.0,10.0,1.0,107.893,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,14.0,6.0,2.0,109.323,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,15.0,7.0,2.0,107.521,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,16.0,8.0,2.0,107.078,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,17.0,9.0,2.0,107.051,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,18.0,10.0,2.0,106.835,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,19.0,11.0,2.0,108.008,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,20.0,12.0,2.0,107.875,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,21.0,13.0,2.0,107.164,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,22.0,14.0,2.0,106.998,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,23.0,15.0,2.0,107.104,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,24.0,16.0,2.0,106.763,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,25.0,17.0,2.0,106.722,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,26.0,18.0,2.0,107.103,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,27.0,19.0,2.0,106.941,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,28.0,20.0,2.0,107.139,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,29.0,21.0,2.0,106.819,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,30.0,22.0,2.0,106.576,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,31.0,23.0,2.0,106.395,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,32.0,24.0,2.0,106.447,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,33.0,25.0,2.0,106.536,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,34.0,26.0,2.0,106.528,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,35.0,27.0,2.0,106.577,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,36.0,28.0,2.0,106.356,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,37.0,29.0,2.0,106.295,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,38.0,30.0,2.0,106.212,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,39.0,31.0,2.0,105.972,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,40.0,32.0,2.0,106.203,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,41.0,33.0,2.0,106.097,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,42.0,34.0,2.0,105.885,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,43.0,35.0,2.0,105.957,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,44.0,36.0,2.0,105.856,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,45.0,37.0,2.0,105.627,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,46.0,38.0,2.0,105.715,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,47.0,39.0,2.0,105.814,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,48.0,40.0,2.0,105.779,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,49.0,41.0,2.0,105.886,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,50.0,42.0,2.0,106.278,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,STR,Lance Stroll,18,Aston Martin,HARD,51.0,43.0,2.0,106.58,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,MEDIUM,1.0,1.0,1.0,118.98,False,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,MEDIUM,2.0,2.0,1.0,110.147,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,MEDIUM,3.0,3.0,1.0,109.098,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,MEDIUM,4.0,4.0,1.0,108.85,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,MEDIUM,5.0,5.0,1.0,108.875,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,MEDIUM,6.0,6.0,1.0,109.285,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,MEDIUM,7.0,7.0,1.0,109.731,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,MEDIUM,8.0,8.0,1.0,114.13,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,9.0,1.0,2.0,125.742,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,10.0,2.0,2.0,121.898,False,,124
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,12.0,4.0,2.0,129.271,False,,4
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,13.0,5.0,2.0,144.974,False,,41
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,14.0,6.0,2.0,113.102,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,15.0,7.0,2.0,109.448,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,16.0,8.0,2.0,108.461,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,17.0,9.0,2.0,108.711,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,18.0,10.0,2.0,107.892,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,19.0,11.0,2.0,108.088,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,20.0,12.0,2.0,108.722,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,21.0,13.0,2.0,108.568,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,22.0,14.0,2.0,108.293,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,23.0,15.0,2.0,108.378,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,24.0,16.0,2.0,108.514,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,25.0,17.0,2.0,108.089,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,26.0,18.0,2.0,107.802,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,27.0,19.0,2.0,108.044,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,28.0,20.0,2.0,108.355,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,29.0,21.0,2.0,108.197,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,30.0,22.0,2.0,107.975,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,31.0,23.0,2.0,107.663,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,32.0,24.0,2.0,107.521,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,33.0,25.0,2.0,107.364,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,34.0,26.0,2.0,107.539,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,35.0,27.0,2.0,107.456,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,36.0,28.0,2.0,107.614,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,37.0,29.0,2.0,106.844,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,38.0,30.0,2.0,107.161,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,39.0,31.0,2.0,107.323,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,40.0,32.0,2.0,107.725,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,41.0,33.0,2.0,107.2,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,42.0,34.0,2.0,107.378,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,43.0,35.0,2.0,108.649,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,44.0,36.0,2.0,107.047,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,45.0,37.0,2.0,106.97,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,46.0,38.0,2.0,106.819,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,47.0,39.0,2.0,106.641,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,48.0,40.0,2.0,106.754,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,49.0,41.0,2.0,106.501,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,50.0,42.0,2.0,106.507,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAR,Logan Sargeant,2,Williams,HARD,51.0,43.0,2.0,106.638,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,1.0,1.0,1.0,118.715,False,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,2.0,2.0,1.0,110.168,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,3.0,3.0,1.0,108.629,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,4.0,4.0,1.0,108.915,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,5.0,5.0,1.0,109.028,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,6.0,6.0,1.0,108.951,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,7.0,7.0,1.0,108.645,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,8.0,8.0,1.0,108.972,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,9.0,9.0,1.0,109.051,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,10.0,10.0,1.0,122.819,False,,124
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,12.0,2.0,2.0,129.751,False,,4
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,13.0,3.0,2.0,145.627,False,,41
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,14.0,4.0,2.0,112.642,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,15.0,5.0,2.0,109.108,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,16.0,6.0,2.0,107.952,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,17.0,7.0,2.0,108.871,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,18.0,8.0,2.0,107.484,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,19.0,9.0,2.0,107.752,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,20.0,10.0,2.0,107.765,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,21.0,11.0,2.0,107.567,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,22.0,12.0,2.0,107.675,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,23.0,13.0,2.0,107.906,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,24.0,14.0,2.0,107.722,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,25.0,15.0,2.0,107.862,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,26.0,16.0,2.0,107.861,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,27.0,17.0,2.0,108.357,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,28.0,18.0,2.0,108.029,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,29.0,19.0,2.0,107.988,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,30.0,20.0,2.0,106.99,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,31.0,21.0,2.0,107.313,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,32.0,22.0,2.0,107.141,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,33.0,23.0,2.0,107.382,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,34.0,24.0,2.0,107.42,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,35.0,25.0,2.0,107.487,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,36.0,26.0,2.0,107.348,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,37.0,27.0,2.0,107.589,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,38.0,28.0,2.0,107.261,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,39.0,29.0,2.0,107.021,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,40.0,30.0,2.0,106.653,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,41.0,31.0,2.0,107.351,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,42.0,32.0,2.0,106.585,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,43.0,33.0,2.0,106.563,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,44.0,34.0,2.0,106.775,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,45.0,35.0,2.0,106.802,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,46.0,36.0,2.0,106.677,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,47.0,37.0,2.0,106.946,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,48.0,38.0,2.0,107.926,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,49.0,39.0,2.0,107.217,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,50.0,40.0,2.0,106.102,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,51.0,41.0,2.0,105.85,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,DEV,Nyck De Vries,21,AlphaTauri,HARD,1.0,1.0,1.0,121.057,False,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,DEV,Nyck De Vries,21,AlphaTauri,HARD,2.0,2.0,1.0,110.431,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,DEV,Nyck De Vries,21,AlphaTauri,HARD,3.0,3.0,1.0,109.365,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,DEV,Nyck De Vries,21,AlphaTauri,HARD,4.0,4.0,1.0,108.781,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,DEV,Nyck De Vries,21,AlphaTauri,HARD,5.0,5.0,1.0,108.948,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,DEV,Nyck De Vries,21,AlphaTauri,HARD,6.0,6.0,1.0,109.337,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,DEV,Nyck De Vries,21,AlphaTauri,HARD,7.0,7.0,1.0,109.118,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,DEV,Nyck De Vries,21,AlphaTauri,HARD,8.0,8.0,1.0,109.353,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,DEV,Nyck De Vries,21,AlphaTauri,HARD,9.0,9.0,1.0,109.253,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,1.0,1.0,1.0,117.17,False,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,2.0,2.0,1.0,109.181,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,3.0,3.0,1.0,108.529,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,4.0,4.0,1.0,108.477,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,5.0,5.0,1.0,108.599,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,6.0,6.0,1.0,108.228,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,7.0,7.0,1.0,108.26,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,8.0,8.0,1.0,112.849,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,9.0,1.0,2.0,125.578,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,10.0,2.0,2.0,118.85,False,,124
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,11.0,3.0,2.0,149.329,False,,4
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,12.0,4.0,2.0,136.115,False,,4
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,14.0,6.0,2.0,112.225,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,15.0,7.0,2.0,108.521,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,16.0,8.0,2.0,107.868,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,17.0,9.0,2.0,107.609,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,18.0,10.0,2.0,107.69,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,19.0,11.0,2.0,107.556,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,20.0,12.0,2.0,108.021,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,21.0,13.0,2.0,107.818,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,22.0,14.0,2.0,107.642,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,23.0,15.0,2.0,108.041,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,24.0,16.0,2.0,108.199,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,25.0,17.0,2.0,107.9,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,26.0,18.0,2.0,107.696,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,27.0,19.0,2.0,108.205,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,28.0,20.0,2.0,107.902,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,29.0,21.0,2.0,107.667,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,30.0,22.0,2.0,107.334,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,31.0,23.0,2.0,107.308,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,32.0,24.0,2.0,107.355,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,33.0,25.0,2.0,107.219,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,34.0,26.0,2.0,106.922,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,35.0,27.0,2.0,106.861,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,36.0,28.0,2.0,107.261,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,37.0,29.0,2.0,107.14,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,38.0,30.0,2.0,106.692,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,39.0,31.0,2.0,106.854,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,40.0,32.0,2.0,106.877,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,41.0,33.0,2.0,106.741,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,42.0,34.0,2.0,106.765,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,43.0,35.0,2.0,107.011,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,44.0,36.0,2.0,107.237,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,45.0,37.0,2.0,108.611,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,46.0,38.0,2.0,107.293,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,47.0,39.0,2.0,106.643,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,48.0,40.0,2.0,106.479,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,49.0,41.0,2.0,106.205,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,50.0,42.0,2.0,106.141,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,51.0,43.0,2.0,105.727,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,MEDIUM,1.0,1.0,1.0,118.185,False,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,MEDIUM,2.0,2.0,1.0,109.728,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,MEDIUM,3.0,3.0,1.0,108.815,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,MEDIUM,4.0,4.0,1.0,109.004,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,MEDIUM,5.0,5.0,1.0,108.689,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,MEDIUM,6.0,6.0,1.0,108.53,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,MEDIUM,7.0,7.0,1.0,112.993,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,8.0,1.0,2.0,126.167,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,9.0,2.0,2.0,107.968,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,10.0,3.0,2.0,120.959,False,,124
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,11.0,4.0,2.0,149.002,False,,4
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,12.0,5.0,2.0,135.098,False,,4
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,13.0,6.0,2.0,148.547,False,,41
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,14.0,7.0,2.0,112.578,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,15.0,8.0,2.0,108.928,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,16.0,9.0,2.0,108.111,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,17.0,10.0,2.0,107.727,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,18.0,11.0,2.0,107.982,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,19.0,12.0,2.0,107.776,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,20.0,13.0,2.0,107.693,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,21.0,14.0,2.0,108.151,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,22.0,15.0,2.0,107.986,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,23.0,16.0,2.0,107.949,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,24.0,17.0,2.0,108.076,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,25.0,18.0,2.0,108.114,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,26.0,19.0,2.0,107.911,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,27.0,20.0,2.0,107.77,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,28.0,21.0,2.0,108.057,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,29.0,22.0,2.0,107.858,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,30.0,23.0,2.0,107.38,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,31.0,24.0,2.0,107.37,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,32.0,25.0,2.0,107.64,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,33.0,26.0,2.0,107.284,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,34.0,27.0,2.0,107.486,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,35.0,28.0,2.0,107.277,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,36.0,29.0,2.0,107.763,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,37.0,30.0,2.0,107.27,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,38.0,31.0,2.0,107.155,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,39.0,32.0,2.0,106.972,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,40.0,33.0,2.0,107.049,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,41.0,34.0,2.0,106.853,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,42.0,35.0,2.0,106.845,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,43.0,36.0,2.0,106.607,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,44.0,37.0,2.0,106.833,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,45.0,38.0,2.0,106.859,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,46.0,39.0,2.0,106.614,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,47.0,40.0,2.0,106.621,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,48.0,41.0,2.0,108.271,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,49.0,42.0,2.0,106.343,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,50.0,43.0,2.0,106.29,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ALB,Alexander Albon,23,Williams,HARD,51.0,44.0,2.0,105.925,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,1.0,1.0,1.0,120.491,False,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,2.0,2.0,1.0,110.144,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,3.0,3.0,1.0,109.313,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,4.0,4.0,1.0,109.096,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,5.0,5.0,1.0,109.152,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,6.0,6.0,1.0,109.307,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,7.0,7.0,1.0,109.112,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,8.0,8.0,1.0,109.251,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,9.0,9.0,1.0,109.363,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,10.0,10.0,1.0,109.532,False,,124
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,13.0,2.0,2.0,149.111,False,,41
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,14.0,3.0,2.0,114.037,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,15.0,4.0,2.0,109.022,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,16.0,5.0,2.0,108.274,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,17.0,6.0,2.0,108.444,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,18.0,7.0,2.0,107.83,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,19.0,8.0,2.0,109.47,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,20.0,9.0,2.0,108.394,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,21.0,10.0,2.0,108.28,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,22.0,11.0,2.0,108.371,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,23.0,12.0,2.0,108.602,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,24.0,13.0,2.0,108.374,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,25.0,14.0,2.0,108.105,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,26.0,15.0,2.0,107.952,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,27.0,16.0,2.0,108.066,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,28.0,17.0,2.0,108.055,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,29.0,18.0,2.0,107.934,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,30.0,19.0,2.0,108.071,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,31.0,20.0,2.0,107.553,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,32.0,21.0,2.0,107.617,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,33.0,22.0,2.0,107.662,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,34.0,23.0,2.0,107.627,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,35.0,24.0,2.0,107.587,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,36.0,25.0,2.0,113.661,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,1.0,1.0,1.0,122.623,False,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,2.0,2.0,1.0,110.227,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,3.0,3.0,1.0,110.097,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,4.0,4.0,1.0,108.731,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,5.0,5.0,1.0,109.331,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,6.0,6.0,1.0,109.033,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,7.0,7.0,1.0,108.557,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,8.0,8.0,1.0,108.667,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,9.0,9.0,1.0,109.303,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,10.0,10.0,1.0,115.368,False,,124
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,12.0,12.0,1.0,144.365,False,,4
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,14.0,14.0,1.0,111.284,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,15.0,15.0,1.0,108.266,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,16.0,16.0,1.0,107.824,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,17.0,17.0,1.0,107.529,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,18.0,18.0,1.0,107.528,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,19.0,19.0,1.0,107.721,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,20.0,20.0,1.0,107.967,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,21.0,21.0,1.0,107.639,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,22.0,22.0,1.0,107.61,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,23.0,23.0,1.0,108.825,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,24.0,24.0,1.0,108.101,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,25.0,25.0,1.0,107.97,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,26.0,26.0,1.0,107.677,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,27.0,27.0,1.0,108.497,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,28.0,28.0,1.0,107.706,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,29.0,29.0,1.0,107.147,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,30.0,30.0,1.0,107.678,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,31.0,31.0,1.0,107.428,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,32.0,32.0,1.0,107.208,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,33.0,33.0,1.0,107.341,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,34.0,34.0,1.0,106.731,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,35.0,35.0,1.0,107.138,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,36.0,36.0,1.0,107.163,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,37.0,37.0,1.0,106.866,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,38.0,38.0,1.0,106.848,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,39.0,39.0,1.0,106.742,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,40.0,40.0,1.0,106.926,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,41.0,41.0,1.0,106.945,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,42.0,42.0,1.0,106.861,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,43.0,43.0,1.0,107.155,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,44.0,44.0,1.0,107.123,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,45.0,45.0,1.0,109.701,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,46.0,46.0,1.0,107.65,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,47.0,47.0,1.0,108.374,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,48.0,48.0,1.0,109.008,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,49.0,49.0,1.0,113.182,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HUL,Nico Hulkenberg,27,Haas F1 Team,SOFT,50.0,1.0,2.0,126.546,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,1.0,1.0,1.0,122.501,False,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,2.0,2.0,1.0,110.023,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,3.0,3.0,1.0,109.485,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,4.0,4.0,1.0,109.023,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,5.0,5.0,1.0,109.005,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,6.0,6.0,1.0,109.117,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,7.0,7.0,1.0,108.571,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,8.0,8.0,1.0,109.196,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,9.0,9.0,1.0,109.081,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,10.0,10.0,1.0,115.103,False,,124
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,12.0,12.0,1.0,144.487,False,,4
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,14.0,14.0,1.0,111.269,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,15.0,15.0,1.0,108.156,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,16.0,16.0,1.0,107.633,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,17.0,17.0,1.0,107.681,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,18.0,18.0,1.0,107.454,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,19.0,19.0,1.0,107.656,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,20.0,20.0,1.0,107.586,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,21.0,21.0,1.0,107.553,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,22.0,22.0,1.0,108.172,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,23.0,23.0,1.0,108.978,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,24.0,24.0,1.0,107.88,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,25.0,25.0,1.0,108.055,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,26.0,26.0,1.0,107.604,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,27.0,27.0,1.0,107.782,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,28.0,28.0,1.0,107.665,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,29.0,29.0,1.0,107.834,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,30.0,30.0,1.0,107.451,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,31.0,31.0,1.0,107.324,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,32.0,32.0,1.0,107.232,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,33.0,33.0,1.0,107.09,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,34.0,34.0,1.0,107.074,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,35.0,35.0,1.0,107.028,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,36.0,36.0,1.0,107.293,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,37.0,37.0,1.0,106.719,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,38.0,38.0,1.0,106.607,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,39.0,39.0,1.0,106.897,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,40.0,40.0,1.0,106.893,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,41.0,41.0,1.0,106.826,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,42.0,42.0,1.0,106.7,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,43.0,43.0,1.0,106.784,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,44.0,44.0,1.0,106.669,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,45.0,45.0,1.0,106.871,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,46.0,46.0,1.0,106.606,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,47.0,47.0,1.0,106.527,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,48.0,48.0,1.0,106.414,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,49.0,49.0,1.0,105.908,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,HARD,50.0,50.0,1.0,110.932,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,OCO,Esteban Ocon,31,Alpine,SOFT,51.0,1.0,2.0,121.249,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,MEDIUM,1.0,1.0,1.0,115.413,False,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,MEDIUM,2.0,2.0,1.0,108.739,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,MEDIUM,3.0,3.0,1.0,108.094,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,MEDIUM,4.0,4.0,1.0,108.096,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,MEDIUM,5.0,5.0,1.0,108.08,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,MEDIUM,6.0,6.0,1.0,108.216,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,MEDIUM,7.0,7.0,1.0,108.248,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,MEDIUM,8.0,8.0,1.0,108.336,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,MEDIUM,9.0,9.0,1.0,112.343,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,10.0,1.0,2.0,135.72,False,,124
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,11.0,2.0,2.0,147.163,False,,4
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,12.0,3.0,2.0,140.862,False,,4
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,14.0,5.0,2.0,111.811,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,15.0,6.0,2.0,108.489,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,16.0,7.0,2.0,107.832,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,17.0,8.0,2.0,107.967,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,18.0,9.0,2.0,107.516,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,19.0,10.0,2.0,107.354,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,20.0,11.0,2.0,107.343,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,21.0,12.0,2.0,108.366,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,22.0,13.0,2.0,107.676,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,23.0,14.0,2.0,108.343,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,24.0,15.0,2.0,108.318,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,25.0,16.0,2.0,107.782,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,26.0,17.0,2.0,107.882,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,27.0,18.0,2.0,108.021,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,28.0,19.0,2.0,107.994,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,29.0,20.0,2.0,107.445,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,30.0,21.0,2.0,107.449,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,31.0,22.0,2.0,107.388,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,32.0,23.0,2.0,107.17,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,33.0,24.0,2.0,107.241,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,34.0,25.0,2.0,107.1,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,35.0,26.0,2.0,106.741,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,36.0,27.0,2.0,107.354,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,37.0,28.0,2.0,106.896,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,38.0,29.0,2.0,106.685,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,39.0,30.0,2.0,106.898,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,40.0,31.0,2.0,106.937,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,41.0,32.0,2.0,106.863,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,42.0,33.0,2.0,106.641,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,43.0,34.0,2.0,106.932,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,44.0,35.0,2.0,107.27,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,45.0,36.0,2.0,107.741,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,46.0,37.0,2.0,106.134,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,47.0,38.0,2.0,106.188,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,48.0,39.0,2.0,106.197,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,49.0,40.0,2.0,105.738,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,50.0,41.0,2.0,106.056,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,NOR,Lando Norris,4,McLaren,HARD,51.0,42.0,2.0,106.397,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,1.0,1.0,1.0,113.406,False,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,2.0,2.0,1.0,108.165,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,3.0,3.0,1.0,107.602,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,4.0,4.0,1.0,107.76,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,5.0,5.0,1.0,107.791,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,6.0,6.0,1.0,107.916,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,7.0,7.0,1.0,107.816,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,8.0,8.0,1.0,107.929,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,9.0,9.0,1.0,113.178,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,10.0,1.0,2.0,131.469,False,,124
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,11.0,2.0,2.0,149.985,False,,4
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,12.0,3.0,2.0,145.161,False,,4
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,14.0,5.0,2.0,109.877,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,15.0,6.0,2.0,107.259,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,16.0,7.0,2.0,106.709,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,17.0,8.0,2.0,107.383,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,18.0,9.0,2.0,107.204,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,19.0,10.0,2.0,106.747,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,20.0,11.0,2.0,106.734,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,21.0,12.0,2.0,106.809,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,22.0,13.0,2.0,106.8,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,23.0,14.0,2.0,106.678,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,24.0,15.0,2.0,106.628,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,25.0,16.0,2.0,107.177,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,26.0,17.0,2.0,108.001,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,27.0,18.0,2.0,106.728,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,28.0,19.0,2.0,106.904,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,29.0,20.0,2.0,106.611,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,30.0,21.0,2.0,106.689,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,31.0,22.0,2.0,106.558,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,32.0,23.0,2.0,106.583,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,33.0,24.0,2.0,106.218,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,34.0,25.0,2.0,106.27,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,35.0,26.0,2.0,105.834,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,36.0,27.0,2.0,106.206,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,37.0,28.0,2.0,106.29,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,38.0,29.0,2.0,106.106,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,39.0,30.0,2.0,105.833,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,40.0,31.0,2.0,106.284,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,41.0,32.0,2.0,106.731,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,42.0,33.0,2.0,106.206,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,43.0,34.0,2.0,105.714,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,44.0,35.0,2.0,105.54,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,45.0,36.0,2.0,105.571,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,46.0,37.0,2.0,105.951,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,47.0,38.0,2.0,105.583,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,48.0,39.0,2.0,105.346,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,49.0,40.0,2.0,105.439,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,50.0,41.0,2.0,105.385,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,HAM,Lewis Hamilton,44,Mercedes,HARD,51.0,42.0,2.0,105.42,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,1.0,1.0,1.0,112.645,False,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,2.0,2.0,1.0,107.774,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,3.0,3.0,1.0,107.928,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,4.0,4.0,1.0,107.898,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,5.0,5.0,1.0,107.877,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,6.0,6.0,1.0,107.649,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,7.0,7.0,1.0,107.262,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,8.0,8.0,1.0,107.591,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,9.0,9.0,1.0,107.803,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,10.0,10.0,1.0,107.412,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,14.0,3.0,2.0,109.508,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,15.0,4.0,2.0,107.279,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,16.0,5.0,2.0,106.75,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,17.0,6.0,2.0,107.353,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,18.0,7.0,2.0,106.971,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,19.0,8.0,2.0,106.956,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,20.0,9.0,2.0,107.237,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,21.0,10.0,2.0,106.901,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,22.0,11.0,2.0,106.918,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,23.0,12.0,2.0,107.088,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,24.0,13.0,2.0,106.56,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,25.0,14.0,2.0,106.963,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,26.0,15.0,2.0,107.292,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,27.0,16.0,2.0,106.915,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,28.0,17.0,2.0,106.689,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,29.0,18.0,2.0,106.743,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,30.0,19.0,2.0,106.619,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,31.0,20.0,2.0,106.801,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,32.0,21.0,2.0,106.545,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,33.0,22.0,2.0,106.39,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,34.0,23.0,2.0,106.289,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,35.0,24.0,2.0,106.37,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,36.0,25.0,2.0,106.318,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,37.0,26.0,2.0,106.189,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,38.0,27.0,2.0,105.804,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,39.0,28.0,2.0,106.195,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,40.0,29.0,2.0,106.527,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,41.0,30.0,2.0,106.594,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,42.0,31.0,2.0,106.002,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,43.0,32.0,2.0,105.783,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,44.0,33.0,2.0,105.498,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,45.0,34.0,2.0,105.663,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,46.0,35.0,2.0,105.507,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,47.0,36.0,2.0,105.608,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,48.0,37.0,2.0,105.175,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,49.0,38.0,2.0,105.471,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,50.0,39.0,2.0,105.533,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,SAI,Carlos Sainz,55,Ferrari,HARD,51.0,40.0,2.0,105.753,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,MEDIUM,1.0,1.0,1.0,116.394,False,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,MEDIUM,2.0,2.0,1.0,108.818,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,MEDIUM,3.0,3.0,1.0,107.908,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,MEDIUM,4.0,4.0,1.0,108.252,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,MEDIUM,5.0,5.0,1.0,108.443,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,MEDIUM,6.0,6.0,1.0,108.174,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,MEDIUM,7.0,7.0,1.0,108.314,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,MEDIUM,8.0,8.0,1.0,108.088,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,MEDIUM,9.0,9.0,1.0,107.757,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,MEDIUM,10.0,10.0,1.0,107.662,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,14.0,3.0,2.0,110.486,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,15.0,4.0,2.0,108.356,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,16.0,5.0,2.0,107.401,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,17.0,6.0,2.0,107.396,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,18.0,7.0,2.0,107.177,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,19.0,8.0,2.0,106.563,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,20.0,9.0,2.0,106.887,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,21.0,10.0,2.0,107.577,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,22.0,11.0,2.0,107.04,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,23.0,12.0,2.0,106.615,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,24.0,13.0,2.0,107.402,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,25.0,14.0,2.0,107.082,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,26.0,15.0,2.0,106.953,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,27.0,16.0,2.0,107.099,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,28.0,17.0,2.0,106.973,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,29.0,18.0,2.0,106.829,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,30.0,19.0,2.0,106.332,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,31.0,20.0,2.0,106.617,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,32.0,21.0,2.0,106.956,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,33.0,22.0,2.0,106.891,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,34.0,23.0,2.0,106.538,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,35.0,24.0,2.0,106.545,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,36.0,25.0,2.0,106.145,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,37.0,26.0,2.0,106.234,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,38.0,27.0,2.0,105.935,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,39.0,28.0,2.0,105.889,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,40.0,29.0,2.0,105.977,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,41.0,30.0,2.0,106.023,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,42.0,31.0,2.0,105.736,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,43.0,32.0,2.0,105.901,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,44.0,33.0,2.0,106.089,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,45.0,34.0,2.0,105.74,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,46.0,35.0,2.0,105.753,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,47.0,36.0,2.0,105.662,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,48.0,37.0,2.0,105.734,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,HARD,49.0,38.0,2.0,112.152,False,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,SOFT,50.0,1.0,3.0,124.793,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,RUS,George Russell,63,Mercedes,SOFT,51.0,2.0,3.0,103.37,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,1.0,1.0,1.0,122.059,False,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,2.0,2.0,1.0,110.064,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,3.0,3.0,1.0,109.439,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,4.0,4.0,1.0,108.992,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,5.0,5.0,1.0,109.019,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,6.0,6.0,1.0,113.204,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,7.0,1.0,2.0,124.955,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,8.0,2.0,2.0,108.297,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,9.0,3.0,2.0,109.739,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,10.0,4.0,2.0,124.641,False,,124
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,12.0,6.0,2.0,133.014,False,,4
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,13.0,1.0,3.0,140.098,False,,41
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,14.0,2.0,3.0,113.128,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,15.0,3.0,3.0,109.679,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,16.0,4.0,3.0,108.513,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,17.0,5.0,3.0,108.769,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,18.0,6.0,3.0,108.46,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,19.0,7.0,3.0,108.853,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,20.0,8.0,3.0,108.28,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,21.0,9.0,3.0,108.319,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,22.0,10.0,3.0,108.316,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,23.0,11.0,3.0,108.097,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,24.0,12.0,3.0,108.32,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,25.0,13.0,3.0,108.039,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,26.0,14.0,3.0,108.552,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,27.0,15.0,3.0,108.333,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,28.0,16.0,3.0,109.576,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,29.0,17.0,3.0,108.065,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,30.0,18.0,3.0,107.849,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,31.0,19.0,3.0,107.971,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,32.0,20.0,3.0,108.046,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,33.0,21.0,3.0,109.361,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,34.0,22.0,3.0,111.998,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,35.0,1.0,4.0,124.784,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,36.0,2.0,4.0,106.304,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,37.0,3.0,4.0,106.722,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,38.0,4.0,4.0,106.823,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,39.0,5.0,4.0,107.213,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,40.0,6.0,4.0,106.841,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,41.0,7.0,4.0,107.199,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,42.0,8.0,4.0,108.026,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,43.0,9.0,4.0,108.059,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,44.0,10.0,4.0,106.864,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,45.0,11.0,4.0,106.699,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,46.0,12.0,4.0,106.599,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,47.0,13.0,4.0,106.688,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,48.0,14.0,4.0,106.754,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,49.0,15.0,4.0,106.649,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,50.0,16.0,4.0,106.652,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,1.0,1.0,1.0,117.516,False,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,2.0,2.0,1.0,109.527,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,3.0,3.0,1.0,108.452,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,4.0,4.0,1.0,109.002,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,5.0,5.0,1.0,108.298,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,6.0,6.0,1.0,108.485,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,7.0,7.0,1.0,109.102,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,8.0,8.0,1.0,112.245,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,9.0,1.0,2.0,125.475,False,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,10.0,2.0,2.0,120.729,False,,124
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,11.0,3.0,2.0,148.314,False,,4
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,12.0,4.0,2.0,135.556,False,,4
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,14.0,6.0,2.0,112.604,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,15.0,7.0,2.0,108.618,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,16.0,8.0,2.0,108.175,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,17.0,9.0,2.0,107.625,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,18.0,10.0,2.0,107.723,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,19.0,11.0,2.0,107.736,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,20.0,12.0,2.0,107.361,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,21.0,13.0,2.0,108.171,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,22.0,14.0,2.0,107.876,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,23.0,15.0,2.0,108.325,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,24.0,16.0,2.0,107.929,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,25.0,17.0,2.0,108.252,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,26.0,18.0,2.0,108.025,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,27.0,19.0,2.0,107.563,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,28.0,20.0,2.0,108.227,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,29.0,21.0,2.0,107.866,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,30.0,22.0,2.0,107.654,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,31.0,23.0,2.0,107.038,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,32.0,24.0,2.0,107.356,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,33.0,25.0,2.0,107.382,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,34.0,26.0,2.0,107.545,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,35.0,27.0,2.0,107.157,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,36.0,28.0,2.0,106.925,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,37.0,29.0,2.0,107.014,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,38.0,30.0,2.0,106.868,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,39.0,31.0,2.0,106.873,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,40.0,32.0,2.0,107.239,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,41.0,33.0,2.0,107.097,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,42.0,34.0,2.0,106.889,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,43.0,35.0,2.0,106.929,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,44.0,36.0,2.0,106.86,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,45.0,37.0,2.0,107.196,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,46.0,38.0,2.0,107.193,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,47.0,39.0,2.0,107.158,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,48.0,40.0,2.0,107.06,True,,12
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,49.0,41.0,2.0,106.43,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,50.0,42.0,2.0,106.113,True,,1
+2023,4,Azerbaijan Grand Prix,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Baku,Azerbaijan,Baku,2023-04-30,51,PIA,Oscar Piastri,81,McLaren,HARD,51.0,43.0,2.0,105.631,True,,1

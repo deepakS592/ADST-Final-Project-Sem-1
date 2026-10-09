@@ -1,0 +1,1008 @@
+Season,Round,Race,EventName,OfficialEventName,Circuit,Country,Location,EventDate,RaceLaps,Driver,DriverName,DriverNumber,Team,Compound,LapNumber,TyreLife,Stint,LapTime,IsAccurate,Deleted,TrackStatus
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,1.0,1.0,1.0,101.528,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,2.0,2.0,1.0,100.103,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,3.0,3.0,1.0,100.494,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,4.0,4.0,1.0,100.573,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,5.0,5.0,1.0,100.919,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,6.0,6.0,1.0,101.147,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,7.0,7.0,1.0,101.118,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,8.0,8.0,1.0,101.11,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,9.0,9.0,1.0,101.155,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,10.0,10.0,1.0,101.424,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,11.0,11.0,1.0,101.401,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,12.0,12.0,1.0,101.318,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,13.0,13.0,1.0,106.526,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,14.0,1.0,2.0,119.074,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,15.0,2.0,2.0,99.591,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,16.0,3.0,2.0,99.985,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,17.0,4.0,2.0,99.519,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,18.0,5.0,2.0,100.07,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,19.0,6.0,2.0,100.139,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,20.0,7.0,2.0,100.081,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,21.0,8.0,2.0,100.49,True,,12
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,22.0,9.0,2.0,134.296,False,,26
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,23.0,10.0,2.0,137.938,False,,64
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,25.0,2.0,3.0,145.05,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,27.0,4.0,3.0,107.123,False,,124
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,29.0,6.0,3.0,146.57,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,30.0,7.0,3.0,140.118,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,31.0,8.0,3.0,148.77,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,32.0,9.0,3.0,98.604,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,33.0,10.0,3.0,98.406,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,34.0,11.0,3.0,98.426,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,35.0,12.0,3.0,98.765,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,36.0,13.0,3.0,98.825,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,37.0,14.0,3.0,98.801,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,38.0,15.0,3.0,98.855,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,39.0,16.0,3.0,98.742,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,40.0,17.0,3.0,98.956,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,41.0,18.0,3.0,99.067,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,42.0,19.0,3.0,99.227,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,43.0,20.0,3.0,99.224,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,44.0,21.0,3.0,99.305,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,45.0,22.0,3.0,99.216,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,46.0,23.0,3.0,99.433,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,47.0,24.0,3.0,99.422,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,48.0,25.0,3.0,99.325,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,49.0,26.0,3.0,99.35,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,50.0,27.0,3.0,99.445,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,51.0,28.0,3.0,99.276,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,52.0,29.0,3.0,99.694,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,53.0,30.0,3.0,99.654,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,54.0,31.0,3.0,99.773,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,55.0,32.0,3.0,99.805,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,VER,Max Verstappen,1,Red Bull Racing,HARD,56.0,33.0,3.0,100.253,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,1.0,1.0,1.0,109.907,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,2.0,2.0,1.0,103.179,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,3.0,3.0,1.0,103.012,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,4.0,4.0,1.0,102.847,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,5.0,5.0,1.0,103.552,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,6.0,6.0,1.0,103.494,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,7.0,7.0,1.0,103.352,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,8.0,8.0,1.0,103.871,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,9.0,9.0,1.0,103.691,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,10.0,10.0,1.0,103.435,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,11.0,11.0,1.0,108.722,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,12.0,1.0,2.0,137.655,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,13.0,2.0,2.0,101.071,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,14.0,3.0,2.0,101.893,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,15.0,4.0,2.0,101.679,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,16.0,5.0,2.0,102.107,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,17.0,6.0,2.0,101.956,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,18.0,7.0,2.0,101.812,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,19.0,8.0,2.0,102.136,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,20.0,9.0,2.0,102.229,True,,12
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,21.0,10.0,2.0,123.25,False,,26
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,22.0,11.0,2.0,134.094,False,,6
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,23.0,12.0,2.0,138.481,False,,64
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,24.0,1.0,3.0,149.898,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,25.0,2.0,3.0,109.465,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,26.0,3.0,3.0,132.45,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,27.0,4.0,3.0,118.826,False,,124
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,28.0,5.0,3.0,146.862,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,29.0,6.0,3.0,146.365,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,30.0,7.0,3.0,140.888,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,31.0,8.0,3.0,139.27,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,32.0,9.0,3.0,101.886,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,33.0,10.0,3.0,102.047,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,34.0,11.0,3.0,101.522,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,35.0,12.0,3.0,101.078,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,36.0,13.0,3.0,101.311,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,37.0,14.0,3.0,101.071,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,HARD,38.0,15.0,3.0,106.348,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,39.0,1.0,4.0,118.239,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,40.0,2.0,4.0,99.198,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,41.0,3.0,4.0,99.758,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,42.0,4.0,4.0,100.024,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,43.0,5.0,4.0,100.029,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,44.0,6.0,4.0,99.906,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,45.0,7.0,4.0,100.065,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,46.0,8.0,4.0,100.25,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,47.0,9.0,4.0,100.397,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,48.0,10.0,4.0,101.551,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,49.0,11.0,4.0,100.305,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,50.0,12.0,4.0,100.138,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,51.0,13.0,4.0,100.497,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,52.0,14.0,4.0,101.052,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,53.0,15.0,4.0,101.373,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,54.0,16.0,4.0,100.727,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,55.0,17.0,4.0,100.737,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,GAS,Pierre Gasly,10,Alpine,MEDIUM,56.0,18.0,4.0,100.819,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,1.0,1.0,1.0,103.97,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,2.0,2.0,1.0,100.881,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,3.0,3.0,1.0,100.973,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,4.0,4.0,1.0,101.604,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,5.0,5.0,1.0,101.625,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,6.0,6.0,1.0,101.656,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,7.0,7.0,1.0,101.583,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,8.0,8.0,1.0,101.713,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,9.0,9.0,1.0,101.768,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,10.0,10.0,1.0,101.84,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,11.0,11.0,1.0,101.767,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,12.0,12.0,1.0,102.266,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,13.0,13.0,1.0,106.866,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,14.0,1.0,2.0,118.255,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,15.0,2.0,2.0,100.038,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,16.0,3.0,2.0,100.556,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,17.0,4.0,2.0,102.103,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,18.0,5.0,2.0,100.199,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,19.0,6.0,2.0,100.313,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,20.0,7.0,2.0,100.522,True,,12
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,21.0,8.0,2.0,107.126,False,,26
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,22.0,9.0,2.0,133.674,False,,6
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,23.0,10.0,2.0,137.492,False,,64
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,25.0,2.0,3.0,144.356,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,27.0,4.0,3.0,109.072,False,,124
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,29.0,6.0,3.0,145.947,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,30.0,7.0,3.0,141.644,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,31.0,8.0,3.0,145.856,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,32.0,9.0,3.0,99.731,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,33.0,10.0,3.0,99.388,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,34.0,11.0,3.0,99.512,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,35.0,12.0,3.0,99.698,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,36.0,13.0,3.0,99.68,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,37.0,14.0,3.0,100.005,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,38.0,15.0,3.0,100.068,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,39.0,16.0,3.0,99.409,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,40.0,17.0,3.0,99.687,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,41.0,18.0,3.0,99.599,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,42.0,19.0,3.0,99.521,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,43.0,20.0,3.0,99.607,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,44.0,21.0,3.0,99.722,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,45.0,22.0,3.0,99.849,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,46.0,23.0,3.0,99.966,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,47.0,24.0,3.0,99.955,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,48.0,25.0,3.0,99.961,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,49.0,26.0,3.0,99.903,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,50.0,27.0,3.0,100.052,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,51.0,28.0,3.0,99.906,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,52.0,29.0,3.0,100.123,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,53.0,30.0,3.0,100.196,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,54.0,31.0,3.0,100.228,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,55.0,32.0,3.0,100.593,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PER,Sergio Perez,11,Red Bull Racing,HARD,56.0,33.0,3.0,100.65,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,1.0,1.0,1.0,103.173,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,2.0,2.0,1.0,101.128,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,3.0,3.0,1.0,100.988,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,4.0,4.0,1.0,101.579,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,5.0,5.0,1.0,103.06,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,6.0,6.0,1.0,102.363,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,7.0,7.0,1.0,103.817,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,8.0,8.0,1.0,103.132,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,9.0,9.0,1.0,102.946,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,10.0,10.0,1.0,103.083,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,11.0,11.0,1.0,108.048,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,HARD,12.0,1.0,2.0,120.05,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,HARD,13.0,2.0,2.0,102.256,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,HARD,14.0,3.0,2.0,100.944,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,HARD,15.0,4.0,2.0,100.983,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,HARD,16.0,5.0,2.0,101.274,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,HARD,17.0,6.0,2.0,101.251,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,HARD,18.0,7.0,2.0,101.229,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,HARD,19.0,8.0,2.0,101.459,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,HARD,20.0,9.0,2.0,101.64,True,,12
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,HARD,21.0,10.0,2.0,110.904,False,,26
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,HARD,22.0,11.0,2.0,133.864,False,,6
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,HARD,23.0,12.0,2.0,137.153,False,,64
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,SOFT,24.0,1.0,3.0,148.542,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,SOFT,25.0,2.0,3.0,135.201,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,SOFT,27.0,4.0,3.0,110.392,False,,124
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,SOFT,29.0,6.0,3.0,145.818,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,SOFT,30.0,7.0,3.0,142.1,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,SOFT,31.0,8.0,3.0,144.857,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,SOFT,32.0,9.0,3.0,100.19,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,SOFT,33.0,10.0,3.0,99.48,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,SOFT,34.0,11.0,3.0,99.452,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,SOFT,35.0,12.0,3.0,99.817,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,SOFT,36.0,13.0,3.0,100.638,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,SOFT,37.0,14.0,3.0,100.4,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,SOFT,38.0,15.0,3.0,100.119,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,SOFT,39.0,16.0,3.0,100.447,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,SOFT,40.0,17.0,3.0,100.693,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,SOFT,41.0,18.0,3.0,100.819,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,SOFT,42.0,19.0,3.0,100.794,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,SOFT,43.0,20.0,3.0,105.953,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,44.0,1.0,4.0,117.277,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,45.0,2.0,4.0,97.81,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,46.0,3.0,4.0,99.559,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,47.0,4.0,4.0,99.963,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,48.0,5.0,4.0,99.837,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,49.0,6.0,4.0,99.403,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,50.0,7.0,4.0,99.174,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,51.0,8.0,4.0,99.487,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,52.0,9.0,4.0,99.396,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,53.0,10.0,4.0,99.557,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,54.0,11.0,4.0,100.377,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,55.0,12.0,4.0,100.056,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,56.0,13.0,4.0,100.249,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,1.0,1.0,1.0,106.488,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,2.0,2.0,1.0,101.812,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,3.0,3.0,1.0,102.09,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,4.0,4.0,1.0,102.22,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,5.0,5.0,1.0,102.095,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,6.0,6.0,1.0,102.322,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,7.0,7.0,1.0,102.417,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,8.0,8.0,1.0,102.969,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,9.0,9.0,1.0,102.189,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,10.0,10.0,1.0,102.324,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,11.0,11.0,1.0,102.128,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,12.0,12.0,1.0,101.939,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,13.0,13.0,1.0,102.079,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,14.0,14.0,1.0,101.812,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,15.0,15.0,1.0,101.864,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,16.0,16.0,1.0,102.729,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,17.0,17.0,1.0,101.979,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,18.0,18.0,1.0,102.114,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,19.0,19.0,1.0,101.982,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,20.0,20.0,1.0,102.041,True,,12
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,MEDIUM,21.0,21.0,1.0,111.969,False,,26
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,23.0,2.0,2.0,132.911,False,,64
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,24.0,3.0,2.0,136.842,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,25.0,4.0,2.0,145.209,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,27.0,6.0,2.0,108.724,False,,124
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,29.0,8.0,2.0,146.334,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,30.0,9.0,2.0,140.784,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,31.0,10.0,2.0,146.766,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,32.0,11.0,2.0,99.525,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,33.0,12.0,2.0,99.384,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,34.0,13.0,2.0,99.561,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,35.0,14.0,2.0,99.707,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,36.0,15.0,2.0,99.775,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,37.0,16.0,2.0,100.04,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,38.0,17.0,2.0,100.058,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,39.0,18.0,2.0,100.789,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,40.0,19.0,2.0,99.731,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,41.0,20.0,2.0,99.625,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,42.0,21.0,2.0,99.906,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,43.0,22.0,2.0,99.908,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,44.0,23.0,2.0,99.841,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,45.0,24.0,2.0,100.025,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,46.0,25.0,2.0,100.224,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,47.0,26.0,2.0,100.316,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,48.0,27.0,2.0,100.158,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,49.0,28.0,2.0,100.423,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,50.0,29.0,2.0,100.337,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,51.0,30.0,2.0,100.205,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,52.0,31.0,2.0,100.453,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,53.0,32.0,2.0,100.366,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,54.0,33.0,2.0,100.171,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,55.0,34.0,2.0,100.882,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,LEC,Charles Leclerc,16,Ferrari,HARD,56.0,35.0,2.0,100.568,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,SOFT,1.0,1.0,1.0,107.73,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,SOFT,2.0,2.0,1.0,102.326,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,SOFT,3.0,3.0,1.0,102.305,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,SOFT,4.0,4.0,1.0,102.556,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,SOFT,5.0,5.0,1.0,102.984,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,SOFT,6.0,6.0,1.0,103.277,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,SOFT,7.0,7.0,1.0,103.261,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,SOFT,8.0,8.0,1.0,103.068,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,SOFT,9.0,9.0,1.0,107.714,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,10.0,1.0,2.0,119.726,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,11.0,2.0,2.0,101.281,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,12.0,3.0,2.0,102.009,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,13.0,4.0,2.0,101.472,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,14.0,5.0,2.0,101.825,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,15.0,6.0,2.0,101.47,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,16.0,7.0,2.0,101.816,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,17.0,8.0,2.0,101.721,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,18.0,9.0,2.0,102.436,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,19.0,10.0,2.0,102.334,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,20.0,11.0,2.0,102.095,True,,12
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,21.0,12.0,2.0,118.981,False,,26
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,23.0,2.0,3.0,132.612,False,,64
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,24.0,3.0,3.0,132.862,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,25.0,4.0,3.0,127.034,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,28.0,2.0,4.0,138.015,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,29.0,3.0,4.0,104.547,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,30.0,4.0,4.0,103.268,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,31.0,5.0,4.0,124.24,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,32.0,6.0,4.0,101.485,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,33.0,7.0,4.0,102.201,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,34.0,8.0,4.0,102.969,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,MEDIUM,35.0,9.0,4.0,105.678,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,36.0,6.0,5.0,130.576,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,37.0,7.0,5.0,99.444,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,38.0,8.0,5.0,99.449,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,39.0,9.0,5.0,99.639,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,40.0,10.0,5.0,99.905,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,41.0,11.0,5.0,100.145,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,42.0,12.0,5.0,99.953,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,43.0,13.0,5.0,100.351,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,44.0,14.0,5.0,100.358,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,45.0,15.0,5.0,100.291,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,46.0,16.0,5.0,100.736,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,47.0,17.0,5.0,100.654,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,48.0,18.0,5.0,100.297,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,49.0,19.0,5.0,100.569,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,50.0,20.0,5.0,100.588,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,51.0,21.0,5.0,100.717,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,52.0,22.0,5.0,100.988,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,53.0,23.0,5.0,101.402,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,54.0,24.0,5.0,101.571,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,55.0,25.0,5.0,101.143,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,STR,Lance Stroll,18,Aston Martin,HARD,56.0,26.0,5.0,101.502,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,SOFT,1.0,1.0,1.0,112.13,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,SOFT,2.0,2.0,1.0,104.088,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,SOFT,3.0,3.0,1.0,103.644,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,SOFT,4.0,4.0,1.0,104.226,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,SOFT,5.0,5.0,1.0,103.516,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,SOFT,6.0,6.0,1.0,103.726,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,SOFT,7.0,7.0,1.0,104.084,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,SOFT,8.0,8.0,1.0,104.213,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,SOFT,9.0,9.0,1.0,103.236,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,SOFT,10.0,10.0,1.0,103.684,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,SOFT,11.0,11.0,1.0,103.575,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,SOFT,12.0,12.0,1.0,109.069,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,MEDIUM,13.0,1.0,2.0,120.228,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,MEDIUM,14.0,2.0,2.0,101.0,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,MEDIUM,15.0,3.0,2.0,101.741,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,MEDIUM,16.0,4.0,2.0,102.441,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,MEDIUM,17.0,5.0,2.0,102.275,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,MEDIUM,18.0,6.0,2.0,102.301,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,MEDIUM,19.0,7.0,2.0,102.59,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,MEDIUM,20.0,8.0,2.0,103.203,True,,12
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,MEDIUM,21.0,9.0,2.0,122.122,False,,26
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,MEDIUM,22.0,10.0,2.0,133.694,False,,6
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,MEDIUM,23.0,11.0,2.0,133.935,False,,64
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,MEDIUM,24.0,12.0,2.0,135.351,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,25.0,1.0,3.0,126.753,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,26.0,2.0,3.0,141.458,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,27.0,3.0,3.0,117.209,False,,124
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,28.0,4.0,3.0,146.89,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,29.0,5.0,3.0,144.794,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,30.0,6.0,3.0,141.607,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,31.0,7.0,3.0,141.503,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,32.0,8.0,3.0,102.185,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,33.0,9.0,3.0,102.482,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,34.0,10.0,3.0,101.233,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,35.0,11.0,3.0,101.096,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,36.0,12.0,3.0,101.518,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,37.0,13.0,3.0,102.43,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,38.0,14.0,3.0,102.347,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,39.0,15.0,3.0,102.346,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,40.0,16.0,3.0,102.428,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,41.0,17.0,3.0,101.943,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,42.0,18.0,3.0,101.894,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,43.0,19.0,3.0,103.096,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,44.0,20.0,3.0,102.394,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,45.0,21.0,3.0,101.914,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,46.0,22.0,3.0,102.396,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,47.0,23.0,3.0,101.914,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,48.0,24.0,3.0,102.767,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,49.0,25.0,3.0,102.743,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,50.0,26.0,3.0,102.645,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,51.0,27.0,3.0,102.32,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,52.0,28.0,3.0,102.55,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,53.0,29.0,3.0,102.274,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,54.0,30.0,3.0,102.402,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,55.0,31.0,3.0,102.913,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAR,Logan Sargeant,2,Williams,HARD,56.0,32.0,3.0,103.148,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,1.0,1.0,1.0,111.086,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,2.0,2.0,1.0,103.907,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,3.0,3.0,1.0,103.179,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,4.0,4.0,1.0,104.116,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,5.0,5.0,1.0,103.797,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,6.0,6.0,1.0,103.899,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,7.0,7.0,1.0,103.93,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,8.0,8.0,1.0,104.239,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,9.0,9.0,1.0,103.461,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,10.0,10.0,1.0,103.28,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,11.0,11.0,1.0,103.549,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,12.0,12.0,1.0,103.665,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,13.0,13.0,1.0,104.59,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,14.0,14.0,1.0,103.959,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,15.0,15.0,1.0,104.466,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,16.0,16.0,1.0,103.648,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,17.0,17.0,1.0,110.262,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,18.0,1.0,2.0,120.904,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,19.0,2.0,2.0,101.106,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,20.0,3.0,2.0,101.312,True,,12
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,21.0,4.0,2.0,123.843,False,,26
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,22.0,5.0,2.0,135.385,False,,6
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,23.0,6.0,2.0,132.117,False,,64
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,24.0,7.0,2.0,132.967,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,25.0,8.0,2.0,114.289,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,26.0,9.0,2.0,146.068,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,28.0,1.0,3.0,137.066,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,29.0,2.0,3.0,117.805,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,30.0,3.0,3.0,141.596,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,31.0,4.0,3.0,137.804,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,32.0,5.0,3.0,101.74,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,33.0,6.0,3.0,102.473,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,34.0,7.0,3.0,103.518,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,35.0,8.0,3.0,102.616,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,36.0,9.0,3.0,101.298,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,37.0,10.0,3.0,101.42,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,38.0,11.0,3.0,101.36,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,39.0,12.0,3.0,101.28,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,40.0,13.0,3.0,101.754,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,41.0,14.0,3.0,101.84,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,42.0,15.0,3.0,101.513,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,43.0,16.0,3.0,101.245,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,44.0,17.0,3.0,101.324,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,45.0,18.0,3.0,101.077,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,46.0,19.0,3.0,101.498,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,47.0,20.0,3.0,101.366,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,48.0,21.0,3.0,101.603,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,49.0,22.0,3.0,101.355,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,50.0,23.0,3.0,101.376,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,51.0,24.0,3.0,101.879,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,52.0,25.0,3.0,102.059,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,53.0,26.0,3.0,104.013,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,54.0,27.0,3.0,102.863,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,55.0,28.0,3.0,102.864,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,56.0,29.0,3.0,102.87,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,SOFT,1.0,1.0,1.0,110.625,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,SOFT,2.0,2.0,1.0,103.674,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,SOFT,3.0,3.0,1.0,103.136,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,SOFT,4.0,4.0,1.0,103.095,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,SOFT,5.0,5.0,1.0,103.657,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,SOFT,6.0,6.0,1.0,103.669,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,SOFT,7.0,7.0,1.0,103.951,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,SOFT,8.0,8.0,1.0,108.43,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,MEDIUM,9.0,1.0,2.0,119.845,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,MEDIUM,10.0,2.0,2.0,102.171,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,MEDIUM,11.0,3.0,2.0,101.593,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,MEDIUM,12.0,4.0,2.0,102.304,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,MEDIUM,13.0,5.0,2.0,103.531,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,MEDIUM,14.0,6.0,2.0,102.51,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,MEDIUM,15.0,7.0,2.0,102.294,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,MEDIUM,16.0,8.0,2.0,102.528,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,MEDIUM,17.0,9.0,2.0,102.441,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,MEDIUM,18.0,10.0,2.0,102.628,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,MEDIUM,19.0,11.0,2.0,103.224,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,MEDIUM,20.0,12.0,2.0,103.174,True,,12
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,MEDIUM,21.0,13.0,2.0,119.83,False,,26
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,MEDIUM,22.0,14.0,2.0,133.79,False,,6
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,MEDIUM,23.0,15.0,2.0,137.702,False,,64
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,HARD,24.0,1.0,3.0,149.433,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,HARD,25.0,2.0,3.0,114.27,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,TSU,Yuki Tsunoda,22,RB,HARD,26.0,3.0,3.0,143.71,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,MEDIUM,1.0,1.0,1.0,109.364,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,MEDIUM,2.0,2.0,1.0,103.157,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,MEDIUM,3.0,3.0,1.0,103.014,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,MEDIUM,4.0,4.0,1.0,102.975,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,MEDIUM,5.0,5.0,1.0,103.392,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,MEDIUM,6.0,6.0,1.0,103.353,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,MEDIUM,7.0,7.0,1.0,103.361,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,MEDIUM,8.0,8.0,1.0,103.991,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,MEDIUM,9.0,9.0,1.0,108.371,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,MEDIUM,10.0,1.0,2.0,121.494,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,MEDIUM,11.0,2.0,2.0,102.937,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,MEDIUM,12.0,3.0,2.0,102.151,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,MEDIUM,13.0,4.0,2.0,102.608,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,MEDIUM,14.0,5.0,2.0,103.274,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,MEDIUM,15.0,6.0,2.0,102.762,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,MEDIUM,16.0,7.0,2.0,102.611,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,MEDIUM,17.0,8.0,2.0,103.118,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,MEDIUM,18.0,9.0,2.0,103.004,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,MEDIUM,19.0,10.0,2.0,103.187,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,MEDIUM,20.0,11.0,2.0,103.186,True,,12
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,MEDIUM,21.0,12.0,2.0,120.728,False,,26
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,MEDIUM,22.0,13.0,2.0,133.878,False,,6
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,MEDIUM,23.0,14.0,2.0,136.59,False,,64
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,24.0,1.0,3.0,149.799,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,25.0,2.0,3.0,111.954,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,26.0,3.0,3.0,143.336,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,27.0,4.0,3.0,116.85,False,,124
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,28.0,5.0,3.0,146.979,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,29.0,6.0,3.0,144.784,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,30.0,7.0,3.0,141.349,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,31.0,8.0,3.0,142.128,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,32.0,9.0,3.0,102.221,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,33.0,10.0,3.0,101.269,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,34.0,11.0,3.0,100.79,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,35.0,12.0,3.0,101.335,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,36.0,13.0,3.0,101.38,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,37.0,14.0,3.0,101.261,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,38.0,15.0,3.0,101.088,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,39.0,16.0,3.0,101.341,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,40.0,17.0,3.0,101.672,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,41.0,18.0,3.0,101.755,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,42.0,19.0,3.0,101.558,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,43.0,20.0,3.0,101.423,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,44.0,21.0,3.0,101.504,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,45.0,22.0,3.0,101.66,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,46.0,23.0,3.0,101.776,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,47.0,24.0,3.0,101.584,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,48.0,25.0,3.0,101.509,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,49.0,26.0,3.0,101.404,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,50.0,27.0,3.0,101.438,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,51.0,28.0,3.0,101.437,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,52.0,29.0,3.0,101.67,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,53.0,30.0,3.0,101.354,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,54.0,31.0,3.0,102.424,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,55.0,32.0,3.0,101.998,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ALB,Alexander Albon,23,Williams,HARD,56.0,33.0,3.0,101.524,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,1.0,1.0,1.0,110.671,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,2.0,2.0,1.0,104.398,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,3.0,3.0,1.0,103.991,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,4.0,4.0,1.0,103.484,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,5.0,5.0,1.0,104.018,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,6.0,6.0,1.0,104.212,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,7.0,7.0,1.0,104.073,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,8.0,8.0,1.0,109.478,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,9.0,1.0,2.0,121.214,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,10.0,2.0,2.0,101.765,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,11.0,3.0,2.0,101.833,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,12.0,4.0,2.0,101.928,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,13.0,5.0,2.0,102.212,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,14.0,6.0,2.0,102.626,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,15.0,7.0,2.0,102.994,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,16.0,8.0,2.0,103.24,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,17.0,9.0,2.0,103.189,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,18.0,10.0,2.0,102.887,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,19.0,11.0,2.0,102.827,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,20.0,12.0,2.0,103.17,True,,12
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,21.0,13.0,2.0,121.981,False,,26
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,22.0,14.0,2.0,133.883,False,,6
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,23.0,15.0,2.0,137.614,False,,64
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,25.0,2.0,3.0,109.955,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,26.0,3.0,3.0,138.497,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,27.0,4.0,3.0,118.405,False,,124
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,28.0,5.0,3.0,147.061,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,29.0,6.0,3.0,146.076,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,30.0,7.0,3.0,141.354,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,31.0,8.0,3.0,139.42,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,32.0,9.0,3.0,102.002,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,33.0,10.0,3.0,102.746,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,34.0,11.0,3.0,101.72,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,35.0,12.0,3.0,101.366,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,36.0,13.0,3.0,101.283,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,37.0,14.0,3.0,101.738,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,38.0,15.0,3.0,101.311,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,39.0,16.0,3.0,101.749,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,40.0,17.0,3.0,106.271,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,SOFT,41.0,1.0,4.0,118.828,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,SOFT,42.0,2.0,4.0,98.633,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,SOFT,43.0,3.0,4.0,99.32,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,SOFT,44.0,4.0,4.0,99.682,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,SOFT,45.0,5.0,4.0,99.553,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,SOFT,46.0,6.0,4.0,99.636,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,SOFT,47.0,7.0,4.0,100.046,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,SOFT,48.0,8.0,4.0,100.391,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,SOFT,49.0,9.0,4.0,101.502,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,SOFT,50.0,10.0,4.0,100.534,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,SOFT,51.0,11.0,4.0,100.179,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,SOFT,52.0,12.0,4.0,100.542,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,SOFT,53.0,13.0,4.0,101.049,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,SOFT,54.0,14.0,4.0,101.258,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,SOFT,55.0,15.0,4.0,100.785,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,ZHO,Guanyu Zhou,24,Kick Sauber,SOFT,56.0,16.0,4.0,101.192,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,1.0,1.0,1.0,107.041,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,2.0,2.0,1.0,103.687,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,3.0,3.0,1.0,102.347,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,4.0,4.0,1.0,102.824,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,5.0,5.0,1.0,103.331,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,6.0,6.0,1.0,103.384,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,7.0,7.0,1.0,104.061,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,8.0,8.0,1.0,109.064,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,9.0,1.0,2.0,119.939,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,10.0,2.0,2.0,101.429,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,11.0,3.0,2.0,101.42,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,12.0,4.0,2.0,101.821,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,13.0,5.0,2.0,102.061,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,14.0,6.0,2.0,102.123,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,15.0,7.0,2.0,102.408,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,16.0,8.0,2.0,102.5,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,17.0,9.0,2.0,101.955,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,18.0,10.0,2.0,103.019,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,19.0,11.0,2.0,102.465,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,20.0,12.0,2.0,102.187,True,,12
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,21.0,13.0,2.0,117.611,False,,26
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,22.0,14.0,2.0,132.713,False,,6
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,23.0,15.0,2.0,137.671,False,,64
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,25.0,2.0,3.0,119.529,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,26.0,3.0,3.0,147.733,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,27.0,4.0,3.0,114.261,False,,124
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,28.0,5.0,3.0,149.564,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,29.0,6.0,3.0,145.148,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,30.0,7.0,3.0,141.361,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,31.0,8.0,3.0,143.141,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,32.0,9.0,3.0,100.815,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,33.0,10.0,3.0,100.879,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,34.0,11.0,3.0,100.864,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,35.0,12.0,3.0,101.035,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,36.0,13.0,3.0,101.223,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,37.0,14.0,3.0,101.127,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,38.0,15.0,3.0,100.998,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,39.0,16.0,3.0,101.268,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,40.0,17.0,3.0,101.593,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,41.0,18.0,3.0,102.174,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,42.0,19.0,3.0,101.672,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,43.0,20.0,3.0,101.373,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,44.0,21.0,3.0,101.346,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,45.0,22.0,3.0,101.234,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,46.0,23.0,3.0,101.518,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,47.0,24.0,3.0,101.998,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,48.0,25.0,3.0,101.196,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,49.0,26.0,3.0,101.241,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,50.0,27.0,3.0,101.331,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,51.0,28.0,3.0,101.549,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,52.0,29.0,3.0,101.625,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,53.0,30.0,3.0,101.543,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,54.0,31.0,3.0,101.646,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,55.0,32.0,3.0,101.705,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,56.0,33.0,3.0,101.904,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,1.0,1.0,1.0,110.255,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,2.0,2.0,1.0,103.47,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,3.0,3.0,1.0,103.073,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,4.0,4.0,1.0,102.976,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,5.0,5.0,1.0,103.449,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,6.0,6.0,1.0,103.613,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,7.0,7.0,1.0,103.798,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,8.0,8.0,1.0,103.843,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,9.0,9.0,1.0,103.605,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,10.0,10.0,1.0,103.309,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,11.0,11.0,1.0,103.487,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,12.0,12.0,1.0,103.115,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,13.0,13.0,1.0,103.016,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,14.0,14.0,1.0,107.802,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,15.0,1.0,2.0,120.257,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,16.0,2.0,2.0,100.994,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,17.0,3.0,2.0,101.077,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,18.0,4.0,2.0,101.542,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,19.0,5.0,2.0,101.955,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,20.0,6.0,2.0,101.817,True,,12
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,21.0,7.0,2.0,119.371,False,,26
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,22.0,8.0,2.0,134.125,False,,6
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,23.0,9.0,2.0,132.827,False,,64
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,24.0,10.0,2.0,132.652,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,25.0,11.0,2.0,128.183,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,27.0,13.0,2.0,114.803,False,,124
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,28.0,14.0,2.0,146.589,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,29.0,15.0,2.0,145.366,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,30.0,16.0,2.0,141.054,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,31.0,17.0,2.0,143.797,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,32.0,18.0,2.0,104.075,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RIC,Daniel Ricciardo,3,RB,MEDIUM,33.0,19.0,2.0,115.415,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,1.0,1.0,1.0,108.897,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,2.0,2.0,1.0,103.022,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,3.0,3.0,1.0,102.807,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,4.0,4.0,1.0,103.002,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,5.0,5.0,1.0,103.105,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,6.0,6.0,1.0,103.212,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,7.0,7.0,1.0,103.549,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,8.0,8.0,1.0,104.045,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,MEDIUM,9.0,9.0,1.0,108.29,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,10.0,1.0,2.0,120.652,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,11.0,2.0,2.0,101.472,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,12.0,3.0,2.0,101.793,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,13.0,4.0,2.0,102.193,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,14.0,5.0,2.0,102.112,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,15.0,6.0,2.0,102.357,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,16.0,7.0,2.0,102.443,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,17.0,8.0,2.0,102.55,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,18.0,9.0,2.0,102.486,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,19.0,10.0,2.0,102.544,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,20.0,11.0,2.0,102.599,True,,12
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,21.0,12.0,2.0,117.545,False,,26
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,22.0,13.0,2.0,135.159,False,,6
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,23.0,14.0,2.0,137.613,False,,64
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,24.0,1.0,3.0,148.655,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,25.0,2.0,3.0,116.221,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,26.0,3.0,3.0,147.921,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,27.0,4.0,3.0,116.712,False,,124
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,28.0,5.0,3.0,147.622,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,29.0,6.0,3.0,144.917,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,30.0,7.0,3.0,141.322,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,31.0,8.0,3.0,142.345,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,32.0,9.0,3.0,101.902,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,33.0,10.0,3.0,100.937,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,34.0,11.0,3.0,100.972,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,35.0,12.0,3.0,101.009,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,36.0,13.0,3.0,101.194,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,37.0,14.0,3.0,101.361,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,38.0,15.0,3.0,101.131,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,39.0,16.0,3.0,101.313,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,40.0,17.0,3.0,101.592,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,41.0,18.0,3.0,101.653,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,42.0,19.0,3.0,101.515,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,43.0,20.0,3.0,101.535,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,44.0,21.0,3.0,101.24,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,45.0,22.0,3.0,101.423,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,46.0,23.0,3.0,102.084,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,47.0,24.0,3.0,101.743,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,48.0,25.0,3.0,101.301,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,49.0,26.0,3.0,101.297,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,50.0,27.0,3.0,101.567,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,51.0,28.0,3.0,101.477,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,52.0,29.0,3.0,101.559,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,53.0,30.0,3.0,101.652,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,54.0,31.0,3.0,101.522,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,55.0,32.0,3.0,101.574,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,OCO,Esteban Ocon,31,Alpine,HARD,56.0,33.0,3.0,101.651,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,MEDIUM,1.0,1.0,1.0,104.524,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,MEDIUM,2.0,2.0,1.0,101.267,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,MEDIUM,3.0,3.0,1.0,101.282,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,MEDIUM,4.0,4.0,1.0,101.929,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,MEDIUM,5.0,5.0,1.0,101.94,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,MEDIUM,6.0,6.0,1.0,102.009,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,MEDIUM,7.0,7.0,1.0,102.403,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,MEDIUM,8.0,8.0,1.0,101.756,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,MEDIUM,9.0,9.0,1.0,101.688,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,MEDIUM,10.0,10.0,1.0,101.695,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,MEDIUM,11.0,11.0,1.0,101.828,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,MEDIUM,12.0,12.0,1.0,102.007,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,MEDIUM,13.0,13.0,1.0,101.805,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,MEDIUM,14.0,14.0,1.0,101.656,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,MEDIUM,15.0,15.0,1.0,102.04,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,MEDIUM,16.0,16.0,1.0,101.795,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,MEDIUM,17.0,17.0,1.0,101.7,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,MEDIUM,18.0,18.0,1.0,101.994,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,MEDIUM,19.0,19.0,1.0,102.658,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,MEDIUM,20.0,20.0,1.0,102.167,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,MEDIUM,21.0,21.0,1.0,103.566,False,,126
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,MEDIUM,22.0,22.0,1.0,138.646,False,,6
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,23.0,1.0,2.0,148.677,False,,64
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,24.0,2.0,2.0,146.575,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,25.0,3.0,2.0,145.105,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,27.0,5.0,2.0,108.631,False,,124
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,28.0,6.0,2.0,149.965,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,29.0,7.0,2.0,147.449,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,30.0,8.0,2.0,139.874,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,31.0,9.0,2.0,148.01,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,32.0,10.0,2.0,98.957,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,33.0,11.0,2.0,98.751,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,34.0,12.0,2.0,99.022,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,35.0,13.0,2.0,99.094,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,36.0,14.0,2.0,99.166,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,37.0,15.0,2.0,99.3,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,38.0,16.0,2.0,99.28,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,39.0,17.0,2.0,99.501,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,40.0,18.0,2.0,99.854,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,41.0,19.0,2.0,99.721,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,42.0,20.0,2.0,100.701,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,43.0,21.0,2.0,99.932,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,44.0,22.0,2.0,99.435,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,45.0,23.0,2.0,99.437,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,46.0,24.0,2.0,99.718,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,47.0,25.0,2.0,100.113,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,48.0,26.0,2.0,99.646,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,49.0,27.0,2.0,99.716,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,50.0,28.0,2.0,100.177,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,51.0,29.0,2.0,99.949,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,52.0,30.0,2.0,99.944,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,53.0,31.0,2.0,100.208,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,54.0,32.0,2.0,100.217,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,55.0,33.0,2.0,100.686,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,NOR,Lando Norris,4,McLaren,HARD,56.0,34.0,2.0,100.284,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,SOFT,1.0,1.0,1.0,111.502,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,SOFT,2.0,2.0,1.0,104.135,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,SOFT,3.0,3.0,1.0,102.906,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,SOFT,4.0,4.0,1.0,103.013,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,SOFT,5.0,5.0,1.0,103.499,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,SOFT,6.0,6.0,1.0,103.467,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,SOFT,7.0,7.0,1.0,104.056,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,SOFT,8.0,8.0,1.0,103.769,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,SOFT,9.0,9.0,1.0,107.942,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,10.0,1.0,2.0,118.909,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,11.0,2.0,2.0,101.409,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,12.0,3.0,2.0,101.904,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,13.0,4.0,2.0,101.927,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,14.0,5.0,2.0,101.72,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,15.0,6.0,2.0,102.314,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,16.0,7.0,2.0,102.531,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,17.0,8.0,2.0,102.223,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,18.0,9.0,2.0,102.564,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,19.0,10.0,2.0,102.854,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,20.0,11.0,2.0,103.115,True,,12
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,21.0,12.0,2.0,122.779,False,,26
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,22.0,1.0,3.0,149.397,False,,6
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,23.0,2.0,3.0,133.536,False,,64
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,24.0,3.0,3.0,133.117,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,25.0,4.0,3.0,114.977,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,26.0,5.0,3.0,147.219,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,27.0,6.0,3.0,115.435,False,,124
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,28.0,7.0,3.0,147.598,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,29.0,8.0,3.0,144.889,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,30.0,9.0,3.0,141.1,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,31.0,10.0,3.0,142.834,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,32.0,11.0,3.0,101.118,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,33.0,12.0,3.0,100.857,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,34.0,13.0,3.0,100.835,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,35.0,14.0,3.0,100.908,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,36.0,15.0,3.0,101.289,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,37.0,16.0,3.0,101.215,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,38.0,17.0,3.0,100.974,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,39.0,18.0,3.0,101.113,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,40.0,19.0,3.0,101.5,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,41.0,20.0,3.0,100.882,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,42.0,21.0,3.0,101.068,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,43.0,22.0,3.0,101.222,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,44.0,23.0,3.0,100.915,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,45.0,24.0,3.0,101.098,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,46.0,25.0,3.0,101.341,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,47.0,26.0,3.0,101.376,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,48.0,27.0,3.0,101.315,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,49.0,28.0,3.0,101.92,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,50.0,29.0,3.0,101.306,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,51.0,30.0,3.0,101.485,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,52.0,31.0,3.0,101.461,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,53.0,32.0,3.0,101.521,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,54.0,33.0,3.0,101.493,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,55.0,34.0,3.0,101.604,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,HAM,Lewis Hamilton,44,Mercedes,HARD,56.0,35.0,3.0,102.084,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,1.0,1.0,1.0,107.147,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,2.0,2.0,1.0,102.115,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,3.0,3.0,1.0,101.979,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,4.0,4.0,1.0,102.145,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,5.0,5.0,1.0,102.21,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,6.0,6.0,1.0,102.409,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,7.0,7.0,1.0,102.783,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,8.0,8.0,1.0,102.951,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,9.0,9.0,1.0,102.8,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,10.0,10.0,1.0,103.238,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,11.0,11.0,1.0,103.299,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,12.0,12.0,1.0,102.603,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,13.0,13.0,1.0,102.4,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,14.0,14.0,1.0,103.087,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,15.0,15.0,1.0,102.792,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,16.0,16.0,1.0,102.693,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,MEDIUM,17.0,17.0,1.0,107.863,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,18.0,1.0,2.0,118.852,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,19.0,2.0,2.0,99.764,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,20.0,3.0,2.0,100.661,True,,12
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,21.0,4.0,2.0,115.808,False,,26
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,22.0,5.0,2.0,134.775,False,,6
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,23.0,6.0,2.0,133.108,False,,64
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,24.0,7.0,2.0,133.409,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,25.0,8.0,2.0,136.459,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,27.0,10.0,2.0,112.235,False,,124
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,29.0,12.0,2.0,145.926,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,30.0,13.0,2.0,141.876,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,31.0,14.0,2.0,144.652,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,32.0,15.0,2.0,100.401,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,33.0,16.0,2.0,100.048,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,34.0,17.0,2.0,100.416,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,35.0,18.0,2.0,100.311,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,36.0,19.0,2.0,100.615,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,37.0,20.0,2.0,100.726,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,38.0,21.0,2.0,100.603,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,39.0,22.0,2.0,100.497,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,40.0,23.0,2.0,100.875,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,41.0,24.0,2.0,100.299,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,42.0,25.0,2.0,100.756,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,43.0,26.0,2.0,100.345,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,44.0,27.0,2.0,100.109,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,45.0,28.0,2.0,100.22,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,46.0,29.0,2.0,100.227,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,47.0,30.0,2.0,100.602,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,48.0,31.0,2.0,100.471,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,49.0,32.0,2.0,100.109,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,50.0,33.0,2.0,100.352,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,51.0,34.0,2.0,100.239,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,52.0,35.0,2.0,100.413,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,53.0,36.0,2.0,100.561,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,54.0,37.0,2.0,100.281,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,55.0,38.0,2.0,100.711,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,SAI,Carlos Sainz,55,Ferrari,HARD,56.0,39.0,2.0,100.41,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,MEDIUM,1.0,1.0,1.0,105.746,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,MEDIUM,2.0,2.0,1.0,101.696,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,MEDIUM,3.0,3.0,1.0,101.771,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,MEDIUM,4.0,4.0,1.0,102.413,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,MEDIUM,5.0,5.0,1.0,102.185,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,MEDIUM,6.0,6.0,1.0,102.597,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,MEDIUM,7.0,7.0,1.0,102.589,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,MEDIUM,8.0,8.0,1.0,103.114,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,MEDIUM,9.0,9.0,1.0,103.985,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,MEDIUM,10.0,10.0,1.0,103.227,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,MEDIUM,11.0,11.0,1.0,108.016,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,MEDIUM,12.0,1.0,2.0,118.003,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,MEDIUM,13.0,2.0,2.0,100.785,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,MEDIUM,14.0,3.0,2.0,101.754,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,MEDIUM,15.0,4.0,2.0,101.308,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,MEDIUM,16.0,5.0,2.0,101.4,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,MEDIUM,17.0,6.0,2.0,101.376,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,MEDIUM,18.0,7.0,2.0,101.491,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,MEDIUM,19.0,8.0,2.0,101.416,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,MEDIUM,20.0,9.0,2.0,102.067,True,,12
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,MEDIUM,21.0,10.0,2.0,112.13,False,,26
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,MEDIUM,22.0,11.0,2.0,133.433,False,,6
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,MEDIUM,23.0,12.0,2.0,138.074,False,,64
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,24.0,1.0,3.0,148.872,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,25.0,2.0,3.0,131.356,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,27.0,4.0,3.0,113.377,False,,124
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,28.0,5.0,3.0,149.234,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,29.0,6.0,3.0,145.225,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,30.0,7.0,3.0,141.655,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,31.0,8.0,3.0,144.253,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,32.0,9.0,3.0,100.69,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,33.0,10.0,3.0,100.476,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,34.0,11.0,3.0,100.467,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,35.0,12.0,3.0,100.493,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,36.0,13.0,3.0,100.496,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,37.0,14.0,3.0,100.687,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,38.0,15.0,3.0,100.451,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,39.0,16.0,3.0,100.112,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,40.0,17.0,3.0,100.78,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,41.0,18.0,3.0,101.024,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,42.0,19.0,3.0,100.772,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,43.0,20.0,3.0,100.681,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,44.0,21.0,3.0,100.38,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,45.0,22.0,3.0,100.619,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,46.0,23.0,3.0,100.38,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,47.0,24.0,3.0,100.404,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,48.0,25.0,3.0,100.394,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,49.0,26.0,3.0,100.218,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,50.0,27.0,3.0,100.466,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,51.0,28.0,3.0,100.334,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,52.0,29.0,3.0,100.731,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,53.0,30.0,3.0,100.67,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,54.0,31.0,3.0,100.84,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,55.0,32.0,3.0,101.429,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,RUS,George Russell,63,Mercedes,HARD,56.0,33.0,3.0,100.793,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,1.0,1.0,1.0,108.149,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,2.0,2.0,1.0,103.041,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,3.0,3.0,1.0,102.548,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,4.0,4.0,1.0,103.032,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,5.0,5.0,1.0,103.192,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,6.0,6.0,1.0,103.151,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,7.0,7.0,1.0,102.959,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,8.0,8.0,1.0,103.45,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,9.0,9.0,1.0,107.977,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,BOT,Valtteri Bottas,77,Kick Sauber,HARD,10.0,1.0,2.0,121.016,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,BOT,Valtteri Bottas,77,Kick Sauber,HARD,11.0,2.0,2.0,101.276,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,BOT,Valtteri Bottas,77,Kick Sauber,HARD,12.0,3.0,2.0,101.994,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,BOT,Valtteri Bottas,77,Kick Sauber,HARD,13.0,4.0,2.0,102.144,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,BOT,Valtteri Bottas,77,Kick Sauber,HARD,14.0,5.0,2.0,102.359,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,BOT,Valtteri Bottas,77,Kick Sauber,HARD,15.0,6.0,2.0,102.391,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,BOT,Valtteri Bottas,77,Kick Sauber,HARD,16.0,7.0,2.0,102.215,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,BOT,Valtteri Bottas,77,Kick Sauber,HARD,17.0,8.0,2.0,102.606,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,BOT,Valtteri Bottas,77,Kick Sauber,HARD,18.0,9.0,2.0,102.768,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,BOT,Valtteri Bottas,77,Kick Sauber,HARD,19.0,10.0,2.0,102.252,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,1.0,1.0,1.0,105.121,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,2.0,2.0,1.0,101.607,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,3.0,3.0,1.0,101.754,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,4.0,4.0,1.0,102.247,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,5.0,5.0,1.0,102.227,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,6.0,6.0,1.0,102.608,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,7.0,7.0,1.0,102.376,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,8.0,8.0,1.0,102.627,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,9.0,9.0,1.0,102.976,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,10.0,10.0,1.0,102.658,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,11.0,11.0,1.0,103.456,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,12.0,12.0,1.0,102.975,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,13.0,13.0,1.0,102.871,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,14.0,14.0,1.0,103.139,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,15.0,15.0,1.0,102.645,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,16.0,16.0,1.0,107.643,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,17.0,2.0,2.0,119.282,False,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,18.0,3.0,2.0,99.739,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,19.0,4.0,2.0,100.632,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,20.0,5.0,2.0,100.478,True,,12
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,21.0,6.0,2.0,112.541,False,,26
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,22.0,7.0,2.0,135.352,False,,6
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,23.0,8.0,2.0,132.376,False,,64
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,MEDIUM,24.0,9.0,2.0,137.575,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,25.0,1.0,3.0,145.072,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,27.0,3.0,3.0,114.121,False,,124
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,28.0,4.0,3.0,149.005,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,29.0,5.0,3.0,145.655,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,30.0,6.0,3.0,141.071,False,,4
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,31.0,7.0,3.0,144.001,False,,41
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,32.0,8.0,3.0,101.017,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,33.0,9.0,3.0,100.725,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,34.0,10.0,3.0,100.748,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,35.0,11.0,3.0,100.397,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,36.0,12.0,3.0,101.5,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,37.0,13.0,3.0,101.45,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,38.0,14.0,3.0,100.946,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,39.0,15.0,3.0,101.496,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,40.0,16.0,3.0,101.119,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,41.0,17.0,3.0,101.621,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,42.0,18.0,3.0,101.01,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,43.0,19.0,3.0,100.876,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,44.0,20.0,3.0,101.004,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,45.0,21.0,3.0,101.301,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,46.0,22.0,3.0,101.294,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,47.0,23.0,3.0,101.45,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,48.0,24.0,3.0,101.437,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,49.0,25.0,3.0,102.046,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,50.0,26.0,3.0,101.297,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,51.0,27.0,3.0,101.331,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,52.0,28.0,3.0,101.602,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,53.0,29.0,3.0,101.471,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,54.0,30.0,3.0,101.647,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,55.0,31.0,3.0,101.45,True,,1
+2024,5,Chinese Grand Prix,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,Shanghai,China,Shanghai,2024-04-21,56,PIA,Oscar Piastri,81,McLaren,HARD,56.0,32.0,3.0,101.61,True,,1

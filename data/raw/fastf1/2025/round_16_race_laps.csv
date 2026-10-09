@@ -1,0 +1,975 @@
+Season,Round,Race,EventName,OfficialEventName,Circuit,Country,Location,EventDate,RaceLaps,Driver,DriverName,DriverNumber,Team,Compound,LapNumber,TyreLife,Stint,LapTime,IsAccurate,Deleted,TrackStatus
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,1.0,1.0,1.0,87.159,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,2.0,2.0,1.0,84.859,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,3.0,3.0,1.0,83.512,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,4.0,4.0,1.0,83.262,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,5.0,5.0,1.0,83.588,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,6.0,6.0,1.0,83.576,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,7.0,7.0,1.0,83.31,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,8.0,8.0,1.0,83.139,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,9.0,9.0,1.0,83.101,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,10.0,10.0,1.0,83.088,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,11.0,11.0,1.0,83.066,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,12.0,12.0,1.0,83.014,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,13.0,13.0,1.0,83.254,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,14.0,14.0,1.0,83.118,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,15.0,15.0,1.0,83.077,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,16.0,16.0,1.0,83.001,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,17.0,17.0,1.0,82.89,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,18.0,18.0,1.0,82.727,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,19.0,19.0,1.0,82.838,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,20.0,20.0,1.0,82.857,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,21.0,21.0,1.0,82.919,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,22.0,22.0,1.0,82.733,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,23.0,23.0,1.0,82.782,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,24.0,24.0,1.0,82.817,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,25.0,25.0,1.0,82.97,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,26.0,26.0,1.0,82.937,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,27.0,27.0,1.0,83.015,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,28.0,28.0,1.0,83.031,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,29.0,29.0,1.0,82.811,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,30.0,30.0,1.0,82.928,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,31.0,31.0,1.0,82.941,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,32.0,32.0,1.0,82.89,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,33.0,33.0,1.0,82.943,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,34.0,34.0,1.0,82.795,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,35.0,35.0,1.0,82.651,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,36.0,36.0,1.0,82.699,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,37.0,37.0,1.0,87.432,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,HARD,38.0,1.0,2.0,102.349,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,HARD,39.0,2.0,2.0,81.402,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,HARD,40.0,3.0,2.0,81.625,True,,12
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,HARD,41.0,4.0,2.0,81.358,True,,21
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,HARD,42.0,5.0,2.0,81.445,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,HARD,43.0,6.0,2.0,81.32,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,HARD,44.0,7.0,2.0,81.289,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,HARD,45.0,8.0,2.0,81.353,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,HARD,46.0,9.0,2.0,81.325,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,HARD,47.0,10.0,2.0,81.336,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,HARD,48.0,11.0,2.0,81.316,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,HARD,49.0,12.0,2.0,81.328,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,HARD,50.0,13.0,2.0,81.297,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,HARD,51.0,14.0,2.0,81.749,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,HARD,52.0,15.0,2.0,81.003,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,VER,Max Verstappen,1,Red Bull Racing,HARD,53.0,16.0,2.0,81.1,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,1.0,1.0,1.0,87.43,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,2.0,2.0,1.0,83.889,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,3.0,3.0,1.0,83.674,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,4.0,4.0,1.0,84.819,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,5.0,5.0,1.0,84.238,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,6.0,6.0,1.0,83.887,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,7.0,7.0,1.0,83.538,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,8.0,8.0,1.0,83.518,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,9.0,9.0,1.0,83.477,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,10.0,10.0,1.0,83.416,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,11.0,11.0,1.0,83.36,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,12.0,12.0,1.0,83.294,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,13.0,13.0,1.0,83.293,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,14.0,14.0,1.0,83.509,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,15.0,15.0,1.0,83.059,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,16.0,16.0,1.0,83.089,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,17.0,17.0,1.0,83.232,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,18.0,18.0,1.0,83.189,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,19.0,19.0,1.0,83.289,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,20.0,20.0,1.0,83.049,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,21.0,21.0,1.0,82.998,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,22.0,22.0,1.0,82.965,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,23.0,23.0,1.0,82.892,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,24.0,24.0,1.0,82.967,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,25.0,25.0,1.0,83.082,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,26.0,26.0,1.0,82.841,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,27.0,27.0,1.0,82.835,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,28.0,28.0,1.0,83.072,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,29.0,29.0,1.0,82.757,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,30.0,30.0,1.0,82.639,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,31.0,31.0,1.0,83.189,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,32.0,32.0,1.0,82.776,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,33.0,33.0,1.0,82.655,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,34.0,34.0,1.0,82.554,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,35.0,35.0,1.0,82.647,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,36.0,36.0,1.0,82.638,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,37.0,37.0,1.0,82.48,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,38.0,38.0,1.0,82.809,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,39.0,39.0,1.0,82.691,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,40.0,40.0,1.0,82.621,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,41.0,41.0,1.0,83.449,True,,12
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,42.0,42.0,1.0,82.59,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,43.0,43.0,1.0,82.904,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,44.0,44.0,1.0,82.388,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,45.0,45.0,1.0,82.781,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,MEDIUM,46.0,46.0,1.0,87.287,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,SOFT,47.0,3.0,2.0,104.986,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,SOFT,48.0,4.0,2.0,81.038,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,SOFT,49.0,5.0,2.0,81.154,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,SOFT,50.0,6.0,2.0,81.123,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,SOFT,51.0,7.0,2.0,81.315,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,SOFT,52.0,8.0,2.0,81.259,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,NOR,Lando Norris,4,McLaren,SOFT,53.0,9.0,2.0,80.901,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,1.0,1.0,1.0,87.992,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,2.0,2.0,1.0,85.759,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,3.0,3.0,1.0,85.117,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,4.0,4.0,1.0,84.567,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,5.0,5.0,1.0,84.358,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,6.0,6.0,1.0,83.679,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,7.0,7.0,1.0,83.738,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,8.0,8.0,1.0,83.949,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,9.0,9.0,1.0,83.685,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,10.0,10.0,1.0,83.461,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,11.0,11.0,1.0,83.897,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,12.0,12.0,1.0,83.486,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,13.0,13.0,1.0,83.598,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,14.0,14.0,1.0,83.662,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,15.0,15.0,1.0,83.385,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,16.0,16.0,1.0,83.137,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,17.0,17.0,1.0,83.336,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,18.0,18.0,1.0,83.259,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,19.0,19.0,1.0,83.359,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,20.0,20.0,1.0,83.225,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,21.0,21.0,1.0,82.956,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,22.0,22.0,1.0,82.883,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,23.0,23.0,1.0,82.957,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,24.0,24.0,1.0,82.744,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,25.0,25.0,1.0,83.27,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,26.0,26.0,1.0,83.047,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,27.0,27.0,1.0,82.796,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,28.0,28.0,1.0,82.845,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,29.0,29.0,1.0,82.7,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,30.0,30.0,1.0,82.92,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,31.0,31.0,1.0,82.816,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,32.0,32.0,1.0,82.576,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,33.0,33.0,1.0,83.271,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,34.0,34.0,1.0,82.669,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,35.0,35.0,1.0,82.588,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,36.0,36.0,1.0,82.232,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,37.0,37.0,1.0,82.425,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,38.0,38.0,1.0,82.558,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,39.0,39.0,1.0,82.402,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,40.0,40.0,1.0,82.296,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,41.0,41.0,1.0,82.619,True,,12
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,42.0,42.0,1.0,82.419,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,43.0,43.0,1.0,82.369,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,44.0,44.0,1.0,82.404,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,45.0,45.0,1.0,86.609,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,SOFT,46.0,4.0,2.0,101.402,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,SOFT,47.0,5.0,2.0,81.245,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,SOFT,48.0,6.0,2.0,81.783,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,SOFT,49.0,7.0,2.0,83.484,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,SOFT,50.0,8.0,2.0,81.508,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,SOFT,51.0,9.0,2.0,81.477,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,SOFT,52.0,10.0,2.0,81.386,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,PIA,Oscar Piastri,81,McLaren,SOFT,53.0,11.0,2.0,81.371,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,1.0,1.0,1.0,88.28,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,2.0,2.0,1.0,85.178,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,3.0,3.0,1.0,84.965,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,4.0,4.0,1.0,84.525,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,5.0,5.0,1.0,84.441,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,6.0,6.0,1.0,84.858,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,7.0,7.0,1.0,83.974,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,8.0,8.0,1.0,84.041,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,9.0,9.0,1.0,84.052,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,10.0,10.0,1.0,84.14,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,11.0,11.0,1.0,84.036,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,12.0,12.0,1.0,83.893,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,13.0,13.0,1.0,83.683,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,14.0,14.0,1.0,83.637,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,15.0,15.0,1.0,83.635,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,16.0,16.0,1.0,83.595,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,17.0,17.0,1.0,83.67,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,18.0,18.0,1.0,83.449,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,19.0,19.0,1.0,83.491,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,20.0,20.0,1.0,83.49,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,21.0,21.0,1.0,83.494,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,22.0,22.0,1.0,83.313,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,23.0,23.0,1.0,83.152,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,24.0,24.0,1.0,83.263,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,25.0,25.0,1.0,83.111,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,26.0,26.0,1.0,83.374,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,27.0,27.0,1.0,82.98,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,28.0,28.0,1.0,83.093,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,29.0,29.0,1.0,82.736,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,30.0,30.0,1.0,82.972,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,31.0,31.0,1.0,82.857,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,32.0,32.0,1.0,82.975,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,33.0,33.0,1.0,87.019,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,HARD,34.0,1.0,2.0,102.973,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,HARD,35.0,2.0,2.0,82.17,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,HARD,36.0,3.0,2.0,82.361,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,HARD,37.0,4.0,2.0,82.374,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,HARD,38.0,5.0,2.0,82.125,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,HARD,39.0,6.0,2.0,82.431,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,HARD,40.0,7.0,2.0,82.298,True,,12
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,HARD,41.0,8.0,2.0,82.272,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,HARD,42.0,9.0,2.0,82.035,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,HARD,43.0,10.0,2.0,81.818,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,HARD,44.0,11.0,2.0,81.738,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,HARD,45.0,12.0,2.0,81.673,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,HARD,46.0,13.0,2.0,81.975,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,HARD,47.0,14.0,2.0,81.846,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,HARD,48.0,15.0,2.0,81.586,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,HARD,49.0,16.0,2.0,82.219,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,HARD,50.0,17.0,2.0,81.575,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,HARD,51.0,18.0,2.0,81.901,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,HARD,52.0,19.0,2.0,81.913,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LEC,Charles Leclerc,16,Ferrari,HARD,53.0,20.0,2.0,81.294,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,1.0,1.0,1.0,88.907,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,2.0,2.0,1.0,85.309,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,3.0,3.0,1.0,85.346,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,4.0,4.0,1.0,84.513,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,5.0,5.0,1.0,84.344,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,6.0,6.0,1.0,84.457,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,7.0,7.0,1.0,83.94,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,8.0,8.0,1.0,83.88,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,9.0,9.0,1.0,84.068,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,10.0,10.0,1.0,84.347,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,11.0,11.0,1.0,84.124,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,12.0,12.0,1.0,83.83,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,13.0,13.0,1.0,83.569,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,14.0,14.0,1.0,83.932,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,15.0,15.0,1.0,83.837,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,16.0,16.0,1.0,83.876,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,17.0,17.0,1.0,83.786,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,18.0,18.0,1.0,83.656,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,19.0,19.0,1.0,83.756,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,20.0,20.0,1.0,83.588,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,21.0,21.0,1.0,83.432,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,22.0,22.0,1.0,83.479,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,23.0,23.0,1.0,83.641,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,24.0,24.0,1.0,83.638,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,25.0,25.0,1.0,83.765,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,26.0,26.0,1.0,83.98,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,MEDIUM,27.0,27.0,1.0,87.978,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,28.0,1.0,2.0,104.163,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,29.0,2.0,2.0,82.421,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,30.0,3.0,2.0,82.601,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,31.0,4.0,2.0,82.659,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,32.0,5.0,2.0,82.701,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,33.0,6.0,2.0,82.473,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,34.0,7.0,2.0,82.49,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,35.0,8.0,2.0,82.847,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,36.0,9.0,2.0,82.248,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,37.0,10.0,2.0,82.562,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,38.0,11.0,2.0,82.43,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,39.0,12.0,2.0,82.341,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,40.0,13.0,2.0,82.112,True,,12
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,41.0,14.0,2.0,82.008,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,42.0,15.0,2.0,81.912,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,43.0,16.0,2.0,81.984,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,44.0,17.0,2.0,82.048,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,45.0,18.0,2.0,81.8,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,46.0,19.0,2.0,81.922,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,47.0,20.0,2.0,81.813,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,48.0,21.0,2.0,82.496,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,49.0,22.0,2.0,81.965,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,50.0,23.0,2.0,81.961,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,51.0,24.0,2.0,82.311,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,52.0,25.0,2.0,82.072,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,RUS,George Russell,63,Mercedes,HARD,53.0,26.0,2.0,81.888,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,1.0,1.0,1.0,90.49,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,2.0,2.0,1.0,85.502,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,3.0,3.0,1.0,85.486,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,4.0,4.0,1.0,84.744,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,5.0,5.0,1.0,83.942,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,6.0,6.0,1.0,84.175,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,7.0,7.0,1.0,84.057,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,8.0,8.0,1.0,84.646,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,9.0,9.0,1.0,83.894,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,10.0,10.0,1.0,83.824,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,11.0,11.0,1.0,83.876,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,12.0,12.0,1.0,84.336,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,13.0,13.0,1.0,84.591,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,14.0,14.0,1.0,83.879,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,15.0,15.0,1.0,83.54,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,16.0,16.0,1.0,83.743,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,17.0,17.0,1.0,83.689,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,18.0,18.0,1.0,83.702,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,19.0,19.0,1.0,83.513,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,20.0,20.0,1.0,83.408,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,21.0,21.0,1.0,83.472,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,22.0,22.0,1.0,83.446,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,23.0,23.0,1.0,83.406,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,24.0,24.0,1.0,83.675,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,25.0,25.0,1.0,83.518,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,26.0,26.0,1.0,83.961,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,27.0,27.0,1.0,83.412,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,28.0,28.0,1.0,83.398,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,29.0,29.0,1.0,83.044,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,30.0,30.0,1.0,83.463,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,31.0,31.0,1.0,83.636,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,32.0,32.0,1.0,83.208,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,33.0,33.0,1.0,83.01,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,34.0,34.0,1.0,83.291,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,35.0,35.0,1.0,82.992,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,36.0,36.0,1.0,82.99,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,37.0,37.0,1.0,82.878,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,38.0,38.0,1.0,87.181,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,HARD,39.0,1.0,2.0,102.775,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,HARD,40.0,2.0,2.0,82.194,True,,12
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,HARD,41.0,3.0,2.0,82.308,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,HARD,42.0,4.0,2.0,81.898,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,HARD,43.0,5.0,2.0,81.917,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,HARD,44.0,6.0,2.0,82.037,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,HARD,45.0,7.0,2.0,81.83,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,HARD,46.0,8.0,2.0,81.775,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,HARD,47.0,9.0,2.0,81.657,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,HARD,48.0,10.0,2.0,81.612,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,HARD,49.0,11.0,2.0,81.701,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,HARD,50.0,12.0,2.0,81.546,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,HARD,51.0,13.0,2.0,81.906,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,HARD,52.0,14.0,2.0,81.743,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAM,Lewis Hamilton,44,Ferrari,HARD,53.0,15.0,2.0,81.857,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,1.0,1.0,1.0,92.851,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,2.0,2.0,1.0,85.762,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,3.0,3.0,1.0,85.238,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,4.0,4.0,1.0,85.427,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,5.0,5.0,1.0,84.598,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,6.0,6.0,1.0,84.743,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,7.0,7.0,1.0,84.736,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,8.0,8.0,1.0,84.553,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,9.0,9.0,1.0,84.647,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,10.0,10.0,1.0,84.453,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,11.0,11.0,1.0,84.514,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,12.0,12.0,1.0,84.559,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,13.0,13.0,1.0,84.413,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,14.0,14.0,1.0,84.212,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,15.0,15.0,1.0,84.431,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,16.0,16.0,1.0,84.499,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,17.0,17.0,1.0,84.422,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,18.0,18.0,1.0,84.738,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,19.0,19.0,1.0,84.251,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,20.0,20.0,1.0,84.239,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,21.0,21.0,1.0,83.815,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,22.0,22.0,1.0,83.738,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,23.0,23.0,1.0,83.781,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,24.0,24.0,1.0,83.867,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,25.0,25.0,1.0,83.726,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,26.0,26.0,1.0,83.246,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,27.0,27.0,1.0,83.723,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,28.0,28.0,1.0,83.349,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,29.0,29.0,1.0,83.229,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,30.0,30.0,1.0,83.129,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,31.0,31.0,1.0,83.005,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,32.0,32.0,1.0,83.149,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,33.0,33.0,1.0,82.995,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,34.0,34.0,1.0,82.906,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,35.0,35.0,1.0,82.497,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,36.0,36.0,1.0,82.609,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,37.0,37.0,1.0,82.729,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,38.0,38.0,1.0,82.658,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,39.0,39.0,1.0,82.673,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,40.0,40.0,1.0,82.574,True,,12
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,HARD,41.0,41.0,1.0,86.328,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,MEDIUM,42.0,1.0,2.0,102.767,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,MEDIUM,43.0,2.0,2.0,81.899,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,MEDIUM,44.0,3.0,2.0,82.126,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,MEDIUM,45.0,4.0,2.0,82.034,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,MEDIUM,46.0,5.0,2.0,81.745,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,MEDIUM,47.0,6.0,2.0,81.63,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,MEDIUM,48.0,7.0,2.0,81.96,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,MEDIUM,49.0,8.0,2.0,82.693,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,MEDIUM,50.0,9.0,2.0,81.727,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,MEDIUM,51.0,10.0,2.0,82.053,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,MEDIUM,52.0,11.0,2.0,81.848,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALB,Alexander Albon,23,Williams,MEDIUM,53.0,12.0,2.0,81.368,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,MEDIUM,1.0,1.0,1.0,90.149,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,MEDIUM,2.0,2.0,1.0,84.823,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,MEDIUM,3.0,3.0,1.0,85.354,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,MEDIUM,4.0,4.0,1.0,84.744,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,MEDIUM,5.0,5.0,1.0,84.329,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,MEDIUM,6.0,6.0,1.0,84.602,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,MEDIUM,7.0,7.0,1.0,85.041,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,MEDIUM,8.0,8.0,1.0,84.729,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,MEDIUM,9.0,9.0,1.0,84.431,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,MEDIUM,10.0,10.0,1.0,84.517,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,MEDIUM,11.0,11.0,1.0,84.549,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,MEDIUM,12.0,12.0,1.0,84.529,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,MEDIUM,13.0,13.0,1.0,84.638,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,MEDIUM,14.0,14.0,1.0,84.327,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,MEDIUM,15.0,15.0,1.0,84.385,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,MEDIUM,16.0,16.0,1.0,84.127,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,MEDIUM,17.0,17.0,1.0,84.202,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,MEDIUM,18.0,18.0,1.0,84.241,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,MEDIUM,19.0,19.0,1.0,84.232,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,MEDIUM,20.0,20.0,1.0,88.759,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,21.0,1.0,2.0,106.707,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,22.0,2.0,2.0,83.917,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,23.0,3.0,2.0,83.815,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,24.0,4.0,2.0,83.884,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,25.0,5.0,2.0,84.07,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,26.0,6.0,2.0,83.973,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,27.0,7.0,2.0,83.192,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,28.0,8.0,2.0,82.981,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,29.0,9.0,2.0,83.717,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,30.0,10.0,2.0,83.343,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,31.0,11.0,2.0,83.008,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,32.0,12.0,2.0,83.04,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,33.0,13.0,2.0,83.243,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,34.0,14.0,2.0,82.819,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,35.0,15.0,2.0,82.878,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,36.0,16.0,2.0,82.49,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,37.0,17.0,2.0,82.815,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,38.0,18.0,2.0,82.537,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,39.0,19.0,2.0,82.938,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,40.0,20.0,2.0,83.675,True,,12
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,41.0,21.0,2.0,82.738,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,42.0,22.0,2.0,83.172,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,43.0,23.0,2.0,82.825,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,44.0,24.0,2.0,82.836,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,45.0,25.0,2.0,82.61,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,46.0,26.0,2.0,82.418,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,47.0,27.0,2.0,82.467,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,48.0,28.0,2.0,82.35,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,49.0,29.0,2.0,82.414,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,50.0,30.0,2.0,82.151,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,51.0,31.0,2.0,82.139,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,52.0,32.0,2.0,82.619,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BOR,Gabriel Bortoleto,5,Kick Sauber,HARD,53.0,33.0,2.0,82.32,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,1.0,1.0,1.0,91.686,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,2.0,2.0,1.0,85.453,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,3.0,3.0,1.0,85.461,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,4.0,4.0,1.0,84.841,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,5.0,5.0,1.0,84.65,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,6.0,6.0,1.0,85.08,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,7.0,7.0,1.0,84.501,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,8.0,8.0,1.0,84.398,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,9.0,9.0,1.0,84.566,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,10.0,10.0,1.0,84.571,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,11.0,11.0,1.0,84.51,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,12.0,12.0,1.0,84.447,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,13.0,13.0,1.0,84.535,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,14.0,14.0,1.0,84.382,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,15.0,15.0,1.0,84.456,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,16.0,16.0,1.0,84.516,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,17.0,17.0,1.0,84.227,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,18.0,18.0,1.0,83.979,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,19.0,19.0,1.0,83.94,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,20.0,20.0,1.0,83.746,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,21.0,21.0,1.0,83.688,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,22.0,22.0,1.0,83.295,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,23.0,23.0,1.0,83.671,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,24.0,24.0,1.0,83.515,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,25.0,25.0,1.0,83.449,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,26.0,26.0,1.0,84.699,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,27.0,27.0,1.0,83.7,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,28.0,28.0,1.0,87.75,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,29.0,1.0,2.0,103.945,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,30.0,2.0,2.0,82.775,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,31.0,3.0,2.0,82.663,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,32.0,4.0,2.0,82.852,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,33.0,5.0,2.0,82.705,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,34.0,6.0,2.0,82.649,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,35.0,7.0,2.0,82.653,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,36.0,8.0,2.0,82.953,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,37.0,9.0,2.0,82.982,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,38.0,10.0,2.0,83.01,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,39.0,11.0,2.0,84.154,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,40.0,12.0,2.0,83.107,True,,12
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,41.0,13.0,2.0,82.503,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,42.0,14.0,2.0,82.255,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,43.0,15.0,2.0,82.322,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,44.0,16.0,2.0,83.848,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,45.0,17.0,2.0,82.651,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,46.0,18.0,2.0,82.366,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,47.0,19.0,2.0,82.327,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,48.0,20.0,2.0,82.201,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,49.0,21.0,2.0,82.174,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,50.0,22.0,2.0,81.997,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,51.0,23.0,2.0,82.207,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,52.0,24.0,2.0,82.108,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ANT,Kimi Antonelli,12,Mercedes,HARD,53.0,25.0,2.0,81.968,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,1.0,2.0,1.0,94.878,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,2.0,3.0,1.0,86.732,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,3.0,4.0,1.0,85.467,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,4.0,5.0,1.0,85.218,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,5.0,6.0,1.0,84.887,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,6.0,7.0,1.0,84.924,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,7.0,8.0,1.0,84.606,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,8.0,9.0,1.0,85.728,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,9.0,10.0,1.0,84.167,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,10.0,11.0,1.0,84.864,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,11.0,12.0,1.0,84.649,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,12.0,13.0,1.0,84.595,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,13.0,14.0,1.0,84.081,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,14.0,15.0,1.0,84.182,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,15.0,16.0,1.0,84.036,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,16.0,17.0,1.0,84.287,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,17.0,18.0,1.0,84.447,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,18.0,19.0,1.0,84.032,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,19.0,20.0,1.0,84.242,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,20.0,21.0,1.0,84.14,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,21.0,22.0,1.0,84.122,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,22.0,23.0,1.0,83.844,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,23.0,24.0,1.0,83.973,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,24.0,25.0,1.0,83.801,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,25.0,26.0,1.0,83.882,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,26.0,27.0,1.0,84.026,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,27.0,28.0,1.0,83.885,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,28.0,29.0,1.0,83.686,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,29.0,30.0,1.0,83.389,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,30.0,31.0,1.0,83.701,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,31.0,32.0,1.0,83.431,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,HARD,32.0,33.0,1.0,88.342,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,MEDIUM,33.0,1.0,2.0,102.992,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,MEDIUM,34.0,2.0,2.0,82.657,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,MEDIUM,35.0,3.0,2.0,82.581,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,MEDIUM,36.0,4.0,2.0,82.702,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,MEDIUM,37.0,5.0,2.0,82.998,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,MEDIUM,38.0,6.0,2.0,83.082,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,MEDIUM,39.0,7.0,2.0,82.745,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,MEDIUM,40.0,8.0,2.0,83.752,True,,12
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,MEDIUM,41.0,9.0,2.0,82.525,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,MEDIUM,42.0,10.0,2.0,82.595,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,MEDIUM,43.0,11.0,2.0,82.448,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,MEDIUM,44.0,12.0,2.0,82.427,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,MEDIUM,45.0,13.0,2.0,82.33,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,MEDIUM,46.0,14.0,2.0,82.133,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,MEDIUM,47.0,15.0,2.0,82.209,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,MEDIUM,48.0,16.0,2.0,82.239,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,MEDIUM,49.0,17.0,2.0,82.269,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,MEDIUM,50.0,18.0,2.0,82.311,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,MEDIUM,51.0,19.0,2.0,82.226,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,MEDIUM,52.0,20.0,2.0,82.215,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,HAD,Isack Hadjar,6,Racing Bulls,MEDIUM,53.0,21.0,2.0,82.536,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,1.0,1.0,1.0,92.424,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,2.0,2.0,1.0,85.628,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,3.0,3.0,1.0,85.414,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,4.0,4.0,1.0,85.204,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,5.0,5.0,1.0,84.727,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,6.0,6.0,1.0,84.704,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,7.0,7.0,1.0,84.676,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,8.0,8.0,1.0,84.704,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,9.0,9.0,1.0,84.389,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,10.0,10.0,1.0,84.483,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,11.0,11.0,1.0,84.592,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,12.0,12.0,1.0,84.557,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,13.0,13.0,1.0,84.449,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,14.0,14.0,1.0,84.327,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,15.0,15.0,1.0,84.395,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,16.0,16.0,1.0,84.478,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,17.0,17.0,1.0,84.342,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,18.0,18.0,1.0,84.788,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,19.0,19.0,1.0,84.162,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,20.0,20.0,1.0,84.213,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,21.0,21.0,1.0,83.814,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,22.0,22.0,1.0,83.702,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,23.0,23.0,1.0,83.827,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,24.0,24.0,1.0,83.837,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,25.0,25.0,1.0,85.082,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,26.0,26.0,1.0,83.886,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,27.0,27.0,1.0,83.968,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,28.0,28.0,1.0,83.552,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,29.0,29.0,1.0,83.857,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,MEDIUM,30.0,30.0,1.0,87.825,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,HARD,31.0,1.0,2.0,103.832,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,HARD,32.0,2.0,2.0,82.625,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,HARD,33.0,3.0,2.0,82.515,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,HARD,34.0,4.0,2.0,82.465,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,HARD,35.0,5.0,2.0,82.68,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,HARD,36.0,6.0,2.0,82.635,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,HARD,37.0,7.0,2.0,82.821,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,HARD,38.0,8.0,2.0,82.564,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,HARD,39.0,9.0,2.0,82.991,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,HARD,40.0,10.0,2.0,89.703,True,,12
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,HARD,41.0,11.0,2.0,82.738,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,HARD,42.0,12.0,2.0,82.482,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,HARD,43.0,13.0,2.0,82.524,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,HARD,44.0,14.0,2.0,82.523,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,HARD,45.0,15.0,2.0,82.323,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,HARD,46.0,16.0,2.0,82.101,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,HARD,47.0,17.0,2.0,81.74,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,HARD,48.0,18.0,2.0,82.364,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,HARD,49.0,19.0,2.0,82.155,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,HARD,50.0,20.0,2.0,82.379,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,HARD,51.0,21.0,2.0,82.198,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,HARD,52.0,22.0,2.0,82.048,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,SAI,Carlos Sainz,55,Williams,HARD,53.0,23.0,2.0,82.382,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,MEDIUM,1.0,1.0,1.0,91.914,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,MEDIUM,2.0,2.0,1.0,85.671,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,MEDIUM,3.0,3.0,1.0,85.42,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,MEDIUM,4.0,4.0,1.0,84.885,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,MEDIUM,5.0,5.0,1.0,84.829,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,MEDIUM,6.0,6.0,1.0,84.745,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,MEDIUM,7.0,7.0,1.0,84.625,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,MEDIUM,8.0,8.0,1.0,84.494,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,MEDIUM,9.0,9.0,1.0,84.52,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,MEDIUM,10.0,10.0,1.0,84.534,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,MEDIUM,11.0,11.0,1.0,84.662,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,MEDIUM,12.0,12.0,1.0,84.559,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,MEDIUM,13.0,13.0,1.0,84.423,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,MEDIUM,14.0,14.0,1.0,84.296,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,MEDIUM,15.0,15.0,1.0,84.514,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,MEDIUM,16.0,16.0,1.0,84.385,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,MEDIUM,17.0,17.0,1.0,84.301,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,MEDIUM,18.0,18.0,1.0,89.433,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,19.0,1.0,2.0,104.769,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,20.0,2.0,2.0,83.028,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,21.0,3.0,2.0,84.118,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,22.0,4.0,2.0,84.474,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,23.0,5.0,2.0,84.261,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,24.0,6.0,2.0,84.118,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,25.0,7.0,2.0,83.952,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,26.0,8.0,2.0,83.879,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,27.0,9.0,2.0,83.514,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,28.0,10.0,2.0,83.334,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,29.0,11.0,2.0,83.368,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,30.0,12.0,2.0,83.22,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,31.0,13.0,2.0,83.182,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,32.0,14.0,2.0,83.182,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,33.0,15.0,2.0,83.055,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,34.0,16.0,2.0,82.911,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,35.0,17.0,2.0,82.936,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,36.0,18.0,2.0,82.645,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,37.0,19.0,2.0,82.581,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,38.0,20.0,2.0,82.803,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,39.0,21.0,2.0,83.186,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,40.0,22.0,2.0,93.514,True,,12
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,41.0,23.0,2.0,82.926,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,42.0,24.0,2.0,82.82,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,43.0,25.0,2.0,82.518,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,44.0,26.0,2.0,82.709,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,45.0,27.0,2.0,82.616,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,46.0,28.0,2.0,82.319,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,47.0,29.0,2.0,82.403,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,48.0,30.0,2.0,82.378,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,49.0,31.0,2.0,82.511,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,50.0,32.0,2.0,82.066,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,51.0,33.0,2.0,82.128,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,52.0,34.0,2.0,82.159,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,53.0,35.0,2.0,81.82,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,MEDIUM,1.0,1.0,1.0,91.278,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,MEDIUM,2.0,2.0,1.0,85.349,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,MEDIUM,3.0,3.0,1.0,85.526,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,MEDIUM,4.0,4.0,1.0,84.871,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,MEDIUM,5.0,5.0,1.0,84.594,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,MEDIUM,6.0,6.0,1.0,84.897,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,MEDIUM,7.0,7.0,1.0,84.656,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,MEDIUM,8.0,8.0,1.0,84.453,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,MEDIUM,9.0,9.0,1.0,84.53,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,MEDIUM,10.0,10.0,1.0,84.449,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,MEDIUM,11.0,11.0,1.0,84.414,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,MEDIUM,12.0,12.0,1.0,84.483,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,MEDIUM,13.0,13.0,1.0,84.506,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,MEDIUM,14.0,14.0,1.0,84.493,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,MEDIUM,15.0,15.0,1.0,84.395,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,MEDIUM,16.0,16.0,1.0,84.526,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,MEDIUM,17.0,17.0,1.0,84.35,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,MEDIUM,18.0,18.0,1.0,85.287,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,MEDIUM,19.0,19.0,1.0,88.943,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,20.0,1.0,2.0,105.127,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,21.0,2.0,2.0,83.884,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,22.0,3.0,2.0,84.099,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,23.0,4.0,2.0,84.256,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,24.0,5.0,2.0,84.238,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,25.0,6.0,2.0,84.722,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,26.0,7.0,2.0,84.384,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,27.0,8.0,2.0,86.182,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,28.0,9.0,2.0,84.258,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,29.0,10.0,2.0,83.884,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,30.0,11.0,2.0,83.732,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,31.0,12.0,2.0,83.732,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,32.0,13.0,2.0,83.682,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,33.0,14.0,2.0,83.505,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,34.0,15.0,2.0,83.647,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,35.0,16.0,2.0,83.501,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,36.0,17.0,2.0,83.619,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,37.0,18.0,2.0,83.34,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,38.0,19.0,2.0,83.793,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,39.0,20.0,2.0,83.403,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,40.0,21.0,2.0,84.648,True,,12
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,41.0,22.0,2.0,83.26,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,42.0,23.0,2.0,83.277,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,43.0,24.0,2.0,83.048,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,44.0,25.0,2.0,83.091,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,45.0,26.0,2.0,83.037,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,46.0,27.0,2.0,83.236,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,47.0,28.0,2.0,83.031,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,48.0,29.0,2.0,82.8,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,49.0,30.0,2.0,82.946,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,50.0,31.0,2.0,82.83,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,51.0,32.0,2.0,82.997,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,52.0,33.0,2.0,82.712,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,TSU,Yuki Tsunoda,22,Red Bull Racing,HARD,53.0,34.0,2.0,83.125,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,SOFT,1.0,1.0,1.0,93.554,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,SOFT,2.0,2.0,1.0,86.251,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,SOFT,3.0,3.0,1.0,84.942,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,SOFT,4.0,4.0,1.0,85.404,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,SOFT,5.0,5.0,1.0,84.828,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,SOFT,6.0,6.0,1.0,84.656,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,SOFT,7.0,7.0,1.0,84.85,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,SOFT,8.0,8.0,1.0,84.725,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,SOFT,9.0,9.0,1.0,88.824,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,10.0,1.0,2.0,105.148,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,11.0,2.0,2.0,83.879,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,12.0,3.0,2.0,84.214,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,13.0,4.0,2.0,83.95,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,14.0,5.0,2.0,83.849,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,15.0,6.0,2.0,83.949,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,16.0,7.0,2.0,83.753,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,17.0,8.0,2.0,83.821,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,18.0,9.0,2.0,84.044,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,19.0,10.0,2.0,83.877,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,20.0,11.0,2.0,83.764,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,21.0,12.0,2.0,84.735,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,22.0,13.0,2.0,85.2,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,23.0,14.0,2.0,84.165,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,24.0,15.0,2.0,84.185,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,25.0,16.0,2.0,85.332,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,26.0,17.0,2.0,84.202,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,27.0,18.0,2.0,87.448,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,28.0,19.0,2.0,84.5,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,29.0,20.0,2.0,83.939,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,30.0,21.0,2.0,83.69,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,31.0,22.0,2.0,83.652,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,32.0,23.0,2.0,83.657,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,33.0,24.0,2.0,83.656,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,34.0,25.0,2.0,83.574,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,35.0,26.0,2.0,83.415,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,36.0,27.0,2.0,83.615,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,37.0,28.0,2.0,83.347,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,38.0,29.0,2.0,83.802,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,39.0,30.0,2.0,83.386,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,40.0,31.0,2.0,84.504,True,,12
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,41.0,32.0,2.0,83.487,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,42.0,33.0,2.0,83.334,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,43.0,34.0,2.0,82.985,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,44.0,35.0,2.0,83.09,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,45.0,36.0,2.0,83.08,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,46.0,37.0,2.0,83.189,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,47.0,38.0,2.0,83.003,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,48.0,39.0,2.0,82.798,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,49.0,40.0,2.0,82.777,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,50.0,41.0,2.0,83.051,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,51.0,42.0,2.0,83.059,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,52.0,43.0,2.0,82.914,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,LAW,Liam Lawson,30,Racing Bulls,HARD,53.0,44.0,2.0,83.623,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,1.0,1.0,1.0,93.184,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,2.0,2.0,1.0,85.897,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,3.0,3.0,1.0,85.155,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,4.0,4.0,1.0,85.435,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,5.0,5.0,1.0,84.685,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,6.0,6.0,1.0,84.65,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,7.0,7.0,1.0,84.85,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,8.0,8.0,1.0,84.608,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,9.0,9.0,1.0,84.657,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,10.0,10.0,1.0,84.466,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,11.0,11.0,1.0,84.489,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,12.0,12.0,1.0,84.509,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,13.0,13.0,1.0,84.474,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,14.0,14.0,1.0,84.203,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,15.0,15.0,1.0,84.494,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,16.0,16.0,1.0,84.481,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,17.0,17.0,1.0,84.394,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,18.0,18.0,1.0,84.639,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,19.0,19.0,1.0,84.425,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,20.0,20.0,1.0,84.21,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,21.0,21.0,1.0,84.006,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,22.0,22.0,1.0,83.713,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,23.0,23.0,1.0,83.79,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,24.0,24.0,1.0,83.998,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,25.0,25.0,1.0,84.249,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,26.0,26.0,1.0,83.974,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,27.0,27.0,1.0,83.945,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,28.0,28.0,1.0,83.74,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,29.0,29.0,1.0,83.649,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,30.0,30.0,1.0,83.632,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,31.0,31.0,1.0,83.849,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,32.0,32.0,1.0,83.916,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,33.0,33.0,1.0,83.711,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,34.0,34.0,1.0,83.592,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,35.0,35.0,1.0,83.408,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,36.0,36.0,1.0,83.703,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,37.0,37.0,1.0,83.457,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,38.0,38.0,1.0,83.384,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,39.0,39.0,1.0,83.377,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,40.0,40.0,1.0,83.346,True,,12
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,41.0,41.0,1.0,83.491,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,42.0,42.0,1.0,83.541,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,43.0,43.0,1.0,83.187,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,44.0,44.0,1.0,83.124,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,45.0,45.0,1.0,83.136,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,46.0,46.0,1.0,82.997,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,47.0,47.0,1.0,83.121,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,48.0,48.0,1.0,82.892,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,49.0,49.0,1.0,83.064,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,50.0,50.0,1.0,83.151,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,51.0,51.0,1.0,87.687,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,OCO,Esteban Ocon,31,Haas F1 Team,SOFT,52.0,1.0,2.0,110.725,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,1.0,1.0,1.0,95.676,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,2.0,2.0,1.0,86.563,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,3.0,3.0,1.0,85.506,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,4.0,4.0,1.0,85.32,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,5.0,5.0,1.0,85.991,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,6.0,6.0,1.0,84.987,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,7.0,7.0,1.0,84.772,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,8.0,8.0,1.0,85.158,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,9.0,9.0,1.0,84.868,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,10.0,10.0,1.0,84.56,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,11.0,11.0,1.0,84.667,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,12.0,12.0,1.0,84.863,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,13.0,13.0,1.0,84.784,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,14.0,14.0,1.0,85.114,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,15.0,15.0,1.0,85.448,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,16.0,16.0,1.0,84.524,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,17.0,17.0,1.0,84.373,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,18.0,18.0,1.0,84.841,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,19.0,19.0,1.0,84.294,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,20.0,20.0,1.0,84.249,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,21.0,21.0,1.0,84.125,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,22.0,22.0,1.0,84.103,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,23.0,23.0,1.0,84.419,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,24.0,24.0,1.0,84.292,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,25.0,25.0,1.0,84.106,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,26.0,26.0,1.0,84.113,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,27.0,27.0,1.0,83.997,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,28.0,28.0,1.0,84.133,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,29.0,29.0,1.0,83.927,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,30.0,30.0,1.0,83.751,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,31.0,31.0,1.0,83.893,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,32.0,32.0,1.0,83.761,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,33.0,33.0,1.0,84.437,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,34.0,34.0,1.0,83.672,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,35.0,35.0,1.0,83.32,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,36.0,36.0,1.0,83.193,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,37.0,37.0,1.0,83.394,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,38.0,38.0,1.0,83.166,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,39.0,39.0,1.0,85.273,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,40.0,40.0,1.0,83.782,True,,12
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,41.0,41.0,1.0,83.877,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,42.0,42.0,1.0,83.447,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,43.0,43.0,1.0,83.363,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,44.0,44.0,1.0,83.185,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,45.0,45.0,1.0,82.9,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,46.0,46.0,1.0,82.797,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,47.0,47.0,1.0,82.951,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,48.0,48.0,1.0,82.81,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,HARD,49.0,49.0,1.0,87.335,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,SOFT,50.0,1.0,2.0,103.573,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,SOFT,51.0,2.0,2.0,82.324,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,GAS,Pierre Gasly,10,Alpine,SOFT,52.0,3.0,2.0,82.185,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,1.0,1.0,1.0,94.322,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,2.0,2.0,1.0,86.775,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,3.0,3.0,1.0,85.346,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,4.0,4.0,1.0,85.04,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,5.0,5.0,1.0,84.945,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,6.0,6.0,1.0,84.944,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,7.0,7.0,1.0,84.886,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,8.0,8.0,1.0,85.104,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,9.0,9.0,1.0,84.816,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,10.0,10.0,1.0,84.728,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,11.0,11.0,1.0,84.768,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,12.0,12.0,1.0,84.706,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,13.0,13.0,1.0,85.813,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,14.0,14.0,1.0,84.952,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,15.0,15.0,1.0,84.773,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,16.0,16.0,1.0,85.019,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,17.0,17.0,1.0,84.434,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,18.0,18.0,1.0,84.414,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,19.0,19.0,1.0,84.427,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,20.0,20.0,1.0,84.292,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,21.0,21.0,1.0,84.399,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,22.0,22.0,1.0,84.111,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,23.0,23.0,1.0,84.458,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,24.0,24.0,1.0,84.334,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,25.0,25.0,1.0,84.168,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,26.0,26.0,1.0,84.215,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,27.0,27.0,1.0,83.949,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,28.0,28.0,1.0,84.844,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,29.0,29.0,1.0,83.793,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,30.0,30.0,1.0,85.753,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,31.0,31.0,1.0,84.216,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,32.0,32.0,1.0,84.319,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,MEDIUM,33.0,33.0,1.0,88.479,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,HARD,34.0,1.0,2.0,104.819,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,HARD,35.0,2.0,2.0,83.089,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,HARD,36.0,3.0,2.0,82.919,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,HARD,37.0,4.0,2.0,83.058,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,HARD,38.0,5.0,2.0,82.894,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,HARD,39.0,6.0,2.0,85.047,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,HARD,40.0,7.0,2.0,83.171,True,,12
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,HARD,41.0,8.0,2.0,83.2,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,HARD,42.0,9.0,2.0,83.07,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,HARD,43.0,10.0,2.0,82.622,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,HARD,44.0,11.0,2.0,82.64,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,HARD,45.0,12.0,2.0,82.573,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,HARD,46.0,13.0,2.0,82.818,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,HARD,47.0,14.0,2.0,82.833,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,HARD,48.0,15.0,2.0,82.239,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,HARD,49.0,16.0,2.0,83.22,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,HARD,50.0,17.0,2.0,85.035,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,HARD,51.0,18.0,2.0,84.26,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,COL,Franco Colapinto,43,Alpine,HARD,52.0,19.0,2.0,82.724,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,1.0,2.0,1.0,93.936,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,2.0,3.0,1.0,86.506,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,3.0,4.0,1.0,85.064,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,4.0,5.0,1.0,85.209,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,5.0,6.0,1.0,84.915,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,6.0,7.0,1.0,84.813,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,7.0,8.0,1.0,84.678,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,8.0,9.0,1.0,84.835,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,9.0,10.0,1.0,84.541,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,10.0,11.0,1.0,84.209,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,11.0,12.0,1.0,84.362,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,12.0,13.0,1.0,84.528,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,13.0,14.0,1.0,84.253,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,14.0,15.0,1.0,84.301,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,15.0,16.0,1.0,84.405,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,16.0,17.0,1.0,84.429,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,17.0,18.0,1.0,84.365,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,18.0,19.0,1.0,84.522,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,19.0,20.0,1.0,84.615,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,20.0,21.0,1.0,84.197,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,21.0,22.0,1.0,84.116,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,22.0,23.0,1.0,83.927,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,23.0,24.0,1.0,83.991,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,24.0,25.0,1.0,83.878,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,25.0,26.0,1.0,83.871,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,26.0,27.0,1.0,84.187,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,27.0,28.0,1.0,83.768,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,28.0,29.0,1.0,83.861,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,29.0,30.0,1.0,83.673,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,30.0,31.0,1.0,83.585,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,31.0,32.0,1.0,83.571,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,32.0,33.0,1.0,84.081,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,33.0,34.0,1.0,83.719,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,34.0,35.0,1.0,83.459,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,35.0,36.0,1.0,84.333,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,36.0,37.0,1.0,83.589,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,37.0,38.0,1.0,83.569,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,38.0,39.0,1.0,83.224,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,39.0,40.0,1.0,83.348,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,40.0,41.0,1.0,83.183,True,,12
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,41.0,42.0,1.0,83.926,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,42.0,43.0,1.0,83.424,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,43.0,44.0,1.0,83.417,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,44.0,45.0,1.0,83.314,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,45.0,46.0,1.0,83.11,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,46.0,47.0,1.0,83.166,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,47.0,48.0,1.0,83.003,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,48.0,49.0,1.0,83.123,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,HARD,49.0,50.0,1.0,88.053,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,SOFT,50.0,1.0,2.0,117.028,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,SOFT,51.0,2.0,2.0,82.164,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,STR,Lance Stroll,18,Aston Martin,SOFT,52.0,3.0,2.0,82.282,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,1.0,2.0,1.0,89.645,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,2.0,3.0,1.0,85.926,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,3.0,4.0,1.0,85.403,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,4.0,5.0,1.0,84.861,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,5.0,6.0,1.0,85.129,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,6.0,7.0,1.0,84.196,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,7.0,8.0,1.0,84.623,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,8.0,9.0,1.0,84.724,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,9.0,10.0,1.0,84.485,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,10.0,11.0,1.0,84.506,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,11.0,12.0,1.0,84.46,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,12.0,13.0,1.0,84.624,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,13.0,14.0,1.0,84.577,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,14.0,15.0,1.0,84.396,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,15.0,16.0,1.0,84.276,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,16.0,17.0,1.0,84.206,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,17.0,18.0,1.0,84.224,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,18.0,19.0,1.0,84.146,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,19.0,20.0,1.0,84.185,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,20.0,21.0,1.0,88.466,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,HARD,21.0,2.0,2.0,105.19,False,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,HARD,22.0,3.0,2.0,84.078,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,HARD,23.0,4.0,2.0,83.757,True,,1
+2025,16,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Monza,Italy,Monza,2025-09-07,53,ALO,Fernando Alonso,14,Aston Martin,HARD,24.0,5.0,2.0,107.419,False,,1

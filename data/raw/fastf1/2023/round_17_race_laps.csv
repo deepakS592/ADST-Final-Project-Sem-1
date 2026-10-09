@@ -1,0 +1,1001 @@
+Season,Round,Race,EventName,OfficialEventName,Circuit,Country,Location,EventDate,RaceLaps,Driver,DriverName,DriverNumber,Team,Compound,LapNumber,TyreLife,Stint,LapTime,IsAccurate,Deleted,TrackStatus
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,1.0,4.0,1.0,108.811,False,,124
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,2.0,5.0,1.0,145.603,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,3.0,6.0,1.0,145.963,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,5.0,8.0,1.0,90.273,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,6.0,9.0,1.0,89.409,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,7.0,10.0,1.0,89.083,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,8.0,11.0,1.0,89.362,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,9.0,12.0,1.0,89.326,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,10.0,13.0,1.0,89.457,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,11.0,14.0,1.0,89.357,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,12.0,15.0,1.0,89.202,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,13.0,16.0,1.0,89.015,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,14.0,17.0,1.0,89.123,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,15.0,18.0,1.0,88.712,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,16.0,19.0,1.0,87.875,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,17.0,20.0,1.0,92.205,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,18.0,4.0,2.0,111.774,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,19.0,5.0,2.0,89.076,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,20.0,6.0,2.0,88.454,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,21.0,7.0,2.0,88.106,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,22.0,8.0,2.0,88.024,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,23.0,9.0,2.0,87.891,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,24.0,10.0,2.0,87.814,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,25.0,11.0,2.0,87.775,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,26.0,12.0,2.0,87.768,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,27.0,13.0,2.0,87.806,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,28.0,14.0,2.0,87.742,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,29.0,15.0,2.0,87.588,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,30.0,16.0,2.0,87.515,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,31.0,17.0,2.0,86.966,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,32.0,18.0,2.0,86.665,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,33.0,19.0,2.0,86.622,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,34.0,20.0,2.0,90.996,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,35.0,1.0,3.0,109.802,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,36.0,2.0,3.0,86.255,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,37.0,3.0,3.0,86.081,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,38.0,4.0,3.0,85.835,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,39.0,5.0,3.0,85.815,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,40.0,6.0,3.0,85.693,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,41.0,7.0,3.0,85.861,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,42.0,8.0,3.0,85.827,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,43.0,9.0,3.0,85.88,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,44.0,10.0,3.0,85.475,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,45.0,11.0,3.0,85.621,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,46.0,12.0,3.0,85.989,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,47.0,13.0,3.0,85.969,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,48.0,14.0,3.0,86.216,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,49.0,15.0,3.0,85.977,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,50.0,16.0,3.0,86.015,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,HARD,51.0,17.0,3.0,90.719,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,52.0,1.0,4.0,109.948,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,53.0,2.0,4.0,85.291,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,54.0,3.0,4.0,85.037,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,55.0,4.0,4.0,85.223,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,56.0,5.0,4.0,84.319,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,57.0,6.0,4.0,85.803,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,1.0,7.0,1.0,111.659,False,,124
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,2.0,8.0,1.0,143.629,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,3.0,9.0,1.0,145.896,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,5.0,11.0,1.0,90.471,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,6.0,12.0,1.0,89.328,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,7.0,13.0,1.0,89.556,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,8.0,14.0,1.0,89.847,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,9.0,15.0,1.0,89.55,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,10.0,16.0,1.0,89.522,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,11.0,17.0,1.0,89.883,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,12.0,18.0,1.0,93.032,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,13.0,8.0,2.0,114.427,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,14.0,9.0,2.0,90.272,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,15.0,10.0,2.0,88.677,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,16.0,11.0,2.0,89.1,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,17.0,12.0,2.0,89.008,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,18.0,13.0,2.0,88.622,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,19.0,14.0,2.0,88.588,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,20.0,15.0,2.0,88.206,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,21.0,16.0,2.0,88.208,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,22.0,17.0,2.0,88.29,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,23.0,18.0,2.0,88.184,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,24.0,19.0,2.0,87.926,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,25.0,20.0,2.0,92.039,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,26.0,1.0,3.0,111.305,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,27.0,2.0,3.0,87.359,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,28.0,3.0,3.0,88.135,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,29.0,4.0,3.0,87.044,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,30.0,5.0,3.0,87.043,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,31.0,6.0,3.0,86.793,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,32.0,7.0,3.0,86.308,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,33.0,8.0,3.0,86.283,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,34.0,9.0,3.0,86.245,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,35.0,10.0,3.0,86.303,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,36.0,11.0,3.0,86.549,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,37.0,12.0,3.0,86.461,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,38.0,13.0,3.0,86.42,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,39.0,14.0,3.0,86.312,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,40.0,15.0,3.0,86.234,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,41.0,16.0,3.0,86.959,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,42.0,17.0,3.0,86.876,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,43.0,18.0,3.0,90.329,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,HARD,44.0,1.0,4.0,108.973,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,HARD,45.0,2.0,4.0,85.353,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,HARD,46.0,3.0,4.0,85.334,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,HARD,47.0,4.0,4.0,85.236,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,HARD,48.0,5.0,4.0,84.921,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,HARD,49.0,6.0,4.0,85.098,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,HARD,50.0,7.0,4.0,85.34,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,HARD,51.0,8.0,4.0,85.326,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,HARD,52.0,9.0,4.0,85.508,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,HARD,53.0,10.0,4.0,85.238,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,HARD,54.0,11.0,4.0,85.217,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,HARD,55.0,12.0,4.0,85.367,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,HARD,56.0,13.0,4.0,85.535,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PIA,Oscar Piastri,81,McLaren,HARD,57.0,14.0,4.0,85.271,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,1.0,8.0,1.0,118.297,False,,124
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,2.0,9.0,1.0,141.989,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,3.0,10.0,1.0,146.755,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,4.0,11.0,1.0,149.326,False,,41
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,5.0,12.0,1.0,92.229,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,6.0,13.0,1.0,91.099,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,7.0,14.0,1.0,90.384,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,8.0,15.0,1.0,90.262,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,9.0,16.0,1.0,90.04,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,10.0,17.0,1.0,90.11,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,11.0,18.0,1.0,89.396,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,12.0,19.0,1.0,89.195,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,13.0,20.0,1.0,92.79,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,14.0,7.0,2.0,112.778,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,15.0,8.0,2.0,89.171,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,16.0,9.0,2.0,89.847,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,17.0,10.0,2.0,88.917,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,18.0,11.0,2.0,90.016,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,19.0,12.0,2.0,89.019,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,20.0,13.0,2.0,89.189,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,21.0,14.0,2.0,89.169,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,22.0,15.0,2.0,87.741,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,23.0,16.0,2.0,88.034,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,24.0,17.0,2.0,87.85,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,25.0,18.0,2.0,87.835,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,26.0,19.0,2.0,87.823,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,27.0,20.0,2.0,91.183,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,28.0,1.0,3.0,110.045,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,29.0,2.0,3.0,87.074,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,30.0,3.0,3.0,86.216,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,31.0,4.0,3.0,86.552,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,32.0,5.0,3.0,85.948,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,33.0,6.0,3.0,86.086,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,34.0,7.0,3.0,86.169,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,35.0,8.0,3.0,86.107,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,36.0,9.0,3.0,86.272,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,37.0,10.0,3.0,86.238,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,38.0,11.0,3.0,86.036,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,39.0,12.0,3.0,86.202,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,40.0,13.0,3.0,86.022,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,41.0,14.0,3.0,86.721,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,42.0,15.0,3.0,86.924,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,43.0,16.0,3.0,85.685,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,MEDIUM,44.0,17.0,3.0,89.974,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,HARD,45.0,1.0,4.0,108.429,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,HARD,46.0,2.0,4.0,84.881,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,HARD,47.0,3.0,4.0,84.842,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,HARD,48.0,4.0,4.0,85.062,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,HARD,49.0,5.0,4.0,85.146,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,HARD,50.0,6.0,4.0,85.384,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,HARD,51.0,7.0,4.0,85.139,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,HARD,52.0,8.0,4.0,85.28,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,HARD,53.0,9.0,4.0,85.286,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,HARD,54.0,10.0,4.0,85.217,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,HARD,55.0,11.0,4.0,85.21,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,HARD,56.0,12.0,4.0,85.248,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,NOR,Lando Norris,4,McLaren,HARD,57.0,13.0,4.0,85.298,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,1.0,8.0,1.0,136.894,False,,124
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,2.0,8.0,2.0,144.817,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,3.0,9.0,2.0,137.163,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,4.0,10.0,2.0,140.576,False,,41
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,5.0,11.0,2.0,93.658,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,6.0,12.0,2.0,91.899,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,7.0,13.0,2.0,91.415,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,8.0,14.0,2.0,90.052,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,9.0,15.0,2.0,90.105,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,10.0,16.0,2.0,90.09,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,11.0,17.0,2.0,90.554,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,12.0,18.0,2.0,89.592,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,13.0,19.0,2.0,88.742,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,14.0,20.0,2.0,92.247,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,15.0,1.0,3.0,112.143,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,16.0,2.0,3.0,88.65,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,17.0,3.0,3.0,88.961,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,18.0,4.0,3.0,90.63,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,19.0,5.0,3.0,88.84,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,20.0,6.0,3.0,88.619,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,21.0,7.0,3.0,89.771,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,22.0,8.0,3.0,88.728,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,23.0,9.0,3.0,88.234,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,24.0,10.0,3.0,88.419,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,25.0,11.0,3.0,88.661,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,26.0,12.0,3.0,87.114,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,27.0,13.0,3.0,87.412,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,28.0,14.0,3.0,87.33,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,29.0,15.0,3.0,87.214,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,30.0,16.0,3.0,87.228,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,31.0,17.0,3.0,86.891,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,MEDIUM,32.0,18.0,3.0,90.771,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,HARD,33.0,1.0,4.0,110.101,False,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,HARD,34.0,2.0,4.0,86.311,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,HARD,35.0,3.0,4.0,85.77,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,HARD,36.0,4.0,4.0,86.603,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,HARD,37.0,5.0,4.0,86.336,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,HARD,38.0,6.0,4.0,86.073,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,HARD,39.0,7.0,4.0,86.271,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,HARD,40.0,8.0,4.0,86.163,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,HARD,41.0,9.0,4.0,86.636,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,HARD,42.0,10.0,4.0,86.066,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,HARD,43.0,11.0,4.0,85.89,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,HARD,44.0,12.0,4.0,86.008,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,HARD,45.0,13.0,4.0,86.053,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,HARD,46.0,14.0,4.0,86.901,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,HARD,47.0,15.0,4.0,85.796,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,HARD,48.0,16.0,4.0,86.121,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,HARD,49.0,17.0,4.0,85.83,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,HARD,50.0,18.0,4.0,89.945,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,SOFT,51.0,4.0,5.0,108.717,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,SOFT,52.0,5.0,5.0,86.751,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,SOFT,53.0,6.0,5.0,86.476,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,SOFT,54.0,7.0,5.0,89.939,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,SOFT,55.0,8.0,5.0,87.05,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,SOFT,56.0,9.0,5.0,86.256,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,RUS,George Russell,63,Mercedes,SOFT,57.0,10.0,5.0,85.804,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,1.0,9.0,1.0,115.203,False,,124
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,2.0,10.0,1.0,142.066,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,3.0,11.0,1.0,147.138,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,5.0,13.0,1.0,91.447,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,6.0,14.0,1.0,89.949,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,7.0,15.0,1.0,90.125,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,8.0,16.0,1.0,90.037,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,9.0,17.0,1.0,89.942,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,10.0,18.0,1.0,89.927,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,11.0,19.0,1.0,89.602,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,12.0,20.0,1.0,93.651,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,13.0,8.0,2.0,113.166,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,14.0,9.0,2.0,89.362,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,15.0,10.0,2.0,90.586,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,16.0,11.0,2.0,90.016,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,17.0,12.0,2.0,88.778,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,18.0,13.0,2.0,89.989,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,19.0,14.0,2.0,90.514,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,20.0,15.0,2.0,89.665,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,21.0,16.0,2.0,89.754,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,22.0,17.0,2.0,88.63,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,23.0,18.0,2.0,88.649,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,24.0,19.0,2.0,88.55,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,25.0,20.0,2.0,93.572,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,26.0,1.0,3.0,111.817,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,27.0,2.0,3.0,88.149,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,28.0,3.0,3.0,87.704,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,29.0,4.0,3.0,87.484,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,30.0,5.0,3.0,87.649,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,31.0,6.0,3.0,86.938,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,32.0,7.0,3.0,87.349,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,33.0,8.0,3.0,87.37,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,34.0,9.0,3.0,87.122,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,35.0,10.0,3.0,87.199,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,36.0,11.0,3.0,87.005,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,37.0,12.0,3.0,87.213,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,38.0,13.0,3.0,86.831,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,39.0,14.0,3.0,86.627,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,40.0,15.0,3.0,86.513,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,41.0,16.0,3.0,86.522,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,42.0,17.0,3.0,86.547,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,HARD,43.0,18.0,3.0,90.705,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,44.0,1.0,4.0,109.019,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,45.0,2.0,4.0,85.956,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,46.0,3.0,4.0,86.003,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,47.0,4.0,4.0,85.97,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,48.0,5.0,4.0,86.005,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,49.0,6.0,4.0,86.148,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,50.0,7.0,4.0,85.944,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,51.0,8.0,4.0,86.115,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,52.0,9.0,4.0,86.465,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,53.0,10.0,4.0,86.668,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,54.0,11.0,4.0,86.721,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,55.0,12.0,4.0,85.813,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,56.0,13.0,4.0,88.088,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,57.0,14.0,4.0,84.992,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,1.0,6.0,1.0,113.076,False,,124
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,2.0,7.0,1.0,143.156,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,3.0,8.0,1.0,146.267,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,5.0,10.0,1.0,90.881,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,6.0,11.0,1.0,89.585,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,7.0,12.0,1.0,90.54,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,8.0,13.0,1.0,90.053,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,9.0,14.0,1.0,89.604,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,10.0,15.0,1.0,89.955,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,11.0,16.0,1.0,94.065,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,12.0,6.0,2.0,112.578,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,13.0,7.0,2.0,90.137,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,14.0,8.0,2.0,89.357,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,15.0,9.0,2.0,89.892,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,16.0,10.0,2.0,88.915,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,17.0,11.0,2.0,88.923,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,18.0,12.0,2.0,89.997,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,19.0,13.0,2.0,89.212,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,20.0,14.0,2.0,88.408,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,21.0,15.0,2.0,88.568,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,22.0,16.0,2.0,88.473,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,23.0,17.0,2.0,88.765,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,24.0,18.0,2.0,88.573,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,25.0,19.0,2.0,88.256,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,26.0,20.0,2.0,92.539,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,HARD,27.0,1.0,3.0,111.321,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,HARD,28.0,2.0,3.0,87.644,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,HARD,29.0,3.0,3.0,87.906,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,HARD,30.0,4.0,3.0,87.818,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,HARD,31.0,5.0,3.0,87.761,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,HARD,32.0,6.0,3.0,86.926,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,HARD,33.0,7.0,3.0,95.885,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,HARD,34.0,8.0,3.0,87.301,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,HARD,35.0,9.0,3.0,87.269,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,HARD,36.0,10.0,3.0,87.184,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,HARD,37.0,11.0,3.0,87.223,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,HARD,38.0,12.0,3.0,87.15,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,HARD,39.0,13.0,3.0,86.89,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,HARD,40.0,14.0,3.0,87.228,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,HARD,41.0,15.0,3.0,87.55,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,HARD,42.0,16.0,3.0,87.181,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,HARD,43.0,17.0,3.0,86.916,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,HARD,44.0,18.0,3.0,91.812,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,45.0,1.0,4.0,110.466,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,46.0,2.0,4.0,86.791,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,47.0,3.0,4.0,86.53,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,48.0,4.0,4.0,86.481,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,49.0,5.0,4.0,87.024,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,50.0,6.0,4.0,86.153,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,51.0,7.0,4.0,86.332,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,52.0,8.0,4.0,86.258,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,53.0,9.0,4.0,86.051,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,54.0,10.0,4.0,86.279,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,55.0,11.0,4.0,86.31,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,56.0,12.0,4.0,86.147,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,57.0,13.0,4.0,86.045,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,1.0,8.0,1.0,116.609,False,,124
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,2.0,9.0,1.0,141.537,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,3.0,10.0,1.0,147.307,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,5.0,12.0,1.0,91.865,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,6.0,13.0,1.0,90.547,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,7.0,14.0,1.0,90.422,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,8.0,15.0,1.0,90.304,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,9.0,16.0,1.0,90.301,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,10.0,17.0,1.0,94.408,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,11.0,6.0,2.0,113.637,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,12.0,7.0,2.0,89.933,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,13.0,8.0,2.0,89.743,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,14.0,9.0,2.0,89.43,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,15.0,10.0,2.0,89.306,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,16.0,11.0,2.0,89.646,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,17.0,12.0,2.0,89.758,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,18.0,13.0,2.0,89.656,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,19.0,14.0,2.0,89.377,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,20.0,15.0,2.0,89.487,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,21.0,16.0,2.0,89.53,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,22.0,17.0,2.0,89.186,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,23.0,18.0,2.0,88.85,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,24.0,19.0,2.0,88.718,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,25.0,20.0,2.0,92.909,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,HARD,26.0,1.0,3.0,112.825,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,HARD,27.0,2.0,3.0,88.693,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,HARD,28.0,3.0,3.0,87.977,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,HARD,29.0,4.0,3.0,87.888,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,HARD,30.0,5.0,3.0,87.595,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,HARD,31.0,6.0,3.0,87.45,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,HARD,32.0,7.0,3.0,87.293,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,HARD,33.0,8.0,3.0,88.068,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,HARD,34.0,9.0,3.0,87.892,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,HARD,35.0,10.0,3.0,87.813,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,HARD,36.0,11.0,3.0,87.634,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,HARD,37.0,12.0,3.0,88.064,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,HARD,38.0,13.0,3.0,87.265,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,HARD,39.0,14.0,3.0,87.426,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,HARD,40.0,15.0,3.0,86.761,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,HARD,41.0,16.0,3.0,86.833,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,HARD,42.0,17.0,3.0,86.45,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,HARD,43.0,18.0,3.0,91.198,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,44.0,1.0,4.0,111.544,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,45.0,2.0,4.0,87.849,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,46.0,3.0,4.0,86.538,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,47.0,4.0,4.0,86.737,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,48.0,5.0,4.0,86.458,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,49.0,6.0,4.0,86.768,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,50.0,7.0,4.0,86.467,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,51.0,8.0,4.0,86.887,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,52.0,9.0,4.0,86.806,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,53.0,10.0,4.0,86.968,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,54.0,11.0,4.0,87.089,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,55.0,12.0,4.0,87.24,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,56.0,13.0,4.0,87.408,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,OCO,Esteban Ocon,31,Alpine,MEDIUM,57.0,14.0,4.0,88.699,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,1.0,4.0,1.0,121.644,False,,124
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,2.0,5.0,1.0,143.53,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,SOFT,3.0,6.0,1.0,148.157,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,4.0,1.0,2.0,146.382,False,,41
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,5.0,2.0,2.0,94.03,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,6.0,3.0,2.0,92.573,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,7.0,4.0,2.0,91.648,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,8.0,5.0,2.0,91.04,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,9.0,6.0,2.0,91.277,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,10.0,7.0,2.0,90.958,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,11.0,8.0,2.0,91.227,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,12.0,9.0,2.0,91.289,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,13.0,10.0,2.0,91.142,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,14.0,11.0,2.0,90.445,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,15.0,12.0,2.0,90.974,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,16.0,13.0,2.0,90.066,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,17.0,14.0,2.0,90.262,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,18.0,15.0,2.0,91.286,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,19.0,16.0,2.0,90.443,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,20.0,17.0,2.0,90.631,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,21.0,18.0,2.0,94.304,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,22.0,1.0,3.0,112.957,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,23.0,2.0,3.0,88.657,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,24.0,3.0,3.0,88.526,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,25.0,4.0,3.0,88.325,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,26.0,5.0,3.0,88.38,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,27.0,6.0,3.0,87.921,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,28.0,7.0,3.0,87.949,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,29.0,8.0,3.0,87.721,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,30.0,9.0,3.0,88.007,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,31.0,10.0,3.0,88.059,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,32.0,11.0,3.0,88.168,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,33.0,12.0,3.0,90.68,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,34.0,13.0,3.0,88.121,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,35.0,14.0,3.0,88.235,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,36.0,15.0,3.0,88.482,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,37.0,16.0,3.0,88.212,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,38.0,17.0,3.0,89.391,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,39.0,18.0,3.0,92.33,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,40.0,2.0,4.0,111.346,False,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,41.0,3.0,4.0,87.975,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,42.0,4.0,4.0,87.557,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,43.0,5.0,4.0,87.194,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,44.0,6.0,4.0,87.428,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,45.0,7.0,4.0,87.205,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,46.0,8.0,4.0,86.819,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,47.0,9.0,4.0,87.14,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,48.0,10.0,4.0,86.689,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,49.0,11.0,4.0,86.686,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,50.0,12.0,4.0,87.113,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,51.0,13.0,4.0,87.131,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,52.0,14.0,4.0,87.122,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,53.0,15.0,4.0,86.905,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,54.0,16.0,4.0,86.652,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,55.0,17.0,4.0,86.929,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,56.0,18.0,4.0,87.308,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,57.0,19.0,4.0,87.103,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,1.0,1.0,1.0,131.955,False,,124
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,2.0,2.0,1.0,143.964,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,3.0,3.0,1.0,139.696,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,4.0,4.0,1.0,143.012,False,,41
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,5.0,5.0,1.0,93.411,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,6.0,6.0,1.0,92.609,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,7.0,7.0,1.0,91.243,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,8.0,8.0,1.0,91.432,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,9.0,9.0,1.0,91.072,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,10.0,10.0,1.0,91.43,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,11.0,11.0,1.0,90.927,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,12.0,12.0,1.0,90.822,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,13.0,13.0,1.0,90.606,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,14.0,14.0,1.0,90.2,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,15.0,15.0,1.0,91.165,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,16.0,16.0,1.0,89.902,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,17.0,17.0,1.0,89.911,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,18.0,18.0,1.0,94.117,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,19.0,1.0,2.0,112.731,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,20.0,2.0,2.0,88.699,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,21.0,3.0,2.0,89.203,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,22.0,4.0,2.0,88.876,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,23.0,5.0,2.0,88.561,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,24.0,6.0,2.0,89.242,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,25.0,7.0,2.0,89.395,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,26.0,8.0,2.0,88.248,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,27.0,9.0,2.0,88.575,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,28.0,10.0,2.0,88.027,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,29.0,11.0,2.0,87.997,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,30.0,12.0,2.0,89.014,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,31.0,13.0,2.0,88.098,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,32.0,14.0,2.0,89.213,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,33.0,15.0,2.0,88.262,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,34.0,16.0,2.0,87.797,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,35.0,17.0,2.0,92.795,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,36.0,1.0,3.0,112.001,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,37.0,2.0,3.0,87.511,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,38.0,3.0,3.0,87.863,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,39.0,4.0,3.0,87.211,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,40.0,5.0,3.0,87.153,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,41.0,6.0,3.0,87.17,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,42.0,7.0,3.0,87.076,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,43.0,8.0,3.0,86.95,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,44.0,9.0,3.0,86.911,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,45.0,10.0,3.0,86.842,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,46.0,11.0,3.0,86.589,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,47.0,12.0,3.0,86.552,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,48.0,13.0,3.0,86.74,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,49.0,14.0,3.0,86.649,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,50.0,15.0,3.0,86.534,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,51.0,16.0,3.0,86.818,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,52.0,17.0,3.0,90.6,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,53.0,1.0,4.0,109.166,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,54.0,2.0,4.0,86.323,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,55.0,3.0,4.0,86.683,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,56.0,4.0,4.0,86.701,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ZHO,Guanyu Zhou,24,Alfa Romeo,SOFT,57.0,5.0,4.0,87.045,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,1.0,1.0,1.0,134.418,False,,124
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,2.0,2.0,1.0,142.978,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,3.0,3.0,1.0,139.667,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,4.0,4.0,1.0,142.202,False,,41
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,5.0,5.0,1.0,93.391,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,6.0,6.0,1.0,93.15,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,7.0,7.0,1.0,91.267,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,8.0,8.0,1.0,90.804,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,9.0,9.0,1.0,90.855,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,10.0,10.0,1.0,91.572,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,11.0,11.0,1.0,90.817,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,12.0,12.0,1.0,91.085,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,13.0,13.0,1.0,90.534,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,14.0,14.0,1.0,90.196,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,15.0,15.0,1.0,88.88,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,16.0,16.0,1.0,88.533,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,HARD,17.0,17.0,1.0,92.575,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,18.0,7.0,2.0,112.141,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,19.0,8.0,2.0,88.481,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,20.0,9.0,2.0,88.319,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,21.0,10.0,2.0,88.817,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,22.0,11.0,2.0,87.412,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,23.0,12.0,2.0,87.687,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,24.0,13.0,2.0,88.269,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,25.0,14.0,2.0,88.552,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,26.0,15.0,2.0,88.391,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,27.0,16.0,2.0,87.974,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,28.0,17.0,2.0,88.127,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,29.0,18.0,2.0,88.318,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,30.0,19.0,2.0,88.003,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,31.0,20.0,2.0,92.015,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,32.0,7.0,3.0,115.805,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,33.0,8.0,3.0,88.054,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,34.0,9.0,3.0,87.287,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,35.0,10.0,3.0,87.45,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,36.0,11.0,3.0,87.574,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,37.0,12.0,3.0,87.398,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,38.0,13.0,3.0,87.076,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,39.0,14.0,3.0,87.463,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,40.0,15.0,3.0,87.256,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,41.0,16.0,3.0,87.151,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,42.0,17.0,3.0,86.735,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,43.0,18.0,3.0,90.947,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,44.0,1.0,4.0,115.416,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,45.0,2.0,4.0,89.488,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,46.0,3.0,4.0,87.192,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,47.0,4.0,4.0,86.687,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,48.0,5.0,4.0,86.444,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,49.0,6.0,4.0,86.393,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,50.0,7.0,4.0,86.22,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,51.0,8.0,4.0,86.48,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,52.0,9.0,4.0,87.763,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,53.0,10.0,4.0,87.591,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,54.0,11.0,4.0,87.013,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,55.0,12.0,4.0,88.008,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,56.0,13.0,4.0,86.845,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,57.0,14.0,4.0,87.183,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,1.0,9.0,1.0,127.271,False,,124
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,2.0,10.0,1.0,144.388,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,3.0,11.0,1.0,146.047,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,4.0,1.0,2.0,142.823,False,,41
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,5.0,2.0,2.0,94.323,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,6.0,3.0,2.0,92.814,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,7.0,4.0,2.0,92.026,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,8.0,5.0,2.0,90.857,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,9.0,6.0,2.0,90.806,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,10.0,7.0,2.0,90.998,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,11.0,8.0,2.0,90.931,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,12.0,9.0,2.0,91.406,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,13.0,10.0,2.0,91.067,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,14.0,11.0,2.0,91.379,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,15.0,12.0,2.0,90.637,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,16.0,13.0,2.0,90.06,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,17.0,14.0,2.0,90.983,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,18.0,15.0,2.0,90.723,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,19.0,16.0,2.0,90.533,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,20.0,17.0,2.0,90.35,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,21.0,18.0,2.0,95.224,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,HARD,22.0,1.0,3.0,112.111,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,HARD,23.0,2.0,3.0,88.522,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,HARD,24.0,3.0,3.0,88.418,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,HARD,25.0,4.0,3.0,88.167,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,HARD,26.0,5.0,3.0,88.304,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,HARD,27.0,6.0,3.0,88.136,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,HARD,28.0,7.0,3.0,87.994,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,HARD,29.0,8.0,3.0,88.6,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,HARD,30.0,9.0,3.0,87.84,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,HARD,31.0,10.0,3.0,89.277,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,HARD,32.0,11.0,3.0,87.943,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,HARD,33.0,12.0,3.0,88.819,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,HARD,34.0,13.0,3.0,88.205,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,HARD,35.0,14.0,3.0,88.077,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,HARD,36.0,15.0,3.0,89.596,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,HARD,37.0,16.0,3.0,89.497,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,HARD,38.0,17.0,3.0,88.417,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,HARD,39.0,18.0,3.0,91.946,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,40.0,1.0,4.0,111.642,False,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,41.0,2.0,4.0,87.453,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,42.0,3.0,4.0,87.155,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,43.0,4.0,4.0,87.05,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,44.0,5.0,4.0,87.129,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,45.0,6.0,4.0,87.346,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,46.0,7.0,4.0,87.339,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,47.0,8.0,4.0,87.087,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,48.0,9.0,4.0,87.055,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,49.0,10.0,4.0,87.096,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,50.0,11.0,4.0,88.609,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,51.0,12.0,4.0,86.857,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,52.0,13.0,4.0,90.052,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,53.0,14.0,4.0,87.224,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,54.0,15.0,4.0,86.537,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,55.0,16.0,4.0,86.352,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,56.0,17.0,4.0,86.618,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,57.0,18.0,4.0,86.704,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,1.0,8.0,1.0,119.728,False,,124
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,2.0,9.0,1.0,142.67,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,3.0,10.0,1.0,146.279,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,4.0,11.0,1.0,148.16,False,,41
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,5.0,12.0,1.0,92.599,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,6.0,13.0,1.0,90.928,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,7.0,14.0,1.0,90.594,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,8.0,15.0,1.0,90.45,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,9.0,16.0,1.0,90.222,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,10.0,17.0,1.0,90.416,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,11.0,18.0,1.0,94.153,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,12.0,6.0,2.0,113.607,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,13.0,7.0,2.0,89.18,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,14.0,8.0,2.0,88.973,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,15.0,9.0,2.0,88.739,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,16.0,10.0,2.0,89.441,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,17.0,11.0,2.0,90.631,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,18.0,12.0,2.0,89.898,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,19.0,13.0,2.0,89.107,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,20.0,14.0,2.0,89.273,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,21.0,15.0,2.0,89.599,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,22.0,16.0,2.0,88.955,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,23.0,17.0,2.0,89.671,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,24.0,18.0,2.0,88.978,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,25.0,19.0,2.0,88.565,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,26.0,20.0,2.0,92.649,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,HARD,27.0,1.0,3.0,113.855,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,HARD,28.0,2.0,3.0,87.586,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,HARD,29.0,3.0,3.0,87.382,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,HARD,30.0,4.0,3.0,87.459,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,HARD,31.0,5.0,3.0,87.206,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,HARD,32.0,6.0,3.0,87.398,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,HARD,33.0,7.0,3.0,87.962,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,HARD,34.0,8.0,3.0,87.658,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,HARD,35.0,9.0,3.0,87.651,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,HARD,36.0,10.0,3.0,88.546,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,HARD,37.0,11.0,3.0,88.006,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,HARD,38.0,12.0,3.0,87.761,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,HARD,39.0,13.0,3.0,88.118,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,HARD,40.0,14.0,3.0,86.658,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,HARD,41.0,15.0,3.0,86.766,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,HARD,42.0,16.0,3.0,86.634,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,HARD,43.0,17.0,3.0,87.357,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,HARD,44.0,18.0,3.0,91.055,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,45.0,1.0,4.0,117.415,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,46.0,2.0,4.0,86.98,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,47.0,3.0,4.0,88.84,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,48.0,4.0,4.0,86.498,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,49.0,5.0,4.0,86.31,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,50.0,6.0,4.0,86.519,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,51.0,7.0,4.0,86.623,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,52.0,8.0,4.0,89.058,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,53.0,9.0,4.0,89.306,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,54.0,10.0,4.0,86.702,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,55.0,11.0,4.0,85.793,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,56.0,12.0,4.0,86.33,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,57.0,13.0,4.0,86.571,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,1.0,1.0,1.0,124.413,False,,124
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,2.0,2.0,1.0,144.139,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,3.0,3.0,1.0,143.55,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,4.0,4.0,1.0,145.619,False,,41
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,5.0,5.0,1.0,93.057,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,6.0,6.0,1.0,92.71,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,7.0,7.0,1.0,90.726,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,8.0,8.0,1.0,90.614,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,9.0,9.0,1.0,91.05,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,10.0,10.0,1.0,90.245,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,11.0,11.0,1.0,90.521,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,12.0,12.0,1.0,91.693,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,13.0,13.0,1.0,90.652,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,14.0,14.0,1.0,89.635,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,15.0,15.0,1.0,89.407,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,16.0,16.0,1.0,89.001,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,17.0,17.0,1.0,88.944,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,18.0,18.0,1.0,93.029,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,19.0,1.0,2.0,114.278,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,20.0,2.0,2.0,90.166,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,21.0,3.0,2.0,89.204,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,22.0,4.0,2.0,90.046,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,23.0,5.0,2.0,89.061,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,24.0,6.0,2.0,88.305,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,25.0,7.0,2.0,88.358,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,26.0,8.0,2.0,88.502,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,27.0,9.0,2.0,88.251,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,28.0,10.0,2.0,88.463,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,29.0,11.0,2.0,89.649,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,30.0,12.0,2.0,88.326,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,MEDIUM,31.0,13.0,2.0,92.175,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,32.0,1.0,3.0,113.955,False,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,33.0,2.0,3.0,87.93,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,34.0,3.0,3.0,88.447,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,35.0,4.0,3.0,87.658,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,36.0,5.0,3.0,87.255,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,37.0,6.0,3.0,87.29,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,38.0,7.0,3.0,87.61,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,39.0,8.0,3.0,87.409,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,40.0,9.0,3.0,86.959,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,41.0,10.0,3.0,87.245,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,42.0,11.0,3.0,87.446,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,43.0,12.0,3.0,87.088,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,44.0,13.0,3.0,92.935,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,45.0,1.0,4.0,111.58,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,46.0,2.0,4.0,86.778,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,47.0,3.0,4.0,86.695,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,48.0,4.0,4.0,87.455,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,49.0,5.0,4.0,86.841,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,50.0,6.0,4.0,87.613,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,51.0,7.0,4.0,87.22,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,52.0,8.0,4.0,87.55,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,53.0,9.0,4.0,87.465,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,54.0,10.0,4.0,87.238,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,55.0,11.0,4.0,87.292,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,56.0,12.0,4.0,86.773,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,ALB,Alexander Albon,23,Williams,HARD,57.0,13.0,4.0,86.666,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,1.0,1.0,1.0,128.724,False,,124
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,2.0,2.0,1.0,144.703,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,SOFT,3.0,3.0,1.0,143.995,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,4.0,1.0,2.0,142.907,False,,41
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,5.0,2.0,2.0,93.919,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,6.0,3.0,2.0,92.57,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,7.0,4.0,2.0,92.376,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,8.0,5.0,2.0,92.176,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,9.0,6.0,2.0,91.501,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,10.0,7.0,2.0,91.518,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,11.0,8.0,2.0,90.958,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,12.0,9.0,2.0,92.019,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,13.0,10.0,2.0,91.611,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,14.0,11.0,2.0,91.421,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,15.0,12.0,2.0,91.004,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,16.0,13.0,2.0,91.83,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,17.0,14.0,2.0,91.647,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,18.0,15.0,2.0,91.536,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,19.0,16.0,2.0,92.147,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,20.0,17.0,2.0,90.262,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,21.0,18.0,2.0,94.049,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,22.0,1.0,3.0,113.158,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,23.0,2.0,3.0,89.429,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,24.0,3.0,3.0,88.983,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,25.0,4.0,3.0,88.727,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,26.0,5.0,3.0,88.362,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,27.0,6.0,3.0,88.998,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,28.0,7.0,3.0,88.703,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,29.0,8.0,3.0,88.834,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,30.0,9.0,3.0,88.795,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,31.0,10.0,3.0,88.699,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,32.0,11.0,3.0,88.675,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,33.0,12.0,3.0,88.427,True,,21
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,34.0,13.0,3.0,88.321,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,35.0,14.0,3.0,87.828,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,36.0,15.0,3.0,88.017,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,37.0,16.0,3.0,87.846,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,38.0,17.0,3.0,87.963,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,39.0,18.0,3.0,91.105,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,40.0,1.0,4.0,113.201,False,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,41.0,2.0,4.0,87.15,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,42.0,3.0,4.0,89.159,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,43.0,4.0,4.0,87.131,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,44.0,5.0,4.0,87.628,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,45.0,6.0,4.0,87.558,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,46.0,7.0,4.0,87.067,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,47.0,8.0,4.0,87.422,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,48.0,9.0,4.0,87.211,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,49.0,10.0,4.0,87.402,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,50.0,11.0,4.0,87.286,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,51.0,12.0,4.0,87.373,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,52.0,13.0,4.0,87.766,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,53.0,14.0,4.0,87.539,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,54.0,15.0,4.0,88.053,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,55.0,16.0,4.0,87.815,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,56.0,17.0,4.0,89.91,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,1.0,1.0,1.0,120.627,False,,124
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,2.0,2.0,1.0,143.214,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,3.0,3.0,1.0,146.588,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,4.0,4.0,1.0,146.536,False,,41
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,5.0,5.0,1.0,93.077,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,6.0,6.0,1.0,92.306,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,7.0,7.0,1.0,91.223,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,8.0,8.0,1.0,90.681,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,9.0,9.0,1.0,95.106,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,10.0,1.0,2.0,112.205,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,11.0,2.0,2.0,90.652,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,12.0,3.0,2.0,89.532,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,13.0,4.0,2.0,90.062,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,14.0,5.0,2.0,89.784,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,15.0,6.0,2.0,90.16,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,16.0,7.0,2.0,89.584,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,17.0,8.0,2.0,89.756,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,18.0,9.0,2.0,90.187,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,19.0,10.0,2.0,90.05,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,20.0,11.0,2.0,90.139,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,21.0,12.0,2.0,90.678,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,MEDIUM,22.0,13.0,2.0,93.639,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,23.0,1.0,3.0,111.684,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,24.0,2.0,3.0,88.738,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,25.0,3.0,3.0,88.438,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,26.0,4.0,3.0,88.403,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,27.0,5.0,3.0,88.485,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,28.0,6.0,3.0,88.454,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,29.0,7.0,3.0,88.669,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,30.0,8.0,3.0,88.941,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,31.0,9.0,3.0,89.017,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,32.0,10.0,3.0,89.558,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,33.0,11.0,3.0,88.753,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,34.0,12.0,3.0,88.749,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,35.0,13.0,3.0,89.817,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,36.0,14.0,3.0,88.626,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,37.0,15.0,3.0,88.467,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,38.0,16.0,3.0,88.585,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,39.0,17.0,3.0,89.279,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,40.0,18.0,3.0,92.204,False,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,41.0,1.0,4.0,110.609,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,42.0,2.0,4.0,87.807,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,43.0,3.0,4.0,87.432,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,44.0,4.0,4.0,87.349,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,45.0,5.0,4.0,87.767,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,46.0,6.0,4.0,87.452,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,47.0,7.0,4.0,87.476,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,48.0,8.0,4.0,87.791,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,49.0,9.0,4.0,87.748,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,50.0,10.0,4.0,87.363,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,51.0,11.0,4.0,87.305,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,52.0,12.0,4.0,87.184,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,53.0,13.0,4.0,87.204,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,54.0,14.0,4.0,89.03,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,55.0,15.0,4.0,87.174,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,TSU,Yuki Tsunoda,22,AlphaTauri,HARD,56.0,16.0,4.0,90.782,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,1.0,8.0,1.0,122.98,False,,124
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,2.0,9.0,1.0,144.208,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,3.0,10.0,1.0,144.087,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,4.0,11.0,1.0,146.222,False,,41
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,5.0,12.0,1.0,92.794,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,6.0,13.0,1.0,91.008,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,7.0,14.0,1.0,91.238,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,8.0,15.0,1.0,90.702,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,9.0,16.0,1.0,91.084,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,10.0,17.0,1.0,90.961,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,11.0,18.0,1.0,90.707,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,12.0,19.0,1.0,90.287,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,13.0,20.0,1.0,96.246,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,14.0,1.0,2.0,124.996,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,15.0,2.0,2.0,89.7,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,16.0,3.0,2.0,88.559,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,17.0,4.0,2.0,88.723,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,18.0,5.0,2.0,88.224,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,19.0,6.0,2.0,88.831,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,20.0,7.0,2.0,89.806,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,21.0,8.0,2.0,89.194,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,22.0,9.0,2.0,89.005,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,23.0,10.0,2.0,89.036,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,24.0,11.0,2.0,88.898,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,25.0,12.0,2.0,88.853,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,26.0,13.0,2.0,88.951,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,27.0,14.0,2.0,94.051,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,28.0,7.0,3.0,110.937,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,29.0,8.0,3.0,87.871,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,30.0,9.0,3.0,88.126,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,31.0,10.0,3.0,88.151,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,32.0,11.0,3.0,88.206,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,33.0,12.0,3.0,88.652,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,34.0,13.0,3.0,88.848,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,35.0,14.0,3.0,89.186,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,36.0,15.0,3.0,88.843,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,37.0,16.0,3.0,88.839,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,38.0,17.0,3.0,88.956,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,39.0,18.0,3.0,92.637,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,40.0,1.0,4.0,115.759,False,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,41.0,2.0,4.0,88.229,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,42.0,3.0,4.0,87.745,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,43.0,4.0,4.0,87.161,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,44.0,5.0,4.0,87.389,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,45.0,6.0,4.0,86.489,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,46.0,7.0,4.0,87.533,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,47.0,8.0,4.0,89.346,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,48.0,9.0,4.0,87.281,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,49.0,10.0,4.0,87.202,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,50.0,11.0,4.0,86.942,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,51.0,12.0,4.0,86.785,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,52.0,13.0,4.0,90.605,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,53.0,14.0,4.0,86.587,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,54.0,15.0,4.0,87.093,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,55.0,16.0,4.0,87.06,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,56.0,17.0,4.0,86.444,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,SOFT,1.0,1.0,1.0,130.307,False,,124
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,SOFT,2.0,2.0,1.0,144.568,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,SOFT,3.0,3.0,1.0,143.644,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,4.0,1.0,2.0,142.693,False,,41
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,5.0,2.0,2.0,94.626,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,6.0,3.0,2.0,93.104,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,7.0,4.0,2.0,92.18,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,8.0,5.0,2.0,91.412,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,9.0,6.0,2.0,91.125,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,10.0,7.0,2.0,91.231,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,11.0,8.0,2.0,91.106,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,12.0,9.0,2.0,91.836,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,13.0,10.0,2.0,92.277,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,14.0,11.0,2.0,91.33,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,15.0,12.0,2.0,91.655,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,16.0,13.0,2.0,91.868,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,17.0,14.0,2.0,91.459,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,18.0,15.0,2.0,91.389,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,19.0,16.0,2.0,91.279,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,20.0,17.0,2.0,90.607,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,21.0,18.0,2.0,94.906,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,22.0,1.0,3.0,113.838,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,23.0,2.0,3.0,90.379,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,24.0,3.0,3.0,89.662,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,25.0,4.0,3.0,89.109,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,26.0,5.0,3.0,89.311,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,27.0,6.0,3.0,89.195,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,28.0,7.0,3.0,88.888,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,29.0,8.0,3.0,88.742,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,30.0,9.0,3.0,88.706,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,31.0,10.0,3.0,88.298,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,32.0,11.0,3.0,89.033,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,33.0,12.0,3.0,88.635,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,34.0,13.0,3.0,88.874,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,35.0,14.0,3.0,88.912,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,36.0,15.0,3.0,89.629,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,37.0,16.0,3.0,88.73,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,38.0,17.0,3.0,88.623,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,HARD,39.0,18.0,3.0,92.688,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,40.0,1.0,4.0,112.217,False,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,41.0,2.0,4.0,90.587,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,42.0,3.0,4.0,89.784,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,43.0,4.0,4.0,88.042,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,44.0,5.0,4.0,87.792,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,45.0,6.0,4.0,89.794,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,46.0,7.0,4.0,89.279,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,47.0,8.0,4.0,88.11,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,48.0,9.0,4.0,88.408,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,49.0,10.0,4.0,91.6,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,50.0,11.0,4.0,88.056,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,51.0,12.0,4.0,88.23,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,52.0,13.0,4.0,87.636,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,53.0,14.0,4.0,87.865,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,54.0,15.0,4.0,87.113,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,55.0,16.0,4.0,87.466,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,56.0,17.0,4.0,88.443,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,1.0,1.0,1.0,125.189,False,,124
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,2.0,2.0,1.0,144.779,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,3.0,3.0,1.0,143.162,False,,4
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,4.0,4.0,1.0,145.067,False,,41
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,5.0,5.0,1.0,93.163,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,6.0,6.0,1.0,92.728,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,7.0,7.0,1.0,91.137,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,8.0,8.0,1.0,90.873,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,9.0,9.0,1.0,91.699,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,10.0,10.0,1.0,91.164,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,11.0,11.0,1.0,91.102,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,12.0,12.0,1.0,90.698,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,13.0,13.0,1.0,94.911,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,14.0,1.0,2.0,113.698,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,15.0,2.0,2.0,88.999,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,16.0,3.0,2.0,89.421,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,17.0,4.0,2.0,89.055,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,18.0,5.0,2.0,89.695,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,19.0,6.0,2.0,89.66,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,20.0,7.0,2.0,89.47,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,21.0,8.0,2.0,90.041,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,22.0,9.0,2.0,89.805,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,23.0,10.0,2.0,89.298,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,24.0,11.0,2.0,89.37,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,25.0,12.0,2.0,89.532,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,MEDIUM,26.0,13.0,2.0,94.588,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,HARD,27.0,1.0,3.0,113.468,False,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,HARD,28.0,2.0,3.0,89.319,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,HARD,29.0,3.0,3.0,88.291,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,HARD,30.0,4.0,3.0,88.095,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,HARD,31.0,5.0,3.0,87.983,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,HARD,32.0,6.0,3.0,88.23,True,,12
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,HARD,33.0,7.0,3.0,88.804,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,HARD,34.0,8.0,3.0,88.982,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,HARD,35.0,9.0,3.0,88.571,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,HARD,36.0,10.0,3.0,89.054,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,HARD,37.0,11.0,3.0,88.881,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,HARD,38.0,12.0,3.0,88.976,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,HARD,39.0,13.0,3.0,89.587,True,,1
+2023,17,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Lusail,Qatar,Lusail,2023-10-08,57,SAR,Logan Sargeant,2,Williams,HARD,40.0,14.0,3.0,111.661,False,,12

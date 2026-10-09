@@ -1,0 +1,34 @@
+{
+  "mode": "PRE-RACE BACKTEST",
+  "events_requested": 1,
+  "events_completed": 1,
+  "events_skipped": 0,
+  "mean_strategy_sequence_similarity": 0.5,
+  "mean_time_difference_seconds_approximate": null,
+  "weather_prediction_metrics": "unavailable: this backtest uses no archived pre-race forecast snapshots",
+  "limitations": "Starting driver is selected from the completed event for evaluation only. Race distance is estimated from earlier same-event history. Recorded lap sums and modeled race-time estimates are not a calibrated elapsed-time comparison.",
+  "rows": [
+    {
+      "Season": 2026,
+      "Race": "Azerbaijan Grand Prix",
+      "EventDate": "2026-09-26",
+      "Driver": "ALB",
+      "Status": "complete",
+      "CutoffTimeUTC": "2026-09-26T00:00:00+00:00",
+      "TrainingRows": 178996,
+      "EstimatedRecommendedTimeSeconds": 5609.808788939147,
+      "ActualRecordedLapTimeSumSeconds": 3183.879,
+      "EstimatedRaceDistanceLaps": 51,
+      "ActualDriverLapsWithTime": 29,
+      "TimeDifferenceSeconds": null,
+      "RecommendedStrategy": "SOFT → HARD",
+      "ActualObservedStrategy": "SOFT",
+      "RecommendedStops": 1,
+      "ActualObservedStops": 0,
+      "StrategySequenceSimilarity": 0.5,
+      "SelectedEventLapsUsedForTraining": false,
+      "WeatherForecastAccuracy": "unavailable; archived forecast not queried in this backtest run",
+      "ComparisonNote": "Time difference omitted because the evaluation driver recorded fewer than 90% of estimated race-distance laps; strategy sequence remains an observed partial-race comparison."
+    }
+  ]
+}

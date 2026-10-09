@@ -1,0 +1,122 @@
+{
+  "source": "local FastF1 source CSV, clean output, schedule ledger, weather output, and nomination register",
+  "raw_rows": 186381,
+  "clean_rows": 179886,
+  "checks": [
+    {
+      "Check": "raw_lap_rows",
+      "Count": 186381,
+      "Severity": "INFO",
+      "Detail": "Rows present in the selected local source file."
+    },
+    {
+      "Check": "clean_lap_rows",
+      "Count": 179886,
+      "Severity": "INFO",
+      "Detail": "Rows retained by the standard cleaning pipeline."
+    },
+    {
+      "Check": "rows_removed_by_cleaning",
+      "Count": 6495,
+      "Severity": "INFO",
+      "Detail": "Difference between source rows and strategy-ready cleaned rows."
+    },
+    {
+      "Check": "missing_required_source_columns",
+      "Count": 0,
+      "Severity": "PASS",
+      "Detail": "All expected source fields are present."
+    },
+    {
+      "Check": "duplicate_event_driver_lap_keys",
+      "Count": 5172,
+      "Severity": "REVIEW",
+      "Detail": "Duplicate key rows are removed during cleaning."
+    },
+    {
+      "Check": "missing_race_rows",
+      "Count": 0,
+      "Severity": "PASS",
+      "Detail": "Source rows without a usable race label."
+    },
+    {
+      "Check": "missing_driver_rows",
+      "Count": 0,
+      "Severity": "PASS",
+      "Detail": "Source rows without a usable driver label."
+    },
+    {
+      "Check": "missing_laptime",
+      "Count": 0,
+      "Severity": "PASS",
+      "Detail": "Missing values in source field LapTime."
+    },
+    {
+      "Check": "missing_tyrelife",
+      "Count": 1092,
+      "Severity": "REVIEW",
+      "Detail": "Missing values in source field TyreLife."
+    },
+    {
+      "Check": "missing_compound",
+      "Count": 804,
+      "Severity": "REVIEW",
+      "Detail": "Missing values in source field Compound."
+    },
+    {
+      "Check": "missing_driver",
+      "Count": 0,
+      "Severity": "PASS",
+      "Detail": "Missing values in source field Driver."
+    },
+    {
+      "Check": "missing_eventdate",
+      "Count": 0,
+      "Severity": "PASS",
+      "Detail": "Missing values in source field EventDate."
+    },
+    {
+      "Check": "unsupported_compound_rows",
+      "Count": 20,
+      "Severity": "REVIEW",
+      "Detail": "UNKNOWN: 20"
+    },
+    {
+      "Check": "strategy_ready_events",
+      "Count": 166,
+      "Severity": "INFO",
+      "Detail": "Distinct season/event pairs with usable cleaned laps."
+    },
+    {
+      "Check": "clean_compound_count",
+      "Count": 5,
+      "Severity": "INFO",
+      "Detail": "Distinct normalized tyre labels in cleaned data."
+    },
+    {
+      "Check": "incomplete_or_future_schedule_entries",
+      "Count": 8,
+      "Severity": "REVIEW",
+      "Detail": "Includes unavailable sessions and future/unrun calendar rows; future rows are expected and are not completed-race data."
+    },
+    {
+      "Check": "weather_covered_events_in_saved_analysis",
+      "Count": 1,
+      "Severity": "INFO",
+      "Detail": "Events represented in the latest historical weather output; not all event history is pre-downloaded."
+    },
+    {
+      "Check": "source_attributed_event_tyre_nominations",
+      "Count": 3,
+      "Severity": "INFO",
+      "Detail": "Number of event nomination rows marked official/verified, including source-confirmed ranges without role mapping."
+    },
+    {
+      "Check": "schedule_events_with_verified_nominations",
+      "Count": 3,
+      "Severity": "INFO",
+      "Detail": "Nomination coverage: 3/175 locally recorded schedule entries."
+    }
+  ],
+  "generated_at_utc": "2026-09-30T10:17:05.185341+00:00"
+}

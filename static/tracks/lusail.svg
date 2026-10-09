@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" fill="none" role="img" aria-label="Stylized Lusail International Circuit outline">
+  <path d="M90 185 91 145 111 111 146 91 185 83 225 88 265 86 305 80 345 84 382 96 416 112 445 131 469 154 483 179 478 205 460 225 433 237 401 239 370 231 344 215 321 196 297 183 270 182 245 195 224 216 204 236 179 244 153 235 129 217 110 197 98 175 105 155 124 145 146 150 159 168 154 188 136 197 116 190 102 176 90 185Z" stroke="#f23845" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M90 185 91 145 111 111 146 91 185 83 225 88 265 86 305 80 345 84 382 96 416 112 445 131 469 154 483 179 478 205 460 225 433 237 401 239 370 231 344 215 321 196 297 183 270 182 245 195 224 216 204 236 179 244 153 235 129 217 110 197 98 175 105 155 124 145 146 150 159 168 154 188 136 197 116 190 102 176 90 185Z" stroke="#fff" stroke-opacity=".58" stroke-width="2" stroke-dasharray="3 9" stroke-linecap="round"/>
+  <path d="M80 182h20" stroke="#e6c952" stroke-width="5"/><circle cx="90" cy="185" r="8" fill="#f23845" stroke="#fff" stroke-width="3"/>
+</svg>

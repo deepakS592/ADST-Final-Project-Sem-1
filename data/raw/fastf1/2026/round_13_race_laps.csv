@@ -1,0 +1,993 @@
+Season,Round,Race,EventName,OfficialEventName,Circuit,Country,Location,EventDate,RaceLaps,Driver,DriverName,DriverNumber,Team,Compound,LapNumber,TyreLife,Stint,LapTime,IsAccurate,Deleted,TrackStatus
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,MEDIUM,1.0,1.0,1.0,91.58,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,MEDIUM,2.0,2.0,1.0,86.915,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,MEDIUM,3.0,3.0,1.0,135.827,False,,1245
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,7.0,4.0,2.0,86.993,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,8.0,5.0,2.0,86.433,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,9.0,6.0,2.0,86.203,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,10.0,7.0,2.0,86.591,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,11.0,8.0,2.0,86.238,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,12.0,9.0,2.0,86.213,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,13.0,10.0,2.0,86.07,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,14.0,11.0,2.0,86.06,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,15.0,12.0,2.0,86.201,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,16.0,13.0,2.0,86.262,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,17.0,14.0,2.0,86.549,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,18.0,15.0,2.0,86.456,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,19.0,16.0,2.0,86.99,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,20.0,17.0,2.0,88.809,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,21.0,18.0,2.0,86.728,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,22.0,19.0,2.0,87.1,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,23.0,20.0,2.0,85.706,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,24.0,21.0,2.0,85.988,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,25.0,22.0,2.0,86.13,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,26.0,23.0,2.0,85.864,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,27.0,24.0,2.0,86.106,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,28.0,25.0,2.0,111.146,False,,26
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,29.0,26.0,2.0,91.49,False,,671
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,30.0,27.0,2.0,86.322,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,31.0,28.0,2.0,86.391,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,32.0,29.0,2.0,85.685,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,33.0,30.0,2.0,86.434,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,34.0,31.0,2.0,85.191,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,35.0,32.0,2.0,84.971,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,36.0,33.0,2.0,85.352,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,37.0,34.0,2.0,85.22,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,38.0,35.0,2.0,85.288,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,39.0,36.0,2.0,85.213,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,40.0,37.0,2.0,85.162,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,41.0,38.0,2.0,86.173,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,42.0,39.0,2.0,85.067,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,43.0,40.0,2.0,85.482,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,44.0,41.0,2.0,85.215,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,45.0,42.0,2.0,84.873,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,46.0,43.0,2.0,85.143,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,47.0,44.0,2.0,85.234,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,48.0,45.0,2.0,84.864,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,49.0,46.0,2.0,86.503,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,50.0,47.0,2.0,85.327,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,51.0,48.0,2.0,86.589,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,52.0,49.0,2.0,85.316,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,NOR,Lando Norris,1,McLaren,HARD,53.0,50.0,2.0,85.21,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,1.0,1.0,1.0,88.47,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,2.0,2.0,1.0,87.795,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,MEDIUM,3.0,3.0,1.0,123.475,False,,1245
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,7.0,4.0,2.0,87.477,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,8.0,5.0,2.0,86.557,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,9.0,6.0,2.0,86.428,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,10.0,7.0,2.0,88.305,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,11.0,8.0,2.0,86.546,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,12.0,9.0,2.0,86.112,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,13.0,10.0,2.0,85.998,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,14.0,11.0,2.0,86.221,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,15.0,12.0,2.0,86.246,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,16.0,13.0,2.0,86.249,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,17.0,14.0,2.0,86.329,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,18.0,15.0,2.0,86.809,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,19.0,16.0,2.0,86.979,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,20.0,17.0,2.0,88.85,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,21.0,18.0,2.0,87.627,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,22.0,19.0,2.0,86.919,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,23.0,20.0,2.0,86.578,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,24.0,21.0,2.0,86.022,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,25.0,22.0,2.0,86.283,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,26.0,23.0,2.0,85.888,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,27.0,24.0,2.0,85.82,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,28.0,25.0,2.0,111.068,False,,26
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,29.0,26.0,2.0,92.132,False,,671
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,30.0,27.0,2.0,86.733,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,31.0,28.0,2.0,86.423,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,32.0,29.0,2.0,85.927,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,33.0,30.0,2.0,86.073,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,34.0,31.0,2.0,85.974,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,35.0,32.0,2.0,85.963,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,36.0,33.0,2.0,86.041,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,37.0,34.0,2.0,85.938,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,38.0,35.0,2.0,85.998,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,39.0,36.0,2.0,85.938,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,40.0,37.0,2.0,85.844,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,41.0,38.0,2.0,85.878,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,42.0,39.0,2.0,85.776,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,43.0,40.0,2.0,85.92,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,44.0,41.0,2.0,85.632,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,45.0,42.0,2.0,85.779,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,46.0,43.0,2.0,85.52,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,47.0,44.0,2.0,85.566,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,48.0,45.0,2.0,85.453,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,49.0,46.0,2.0,85.364,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,50.0,47.0,2.0,85.277,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,51.0,48.0,2.0,85.505,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,52.0,49.0,2.0,85.223,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,GAS,Pierre Gasly,10,Alpine,HARD,53.0,50.0,2.0,84.927,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,1.0,1.0,1.0,96.657,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,2.0,2.0,1.0,90.033,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,6.0,3.0,2.0,134.373,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,7.0,4.0,2.0,88.725,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,8.0,5.0,2.0,88.382,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,9.0,6.0,2.0,88.491,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,10.0,7.0,2.0,88.248,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,11.0,8.0,2.0,88.527,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,12.0,9.0,2.0,88.087,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,13.0,10.0,2.0,88.614,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,14.0,11.0,2.0,88.92,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,15.0,12.0,2.0,89.001,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,16.0,13.0,2.0,88.785,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,17.0,14.0,2.0,88.357,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,18.0,15.0,2.0,89.089,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,19.0,16.0,2.0,88.416,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,20.0,17.0,2.0,88.77,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,21.0,18.0,2.0,88.824,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,22.0,19.0,2.0,89.886,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,23.0,20.0,2.0,88.92,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,24.0,21.0,2.0,89.367,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,25.0,22.0,2.0,88.282,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,26.0,23.0,2.0,88.847,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,SOFT,27.0,24.0,2.0,106.36,False,,126
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,28.0,1.0,3.0,121.381,False,,671
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,29.0,2.0,3.0,88.04,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,30.0,3.0,3.0,88.678,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,31.0,4.0,3.0,88.981,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,32.0,5.0,3.0,90.477,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,33.0,6.0,3.0,88.076,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,34.0,7.0,3.0,87.021,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,35.0,8.0,3.0,87.651,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,36.0,9.0,3.0,88.358,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,37.0,10.0,3.0,88.711,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,38.0,11.0,3.0,87.454,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,39.0,12.0,3.0,87.85,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,40.0,13.0,3.0,88.034,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,41.0,14.0,3.0,87.714,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,42.0,15.0,3.0,90.03,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,43.0,16.0,3.0,87.078,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,44.0,17.0,3.0,87.289,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,45.0,18.0,3.0,87.432,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,46.0,19.0,3.0,87.573,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,47.0,20.0,3.0,87.524,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,48.0,21.0,3.0,88.716,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,49.0,22.0,3.0,87.889,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,50.0,23.0,3.0,87.496,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,51.0,24.0,3.0,86.914,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PER,Sergio Perez,11,Cadillac,MEDIUM,52.0,25.0,3.0,87.327,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,HARD,1.0,1.0,1.0,95.414,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,HARD,2.0,2.0,1.0,87.011,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,HARD,3.0,3.0,1.0,146.043,False,,245
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,6.0,3.0,2.0,140.752,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,7.0,4.0,2.0,86.503,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,8.0,5.0,2.0,86.3,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,9.0,6.0,2.0,85.749,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,10.0,7.0,2.0,86.352,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,11.0,8.0,2.0,86.101,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,12.0,9.0,2.0,85.721,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,13.0,10.0,2.0,85.469,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,14.0,11.0,2.0,85.828,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,15.0,12.0,2.0,86.118,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,16.0,13.0,2.0,85.615,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,17.0,14.0,2.0,85.203,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,18.0,15.0,2.0,85.224,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,19.0,16.0,2.0,85.729,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,20.0,17.0,2.0,85.589,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,21.0,18.0,2.0,85.833,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,22.0,19.0,2.0,86.536,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,23.0,20.0,2.0,86.685,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,24.0,21.0,2.0,85.994,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,25.0,22.0,2.0,85.287,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,26.0,23.0,2.0,85.402,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,27.0,24.0,2.0,85.544,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,28.0,25.0,2.0,108.661,False,,126
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,29.0,1.0,3.0,109.136,False,,671
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,30.0,2.0,3.0,84.595,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,31.0,3.0,3.0,84.816,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,32.0,4.0,3.0,84.672,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,33.0,5.0,3.0,84.976,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,34.0,6.0,3.0,84.669,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,35.0,7.0,3.0,84.421,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,36.0,8.0,3.0,84.684,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,37.0,9.0,3.0,84.463,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,38.0,10.0,3.0,84.86,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,39.0,11.0,3.0,84.725,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,40.0,12.0,3.0,84.613,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,41.0,13.0,3.0,84.577,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,42.0,14.0,3.0,84.347,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,43.0,15.0,3.0,84.478,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,44.0,16.0,3.0,84.344,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,45.0,17.0,3.0,84.037,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,46.0,18.0,3.0,83.861,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,47.0,19.0,3.0,84.128,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,48.0,20.0,3.0,84.572,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,49.0,21.0,3.0,88.582,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,50.0,22.0,3.0,84.124,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,51.0,23.0,3.0,84.398,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,52.0,24.0,3.0,84.305,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ANT,Kimi Antonelli,12,Mercedes,MEDIUM,53.0,25.0,3.0,83.504,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALO,Fernando Alonso,14,Aston Martin,HARD,1.0,1.0,1.0,98.367,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALO,Fernando Alonso,14,Aston Martin,HARD,2.0,2.0,1.0,91.15,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,6.0,3.0,2.0,125.482,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,7.0,4.0,2.0,89.577,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,8.0,5.0,2.0,87.961,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,9.0,6.0,2.0,88.093,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,10.0,7.0,2.0,88.261,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,11.0,8.0,2.0,88.548,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,12.0,9.0,2.0,88.323,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,13.0,10.0,2.0,88.213,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,14.0,11.0,2.0,88.889,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,15.0,12.0,2.0,88.951,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,16.0,13.0,2.0,88.058,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,17.0,14.0,2.0,89.39,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,18.0,15.0,2.0,88.488,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,19.0,16.0,2.0,89.067,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,20.0,17.0,2.0,88.702,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,21.0,18.0,2.0,88.45,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,22.0,19.0,2.0,88.719,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALO,Fernando Alonso,14,Aston Martin,SOFT,23.0,20.0,2.0,94.92,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LEC,Charles Leclerc,16,Ferrari,SOFT,1.0,1.0,1.0,89.371,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,STR,Lance Stroll,18,Aston Martin,SOFT,1.0,1.0,1.0,97.717,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,STR,Lance Stroll,18,Aston Martin,SOFT,2.0,2.0,1.0,92.315,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,STR,Lance Stroll,18,Aston Martin,HARD,6.0,3.0,2.0,127.64,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,STR,Lance Stroll,18,Aston Martin,HARD,7.0,4.0,2.0,90.832,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,STR,Lance Stroll,18,Aston Martin,HARD,8.0,5.0,2.0,89.718,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,STR,Lance Stroll,18,Aston Martin,HARD,9.0,6.0,2.0,89.406,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,STR,Lance Stroll,18,Aston Martin,HARD,10.0,7.0,2.0,89.06,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,STR,Lance Stroll,18,Aston Martin,HARD,11.0,8.0,2.0,88.415,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,STR,Lance Stroll,18,Aston Martin,HARD,12.0,9.0,2.0,88.887,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,STR,Lance Stroll,18,Aston Martin,HARD,13.0,10.0,2.0,88.946,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,STR,Lance Stroll,18,Aston Martin,HARD,14.0,11.0,2.0,89.076,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,STR,Lance Stroll,18,Aston Martin,HARD,15.0,12.0,2.0,89.438,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,STR,Lance Stroll,18,Aston Martin,HARD,16.0,13.0,2.0,89.347,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,STR,Lance Stroll,18,Aston Martin,HARD,17.0,14.0,2.0,89.085,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,STR,Lance Stroll,18,Aston Martin,HARD,18.0,15.0,2.0,89.285,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,STR,Lance Stroll,18,Aston Martin,HARD,19.0,16.0,2.0,89.11,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,STR,Lance Stroll,18,Aston Martin,HARD,20.0,17.0,2.0,89.196,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,STR,Lance Stroll,18,Aston Martin,HARD,21.0,18.0,2.0,89.655,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,STR,Lance Stroll,18,Aston Martin,HARD,22.0,19.0,2.0,89.206,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,STR,Lance Stroll,18,Aston Martin,HARD,23.0,20.0,2.0,89.428,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,STR,Lance Stroll,18,Aston Martin,HARD,24.0,21.0,2.0,89.978,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,STR,Lance Stroll,18,Aston Martin,HARD,25.0,22.0,2.0,91.605,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,STR,Lance Stroll,18,Aston Martin,HARD,26.0,23.0,2.0,89.445,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,HARD,1.0,1.0,1.0,96.174,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,HARD,2.0,2.0,1.0,88.814,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,6.0,3.0,2.0,136.065,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,7.0,4.0,2.0,88.09,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,8.0,5.0,2.0,87.369,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,9.0,6.0,2.0,86.631,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,10.0,7.0,2.0,86.994,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,11.0,8.0,2.0,86.859,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,12.0,9.0,2.0,86.733,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,13.0,10.0,2.0,86.481,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,14.0,11.0,2.0,86.876,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,15.0,12.0,2.0,86.53,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,16.0,13.0,2.0,86.692,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,17.0,14.0,2.0,86.585,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,18.0,15.0,2.0,86.686,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,19.0,16.0,2.0,86.976,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,20.0,17.0,2.0,86.951,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,21.0,18.0,2.0,86.899,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,22.0,19.0,2.0,86.866,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,23.0,20.0,2.0,86.818,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,24.0,21.0,2.0,86.997,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,25.0,22.0,2.0,87.052,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,26.0,23.0,2.0,87.135,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,27.0,24.0,2.0,86.935,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,28.0,25.0,2.0,113.621,False,,267
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,29.0,26.0,2.0,89.654,False,,71
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,30.0,27.0,2.0,86.86,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,31.0,28.0,2.0,86.86,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,32.0,29.0,2.0,86.625,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,33.0,30.0,2.0,86.751,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,34.0,31.0,2.0,86.634,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,35.0,32.0,2.0,86.696,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,36.0,33.0,2.0,86.408,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,37.0,34.0,2.0,86.383,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,38.0,35.0,2.0,86.612,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,39.0,36.0,2.0,86.607,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,40.0,37.0,2.0,86.892,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,41.0,38.0,2.0,87.25,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,42.0,39.0,2.0,86.32,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,43.0,40.0,2.0,86.789,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,44.0,41.0,2.0,86.494,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,45.0,42.0,2.0,86.533,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,46.0,43.0,2.0,86.495,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,47.0,44.0,2.0,86.589,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,48.0,45.0,2.0,86.613,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,49.0,46.0,2.0,86.53,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,50.0,47.0,2.0,86.694,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,51.0,48.0,2.0,86.755,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,52.0,49.0,2.0,86.82,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,TSU,Yuki Tsunoda,22,Racing Bulls,MEDIUM,53.0,50.0,2.0,86.64,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,MEDIUM,1.0,1.0,1.0,97.381,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,MEDIUM,2.0,2.0,1.0,90.395,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,6.0,3.0,2.0,132.275,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,7.0,4.0,2.0,89.017,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,8.0,5.0,2.0,88.244,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,9.0,6.0,2.0,87.844,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,10.0,7.0,2.0,88.151,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,11.0,8.0,2.0,88.044,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,12.0,9.0,2.0,87.078,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,13.0,10.0,2.0,87.066,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,14.0,11.0,2.0,87.405,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,15.0,12.0,2.0,87.772,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,16.0,13.0,2.0,87.356,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,17.0,14.0,2.0,87.29,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,18.0,15.0,2.0,87.195,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,19.0,16.0,2.0,87.073,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,20.0,17.0,2.0,87.018,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,21.0,18.0,2.0,87.287,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,22.0,19.0,2.0,86.992,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,23.0,20.0,2.0,87.064,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,24.0,21.0,2.0,86.975,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,25.0,22.0,2.0,86.978,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,26.0,23.0,2.0,87.13,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,27.0,24.0,2.0,91.758,False,,126
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,28.0,25.0,2.0,110.739,False,,671
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,29.0,26.0,2.0,86.935,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,30.0,27.0,2.0,87.063,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,31.0,28.0,2.0,87.192,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,32.0,29.0,2.0,86.909,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,33.0,30.0,2.0,86.973,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,34.0,31.0,2.0,87.059,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,35.0,32.0,2.0,86.811,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,36.0,33.0,2.0,86.742,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,37.0,34.0,2.0,86.955,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,38.0,35.0,2.0,86.851,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,39.0,36.0,2.0,87.069,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,40.0,37.0,2.0,86.977,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,41.0,38.0,2.0,86.842,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,42.0,39.0,2.0,87.38,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,43.0,40.0,2.0,87.742,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,44.0,41.0,2.0,87.563,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,45.0,42.0,2.0,87.258,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,HARD,46.0,43.0,2.0,91.926,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,SOFT,47.0,1.0,3.0,109.658,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,SOFT,48.0,2.0,3.0,90.011,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,SOFT,49.0,3.0,3.0,85.456,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,SOFT,50.0,4.0,3.0,85.783,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,SOFT,51.0,5.0,3.0,86.164,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,ALB,Alexander Albon,23,Williams,SOFT,52.0,6.0,3.0,85.341,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,1.0,1.0,1.0,95.032,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,2.0,2.0,1.0,87.941,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,3.0,3.0,1.0,147.527,False,,245
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,HARD,6.0,3.0,2.0,140.996,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,HARD,7.0,4.0,2.0,88.531,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,HARD,8.0,5.0,2.0,88.742,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,HARD,9.0,6.0,2.0,87.005,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,HARD,10.0,7.0,2.0,87.082,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,HARD,11.0,8.0,2.0,88.411,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,HARD,12.0,9.0,2.0,87.856,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,HARD,13.0,10.0,2.0,87.54,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,HARD,14.0,11.0,2.0,87.394,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,HARD,15.0,12.0,2.0,87.629,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,HARD,16.0,13.0,2.0,88.638,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,HARD,17.0,14.0,2.0,86.977,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,HARD,18.0,15.0,2.0,86.453,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,HARD,19.0,16.0,2.0,86.662,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,HARD,20.0,17.0,2.0,86.345,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,HARD,21.0,18.0,2.0,86.672,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,HARD,22.0,19.0,2.0,89.803,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,HARD,23.0,20.0,2.0,86.917,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,HARD,24.0,21.0,2.0,86.544,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,HARD,25.0,22.0,2.0,86.76,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,HARD,26.0,23.0,2.0,86.533,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,HARD,27.0,24.0,2.0,94.678,False,,126
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,28.0,4.0,3.0,124.228,False,,671
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,29.0,5.0,3.0,86.975,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,30.0,6.0,3.0,86.734,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,31.0,7.0,3.0,86.407,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,32.0,8.0,3.0,86.398,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,33.0,9.0,3.0,86.249,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,34.0,10.0,3.0,86.196,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,35.0,11.0,3.0,86.033,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,36.0,12.0,3.0,86.017,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,37.0,13.0,3.0,85.975,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,38.0,14.0,3.0,86.093,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,39.0,15.0,3.0,85.893,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,40.0,16.0,3.0,85.991,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,41.0,17.0,3.0,85.757,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,42.0,18.0,3.0,85.648,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,43.0,19.0,3.0,85.382,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,44.0,20.0,3.0,86.052,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,45.0,21.0,3.0,85.567,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,46.0,22.0,3.0,86.659,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,47.0,23.0,3.0,85.67,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,48.0,24.0,3.0,86.256,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,49.0,25.0,3.0,85.912,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,50.0,26.0,3.0,85.947,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,51.0,27.0,3.0,85.71,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,52.0,28.0,3.0,84.927,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HUL,Nico Hulkenberg,27,Audi,MEDIUM,53.0,29.0,3.0,84.364,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,SOFT,1.0,1.0,1.0,89.682,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,SOFT,2.0,2.0,1.0,87.174,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,SOFT,3.0,3.0,1.0,125.983,False,,1245
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,MEDIUM,7.0,4.0,2.0,86.328,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,MEDIUM,8.0,5.0,2.0,86.407,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,MEDIUM,9.0,6.0,2.0,86.096,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,MEDIUM,10.0,7.0,2.0,85.609,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,MEDIUM,11.0,8.0,2.0,86.154,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,MEDIUM,12.0,9.0,2.0,86.438,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,MEDIUM,13.0,10.0,2.0,86.28,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,MEDIUM,14.0,11.0,2.0,86.411,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,MEDIUM,15.0,12.0,2.0,86.958,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,MEDIUM,16.0,13.0,2.0,86.445,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,MEDIUM,17.0,14.0,2.0,85.419,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,MEDIUM,18.0,15.0,2.0,85.467,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,MEDIUM,19.0,16.0,2.0,86.426,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,MEDIUM,20.0,17.0,2.0,86.073,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,MEDIUM,21.0,18.0,2.0,86.171,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,MEDIUM,22.0,19.0,2.0,86.062,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,MEDIUM,23.0,20.0,2.0,85.85,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,MEDIUM,24.0,21.0,2.0,85.725,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,MEDIUM,25.0,22.0,2.0,85.377,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,MEDIUM,26.0,23.0,2.0,85.706,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,MEDIUM,27.0,24.0,2.0,85.81,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,MEDIUM,28.0,25.0,2.0,109.197,False,,126
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,29.0,1.0,3.0,108.394,False,,671
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,30.0,2.0,3.0,85.13,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,31.0,3.0,3.0,84.514,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,32.0,4.0,3.0,85.391,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,33.0,5.0,3.0,84.9,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,34.0,6.0,3.0,85.025,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,35.0,7.0,3.0,84.816,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,36.0,8.0,3.0,84.677,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,37.0,9.0,3.0,84.242,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,38.0,10.0,3.0,84.705,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,39.0,11.0,3.0,84.614,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,40.0,12.0,3.0,86.643,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,41.0,13.0,3.0,87.132,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,42.0,14.0,3.0,85.533,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,43.0,15.0,3.0,85.03,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,44.0,16.0,3.0,85.158,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,45.0,17.0,3.0,85.411,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,46.0,18.0,3.0,85.235,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,47.0,19.0,3.0,85.209,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,48.0,20.0,3.0,84.844,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,49.0,21.0,3.0,85.023,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,50.0,22.0,3.0,85.392,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,51.0,23.0,3.0,85.419,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,52.0,24.0,3.0,85.373,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,VER,Max Verstappen,3,Red Bull Racing,HARD,53.0,25.0,3.0,84.804,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,1.0,1.0,1.0,97.497,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,2.0,2.0,1.0,88.836,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,HARD,6.0,3.0,2.0,134.843,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,HARD,7.0,4.0,2.0,88.26,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,HARD,8.0,5.0,2.0,87.679,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,HARD,9.0,6.0,2.0,86.838,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,HARD,10.0,7.0,2.0,87.259,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,HARD,11.0,8.0,2.0,88.705,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,HARD,12.0,9.0,2.0,93.743,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,13.0,4.0,3.0,115.493,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,14.0,5.0,3.0,87.044,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,15.0,6.0,3.0,86.698,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,16.0,7.0,3.0,86.544,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,17.0,8.0,3.0,86.377,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,18.0,9.0,3.0,86.313,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,19.0,10.0,3.0,86.181,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,20.0,11.0,3.0,86.294,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,21.0,12.0,3.0,86.506,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,22.0,13.0,3.0,86.352,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,23.0,14.0,3.0,86.313,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,24.0,15.0,3.0,87.045,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,25.0,16.0,3.0,86.748,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,26.0,17.0,3.0,86.514,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,27.0,18.0,3.0,97.509,False,,126
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,28.0,19.0,3.0,105.3,False,,671
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,29.0,20.0,3.0,86.251,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,30.0,21.0,3.0,86.343,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,31.0,22.0,3.0,86.071,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,32.0,23.0,3.0,86.097,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,33.0,24.0,3.0,85.838,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,34.0,25.0,3.0,85.728,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,35.0,26.0,3.0,85.662,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,36.0,27.0,3.0,85.777,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,37.0,28.0,3.0,85.917,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,38.0,29.0,3.0,85.838,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,39.0,30.0,3.0,85.776,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,40.0,31.0,3.0,86.138,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,41.0,32.0,3.0,85.898,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,42.0,33.0,3.0,85.752,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,43.0,34.0,3.0,85.731,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,44.0,35.0,3.0,87.463,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,45.0,36.0,3.0,85.862,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,46.0,37.0,3.0,85.669,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,47.0,38.0,3.0,85.74,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,48.0,39.0,3.0,86.328,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,49.0,40.0,3.0,85.857,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,50.0,41.0,3.0,85.81,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,51.0,42.0,3.0,86.13,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,52.0,43.0,3.0,85.861,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LAW,Liam Lawson,30,Red Bull Racing,MEDIUM,53.0,44.0,3.0,85.578,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,SOFT,1.0,1.0,1.0,93.92,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,SOFT,2.0,2.0,1.0,87.558,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,SOFT,3.0,3.0,1.0,144.115,False,,1245
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,7.0,4.0,2.0,88.798,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,8.0,5.0,2.0,88.213,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,9.0,6.0,2.0,87.357,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,10.0,7.0,2.0,87.462,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,11.0,8.0,2.0,87.862,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,12.0,9.0,2.0,88.095,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,13.0,10.0,2.0,86.89,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,14.0,11.0,2.0,87.64,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,15.0,12.0,2.0,87.795,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,16.0,13.0,2.0,87.285,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,17.0,14.0,2.0,87.129,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,18.0,15.0,2.0,87.507,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,19.0,16.0,2.0,86.937,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,20.0,17.0,2.0,86.787,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,21.0,18.0,2.0,88.309,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,22.0,19.0,2.0,87.61,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,23.0,20.0,2.0,86.978,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,24.0,21.0,2.0,86.758,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,25.0,22.0,2.0,87.046,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,26.0,23.0,2.0,88.014,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,HARD,27.0,24.0,2.0,95.904,False,,126
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,28.0,1.0,3.0,125.899,False,,671
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,29.0,2.0,3.0,86.554,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,30.0,3.0,3.0,86.32,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,31.0,4.0,3.0,86.443,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,32.0,5.0,3.0,86.4,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,33.0,6.0,3.0,86.577,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,34.0,7.0,3.0,86.207,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,35.0,8.0,3.0,86.303,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,36.0,9.0,3.0,87.157,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,37.0,10.0,3.0,86.108,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,38.0,11.0,3.0,86.22,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,39.0,12.0,3.0,86.88,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,40.0,13.0,3.0,87.268,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,41.0,14.0,3.0,86.802,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,42.0,15.0,3.0,87.065,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,43.0,16.0,3.0,87.169,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,44.0,17.0,3.0,86.874,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,45.0,18.0,3.0,86.827,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,46.0,19.0,3.0,87.095,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,47.0,20.0,3.0,87.06,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,48.0,21.0,3.0,87.059,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,49.0,22.0,3.0,86.899,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,50.0,23.0,3.0,86.831,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,51.0,24.0,3.0,89.644,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,OCO,Esteban Ocon,31,Haas F1 Team,MEDIUM,52.0,25.0,3.0,85.711,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,MEDIUM,1.0,1.0,1.0,92.262,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,MEDIUM,2.0,2.0,1.0,87.165,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,MEDIUM,3.0,3.0,1.0,136.778,False,,1245
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,7.0,4.0,2.0,87.902,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,8.0,5.0,2.0,86.83,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,9.0,6.0,2.0,86.526,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,10.0,7.0,2.0,86.552,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,11.0,8.0,2.0,86.667,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,12.0,9.0,2.0,86.508,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,13.0,10.0,2.0,86.71,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,14.0,11.0,2.0,86.522,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,15.0,12.0,2.0,86.841,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,16.0,13.0,2.0,86.919,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,17.0,14.0,2.0,86.858,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,18.0,15.0,2.0,86.892,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,19.0,16.0,2.0,86.785,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,20.0,17.0,2.0,86.927,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,21.0,18.0,2.0,86.861,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,22.0,19.0,2.0,86.674,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,23.0,20.0,2.0,86.693,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,24.0,21.0,2.0,86.782,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,25.0,22.0,2.0,86.657,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,26.0,23.0,2.0,86.725,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,27.0,24.0,2.0,86.907,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,28.0,25.0,2.0,112.456,False,,26
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,29.0,26.0,2.0,90.26,False,,671
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,30.0,27.0,2.0,86.476,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,31.0,28.0,2.0,86.451,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,32.0,29.0,2.0,86.266,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,33.0,30.0,2.0,86.412,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,34.0,31.0,2.0,86.58,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,35.0,32.0,2.0,86.401,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,36.0,33.0,2.0,86.301,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,37.0,34.0,2.0,86.345,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,38.0,35.0,2.0,86.482,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,39.0,36.0,2.0,86.314,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,40.0,37.0,2.0,86.324,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,41.0,38.0,2.0,86.638,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,42.0,39.0,2.0,86.427,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,43.0,40.0,2.0,86.343,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,44.0,41.0,2.0,86.162,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,45.0,42.0,2.0,86.194,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,46.0,43.0,2.0,86.053,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,47.0,44.0,2.0,86.028,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,48.0,45.0,2.0,86.033,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,49.0,46.0,2.0,86.207,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,50.0,47.0,2.0,86.221,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,51.0,48.0,2.0,86.233,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,52.0,49.0,2.0,86.238,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,LIN,Arvid Lindblad,41,Racing Bulls,HARD,53.0,50.0,2.0,86.055,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,MEDIUM,1.0,1.0,1.0,90.606,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,MEDIUM,2.0,2.0,1.0,87.137,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,MEDIUM,3.0,3.0,1.0,126.896,False,,1245
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,7.0,4.0,2.0,88.926,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,8.0,5.0,2.0,88.122,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,9.0,6.0,2.0,87.968,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,10.0,7.0,2.0,87.626,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,11.0,8.0,2.0,87.702,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,12.0,9.0,2.0,87.951,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,13.0,10.0,2.0,87.236,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,14.0,11.0,2.0,87.071,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,15.0,12.0,2.0,87.214,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,16.0,13.0,2.0,87.334,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,17.0,14.0,2.0,87.06,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,18.0,15.0,2.0,86.81,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,19.0,16.0,2.0,86.908,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,20.0,17.0,2.0,86.59,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,21.0,18.0,2.0,86.714,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,22.0,19.0,2.0,87.052,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,23.0,20.0,2.0,86.727,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,24.0,21.0,2.0,86.302,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,25.0,22.0,2.0,86.238,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,26.0,23.0,2.0,86.376,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,27.0,24.0,2.0,91.763,False,,126
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,28.0,25.0,2.0,111.26,False,,671
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,29.0,26.0,2.0,86.245,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,30.0,27.0,2.0,86.558,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,31.0,28.0,2.0,85.846,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,32.0,29.0,2.0,86.446,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,33.0,30.0,2.0,86.354,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,34.0,31.0,2.0,86.326,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,35.0,32.0,2.0,85.991,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,36.0,33.0,2.0,85.862,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,37.0,34.0,2.0,85.669,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,38.0,35.0,2.0,85.64,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,39.0,36.0,2.0,85.676,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,40.0,37.0,2.0,85.817,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,41.0,38.0,2.0,86.223,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,42.0,39.0,2.0,85.834,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,43.0,40.0,2.0,86.278,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,44.0,41.0,2.0,86.061,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,45.0,42.0,2.0,85.958,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,46.0,43.0,2.0,85.72,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,47.0,44.0,2.0,85.803,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,48.0,45.0,2.0,85.821,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,49.0,46.0,2.0,85.796,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,50.0,47.0,2.0,85.695,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,51.0,48.0,2.0,85.656,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,52.0,49.0,2.0,85.403,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,COL,Franco Colapinto,43,Alpine,HARD,53.0,50.0,2.0,84.933,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,SOFT,1.0,1.0,1.0,93.234,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,SOFT,2.0,2.0,1.0,87.244,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,SOFT,3.0,3.0,1.0,138.027,False,,1245
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,7.0,4.0,2.0,86.663,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,8.0,5.0,2.0,85.931,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,9.0,6.0,2.0,86.176,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,10.0,7.0,2.0,86.082,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,11.0,8.0,2.0,86.738,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,12.0,9.0,2.0,87.104,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,13.0,10.0,2.0,85.929,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,14.0,11.0,2.0,86.415,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,15.0,12.0,2.0,85.869,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,16.0,13.0,2.0,86.218,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,17.0,14.0,2.0,86.489,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,18.0,15.0,2.0,86.839,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,19.0,16.0,2.0,86.587,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,20.0,17.0,2.0,86.324,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,21.0,18.0,2.0,86.171,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,22.0,19.0,2.0,86.002,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,23.0,20.0,2.0,85.3,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,24.0,21.0,2.0,86.047,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,25.0,22.0,2.0,87.168,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,26.0,23.0,2.0,86.493,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,27.0,24.0,2.0,85.897,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,28.0,25.0,2.0,109.638,False,,126
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,29.0,26.0,2.0,93.044,False,,671
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,30.0,27.0,2.0,85.912,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,31.0,28.0,2.0,85.964,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,32.0,29.0,2.0,86.065,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,33.0,30.0,2.0,85.904,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,34.0,31.0,2.0,85.73,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,35.0,32.0,2.0,86.929,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,36.0,33.0,2.0,85.543,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,37.0,34.0,2.0,85.925,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,38.0,35.0,2.0,85.443,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,39.0,36.0,2.0,85.895,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,40.0,37.0,2.0,85.75,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,41.0,38.0,2.0,86.421,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,42.0,39.0,2.0,86.718,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,43.0,40.0,2.0,85.463,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,44.0,41.0,2.0,85.612,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,45.0,42.0,2.0,85.636,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,46.0,43.0,2.0,85.469,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,47.0,44.0,2.0,85.75,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,48.0,45.0,2.0,85.601,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,49.0,46.0,2.0,86.632,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,50.0,47.0,2.0,86.063,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,51.0,48.0,2.0,85.659,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,52.0,49.0,2.0,86.244,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,HAM,Lewis Hamilton,44,Ferrari,MEDIUM,53.0,50.0,2.0,85.997,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,SOFT,1.0,1.0,1.0,93.432,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,SOFT,2.0,2.0,1.0,88.416,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,SOFT,3.0,3.0,1.0,145.367,False,,1245
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,6.0,3.0,2.0,147.85,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,7.0,4.0,2.0,88.211,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,8.0,5.0,2.0,88.035,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,9.0,6.0,2.0,87.597,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,10.0,7.0,2.0,87.849,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,11.0,8.0,2.0,87.978,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,12.0,9.0,2.0,86.673,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,13.0,10.0,2.0,86.929,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,14.0,11.0,2.0,87.295,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,15.0,12.0,2.0,86.993,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,16.0,13.0,2.0,86.813,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,17.0,14.0,2.0,87.012,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,18.0,15.0,2.0,86.949,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,19.0,16.0,2.0,86.883,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,20.0,17.0,2.0,86.735,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,21.0,18.0,2.0,86.582,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,22.0,19.0,2.0,87.315,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,23.0,20.0,2.0,86.971,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,24.0,21.0,2.0,86.94,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,25.0,22.0,2.0,86.449,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,26.0,23.0,2.0,86.998,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,27.0,24.0,2.0,87.878,False,,126
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,28.0,25.0,2.0,114.938,False,,671
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,29.0,26.0,2.0,87.681,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,30.0,27.0,2.0,86.882,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,31.0,28.0,2.0,86.188,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,32.0,29.0,2.0,86.488,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,33.0,30.0,2.0,86.408,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,34.0,31.0,2.0,86.549,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,35.0,32.0,2.0,86.639,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,36.0,33.0,2.0,86.798,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,37.0,34.0,2.0,86.721,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,38.0,35.0,2.0,86.615,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,39.0,36.0,2.0,86.557,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,40.0,37.0,2.0,86.706,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,41.0,38.0,2.0,86.672,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,42.0,39.0,2.0,86.761,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,43.0,40.0,2.0,86.777,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,44.0,41.0,2.0,86.592,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,45.0,42.0,2.0,86.634,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,46.0,43.0,2.0,86.607,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,47.0,44.0,2.0,86.466,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,48.0,45.0,2.0,86.363,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,49.0,46.0,2.0,86.395,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,50.0,47.0,2.0,86.788,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,51.0,48.0,2.0,86.904,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,52.0,49.0,2.0,86.851,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOR,Gabriel Bortoleto,5,Audi,MEDIUM,53.0,50.0,2.0,86.322,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,SOFT,1.0,1.0,1.0,96.596,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,SOFT,2.0,2.0,1.0,89.305,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,HARD,6.0,3.0,2.0,133.388,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,HARD,7.0,4.0,2.0,88.332,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,HARD,8.0,5.0,2.0,88.665,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,HARD,9.0,6.0,2.0,88.223,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,HARD,10.0,7.0,2.0,87.945,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,HARD,11.0,8.0,2.0,87.155,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,HARD,12.0,9.0,2.0,87.941,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,HARD,13.0,10.0,2.0,87.268,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,HARD,14.0,11.0,2.0,87.406,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,HARD,15.0,12.0,2.0,87.571,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,HARD,16.0,13.0,2.0,88.221,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,HARD,17.0,14.0,2.0,87.494,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,HARD,18.0,15.0,2.0,86.915,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,HARD,19.0,16.0,2.0,87.074,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,HARD,20.0,17.0,2.0,86.895,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,HARD,21.0,18.0,2.0,87.067,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,HARD,22.0,19.0,2.0,87.456,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,HARD,23.0,20.0,2.0,87.169,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,HARD,24.0,21.0,2.0,87.005,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,HARD,25.0,22.0,2.0,87.114,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,HARD,26.0,23.0,2.0,87.305,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,HARD,27.0,24.0,2.0,95.474,False,,126
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,28.0,1.0,3.0,123.779,False,,671
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,29.0,2.0,3.0,86.613,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,30.0,3.0,3.0,86.488,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,31.0,4.0,3.0,86.128,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,32.0,5.0,3.0,86.236,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,33.0,6.0,3.0,86.415,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,34.0,7.0,3.0,86.278,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,35.0,8.0,3.0,86.124,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,36.0,9.0,3.0,86.1,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,37.0,10.0,3.0,85.91,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,38.0,11.0,3.0,85.772,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,39.0,12.0,3.0,86.235,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,40.0,13.0,3.0,86.036,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,41.0,14.0,3.0,85.93,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,42.0,15.0,3.0,85.88,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,43.0,16.0,3.0,86.39,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,44.0,17.0,3.0,86.149,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,45.0,18.0,3.0,86.098,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,46.0,19.0,3.0,85.683,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,47.0,20.0,3.0,85.783,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,48.0,21.0,3.0,86.113,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,49.0,22.0,3.0,85.847,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,50.0,23.0,3.0,86.399,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,51.0,24.0,3.0,86.257,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,52.0,25.0,3.0,85.96,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,SAI,Carlos Sainz,55,Williams,MEDIUM,53.0,26.0,3.0,85.964,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,MEDIUM,1.0,1.0,1.0,88.774,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,MEDIUM,2.0,2.0,1.0,86.651,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,MEDIUM,3.0,3.0,1.0,119.148,False,,1245
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,7.0,4.0,2.0,86.44,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,8.0,5.0,2.0,86.093,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,9.0,6.0,2.0,86.495,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,10.0,7.0,2.0,86.305,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,11.0,8.0,2.0,86.63,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,12.0,9.0,2.0,87.352,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,13.0,10.0,2.0,86.142,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,14.0,11.0,2.0,86.549,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,15.0,12.0,2.0,85.773,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,16.0,13.0,2.0,85.742,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,17.0,14.0,2.0,85.584,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,18.0,15.0,2.0,86.152,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,19.0,16.0,2.0,85.802,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,20.0,17.0,2.0,85.606,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,21.0,18.0,2.0,85.768,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,22.0,19.0,2.0,86.496,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,23.0,20.0,2.0,85.827,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,24.0,21.0,2.0,85.642,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,25.0,22.0,2.0,85.345,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,26.0,23.0,2.0,85.505,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,27.0,24.0,2.0,85.517,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,28.0,25.0,2.0,105.699,False,,126
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,29.0,26.0,2.0,98.375,False,,671
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,30.0,27.0,2.0,85.66,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,31.0,28.0,2.0,85.569,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,32.0,29.0,2.0,85.34,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,33.0,30.0,2.0,85.404,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,34.0,31.0,2.0,85.412,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,35.0,32.0,2.0,85.296,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,36.0,33.0,2.0,85.223,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,37.0,34.0,2.0,85.337,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,38.0,35.0,2.0,85.386,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,39.0,36.0,2.0,85.018,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,40.0,37.0,2.0,85.094,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,41.0,38.0,2.0,85.331,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,42.0,39.0,2.0,85.137,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,43.0,40.0,2.0,85.261,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,44.0,41.0,2.0,85.128,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,45.0,42.0,2.0,85.183,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,46.0,43.0,2.0,84.961,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,47.0,44.0,2.0,84.861,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,48.0,45.0,2.0,85.276,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,49.0,46.0,2.0,87.975,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,50.0,47.0,2.0,86.206,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,51.0,48.0,2.0,84.39,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,52.0,49.0,2.0,84.977,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,RUS,George Russell,63,Mercedes,HARD,53.0,50.0,2.0,85.486,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,1.0,1.0,1.0,97.725,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,2.0,2.0,1.0,91.895,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,MEDIUM,6.0,3.0,2.0,131.615,True,,12
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,MEDIUM,7.0,4.0,2.0,89.851,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,MEDIUM,8.0,5.0,2.0,88.429,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,MEDIUM,9.0,6.0,2.0,89.044,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,MEDIUM,10.0,7.0,2.0,89.11,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,MEDIUM,11.0,8.0,2.0,88.906,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,MEDIUM,12.0,9.0,2.0,88.549,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,MEDIUM,13.0,10.0,2.0,88.807,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,MEDIUM,14.0,11.0,2.0,88.37,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,MEDIUM,15.0,12.0,2.0,88.597,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,MEDIUM,16.0,13.0,2.0,88.572,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,MEDIUM,17.0,14.0,2.0,88.476,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,MEDIUM,18.0,15.0,2.0,88.539,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,MEDIUM,19.0,16.0,2.0,88.471,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,MEDIUM,20.0,17.0,2.0,88.568,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,MEDIUM,21.0,18.0,2.0,88.41,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,MEDIUM,22.0,19.0,2.0,88.594,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,MEDIUM,23.0,20.0,2.0,88.386,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,MEDIUM,24.0,21.0,2.0,89.711,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,MEDIUM,25.0,22.0,2.0,88.57,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,MEDIUM,26.0,23.0,2.0,88.707,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,MEDIUM,27.0,24.0,2.0,107.644,False,,126
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,28.0,1.0,3.0,126.8,False,,671
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,29.0,2.0,3.0,87.982,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,30.0,3.0,3.0,90.847,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,31.0,4.0,3.0,87.803,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,32.0,5.0,3.0,89.253,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,33.0,6.0,3.0,87.801,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,34.0,7.0,3.0,87.661,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,35.0,8.0,3.0,88.14,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,36.0,9.0,3.0,88.744,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,37.0,10.0,3.0,89.146,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,38.0,11.0,3.0,87.625,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,39.0,12.0,3.0,87.716,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,40.0,13.0,3.0,89.414,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,41.0,14.0,3.0,87.597,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,42.0,15.0,3.0,87.468,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,43.0,16.0,3.0,87.46,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,44.0,17.0,3.0,87.616,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,45.0,18.0,3.0,87.585,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,46.0,19.0,3.0,92.412,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,47.0,20.0,3.0,97.053,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,48.0,21.0,3.0,88.393,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,49.0,22.0,3.0,93.564,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,50.0,23.0,3.0,89.946,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BOT,Valtteri Bottas,77,Cadillac,SOFT,51.0,24.0,3.0,87.325,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,1.0,1.0,1.0,90.028,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,2.0,2.0,1.0,87.486,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,MEDIUM,3.0,3.0,1.0,133.714,False,,1245
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,7.0,4.0,2.0,87.432,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,8.0,5.0,2.0,86.051,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,9.0,6.0,2.0,85.978,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,10.0,7.0,2.0,86.321,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,11.0,8.0,2.0,86.086,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,12.0,9.0,2.0,85.975,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,13.0,10.0,2.0,86.547,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,14.0,11.0,2.0,86.111,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,15.0,12.0,2.0,86.233,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,16.0,13.0,2.0,86.723,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,17.0,14.0,2.0,86.552,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,18.0,15.0,2.0,86.764,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,19.0,16.0,2.0,85.646,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,20.0,17.0,2.0,86.094,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,21.0,18.0,2.0,86.231,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,22.0,19.0,2.0,86.083,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,23.0,20.0,2.0,86.811,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,24.0,21.0,2.0,85.926,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,25.0,22.0,2.0,85.884,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,26.0,23.0,2.0,86.143,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,27.0,24.0,2.0,86.106,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,28.0,25.0,2.0,109.065,False,,126
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,29.0,26.0,2.0,92.536,False,,671
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,30.0,27.0,2.0,85.915,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,31.0,28.0,2.0,85.967,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,32.0,29.0,2.0,86.02,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,33.0,30.0,2.0,86.251,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,34.0,31.0,2.0,86.035,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,35.0,32.0,2.0,85.597,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,36.0,33.0,2.0,85.544,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,37.0,34.0,2.0,86.128,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,38.0,35.0,2.0,85.315,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,39.0,36.0,2.0,86.325,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,40.0,37.0,2.0,86.156,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,41.0,38.0,2.0,86.152,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,42.0,39.0,2.0,85.692,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,43.0,40.0,2.0,86.242,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,44.0,41.0,2.0,85.194,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,45.0,42.0,2.0,85.125,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,46.0,43.0,2.0,85.313,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,47.0,44.0,2.0,85.385,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,48.0,45.0,2.0,85.755,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,49.0,46.0,2.0,85.458,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,50.0,47.0,2.0,85.525,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,51.0,48.0,2.0,86.314,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,52.0,49.0,2.0,85.521,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,PIA,Oscar Piastri,81,McLaren,HARD,53.0,50.0,2.0,85.834,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,SOFT,1.0,1.0,1.0,92.659,False,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,SOFT,2.0,2.0,1.0,87.733,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,SOFT,3.0,3.0,1.0,142.717,False,,1245
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,7.0,4.0,2.0,88.252,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,8.0,5.0,2.0,87.442,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,9.0,6.0,2.0,87.651,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,10.0,7.0,2.0,87.26,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,11.0,8.0,2.0,87.38,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,12.0,9.0,2.0,87.033,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,13.0,10.0,2.0,86.883,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,14.0,11.0,2.0,87.305,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,15.0,12.0,2.0,87.145,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,16.0,13.0,2.0,87.283,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,17.0,14.0,2.0,87.071,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,18.0,15.0,2.0,86.939,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,19.0,16.0,2.0,87.321,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,20.0,17.0,2.0,87.378,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,21.0,18.0,2.0,87.353,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,22.0,19.0,2.0,87.582,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,23.0,20.0,2.0,87.111,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,24.0,21.0,2.0,87.252,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,25.0,22.0,2.0,87.224,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,26.0,23.0,2.0,87.231,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,27.0,24.0,2.0,92.347,False,,126
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,28.0,25.0,2.0,111.9,False,,671
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,29.0,26.0,2.0,87.369,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,30.0,27.0,2.0,86.754,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,31.0,28.0,2.0,86.356,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,32.0,29.0,2.0,86.734,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,33.0,30.0,2.0,86.724,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,34.0,31.0,2.0,87.017,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,35.0,32.0,2.0,87.122,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,36.0,33.0,2.0,87.322,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,37.0,34.0,2.0,87.099,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,38.0,35.0,2.0,87.281,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,39.0,36.0,2.0,87.431,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,40.0,37.0,2.0,87.156,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,41.0,38.0,2.0,87.574,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,42.0,39.0,2.0,87.137,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,43.0,40.0,2.0,87.049,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,44.0,41.0,2.0,87.02,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,45.0,42.0,2.0,86.952,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,46.0,43.0,2.0,87.224,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,47.0,44.0,2.0,87.75,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,48.0,45.0,2.0,86.933,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,49.0,46.0,2.0,87.192,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,50.0,47.0,2.0,87.828,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,51.0,48.0,2.0,86.955,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,52.0,49.0,2.0,88.04,True,,1
+2026,13,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2026,Monza,Italy,Monza,2026-09-06,53,BEA,Oliver Bearman,87,Haas F1 Team,HARD,53.0,50.0,2.0,87.158,True,,1

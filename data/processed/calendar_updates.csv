@@ -1,0 +1,48 @@
+Season,Round,Race,OfficialEventName,Circuit,Country,Location,EventDate,RaceLaps,RaceStartTimeUTC,SourceURL,CalendarSource
+2026,1,Australian Grand Prix,Australian Grand Prix,Melbourne,Australia,Melbourne,2026-03-08,,2026-03-08T04:00:00Z,https://en.wikipedia.org/wiki/2026_Australian_Grand_Prix,FastF1 event schedule
+2026,2,Chinese Grand Prix,Chinese Grand Prix,Shanghai,China,Shanghai,2026-03-15,,2026-03-15T07:00:00Z,https://en.wikipedia.org/wiki/2026_Chinese_Grand_Prix,FastF1 event schedule
+2026,3,Japanese Grand Prix,Japanese Grand Prix,Suzuka,Japan,Suzuka,2026-03-29,,2026-03-29T05:00:00Z,https://en.wikipedia.org/wiki/2026_Japanese_Grand_Prix,FastF1 event schedule
+2026,4,Miami Grand Prix,Miami Grand Prix,Miami,USA,Miami,2026-05-03,,2026-05-03T20:00:00Z,https://en.wikipedia.org/wiki/2026_Miami_Grand_Prix,FastF1 event schedule
+2026,5,Canadian Grand Prix,Canadian Grand Prix,Montreal,Canada,Montreal,2026-05-24,,2026-05-24T20:00:00Z,https://en.wikipedia.org/wiki/2026_Canadian_Grand_Prix,FastF1 event schedule
+2026,6,Monaco Grand Prix,Monaco Grand Prix,Monte Carlo,Monaco,Monte Carlo,2026-06-07,,2026-06-07T13:00:00Z,https://en.wikipedia.org/wiki/2026_Monaco_Grand_Prix,FastF1 event schedule
+2026,7,Barcelona Grand Prix,Barcelona Grand Prix,Barcelona,Spain,Barcelona,2026-06-14,,2026-06-14T13:00:00Z,https://en.wikipedia.org/wiki/2026_Barcelona-Catalunya,FastF1 event schedule
+2026,8,Austrian Grand Prix,Austrian Grand Prix,Spielberg,Austria,Spielberg,2026-06-28,,2026-06-28T13:00:00Z,https://en.wikipedia.org/wiki/2026_Austrian_Grand_Prix,FastF1 event schedule
+2026,9,British Grand Prix,British Grand Prix,Silverstone,UK,Silverstone,2026-07-05,,2026-07-05T14:00:00Z,https://en.wikipedia.org/wiki/2026_British_Grand_Prix,FastF1 event schedule
+2026,10,Belgian Grand Prix,Belgian Grand Prix,Spa,Belgium,Spa,2026-07-19,,2026-07-19T13:00:00Z,https://en.wikipedia.org/wiki/2026_Belgian_Grand_Prix,FastF1 event schedule
+2026,11,Hungarian Grand Prix,Hungarian Grand Prix,Budapest,Hungary,Budapest,2026-07-26,,2026-07-26T13:00:00Z,https://en.wikipedia.org/wiki/2026_Hungarian_Grand_Prix,FastF1 event schedule
+2026,12,Dutch Grand Prix,Dutch Grand Prix,Zandvoort,Netherlands,Zandvoort,2026-08-23,,2026-08-23T13:00:00Z,https://en.wikipedia.org/wiki/2026_Dutch_Grand_Prix,FastF1 event schedule
+2026,13,Italian Grand Prix,Italian Grand Prix,Monza,Italy,Monza,2026-09-06,,2026-09-06T13:00:00Z,https://en.wikipedia.org/wiki/2026_Italian_Grand_Prix,FastF1 event schedule
+2026,14,Spanish Grand Prix,Spanish Grand Prix,Madrid,Spain,Madrid,2026-09-13,,2026-09-13T13:00:00Z,https://en.wikipedia.org/wiki/2026_Spanish_Grand_Prix,FastF1 event schedule
+2026,15,Azerbaijan Grand Prix,Azerbaijan Grand Prix,Baku,Azerbaijan,Baku,2026-09-26,,2026-09-26T11:00:00Z,https://en.wikipedia.org/wiki/2026_Azerbaijan_Grand_Prix,FastF1 event schedule
+2026,16,Bahrain Grand Prix in Malaysia,Bahrain Grand Prix in Malaysia,Kuala Lumpur,Malaysia,Kuala Lumpur,2026-10-04,,2026-10-04T07:00:00Z,https://en.wikipedia.org/wiki/2026_Bahrain_Grand_Prix,FastF1 event schedule
+2026,17,Singapore Grand Prix,Singapore Grand Prix,Marina Bay,Singapore,Marina Bay,2026-10-11,,2026-10-11T12:00:00Z,https://en.wikipedia.org/wiki/2026_Singapore_Grand_Prix,FastF1 event schedule
+2026,18,United States Grand Prix,United States Grand Prix,Austin,USA,Austin,2026-10-25,,2026-10-25T20:00:00Z,https://en.wikipedia.org/wiki/2026_United_States_Grand_Prix,FastF1 event schedule
+2026,19,Mexico City Grand Prix,Mexico City Grand Prix,Mexico City,Mexico,Mexico City,2026-11-01,,2026-11-01T20:00:00Z,https://en.wikipedia.org/wiki/2026_Mexico_City_Grand_Prix,FastF1 event schedule
+2026,20,Brazilian Grand Prix,Brazilian Grand Prix,São Paulo,Brazil,São Paulo,2026-11-08,,2026-11-08T17:00:00Z,https://en.wikipedia.org/wiki/2026_Brazilian_Grand_Prix,FastF1 event schedule
+2026,21,Las Vegas Grand Prix,Las Vegas Grand Prix,Las Vegas,USA,Las Vegas,2026-11-22,,2026-11-22T04:00:00Z,https://en.wikipedia.org/wiki/2026_Las_Vegas_Grand_Prix,FastF1 event schedule
+2026,22,Qatar Grand Prix,Qatar Grand Prix,Lusail,Qatar,Lusail,2026-11-29,,2026-11-29T16:00:00Z,https://en.wikipedia.org/wiki/2026_Qatar_Grand_Prix,FastF1 event schedule
+2026,23,Abu Dhabi Grand Prix,Abu Dhabi Grand Prix,Abu Dhabi,UAE,Abu Dhabi,2026-12-06,,2026-12-06T13:00:00Z,https://en.wikipedia.org/wiki/2026_Abu_Dhabi_Grand_Prix,FastF1 event schedule
+2027,1,Bahrain Grand Prix,Formula 1 Gulf Air Bahrain Grand Prix 2027,Sakhir,Bahrain,Sakhir,2027-03-14,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar
+2027,2,Saudi Arabian Grand Prix,Formula 1 STC Saudi Arabian Grand Prix 2027,Jeddah,Saudi Arabia,Jeddah,2027-03-21,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar
+2027,3,Australian Grand Prix,Formula 1 Australian Grand Prix 2027,Melbourne,Australia,Melbourne,2027-04-04,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar
+2027,4,Japanese Grand Prix,Formula 1 Japanese Grand Prix 2027,Suzuka,Japan,Suzuka,2027-04-11,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar
+2027,5,Chinese Grand Prix,Formula 1 Heineken Chinese Grand Prix 2027,Shanghai,China,Shanghai,2027-04-18,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar
+2027,6,Miami Grand Prix,Formula 1 Hard Rock Miami Grand Prix 2027,Miami,United States,Miami,2027-05-02,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar
+2027,7,Canadian Grand Prix,Formula 1 AWS Grand Prix du Canada 2027,Montreal,Canada,Montreal,2027-05-23,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar
+2027,8,Monaco Grand Prix,Formula 1 Louis Vuitton Grand Prix de Monaco 2027,Monaco,Monaco,Monaco,2027-06-06,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar
+2027,9,Portuguese Grand Prix,Formula 1 Grande Premio de Portugal 2027,Portimao,Portugal,Portimao,2027-06-20,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar
+2027,10,British Grand Prix,Formula 1 Tag Heuer British Grand Prix 2027,Silverstone,United Kingdom,Silverstone,2027-07-04,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar
+2027,11,Austrian Grand Prix,Formula 1 Qatar Airways Austrian Grand Prix 2027,Spielberg,Austria,Spielberg,2027-07-11,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar
+2027,12,Belgian Grand Prix,Formula 1 MSC Cruises Belgian Grand Prix 2027,Spa-Francorchamps,Belgium,Spa-Francorchamps,2027-07-25,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar
+2027,13,Hungarian Grand Prix,Formula 1 Aramco Hungarian Grand Prix 2027,Budapest,Hungary,Budapest,2027-08-01,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar
+2027,14,Italian Grand Prix,Formula 1 Pirelli Gran Premio d'Italia 2027,Monza,Italy,Monza,2027-09-05,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar
+2027,15,Spanish Grand Prix,Formula 1 Lenovo Gran Premio de Espana 2027,Madrid,Spain,Madrid,2027-09-12,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar
+2027,16,Azerbaijan Grand Prix,Formula 1 Qatar Airways Azerbaijan Grand Prix 2027,Baku,Azerbaijan,Baku,2027-09-26,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar
+2027,17,Turkish Grand Prix,Formula 1 MSC Cruises Turkish Grand Prix 2027,Istanbul,Turkey,Istanbul,2027-10-03,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar
+2027,18,Singapore Grand Prix,Formula 1 Singapore Airlines Singapore Grand Prix 2027,Singapore,Singapore,Singapore,2027-10-10,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar
+2027,19,United States Grand Prix,Formula 1 Pirelli United States Grand Prix 2027,Austin,United States,Austin,2027-10-24,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar
+2027,20,Mexico City Grand Prix,Formula 1 Gran Premio de la Ciudad de Mexico 2027,Mexico City,Mexico,Mexico City,2027-10-31,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar
+2027,21,Sao Paulo Grand Prix,Formula 1 Heineken Grande Premio de Sao Paulo 2027,Sao Paulo,Brazil,Sao Paulo,2027-11-07,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar
+2027,22,Las Vegas Grand Prix,Formula 1 Heineken Las Vegas Grand Prix 2027,Las Vegas,United States,Las Vegas,2027-11-20,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar
+2027,23,Qatar Grand Prix,Formula 1 Qatar Airways Qatar Grand Prix 2027,Lusail,Qatar,Lusail,2027-12-05,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar
+2027,24,Abu Dhabi Grand Prix,Formula 1 Etihad Airways Abu Dhabi Grand Prix 2027,Yas Marina,United Arab Emirates,Abu Dhabi,2027-12-12,,,https://www.formula1.com/en/racing/2027,Formula 1 and FIA published 2027 calendar

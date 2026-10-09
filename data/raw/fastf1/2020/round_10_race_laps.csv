@@ -1,0 +1,875 @@
+Season,Round,Race,EventName,OfficialEventName,Circuit,Country,Location,EventDate,RaceLaps,Driver,DriverName,DriverNumber,Team,Compound,LapNumber,TyreLife,Stint,LapTime,IsAccurate,Deleted,TrackStatus
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,1.0,4.0,1.0,128.585,False,,124
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,6.0,9.0,1.0,100.702,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,7.0,10.0,1.0,101.48,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,8.0,11.0,1.0,101.179,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,9.0,12.0,1.0,101.341,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,10.0,13.0,1.0,101.431,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,11.0,14.0,1.0,101.237,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,12.0,15.0,1.0,101.233,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,13.0,16.0,1.0,101.044,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,14.0,17.0,1.0,100.307,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,15.0,18.0,1.0,100.059,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,16.0,19.0,1.0,99.727,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,17.0,20.0,1.0,99.439,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,18.0,21.0,1.0,99.375,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,19.0,22.0,1.0,99.569,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,20.0,23.0,1.0,99.221,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,21.0,24.0,1.0,99.081,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,22.0,25.0,1.0,99.667,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,23.0,26.0,1.0,99.403,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,24.0,27.0,1.0,99.168,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,25.0,28.0,1.0,99.52,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,MEDIUM,26.0,29.0,1.0,104.581,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,27.0,1.0,2.0,120.33,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,28.0,2.0,2.0,97.861,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,29.0,3.0,2.0,98.606,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,30.0,4.0,2.0,98.264,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,31.0,5.0,2.0,98.611,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,32.0,6.0,2.0,98.669,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,33.0,7.0,2.0,98.88,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,34.0,8.0,2.0,98.404,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,35.0,9.0,2.0,97.807,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,36.0,10.0,2.0,99.019,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,37.0,11.0,2.0,99.506,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,38.0,12.0,2.0,99.527,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,39.0,13.0,2.0,98.755,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,40.0,14.0,2.0,98.63,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,41.0,15.0,2.0,98.521,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,42.0,16.0,2.0,98.669,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,43.0,17.0,2.0,113.109,False,,167
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,44.0,18.0,2.0,98.617,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,45.0,19.0,2.0,98.77,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,46.0,20.0,2.0,98.641,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,47.0,21.0,2.0,98.818,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,48.0,22.0,2.0,99.006,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,49.0,23.0,2.0,98.977,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,50.0,24.0,2.0,100.312,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,51.0,25.0,2.0,97.03,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,52.0,26.0,2.0,97.724,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,BOT,Valtteri Bottas,77,Mercedes,HARD,53.0,27.0,2.0,97.637,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,1.0,4.0,1.0,129.668,False,,124
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,6.0,9.0,1.0,101.375,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,7.0,10.0,1.0,101.52,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,8.0,11.0,1.0,101.262,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,9.0,12.0,1.0,101.085,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,10.0,13.0,1.0,101.289,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,11.0,14.0,1.0,101.418,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,12.0,15.0,1.0,101.437,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,13.0,16.0,1.0,100.881,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,14.0,17.0,1.0,100.897,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,15.0,18.0,1.0,100.646,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,16.0,19.0,1.0,100.299,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,17.0,20.0,1.0,100.252,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,18.0,21.0,1.0,100.07,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,19.0,22.0,1.0,99.941,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,20.0,23.0,1.0,100.012,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,21.0,24.0,1.0,99.92,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,22.0,25.0,1.0,100.113,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,23.0,26.0,1.0,100.266,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,24.0,27.0,1.0,100.51,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,MEDIUM,25.0,28.0,1.0,105.264,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,26.0,1.0,2.0,120.406,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,27.0,2.0,2.0,99.287,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,28.0,3.0,2.0,99.584,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,29.0,4.0,2.0,99.155,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,30.0,5.0,2.0,98.997,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,31.0,6.0,2.0,98.481,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,32.0,7.0,2.0,98.598,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,33.0,8.0,2.0,98.734,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,34.0,9.0,2.0,98.735,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,35.0,10.0,2.0,98.52,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,36.0,11.0,2.0,98.729,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,37.0,12.0,2.0,98.432,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,38.0,13.0,2.0,98.496,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,39.0,14.0,2.0,98.811,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,40.0,15.0,2.0,99.087,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,41.0,16.0,2.0,98.69,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,42.0,17.0,2.0,99.175,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,43.0,18.0,2.0,111.959,False,,167
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,44.0,19.0,2.0,98.376,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,45.0,20.0,2.0,98.226,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,46.0,21.0,2.0,98.173,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,47.0,22.0,2.0,97.852,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,48.0,23.0,2.0,97.715,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,49.0,24.0,2.0,98.527,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,50.0,25.0,2.0,98.705,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,51.0,26.0,2.0,99.482,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,52.0,27.0,2.0,97.793,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VER,Max Verstappen,33,Red Bull Racing,HARD,53.0,28.0,2.0,97.332,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,1.0,4.0,1.0,127.166,False,,124
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,6.0,9.0,1.0,100.056,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,7.0,10.0,1.0,101.341,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,8.0,11.0,1.0,100.879,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,9.0,12.0,1.0,101.725,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,10.0,13.0,1.0,101.062,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,11.0,14.0,1.0,101.521,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,12.0,15.0,1.0,101.269,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,13.0,16.0,1.0,100.76,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,14.0,17.0,1.0,99.773,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,15.0,18.0,1.0,99.693,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,SOFT,16.0,19.0,1.0,104.935,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,17.0,1.0,2.0,132.717,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,18.0,2.0,2.0,100.452,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,19.0,3.0,2.0,99.835,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,20.0,4.0,2.0,100.13,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,21.0,5.0,2.0,100.148,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,22.0,6.0,2.0,100.044,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,23.0,7.0,2.0,99.83,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,24.0,8.0,2.0,99.848,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,25.0,9.0,2.0,99.717,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,26.0,10.0,2.0,99.785,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,27.0,11.0,2.0,99.798,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,28.0,12.0,2.0,100.048,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,29.0,13.0,2.0,100.019,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,30.0,14.0,2.0,100.144,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,31.0,15.0,2.0,99.348,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,32.0,16.0,2.0,99.305,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,33.0,17.0,2.0,99.095,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,34.0,18.0,2.0,98.814,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,35.0,19.0,2.0,98.698,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,36.0,20.0,2.0,98.88,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,37.0,21.0,2.0,98.809,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,38.0,22.0,2.0,98.229,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,39.0,23.0,2.0,98.311,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,40.0,24.0,2.0,98.34,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,41.0,25.0,2.0,98.484,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,42.0,26.0,2.0,98.657,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,43.0,27.0,2.0,111.662,False,,167
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,44.0,28.0,2.0,100.0,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,45.0,29.0,2.0,98.191,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,46.0,30.0,2.0,98.43,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,47.0,31.0,2.0,98.201,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,48.0,32.0,2.0,98.075,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,49.0,33.0,2.0,98.764,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,50.0,34.0,2.0,98.538,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,51.0,35.0,2.0,99.68,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,52.0,36.0,2.0,98.64,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,HAM,Lewis Hamilton,44,Mercedes,HARD,53.0,37.0,2.0,100.336,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,SOFT,1.0,4.0,1.0,133.978,False,,124
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,SOFT,6.0,9.0,1.0,102.104,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,SOFT,7.0,10.0,1.0,101.81,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,SOFT,8.0,11.0,1.0,101.234,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,SOFT,9.0,12.0,1.0,101.507,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,SOFT,10.0,13.0,1.0,101.582,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,SOFT,11.0,14.0,1.0,101.561,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,SOFT,12.0,15.0,1.0,101.501,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,SOFT,13.0,16.0,1.0,101.702,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,SOFT,14.0,17.0,1.0,102.114,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,SOFT,15.0,18.0,1.0,102.58,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,SOFT,16.0,19.0,1.0,100.371,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,SOFT,17.0,20.0,1.0,100.529,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,SOFT,18.0,21.0,1.0,100.859,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,SOFT,19.0,22.0,1.0,100.979,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,SOFT,20.0,23.0,1.0,105.629,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,21.0,1.0,2.0,120.325,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,22.0,2.0,2.0,99.755,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,23.0,3.0,2.0,99.872,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,24.0,4.0,2.0,99.721,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,25.0,5.0,2.0,99.646,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,26.0,6.0,2.0,100.736,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,27.0,7.0,2.0,100.065,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,28.0,8.0,2.0,100.555,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,29.0,9.0,2.0,100.022,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,30.0,10.0,2.0,99.976,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,31.0,11.0,2.0,99.913,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,32.0,12.0,2.0,99.67,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,33.0,13.0,2.0,99.119,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,34.0,14.0,2.0,99.376,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,35.0,15.0,2.0,99.284,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,36.0,16.0,2.0,99.447,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,37.0,17.0,2.0,98.964,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,38.0,18.0,2.0,99.404,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,39.0,19.0,2.0,99.176,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,40.0,20.0,2.0,98.811,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,41.0,21.0,2.0,98.746,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,42.0,22.0,2.0,98.67,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,43.0,23.0,2.0,111.194,False,,167
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,44.0,24.0,2.0,99.008,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,45.0,25.0,2.0,98.82,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,46.0,26.0,2.0,99.229,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,47.0,27.0,2.0,98.807,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,48.0,28.0,2.0,98.152,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,49.0,29.0,2.0,98.381,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,50.0,30.0,2.0,98.228,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,51.0,31.0,2.0,98.53,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,52.0,32.0,2.0,98.141,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,PER,Sergio Perez,11,Racing Point,HARD,53.0,33.0,2.0,99.505,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,SOFT,1.0,4.0,1.0,132.36,False,,124
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,SOFT,6.0,9.0,1.0,102.025,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,SOFT,7.0,10.0,1.0,101.799,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,SOFT,8.0,11.0,1.0,101.288,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,SOFT,9.0,12.0,1.0,101.432,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,SOFT,10.0,13.0,1.0,101.554,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,SOFT,11.0,14.0,1.0,101.534,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,SOFT,12.0,15.0,1.0,101.454,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,SOFT,13.0,16.0,1.0,101.77,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,SOFT,14.0,17.0,1.0,102.322,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,SOFT,15.0,18.0,1.0,109.549,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,16.0,1.0,2.0,122.018,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,17.0,2.0,2.0,101.173,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,18.0,3.0,2.0,101.271,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,19.0,4.0,2.0,101.816,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,20.0,5.0,2.0,100.816,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,21.0,6.0,2.0,100.746,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,22.0,7.0,2.0,100.902,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,23.0,8.0,2.0,100.884,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,24.0,9.0,2.0,101.112,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,25.0,10.0,2.0,101.123,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,26.0,11.0,2.0,100.75,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,27.0,12.0,2.0,101.513,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,28.0,13.0,2.0,100.022,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,29.0,14.0,2.0,100.121,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,30.0,15.0,2.0,99.658,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,31.0,16.0,2.0,99.5,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,32.0,17.0,2.0,99.539,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,33.0,18.0,2.0,99.374,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,34.0,19.0,2.0,99.105,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,35.0,20.0,2.0,99.286,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,36.0,21.0,2.0,99.332,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,37.0,22.0,2.0,99.224,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,38.0,23.0,2.0,99.019,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,39.0,24.0,2.0,99.336,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,40.0,25.0,2.0,99.224,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,41.0,26.0,2.0,98.935,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,42.0,27.0,2.0,100.934,False,,16
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,43.0,28.0,2.0,110.451,False,,671
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,44.0,29.0,2.0,99.207,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,45.0,30.0,2.0,98.777,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,46.0,31.0,2.0,98.946,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,47.0,32.0,2.0,98.611,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,48.0,33.0,2.0,99.014,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,49.0,34.0,2.0,100.431,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,50.0,35.0,2.0,99.197,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,51.0,36.0,2.0,98.916,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,52.0,37.0,2.0,99.536,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RIC,Daniel Ricciardo,3,Renault,HARD,53.0,38.0,2.0,97.886,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,1.0,1.0,1.0,137.783,False,,124
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,6.0,6.0,1.0,103.024,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,7.0,7.0,1.0,102.482,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,8.0,8.0,1.0,102.477,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,9.0,9.0,1.0,102.189,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,10.0,10.0,1.0,102.232,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,11.0,11.0,1.0,101.949,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,12.0,12.0,1.0,102.138,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,13.0,13.0,1.0,101.886,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,14.0,14.0,1.0,101.609,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,15.0,15.0,1.0,101.711,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,16.0,16.0,1.0,101.554,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,17.0,17.0,1.0,101.592,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,18.0,18.0,1.0,102.23,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,19.0,19.0,1.0,100.919,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,20.0,20.0,1.0,100.715,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,21.0,21.0,1.0,100.421,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,22.0,22.0,1.0,100.497,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,23.0,23.0,1.0,100.703,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,24.0,24.0,1.0,100.631,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,25.0,25.0,1.0,100.514,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,26.0,26.0,1.0,100.558,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,27.0,27.0,1.0,100.869,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,MEDIUM,28.0,28.0,1.0,105.93,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,29.0,1.0,2.0,120.849,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,30.0,2.0,2.0,99.742,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,31.0,3.0,2.0,99.948,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,32.0,4.0,2.0,99.697,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,33.0,5.0,2.0,99.552,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,34.0,6.0,2.0,99.636,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,35.0,7.0,2.0,99.786,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,36.0,8.0,2.0,99.969,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,37.0,9.0,2.0,99.576,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,38.0,10.0,2.0,99.779,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,39.0,11.0,2.0,99.854,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,40.0,12.0,2.0,99.827,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,41.0,13.0,2.0,99.924,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,42.0,14.0,2.0,106.239,False,,16
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,43.0,15.0,2.0,105.377,False,,671
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,44.0,16.0,2.0,99.419,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,45.0,17.0,2.0,99.427,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,46.0,18.0,2.0,99.545,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,47.0,19.0,2.0,99.053,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,48.0,20.0,2.0,99.466,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,49.0,21.0,2.0,99.699,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,50.0,22.0,2.0,99.639,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,51.0,23.0,2.0,100.194,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,52.0,24.0,2.0,99.652,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LEC,Charles Leclerc,16,Ferrari,HARD,53.0,25.0,2.0,101.355,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,SOFT,1.0,4.0,1.0,130.838,False,,124
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,SOFT,6.0,9.0,1.0,101.9,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,SOFT,7.0,10.0,1.0,101.742,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,SOFT,8.0,11.0,1.0,101.243,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,SOFT,9.0,12.0,1.0,101.536,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,SOFT,10.0,13.0,1.0,101.56,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,SOFT,11.0,14.0,1.0,101.484,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,SOFT,12.0,15.0,1.0,101.563,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,SOFT,13.0,16.0,1.0,101.32,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,SOFT,14.0,17.0,1.0,101.535,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,SOFT,15.0,18.0,1.0,101.422,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,SOFT,16.0,19.0,1.0,101.254,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,SOFT,17.0,20.0,1.0,101.571,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,SOFT,18.0,21.0,1.0,106.791,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,19.0,1.0,2.0,122.135,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,20.0,2.0,2.0,101.472,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,21.0,3.0,2.0,102.485,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,22.0,4.0,2.0,101.56,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,23.0,5.0,2.0,101.429,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,24.0,6.0,2.0,101.102,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,25.0,7.0,2.0,103.422,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,26.0,8.0,2.0,100.969,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,27.0,9.0,2.0,102.626,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,28.0,10.0,2.0,100.377,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,29.0,11.0,2.0,101.447,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,30.0,12.0,2.0,100.661,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,31.0,13.0,2.0,100.729,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,32.0,14.0,2.0,100.436,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,33.0,15.0,2.0,100.431,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,34.0,16.0,2.0,100.164,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,35.0,17.0,2.0,100.321,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,36.0,18.0,2.0,99.967,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,37.0,19.0,2.0,99.907,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,38.0,20.0,2.0,99.914,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,39.0,21.0,2.0,100.096,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,40.0,22.0,2.0,99.844,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,41.0,23.0,2.0,100.079,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,42.0,24.0,2.0,108.016,False,,167
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,43.0,25.0,2.0,103.124,False,,71
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,44.0,26.0,2.0,99.455,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,45.0,27.0,2.0,99.601,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,46.0,28.0,2.0,99.516,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,47.0,29.0,2.0,99.412,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,48.0,30.0,2.0,99.216,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,49.0,31.0,2.0,99.394,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,50.0,32.0,2.0,99.907,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,51.0,33.0,2.0,99.359,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,52.0,34.0,2.0,99.61,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,OCO,Esteban Ocon,31,Renault,HARD,53.0,35.0,2.0,100.986,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,1.0,1.0,1.0,142.921,False,,124
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,6.0,6.0,1.0,103.518,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,7.0,7.0,1.0,103.668,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,8.0,8.0,1.0,102.34,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,9.0,9.0,1.0,102.706,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,10.0,10.0,1.0,102.471,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,11.0,11.0,1.0,102.203,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,12.0,12.0,1.0,101.95,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,13.0,13.0,1.0,102.165,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,14.0,14.0,1.0,101.421,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,15.0,15.0,1.0,101.665,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,16.0,16.0,1.0,101.188,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,17.0,17.0,1.0,101.154,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,18.0,18.0,1.0,101.062,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,19.0,19.0,1.0,100.876,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,20.0,20.0,1.0,100.866,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,21.0,21.0,1.0,100.898,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,22.0,22.0,1.0,100.786,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,23.0,23.0,1.0,100.349,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,24.0,24.0,1.0,100.716,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,25.0,25.0,1.0,100.61,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,26.0,26.0,1.0,100.695,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,27.0,27.0,1.0,103.037,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,28.0,28.0,1.0,100.978,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,29.0,29.0,1.0,100.404,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,HARD,30.0,30.0,1.0,105.558,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,31.0,1.0,2.0,120.322,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,32.0,2.0,2.0,99.552,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,33.0,3.0,2.0,100.466,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,34.0,4.0,2.0,99.602,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,35.0,5.0,2.0,100.064,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,36.0,6.0,2.0,100.138,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,37.0,7.0,2.0,100.115,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,38.0,8.0,2.0,99.89,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,39.0,9.0,2.0,99.999,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,40.0,10.0,2.0,99.555,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,41.0,11.0,2.0,100.343,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,42.0,12.0,2.0,110.256,False,,167
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,43.0,13.0,2.0,100.588,False,,71
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,44.0,14.0,2.0,99.608,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,45.0,15.0,2.0,99.568,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,46.0,16.0,2.0,99.533,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,47.0,17.0,2.0,99.505,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,48.0,18.0,2.0,99.133,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,49.0,19.0,2.0,99.41,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,50.0,20.0,2.0,99.819,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,51.0,21.0,2.0,99.4,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,52.0,22.0,2.0,99.594,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,KVY,Daniil Kvyat,26,AlphaTauri,MEDIUM,53.0,23.0,2.0,100.806,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,1.0,4.0,1.0,136.746,False,,124
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,6.0,9.0,1.0,102.552,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,7.0,10.0,1.0,102.179,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,8.0,11.0,1.0,101.775,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,9.0,12.0,1.0,101.67,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,10.0,13.0,1.0,101.757,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,11.0,14.0,1.0,101.871,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,12.0,15.0,1.0,101.812,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,13.0,16.0,1.0,101.744,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,14.0,17.0,1.0,101.665,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,15.0,18.0,1.0,102.679,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,16.0,19.0,1.0,101.944,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,17.0,20.0,1.0,102.222,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,SOFT,18.0,21.0,1.0,107.7,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,19.0,1.0,2.0,122.181,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,20.0,2.0,2.0,100.952,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,21.0,3.0,2.0,101.557,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,22.0,4.0,2.0,101.621,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,23.0,5.0,2.0,101.378,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,24.0,6.0,2.0,101.386,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,25.0,7.0,2.0,101.198,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,26.0,8.0,2.0,101.868,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,27.0,9.0,2.0,102.358,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,28.0,10.0,2.0,100.811,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,29.0,11.0,2.0,100.931,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,30.0,12.0,2.0,101.367,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,31.0,13.0,2.0,101.64,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,32.0,14.0,2.0,101.24,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,33.0,15.0,2.0,101.553,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,34.0,16.0,2.0,99.764,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,35.0,17.0,2.0,99.781,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,36.0,18.0,2.0,100.054,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,37.0,19.0,2.0,99.8,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,38.0,20.0,2.0,99.514,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,39.0,21.0,2.0,99.607,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,40.0,22.0,2.0,99.188,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,41.0,23.0,2.0,99.275,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,HARD,42.0,24.0,2.0,110.146,False,,167
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,43.0,1.0,3.0,118.506,False,,71
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,44.0,2.0,3.0,99.945,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,45.0,3.0,3.0,102.46,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,46.0,4.0,3.0,101.314,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,47.0,5.0,3.0,98.704,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,48.0,6.0,3.0,98.555,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,49.0,7.0,3.0,99.373,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,50.0,8.0,3.0,97.231,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,51.0,9.0,3.0,99.328,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,52.0,10.0,3.0,98.886,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GAS,Pierre Gasly,10,AlphaTauri,MEDIUM,53.0,11.0,3.0,98.941,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,SOFT,1.0,5.0,1.0,155.76,False,,124
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,6.0,5.0,2.0,106.544,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,7.0,6.0,2.0,104.582,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,8.0,7.0,2.0,104.309,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,9.0,8.0,2.0,105.732,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,10.0,9.0,2.0,105.105,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,11.0,10.0,2.0,104.526,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,12.0,11.0,2.0,102.925,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,13.0,12.0,2.0,102.063,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,14.0,13.0,2.0,102.04,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,15.0,14.0,2.0,102.32,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,16.0,15.0,2.0,102.402,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,17.0,16.0,2.0,101.752,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,18.0,17.0,2.0,101.222,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,19.0,18.0,2.0,101.22,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,20.0,19.0,2.0,101.77,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,21.0,20.0,2.0,101.826,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,22.0,21.0,2.0,101.623,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,23.0,22.0,2.0,101.215,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,24.0,23.0,2.0,101.549,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,25.0,24.0,2.0,101.384,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,26.0,25.0,2.0,101.676,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,HARD,27.0,26.0,2.0,106.714,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,28.0,1.0,3.0,121.129,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,29.0,2.0,3.0,99.262,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,30.0,3.0,3.0,99.245,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,31.0,4.0,3.0,99.326,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,32.0,5.0,3.0,99.328,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,33.0,6.0,3.0,99.809,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,34.0,7.0,3.0,100.075,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,35.0,8.0,3.0,100.416,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,36.0,9.0,3.0,100.335,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,37.0,10.0,3.0,101.11,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,38.0,11.0,3.0,100.564,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,39.0,12.0,3.0,98.986,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,40.0,13.0,3.0,99.106,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,41.0,14.0,3.0,99.994,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,42.0,15.0,3.0,109.522,False,,167
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,43.0,16.0,3.0,99.615,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,44.0,17.0,3.0,101.219,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,45.0,18.0,3.0,104.113,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,46.0,19.0,3.0,100.924,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,47.0,20.0,3.0,100.795,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,48.0,21.0,3.0,98.521,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,49.0,22.0,3.0,98.511,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,50.0,23.0,3.0,100.144,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,51.0,24.0,3.0,98.377,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,52.0,25.0,3.0,98.646,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,ALB,Alexander Albon,23,Red Bull Racing,MEDIUM,53.0,26.0,3.0,98.429,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,1.0,1.0,1.0,144.259,False,,124
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,6.0,6.0,1.0,103.895,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,7.0,7.0,1.0,103.798,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,8.0,8.0,1.0,103.399,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,9.0,9.0,1.0,103.386,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,10.0,10.0,1.0,103.241,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,11.0,11.0,1.0,102.9,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,12.0,12.0,1.0,103.077,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,13.0,13.0,1.0,102.876,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,14.0,14.0,1.0,102.909,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,15.0,15.0,1.0,102.767,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,MEDIUM,16.0,16.0,1.0,106.901,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,17.0,1.0,2.0,121.186,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,18.0,2.0,2.0,102.303,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,19.0,3.0,2.0,101.592,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,20.0,4.0,2.0,101.24,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,21.0,5.0,2.0,101.14,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,22.0,6.0,2.0,100.888,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,23.0,7.0,2.0,101.333,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,24.0,8.0,2.0,101.46,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,25.0,9.0,2.0,101.065,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,26.0,10.0,2.0,101.565,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,27.0,11.0,2.0,101.377,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,28.0,12.0,2.0,101.34,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,29.0,13.0,2.0,101.037,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,30.0,14.0,2.0,101.194,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,31.0,15.0,2.0,101.227,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,32.0,16.0,2.0,101.131,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,33.0,17.0,2.0,101.298,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,34.0,18.0,2.0,100.817,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,35.0,19.0,2.0,101.16,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,36.0,20.0,2.0,101.406,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,37.0,21.0,2.0,102.814,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,38.0,22.0,2.0,101.265,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,39.0,23.0,2.0,101.947,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,40.0,24.0,2.0,100.951,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,41.0,25.0,2.0,100.44,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,42.0,26.0,2.0,112.26,False,,167
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,43.0,27.0,2.0,99.994,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,44.0,28.0,2.0,99.766,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,45.0,29.0,2.0,100.501,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,46.0,30.0,2.0,100.249,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,47.0,31.0,2.0,100.569,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,48.0,32.0,2.0,101.215,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,49.0,33.0,2.0,104.076,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,50.0,34.0,2.0,100.162,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,51.0,35.0,2.0,102.21,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GIO,Antonio Giovinazzi,99,Alfa Romeo Racing,HARD,52.0,36.0,2.0,100.095,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,1.0,1.0,1.0,139.727,False,,124
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,6.0,6.0,1.0,103.318,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,7.0,7.0,1.0,103.02,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,8.0,8.0,1.0,103.04,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,9.0,9.0,1.0,102.696,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,10.0,10.0,1.0,102.783,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,11.0,11.0,1.0,102.258,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,12.0,12.0,1.0,102.367,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,13.0,13.0,1.0,104.922,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,14.0,14.0,1.0,102.345,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,15.0,15.0,1.0,101.849,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,16.0,16.0,1.0,102.079,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,17.0,17.0,1.0,102.082,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,18.0,18.0,1.0,101.88,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,19.0,19.0,1.0,106.342,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,20.0,1.0,2.0,121.172,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,21.0,2.0,2.0,101.095,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,22.0,3.0,2.0,100.477,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,23.0,4.0,2.0,100.839,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,24.0,5.0,2.0,100.944,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,25.0,6.0,2.0,101.666,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,26.0,7.0,2.0,101.672,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,27.0,8.0,2.0,101.746,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,28.0,9.0,2.0,101.569,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,29.0,10.0,2.0,101.523,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,30.0,11.0,2.0,101.326,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,31.0,12.0,2.0,101.295,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,32.0,13.0,2.0,101.046,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,33.0,14.0,2.0,101.098,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,34.0,15.0,2.0,100.993,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,35.0,16.0,2.0,101.073,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,36.0,17.0,2.0,101.089,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,37.0,18.0,2.0,100.981,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,38.0,19.0,2.0,100.94,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,39.0,20.0,2.0,101.305,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,40.0,21.0,2.0,100.973,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,41.0,22.0,2.0,100.841,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,42.0,23.0,2.0,115.541,False,,167
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,43.0,24.0,2.0,100.803,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,44.0,25.0,2.0,100.891,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,45.0,26.0,2.0,100.824,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,46.0,27.0,2.0,100.626,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,47.0,28.0,2.0,101.604,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,48.0,29.0,2.0,105.463,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,49.0,30.0,2.0,101.757,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,50.0,31.0,2.0,101.021,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,51.0,32.0,2.0,101.768,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,52.0,33.0,2.0,100.38,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,1.0,1.0,1.0,145.469,False,,124
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,6.0,6.0,1.0,104.022,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,7.0,7.0,1.0,103.788,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,8.0,8.0,1.0,103.393,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,9.0,9.0,1.0,103.518,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,10.0,10.0,1.0,103.524,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,11.0,11.0,1.0,102.867,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,12.0,12.0,1.0,102.947,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,13.0,13.0,1.0,102.805,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,14.0,14.0,1.0,103.166,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,15.0,15.0,1.0,102.573,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,16.0,16.0,1.0,102.364,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,17.0,17.0,1.0,101.893,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,18.0,18.0,1.0,101.217,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,19.0,19.0,1.0,102.989,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,20.0,20.0,1.0,101.37,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,21.0,21.0,1.0,102.519,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,22.0,22.0,1.0,101.326,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,23.0,23.0,1.0,101.478,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,24.0,24.0,1.0,101.288,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,25.0,25.0,1.0,101.575,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,26.0,26.0,1.0,101.409,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,27.0,27.0,1.0,104.22,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,28.0,28.0,1.0,103.088,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,29.0,29.0,1.0,102.312,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,MEDIUM,30.0,30.0,1.0,106.978,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,HARD,31.0,1.0,2.0,120.843,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,HARD,32.0,2.0,2.0,100.03,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,HARD,33.0,3.0,2.0,100.062,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,HARD,34.0,4.0,2.0,100.096,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,HARD,35.0,5.0,2.0,100.412,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,HARD,36.0,6.0,2.0,100.319,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,HARD,37.0,7.0,2.0,100.487,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,HARD,38.0,8.0,2.0,100.581,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,HARD,39.0,9.0,2.0,100.942,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,HARD,40.0,10.0,2.0,102.12,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,HARD,41.0,11.0,2.0,102.145,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,HARD,42.0,12.0,2.0,112.694,False,,167
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,HARD,43.0,13.0,2.0,99.658,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,HARD,44.0,14.0,2.0,99.695,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,HARD,45.0,15.0,2.0,99.768,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,HARD,46.0,16.0,2.0,99.588,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,HARD,47.0,17.0,2.0,99.665,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,HARD,48.0,18.0,2.0,103.044,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,HARD,49.0,19.0,2.0,101.74,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,HARD,50.0,20.0,2.0,102.569,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,HARD,51.0,21.0,2.0,100.518,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,VET,Sebastian Vettel,5,Ferrari,HARD,52.0,22.0,2.0,100.393,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,1.0,1.0,1.0,150.825,False,,124
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,6.0,6.0,1.0,104.871,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,7.0,7.0,1.0,104.733,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,8.0,8.0,1.0,104.066,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,9.0,9.0,1.0,104.81,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,10.0,10.0,1.0,103.216,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,11.0,11.0,1.0,102.791,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,12.0,12.0,1.0,102.79,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,13.0,13.0,1.0,102.96,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,14.0,14.0,1.0,102.789,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,15.0,15.0,1.0,102.518,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,16.0,16.0,1.0,102.478,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,17.0,17.0,1.0,102.733,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,18.0,18.0,1.0,101.99,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,19.0,19.0,1.0,102.137,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,20.0,20.0,1.0,103.316,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,21.0,21.0,1.0,101.938,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,22.0,22.0,1.0,101.411,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,23.0,23.0,1.0,101.3,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,24.0,24.0,1.0,101.615,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,25.0,25.0,1.0,101.504,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,26.0,26.0,1.0,101.733,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,27.0,27.0,1.0,102.116,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,28.0,28.0,1.0,101.529,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,29.0,29.0,1.0,101.179,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,30.0,30.0,1.0,101.52,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,31.0,31.0,1.0,101.633,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,32.0,32.0,1.0,101.197,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,33.0,33.0,1.0,101.86,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,34.0,34.0,1.0,102.494,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,HARD,35.0,35.0,1.0,106.498,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,36.0,1.0,2.0,123.49,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,37.0,2.0,2.0,98.858,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,38.0,3.0,2.0,99.546,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,39.0,4.0,2.0,99.649,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,40.0,5.0,2.0,99.639,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,41.0,6.0,2.0,100.522,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,42.0,7.0,2.0,112.174,False,,167
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,43.0,8.0,2.0,99.292,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,44.0,9.0,2.0,99.391,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,45.0,10.0,2.0,101.687,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,46.0,11.0,2.0,99.943,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,47.0,12.0,2.0,99.517,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,48.0,13.0,2.0,99.745,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,49.0,14.0,2.0,101.032,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,50.0,15.0,2.0,102.601,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,51.0,16.0,2.0,100.518,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RAI,Kimi Räikkönen,7,Alfa Romeo Racing,MEDIUM,52.0,17.0,2.0,100.604,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,SOFT,1.0,4.0,1.0,156.87,False,,124
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,6.0,5.0,2.0,105.329,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,7.0,6.0,2.0,104.746,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,8.0,7.0,2.0,104.292,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,9.0,8.0,2.0,105.84,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,10.0,9.0,2.0,105.32,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,11.0,10.0,2.0,105.441,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,12.0,11.0,2.0,104.291,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,13.0,12.0,2.0,102.16,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,14.0,13.0,2.0,102.06,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,15.0,14.0,2.0,102.064,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,16.0,15.0,2.0,102.445,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,17.0,16.0,2.0,102.036,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,18.0,17.0,2.0,101.588,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,19.0,18.0,2.0,102.274,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,20.0,19.0,2.0,101.752,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,21.0,20.0,2.0,101.768,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,22.0,21.0,2.0,101.576,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,23.0,22.0,2.0,101.639,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,24.0,23.0,2.0,101.263,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,25.0,24.0,2.0,101.247,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,26.0,25.0,2.0,101.641,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,27.0,26.0,2.0,102.043,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,28.0,27.0,2.0,101.534,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,29.0,28.0,2.0,101.432,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,30.0,29.0,2.0,101.569,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,31.0,30.0,2.0,101.378,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,32.0,31.0,2.0,101.38,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,33.0,32.0,2.0,101.408,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,34.0,33.0,2.0,101.057,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,35.0,34.0,2.0,101.434,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,36.0,35.0,2.0,101.057,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,37.0,36.0,2.0,100.857,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,38.0,37.0,2.0,100.892,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,39.0,38.0,2.0,100.833,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,40.0,39.0,2.0,100.748,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,41.0,40.0,2.0,100.656,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,42.0,41.0,2.0,111.45,False,,167
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,43.0,42.0,2.0,100.393,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,44.0,43.0,2.0,101.453,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,45.0,44.0,2.0,102.519,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,46.0,45.0,2.0,101.753,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,HARD,47.0,46.0,2.0,110.419,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,MEDIUM,48.0,1.0,3.0,120.564,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,MEDIUM,49.0,2.0,3.0,103.137,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,MEDIUM,50.0,3.0,3.0,97.377,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,MEDIUM,51.0,4.0,3.0,97.819,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,NOR,Lando Norris,4,McLaren,MEDIUM,52.0,5.0,3.0,98.565,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,1.0,1.0,1.0,149.884,False,,124
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,6.0,6.0,1.0,104.627,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,7.0,7.0,1.0,104.713,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,8.0,8.0,1.0,104.318,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,9.0,9.0,1.0,106.594,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,10.0,10.0,1.0,104.343,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,11.0,11.0,1.0,103.836,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,12.0,12.0,1.0,103.161,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,13.0,13.0,1.0,103.244,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,14.0,14.0,1.0,103.041,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,15.0,15.0,1.0,102.764,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,16.0,16.0,1.0,106.367,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,MEDIUM,17.0,17.0,1.0,108.279,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,18.0,1.0,2.0,120.944,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,19.0,2.0,2.0,101.899,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,20.0,3.0,2.0,101.56,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,21.0,4.0,2.0,101.448,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,22.0,5.0,2.0,101.688,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,23.0,6.0,2.0,101.862,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,24.0,7.0,2.0,101.41,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,25.0,8.0,2.0,101.174,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,26.0,9.0,2.0,101.676,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,27.0,10.0,2.0,101.389,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,28.0,11.0,2.0,101.407,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,29.0,12.0,2.0,101.305,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,30.0,13.0,2.0,101.529,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,31.0,14.0,2.0,101.589,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,32.0,15.0,2.0,101.293,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,33.0,16.0,2.0,101.481,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,34.0,17.0,2.0,101.299,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,35.0,18.0,2.0,101.475,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,36.0,19.0,2.0,102.799,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,37.0,20.0,2.0,101.673,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,38.0,21.0,2.0,104.271,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,39.0,22.0,2.0,101.462,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,40.0,23.0,2.0,101.167,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,41.0,24.0,2.0,103.096,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,42.0,25.0,2.0,116.578,False,,167
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,43.0,26.0,2.0,104.252,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,44.0,27.0,2.0,101.395,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,45.0,28.0,2.0,101.483,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,46.0,29.0,2.0,103.277,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,47.0,30.0,2.0,101.044,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,48.0,31.0,2.0,101.288,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,49.0,32.0,2.0,101.076,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,50.0,33.0,2.0,101.479,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,51.0,34.0,2.0,103.297,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,LAT,Nicholas Latifi,6,Williams,HARD,52.0,35.0,2.0,102.574,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,1.0,1.0,1.0,141.405,False,,124
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,6.0,6.0,1.0,103.483,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,7.0,7.0,1.0,103.729,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,8.0,8.0,1.0,104.18,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,9.0,9.0,1.0,103.45,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,10.0,10.0,1.0,103.297,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,11.0,11.0,1.0,102.737,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,12.0,12.0,1.0,102.807,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,13.0,13.0,1.0,102.875,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,14.0,14.0,1.0,103.187,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,15.0,15.0,1.0,102.473,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,16.0,16.0,1.0,102.141,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,17.0,17.0,1.0,106.633,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,18.0,1.0,2.0,121.162,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,19.0,2.0,2.0,101.055,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,20.0,3.0,2.0,101.21,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,21.0,4.0,2.0,101.379,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,22.0,5.0,2.0,100.957,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,23.0,6.0,2.0,101.349,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,24.0,7.0,2.0,101.53,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,25.0,8.0,2.0,101.223,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,26.0,9.0,2.0,101.233,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,27.0,10.0,2.0,101.758,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,28.0,11.0,2.0,101.286,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,29.0,12.0,2.0,101.283,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,30.0,13.0,2.0,100.976,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,31.0,14.0,2.0,101.135,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,32.0,15.0,2.0,101.051,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,33.0,16.0,2.0,101.864,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,34.0,17.0,2.0,101.116,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,35.0,18.0,2.0,101.478,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,36.0,19.0,2.0,101.463,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,37.0,20.0,2.0,101.119,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,38.0,21.0,2.0,101.391,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,39.0,22.0,2.0,103.656,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,40.0,23.0,2.0,103.965,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,41.0,24.0,2.0,105.76,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,HARD,42.0,25.0,2.0,122.145,False,,167
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,43.0,1.0,3.0,123.67,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,44.0,2.0,3.0,99.614,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,45.0,3.0,3.0,99.891,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,46.0,4.0,3.0,101.287,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,47.0,5.0,3.0,101.542,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,48.0,6.0,3.0,102.962,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,49.0,7.0,3.0,102.262,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,50.0,8.0,3.0,100.051,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,51.0,9.0,3.0,100.009,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,GRO,Romain Grosjean,8,Haas F1 Team,MEDIUM,52.0,10.0,3.0,102.318,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,1.0,1.0,1.0,151.428,False,,124
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,HARD,6.0,5.0,2.0,105.675,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,HARD,7.0,6.0,2.0,104.64,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,HARD,8.0,7.0,2.0,104.309,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,HARD,9.0,8.0,2.0,105.727,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,HARD,10.0,9.0,2.0,106.291,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,HARD,11.0,10.0,2.0,103.797,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,HARD,12.0,11.0,2.0,105.342,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,HARD,13.0,12.0,2.0,105.606,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,HARD,14.0,13.0,2.0,109.162,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,15.0,3.0,3.0,121.947,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,16.0,4.0,3.0,102.349,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,17.0,5.0,3.0,101.396,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,18.0,6.0,3.0,101.875,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,19.0,7.0,3.0,101.95,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,20.0,8.0,3.0,102.05,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,21.0,9.0,3.0,102.02,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,22.0,10.0,3.0,101.505,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,23.0,11.0,3.0,101.322,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,24.0,12.0,3.0,101.629,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,25.0,13.0,3.0,101.329,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,26.0,14.0,3.0,101.382,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,27.0,15.0,3.0,101.913,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,28.0,16.0,3.0,102.122,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,29.0,17.0,3.0,101.301,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,30.0,18.0,3.0,101.296,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,31.0,19.0,3.0,101.66,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,32.0,20.0,3.0,101.15,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,33.0,21.0,3.0,101.243,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,34.0,22.0,3.0,101.49,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,35.0,23.0,3.0,101.317,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,36.0,24.0,3.0,103.786,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,37.0,25.0,3.0,101.513,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,38.0,26.0,3.0,101.635,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,39.0,27.0,3.0,101.411,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,40.0,28.0,3.0,102.744,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,41.0,29.0,3.0,101.182,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,42.0,30.0,3.0,115.713,False,,167
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,43.0,31.0,3.0,104.604,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,44.0,32.0,3.0,102.019,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,45.0,33.0,3.0,103.168,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,46.0,34.0,3.0,101.625,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,47.0,35.0,3.0,101.512,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,48.0,36.0,3.0,107.554,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,49.0,37.0,3.0,103.098,True,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,MEDIUM,50.0,38.0,3.0,107.257,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,SOFT,51.0,1.0,4.0,120.44,False,,1
+2020,10,Russian Grand Prix,Russian Grand Prix,FORMULA 1 VTB RUSSIAN GRAND PRIX 2020,Sochi,Russia,Sochi,2020-09-27,53,RUS,George Russell,63,Williams,SOFT,52.0,2.0,4.0,97.352,True,,1

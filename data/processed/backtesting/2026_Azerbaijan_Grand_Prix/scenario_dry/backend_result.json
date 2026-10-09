@@ -1,0 +1,1538 @@
+{
+  "analysis_mode": "PRE-RACE",
+  "training_cutoff_time_utc": "2026-09-26T00:00:00+00:00",
+  "selected_event_laps_used_for_training": false,
+  "training_rows": 178996,
+  "season": 2026,
+  "season_status": "current/partial season",
+  "race": "Azerbaijan Grand Prix",
+  "official_event_name": "FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026",
+  "event_round": 15,
+  "driver": "ALB",
+  "driver_name": "Alexander Albon",
+  "driver_number": "23",
+  "team": "Williams",
+  "circuit": "Baku",
+  "location": "Baku",
+  "country": "Azerbaijan",
+  "race_date": "2026-09-26",
+  "race_distance": 51,
+  "data_coverage": {
+    "available_seasons": [
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "season_status": "current/partial season",
+    "selected_race_rows": 0,
+    "selected_driver_rows": 7474,
+    "selected_season_races": 14,
+    "selected_season_drivers": 23,
+    "total_lap_rows": 178996
+  },
+  "inventory": {
+    "SOFT": 8,
+    "MEDIUM": 3,
+    "HARD": 2,
+    "INTERMEDIATE": 4,
+    "WET": 4
+  },
+  "inventory_source": "event nomination register",
+  "weather": {
+    "season": 2026,
+    "race": "Azerbaijan Grand Prix",
+    "circuit": "Baku",
+    "country": "Azerbaijan",
+    "date": "2026-09-26",
+    "condition": "DRY",
+    "impact": "LOW",
+    "temperature": null,
+    "precipitation": null,
+    "rain": null,
+    "precipitation_probability": null,
+    "wind_speed": null,
+    "wind_direction": null,
+    "dominant_weather": "User-selected scenario",
+    "source": "forecast unavailable; dry baseline assumption",
+    "weather_certainty": "LOW",
+    "reason": "DRY scenario generated from event-date forecast variables; scenario weights are heuristic and not calibrated.",
+    "hourly": []
+  },
+  "track_condition": "DRY",
+  "weather_impact": "LOW",
+  "weather_source": "forecast unavailable; dry baseline assumption",
+  "temperature": null,
+  "rain": null,
+  "precipitation": null,
+  "precipitation_probability": null,
+  "wind_speed": null,
+  "wind_direction": null,
+  "weather_reason": "DRY scenario generated from event-date forecast variables; scenario weights are heuristic and not calibrated.",
+  "recommended_strategy": {
+    "Season": 2026,
+    "Race": "Azerbaijan Grand Prix",
+    "Circuit": "Baku",
+    "Driver": "ALB",
+    "Team": "Williams",
+    "StrategyType": "1-STOP",
+    "Tyres": [
+      "SOFT",
+      "HARD"
+    ],
+    "Strategy": "SOFT → HARD",
+    "StintLengths": [
+      13,
+      38
+    ],
+    "PitLaps": [
+      13
+    ],
+    "FirstTyre": "SOFT",
+    "SecondTyre": "HARD",
+    "ThirdTyre": null,
+    "FourthTyre": null,
+    "PitLap1": 13,
+    "PitLap2": null,
+    "PitLap3": null,
+    "EstimatedRaceTime": 5609.808788939147,
+    "PredictedLapTimeTotal": 5587.808788939147,
+    "PitStopCost": 22.0,
+    "DegradationImpact": 22.205004099138456,
+    "WeatherAdjustment": 0.0,
+    "StrategyPenalty": 0.30308116360754467,
+    "StrategyScore": 5610.111870102754,
+    "TyreUsage": {
+      "SOFT": 1,
+      "HARD": 1
+    },
+    "PhysicalConstraintsSatisfied": true,
+    "MLSupportProbability": 0.3110414725851457,
+    "MLTransitionProbabilities": [
+      {
+        "HARD": 0.3110414725851457,
+        "INTERMEDIATE": 0.12069468042370557,
+        "MEDIUM": 0.36150345649685944,
+        "SOFT": 0.19447818863863892,
+        "WET": 0.012282201855650246
+      }
+    ],
+    "MaxTyreAgeUtilization": 0.8444444444444444,
+    "MaxSetUtilization": 0.5
+  },
+  "strategy": "SOFT → HARD",
+  "strategy_type": "1-STOP",
+  "pit_laps": [
+    13
+  ],
+  "stint_lengths": [
+    13,
+    38
+  ],
+  "stints": [
+    "13 laps on SOFT",
+    "38 laps on HARD"
+  ],
+  "tyre_usage": {
+    "SOFT": 1,
+    "HARD": 1
+  },
+  "physical_constraints_satisfied": true,
+  "estimated_race_time": 5609.808788939147,
+  "first_lap_prediction": 116.97736470423291,
+  "pit_stop_cost": 22.0,
+  "degradation_impact": 22.205004099138456,
+  "weather_adjustment_seconds": 0.0,
+  "strategy_penalty": 0.30308116360754467,
+  "strategy_score": 5610.111870102754,
+  "confidence_score": 48.488525983348005,
+  "confidence_level": "LOW",
+  "confidence_factors": {
+    "historical_data_support": 15.0,
+    "lap_model_quality": 1.69,
+    "strategy_margin": 4.31,
+    "weather_certainty": 3.0,
+    "strategy_robustness": 2.93,
+    "ml_transition_support": 1.56,
+    "unsupported_wet_model_adjustment": 0.0,
+    "top_distinct_sequence_gap_seconds": 0.689
+  },
+  "ml_predicted_tyre": "MEDIUM",
+  "ml_probabilities_fraction": {
+    "HARD": 0.31104147258514564,
+    "INTERMEDIATE": 0.12069468042370557,
+    "MEDIUM": 0.3615034564968595,
+    "SOFT": 0.19447818863863892,
+    "WET": 0.012282201855650246
+  },
+  "ml_probabilities": {
+    "HARD": 31.104,
+    "INTERMEDIATE": 12.069,
+    "MEDIUM": 36.15,
+    "SOFT": 19.448,
+    "WET": 1.228
+  },
+  "ml_explanation": "The classifier supports the recommendation with P(HARD)=0.311. It does not override inventory checks.",
+  "model_metrics": {
+    "lap_time": {
+      "available": true,
+      "training_rows": 178996,
+      "evaluation_method": "temporal season holdout when multiple seasons are available; final model refit on all available data",
+      "held_out_season": 2025,
+      "MAE": 7.097969095187867,
+      "RMSE": 10.502671035950312,
+      "R2": 0.3877351711677993,
+      "baseline": {
+        "name": "training-set historical median lap time",
+        "MAE": 10.646360074194297,
+        "RMSE": 13.46885040909608,
+        "R2": -0.006933629964742449
+      },
+      "test_rows": 25878,
+      "test_races": [
+        "Abu Dhabi Grand Prix",
+        "Australian Grand Prix",
+        "Austrian Grand Prix",
+        "Azerbaijan Grand Prix",
+        "Bahrain Grand Prix",
+        "Belgian Grand Prix",
+        "British Grand Prix",
+        "Canadian Grand Prix",
+        "Chinese Grand Prix",
+        "Dutch Grand Prix",
+        "Emilia Romagna Grand Prix",
+        "Hungarian Grand Prix",
+        "Italian Grand Prix",
+        "Japanese Grand Prix",
+        "Las Vegas Grand Prix",
+        "Mexico City Grand Prix",
+        "Miami Grand Prix",
+        "Monaco Grand Prix",
+        "Qatar Grand Prix",
+        "Saudi Arabian Grand Prix",
+        "Singapore Grand Prix",
+        "Spanish Grand Prix",
+        "São Paulo Grand Prix",
+        "United States Grand Prix"
+      ],
+      "test_groups": 1238,
+      "test_seasons": [
+        2025
+      ]
+    },
+    "pit_stop": {
+      "available": true,
+      "training_rows": 5201,
+      "classes": [
+        "HARD",
+        "INTERMEDIATE",
+        "MEDIUM",
+        "SOFT",
+        "WET"
+      ],
+      "evaluation_method": "temporal season holdout; final model refit on all available data",
+      "held_out_season": 2025,
+      "accuracy": 0.5699067909454061,
+      "baseline_accuracy": 0.4274300932090546,
+      "baseline_name": "most common training-set next tyre",
+      "confusion_matrix": [
+        [
+          207,
+          17,
+          48,
+          49,
+          0
+        ],
+        [
+          2,
+          10,
+          4,
+          14,
+          0
+        ],
+        [
+          35,
+          24,
+          130,
+          78,
+          1
+        ],
+        [
+          32,
+          3,
+          16,
+          81,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "confusion_matrix_labels": [
+        "HARD",
+        "INTERMEDIATE",
+        "MEDIUM",
+        "SOFT",
+        "WET"
+      ],
+      "test_rows": 751,
+      "test_races": [
+        "Abu Dhabi Grand Prix",
+        "Australian Grand Prix",
+        "Austrian Grand Prix",
+        "Azerbaijan Grand Prix",
+        "Bahrain Grand Prix",
+        "Belgian Grand Prix",
+        "British Grand Prix",
+        "Canadian Grand Prix",
+        "Chinese Grand Prix",
+        "Dutch Grand Prix",
+        "Emilia Romagna Grand Prix",
+        "Hungarian Grand Prix",
+        "Italian Grand Prix",
+        "Japanese Grand Prix",
+        "Las Vegas Grand Prix",
+        "Mexico City Grand Prix",
+        "Miami Grand Prix",
+        "Monaco Grand Prix",
+        "Qatar Grand Prix",
+        "Saudi Arabian Grand Prix",
+        "Singapore Grand Prix",
+        "Spanish Grand Prix",
+        "São Paulo Grand Prix",
+        "United States Grand Prix"
+      ],
+      "test_seasons": [
+        "2025"
+      ]
+    }
+  },
+  "lap_prediction_sources": {
+    "SOFT": "Random Forest + historical tyre profile",
+    "MEDIUM": "Random Forest + historical tyre profile",
+    "HARD": "Random Forest + historical tyre profile",
+    "INTERMEDIATE": "Random Forest + historical tyre profile",
+    "WET": "Random Forest + historical tyre profile"
+  },
+  "tyre_performance": [
+    {
+      "Compound": "SOFT",
+      "DataPoints": 27893,
+      "CompoundOffset": 0.262999999999991,
+      "OffsetSource": "historical",
+      "DegradationRate": 0.04506714323960671,
+      "DegradationSource": "historical",
+      "StintsUsed": 522,
+      "R2": 0.17205708700117628
+    },
+    {
+      "Compound": "MEDIUM",
+      "DataPoints": 66208,
+      "CompoundOffset": 0.2115000000000009,
+      "OffsetSource": "historical",
+      "DegradationRate": 0.03300439057572186,
+      "DegradationSource": "historical",
+      "StintsUsed": 1089,
+      "R2": 0.15429971964542566
+    },
+    {
+      "Compound": "HARD",
+      "DataPoints": 75362,
+      "CompoundOffset": -0.26500000000000057,
+      "OffsetSource": "historical",
+      "DegradationRate": 0.02658572820263034,
+      "DegradationSource": "historical",
+      "StintsUsed": 961,
+      "R2": 0.14446894931676724
+    },
+    {
+      "Compound": "INTERMEDIATE",
+      "DataPoints": 8887,
+      "CompoundOffset": 0.9609999999999985,
+      "OffsetSource": "historical",
+      "DegradationRate": 0.08515341096716642,
+      "DegradationSource": "historical",
+      "StintsUsed": 66,
+      "R2": 0.035570528403596924
+    },
+    {
+      "Compound": "WET",
+      "DataPoints": 646,
+      "CompoundOffset": 15.099249999999998,
+      "OffsetSource": "historical",
+      "DegradationRate": null,
+      "DegradationSource": "unavailable",
+      "StintsUsed": 1,
+      "R2": 0.008998085933399902
+    }
+  ],
+  "degradation_rates": {
+    "SOFT": 0.04506714323960671,
+    "MEDIUM": 0.03300439057572186,
+    "HARD": 0.02658572820263034,
+    "INTERMEDIATE": 0.08515341096716642,
+    "WET": 0.05
+  },
+  "strategy_comparison": [
+    {
+      "Season": 2026,
+      "Race": "Azerbaijan Grand Prix",
+      "Circuit": "Baku",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "SOFT",
+        "HARD"
+      ],
+      "Strategy": "SOFT → HARD",
+      "StintLengths": [
+        13,
+        38
+      ],
+      "PitLaps": [
+        13
+      ],
+      "FirstTyre": "SOFT",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 13,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5609.808788939147,
+      "PredictedLapTimeTotal": 5587.808788939147,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 22.205004099138456,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.30308116360754467,
+      "StrategyScore": 5610.111870102754,
+      "TyreUsage": {
+        "SOFT": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.3110414725851457,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.3110414725851457,
+          "INTERMEDIATE": 0.12069468042370557,
+          "MEDIUM": 0.36150345649685944,
+          "SOFT": 0.19447818863863892,
+          "WET": 0.012282201855650246
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8444444444444444,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Azerbaijan Grand Prix",
+      "Circuit": "Baku",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "2-STOP",
+      "Tyres": [
+        "SOFT",
+        "HARD",
+        "HARD"
+      ],
+      "Strategy": "SOFT → HARD → HARD",
+      "StintLengths": [
+        13,
+        17,
+        21
+      ],
+      "PitLaps": [
+        13,
+        30
+      ],
+      "FirstTyre": "SOFT",
+      "SecondTyre": "HARD",
+      "ThirdTyre": "HARD",
+      "FourthTyre": null,
+      "PitLap1": 13,
+      "PitLap2": 30.0,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5637.086841384323,
+      "PredictedLapTimeTotal": 5593.086841384323,
+      "PitStopCost": 44.0,
+      "DegradationImpact": 12.71389913079942,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.40708334801962337,
+      "StrategyScore": 5637.493924732343,
+      "TyreUsage": {
+        "SOFT": 1,
+        "HARD": 2
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.30361900565821875,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.3110414725851457,
+          "INTERMEDIATE": 0.12069468042370557,
+          "MEDIUM": 0.36150345649685944,
+          "SOFT": 0.19447818863863892,
+          "WET": 0.012282201855650246
+        },
+        {
+          "HARD": 0.29619653873129187,
+          "INTERMEDIATE": 0.10465053333660326,
+          "MEDIUM": 0.355998092701059,
+          "SOFT": 0.2327050852874457,
+          "WET": 0.010449749943599988
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.52,
+      "MaxSetUtilization": 1.0
+    }
+  ],
+  "top_feasible_strategies": [
+    {
+      "Season": 2026,
+      "Race": "Azerbaijan Grand Prix",
+      "Circuit": "Baku",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "SOFT",
+        "HARD"
+      ],
+      "Strategy": "SOFT → HARD",
+      "StintLengths": [
+        13,
+        38
+      ],
+      "PitLaps": [
+        13
+      ],
+      "FirstTyre": "SOFT",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 13,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5609.808788939147,
+      "PredictedLapTimeTotal": 5587.808788939147,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 22.205004099138456,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.30308116360754467,
+      "StrategyScore": 5610.111870102754,
+      "TyreUsage": {
+        "SOFT": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.3110414725851457,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.3110414725851457,
+          "INTERMEDIATE": 0.12069468042370557,
+          "MEDIUM": 0.36150345649685944,
+          "SOFT": 0.19447818863863892,
+          "WET": 0.012282201855650246
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8444444444444444,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Azerbaijan Grand Prix",
+      "Circuit": "Baku",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "SOFT",
+        "HARD"
+      ],
+      "Strategy": "SOFT → HARD",
+      "StintLengths": [
+        14,
+        37
+      ],
+      "PitLaps": [
+        14
+      ],
+      "FirstTyre": "SOFT",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 14,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5609.849512912892,
+      "PredictedLapTimeTotal": 5587.849512912892,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 21.80720501775602,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.28249796847918707,
+      "StrategyScore": 5610.132010881372,
+      "TyreUsage": {
+        "SOFT": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.31228446395717263,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.31228446395717263,
+          "INTERMEDIATE": 0.11648227632563173,
+          "MEDIUM": 0.3635436659662946,
+          "SOFT": 0.19540739189525072,
+          "WET": 0.012282201855650246
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8222222222222222,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Azerbaijan Grand Prix",
+      "Circuit": "Baku",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "SOFT",
+        "HARD"
+      ],
+      "Strategy": "SOFT → HARD",
+      "StintLengths": [
+        15,
+        36
+      ],
+      "PitLaps": [
+        15
+      ],
+      "FirstTyre": "SOFT",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 15,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5609.997713829209,
+      "PredictedLapTimeTotal": 5587.997713829209,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 21.481058807815817,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.2656404519340613,
+      "StrategyScore": 5610.263354281143,
+      "TyreUsage": {
+        "SOFT": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.31417013733125365,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.31417013733125365,
+          "INTERMEDIATE": 0.11417387897956004,
+          "MEDIUM": 0.364482130028079,
+          "SOFT": 0.19638748947455176,
+          "WET": 0.010786364186555552
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Azerbaijan Grand Prix",
+      "Circuit": "Baku",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "SOFT",
+        "HARD"
+      ],
+      "Strategy": "SOFT → HARD",
+      "StintLengths": [
+        12,
+        39
+      ],
+      "PitLaps": [
+        12
+      ],
+      "FirstTyre": "SOFT",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 12,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5610.218589929448,
+      "PredictedLapTimeTotal": 5588.218589929448,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 22.674456051963126,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.3273274652224988,
+      "StrategyScore": 5610.545917394671,
+      "TyreUsage": {
+        "SOFT": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.31061994063413056,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.31061994063413056,
+          "INTERMEDIATE": 0.12467389855696516,
+          "MEDIUM": 0.35739643566067614,
+          "SOFT": 0.1950275232925778,
+          "WET": 0.012282201855650246
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8666666666666667,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Azerbaijan Grand Prix",
+      "Circuit": "Baku",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "SOFT",
+        "HARD"
+      ],
+      "Strategy": "SOFT → HARD",
+      "StintLengths": [
+        11,
+        40
+      ],
+      "PitLaps": [
+        11
+      ],
+      "FirstTyre": "SOFT",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 11,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5610.352220510121,
+      "PredictedLapTimeTotal": 5588.352220510121,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 23.215560876230033,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.3557527794685217,
+      "StrategyScore": 5610.707973289589,
+      "TyreUsage": {
+        "SOFT": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.30954585054849154,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.30954585054849154,
+          "INTERMEDIATE": 0.1289470993145409,
+          "MEDIUM": 0.35322863674763266,
+          "SOFT": 0.19599621153368452,
+          "WET": 0.012282201855650246
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8888888888888888,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Azerbaijan Grand Prix",
+      "Circuit": "Baku",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "SOFT",
+        "HARD"
+      ],
+      "Strategy": "SOFT → HARD",
+      "StintLengths": [
+        16,
+        35
+      ],
+      "PitLaps": [
+        16
+      ],
+      "FirstTyre": "SOFT",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 16,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5610.542597635037,
+      "PredictedLapTimeTotal": 5588.542597635037,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 21.22656546931786,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.2533935383538143,
+      "StrategyScore": 5610.795991173391,
+      "TyreUsage": {
+        "SOFT": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.31417013733125365,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.31417013733125365,
+          "INTERMEDIATE": 0.11417387897956004,
+          "MEDIUM": 0.364482130028079,
+          "SOFT": 0.19638748947455176,
+          "WET": 0.010786364186555552
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7777777777777778,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Azerbaijan Grand Prix",
+      "Circuit": "Baku",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        15,
+        36
+      ],
+      "PitLaps": [
+        15
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 15,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5610.601949762617,
+      "PredictedLapTimeTotal": 5588.601949762617,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 20.214469778107908,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.19930871462873825,
+      "StrategyScore": 5610.801258477245,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5036893867750336,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5036893867750336,
+          "INTERMEDIATE": 0.08291642561340609,
+          "MEDIUM": 0.23414603035543347,
+          "SOFT": 0.1760814337262991,
+          "WET": 0.0031667235298276732
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Azerbaijan Grand Prix",
+      "Circuit": "Baku",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        14,
+        37
+      ],
+      "PitLaps": [
+        14
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 14,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5610.63590352764,
+      "PredictedLapTimeTotal": 5588.63590352764,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 20.709494525342496,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.21616623117386408,
+      "StrategyScore": 5610.852069758814,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5018037134009526,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5018037134009526,
+          "INTERMEDIATE": 0.08522482295947778,
+          "MEDIUM": 0.2332075662936491,
+          "SOFT": 0.17510133614699808,
+          "WET": 0.0046625611989223655
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8222222222222222,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Azerbaijan Grand Prix",
+      "Circuit": "Baku",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        13,
+        38
+      ],
+      "PitLaps": [
+        13
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 13,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5610.653545432043,
+      "PredictedLapTimeTotal": 5588.653545432043,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 21.264109391355436,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.23674942630222168,
+      "StrategyScore": 5610.890294858345,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5005607220289258,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5005607220289258,
+          "INTERMEDIATE": 0.08943722705755162,
+          "MEDIUM": 0.23116735682421394,
+          "SOFT": 0.1741721328903863,
+          "WET": 0.0046625611989223655
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8444444444444444,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Azerbaijan Grand Prix",
+      "Circuit": "Baku",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "SOFT",
+        "HARD"
+      ],
+      "Strategy": "SOFT → HARD",
+      "StintLengths": [
+        17,
+        34
+      ],
+      "PitLaps": [
+        17
+      ],
+      "FirstTyre": "SOFT",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 17,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5610.699009311532,
+      "PredictedLapTimeTotal": 5588.699009311532,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 21.043725002262132,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.24509724205751798,
+      "StrategyScore": 5610.944106553589,
+      "TyreUsage": {
+        "SOFT": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.31417013733125365,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.31417013733125365,
+          "INTERMEDIATE": 0.11417387897956004,
+          "MEDIUM": 0.364482130028079,
+          "SOFT": 0.19638748947455176,
+          "WET": 0.010786364186555552
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7555555555555555,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Azerbaijan Grand Prix",
+      "Circuit": "Baku",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        18,
+        33
+      ],
+      "PitLaps": [
+        18
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 18,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5610.772177434167,
+      "PredictedLapTimeTotal": 5588.772177434167,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 19.086936249074263,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.17441982573984932,
+      "StrategyScore": 5610.946597259907,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5036893867750336,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5036893867750336,
+          "INTERMEDIATE": 0.08291642561340609,
+          "MEDIUM": 0.23414603035543347,
+          "SOFT": 0.1760814337262991,
+          "WET": 0.0031667235298276732
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7333333333333333,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Azerbaijan Grand Prix",
+      "Circuit": "Baku",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "SOFT",
+        "HARD"
+      ],
+      "Strategy": "SOFT → HARD",
+      "StintLengths": [
+        18,
+        33
+      ],
+      "PitLaps": [
+        18
+      ],
+      "FirstTyre": "SOFT",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 18,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5610.739737325374,
+      "PredictedLapTimeTotal": 5588.739737325374,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 20.93253740664865,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.2407515630451723,
+      "StrategyScore": 5610.980488888419,
+      "TyreUsage": {
+        "SOFT": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.31417013733125365,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.31417013733125365,
+          "INTERMEDIATE": 0.11417387897956004,
+          "MEDIUM": 0.364482130028079,
+          "SOFT": 0.19638748947455176,
+          "WET": 0.010786364186555552
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7333333333333333,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Azerbaijan Grand Prix",
+      "Circuit": "Baku",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        19,
+        32
+      ],
+      "PitLaps": [
+        19
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 19,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5610.83090910559,
+      "PredictedLapTimeTotal": 5588.83090910559,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 18.830271976953085,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.17370871462873821,
+      "StrategyScore": 5611.004617820218,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5036893867750336,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5036893867750336,
+          "INTERMEDIATE": 0.08291642561340609,
+          "MEDIUM": 0.23414603035543347,
+          "SOFT": 0.1760814337262991,
+          "WET": 0.0031667235298276732
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7111111111111111,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Azerbaijan Grand Prix",
+      "Circuit": "Baku",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        17,
+        34
+      ],
+      "PitLaps": [
+        17
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 17,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5610.926269991962,
+      "PredictedLapTimeTotal": 5588.926269991962,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 19.403190639973793,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.178765504752195,
+      "StrategyScore": 5611.105035496714,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5036893867750336,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5036893867750336,
+          "INTERMEDIATE": 0.08291642561340609,
+          "MEDIUM": 0.23414603035543347,
+          "SOFT": 0.1760814337262991,
+          "WET": 0.0031667235298276732
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7555555555555555,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Azerbaijan Grand Prix",
+      "Circuit": "Baku",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        20,
+        31
+      ],
+      "PitLaps": [
+        20
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 20,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5610.936354843837,
+      "PredictedLapTimeTotal": 5588.936354843837,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 18.63319782361026,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.17370871462873821,
+      "StrategyScore": 5611.110063558465,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5036893867750336,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5036893867750336,
+          "INTERMEDIATE": 0.08291642561340609,
+          "MEDIUM": 0.23414603035543347,
+          "SOFT": 0.1760814337262991,
+          "WET": 0.0031667235298276732
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.6888888888888889,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Azerbaijan Grand Prix",
+      "Circuit": "Baku",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        16,
+        35
+      ],
+      "PitLaps": [
+        16
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 16,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5610.960456923673,
+      "PredictedLapTimeTotal": 5588.960456923673,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 19.779035149651676,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.18706180104849132,
+      "StrategyScore": 5611.1475187247215,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.5036893867750336,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.5036893867750336,
+          "INTERMEDIATE": 0.08291642561340609,
+          "MEDIUM": 0.23414603035543347,
+          "SOFT": 0.1760814337262991,
+          "WET": 0.0031667235298276732
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.7777777777777778,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Azerbaijan Grand Prix",
+      "Circuit": "Baku",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "SOFT",
+        "HARD"
+      ],
+      "Strategy": "SOFT → HARD",
+      "StintLengths": [
+        19,
+        32
+      ],
+      "PitLaps": [
+        19
+      ],
+      "FirstTyre": "SOFT",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 19,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5610.997511531867,
+      "PredictedLapTimeTotal": 5588.997511531867,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 20.893002682477395,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.24644045193406122,
+      "StrategyScore": 5611.243951983801,
+      "TyreUsage": {
+        "SOFT": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.31417013733125365,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.31417013733125365,
+          "INTERMEDIATE": 0.11417387897956004,
+          "MEDIUM": 0.364482130028079,
+          "SOFT": 0.19638748947455176,
+          "WET": 0.010786364186555552
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.76,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Azerbaijan Grand Prix",
+      "Circuit": "Baku",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        21,
+        30
+      ],
+      "PitLaps": [
+        21
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 21,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5611.091463379818,
+      "PredictedLapTimeTotal": 5589.091463379818,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 18.495713789045787,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.17539885001526156,
+      "StrategyScore": 5611.266862229833,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.4988604285278241,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.4988604285278241,
+          "INTERMEDIATE": 0.0841637844852999,
+          "MEDIUM": 0.23497052165119384,
+          "SOFT": 0.17749673389624998,
+          "WET": 0.004508531439432193
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.6666666666666666,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Azerbaijan Grand Prix",
+      "Circuit": "Baku",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        12,
+        39
+      ],
+      "PitLaps": [
+        12
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 12,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5611.132034983532,
+      "PredictedLapTimeTotal": 5589.132034983532,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 21.878314376146726,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.2615023652927194,
+      "StrategyScore": 5611.393537348825,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.4986916547192145,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.4986916547192145,
+          "INTERMEDIATE": 0.08959496111453942,
+          "MEDIUM": 0.23361855885845279,
+          "SOFT": 0.17343226410887091,
+          "WET": 0.0046625611989223655
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.8666666666666667,
+      "MaxSetUtilization": 0.5
+    },
+    {
+      "Season": 2026,
+      "Race": "Azerbaijan Grand Prix",
+      "Circuit": "Baku",
+      "Driver": "ALB",
+      "Team": "Williams",
+      "StrategyType": "1-STOP",
+      "Tyres": [
+        "MEDIUM",
+        "HARD"
+      ],
+      "Strategy": "MEDIUM → HARD",
+      "StintLengths": [
+        22,
+        29
+      ],
+      "PitLaps": [
+        22
+      ],
+      "FirstTyre": "MEDIUM",
+      "SecondTyre": "HARD",
+      "ThirdTyre": null,
+      "FourthTyre": null,
+      "PitLap1": 22,
+      "PitLap2": null,
+      "PitLap3": null,
+      "EstimatedRaceTime": 5611.230975509293,
+      "PredictedLapTimeTotal": 5589.230975509293,
+      "PitStopCost": 22.0,
+      "DegradationImpact": 18.417819873259667,
+      "WeatherAdjustment": 0.0,
+      "StrategyPenalty": 0.17539885001526156,
+      "StrategyScore": 5611.406374359308,
+      "TyreUsage": {
+        "MEDIUM": 1,
+        "HARD": 1
+      },
+      "PhysicalConstraintsSatisfied": true,
+      "MLSupportProbability": 0.4988604285278241,
+      "MLTransitionProbabilities": [
+        {
+          "HARD": 0.4988604285278241,
+          "INTERMEDIATE": 0.0841637844852999,
+          "MEDIUM": 0.23497052165119384,
+          "SOFT": 0.17749673389624998,
+          "WET": 0.004508531439432193
+        }
+      ],
+      "MaxTyreAgeUtilization": 0.6444444444444445,
+      "MaxSetUtilization": 0.5
+    }
+  ],
+  "feasible_candidate_count": 4850,
+  "pit_loss_seconds_per_stop": 22.0,
+  "reason": "SOFT → HARD is the lowest-scoring feasible plan in 4,850 simulated candidates for Alexander Albon at Baku in 2026. It uses 1 pit stop(s) with stint lengths 13, 38; the estimate includes a 22-second loss per stop and the fitted tyre degradation. The physical set, dry-compound-diversity, and tyre-age constraints passed before ranking. The next-ranked candidate scores 0.02 seconds higher. Lap-time estimates blend the Random Forest with historical tyre profiles.",
+  "dry_strategy": "SOFT → HARD",
+  "weather_strategy": "SOFT → HARD",
+  "preferred_strategy": "1-STOP",
+  "primary_tyre": "SOFT",
+  "backup_tyre": "HARD",
+  "pit_lap_1": 13,
+  "pit_lap_2": null,
+  "weather_pit_lap_1": 13,
+  "one_stop_strategy": "SOFT → HARD",
+  "one_stop_time": 5609.808788939147,
+  "two_stop_strategy": "SOFT → HARD → HARD",
+  "two_stop_time": 5637.086841384323,
+  "three_stop_strategy": null,
+  "three_stop_time": null,
+  "strategy_score_difference": 27.38205462958831
+}

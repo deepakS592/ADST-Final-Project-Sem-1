@@ -1,0 +1,924 @@
+Season,Round,Race,EventName,OfficialEventName,Circuit,Country,Location,EventDate,RaceLaps,Driver,DriverName,DriverNumber,Team,Compound,LapNumber,TyreLife,Stint,LapTime,IsAccurate,Deleted,TrackStatus
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,1.0,1.0,1.0,111.344,False,,124
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,2.0,2.0,1.0,141.257,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,3.0,3.0,1.0,137.39,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,5.0,5.0,1.0,86.724,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,6.0,6.0,1.0,86.502,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,7.0,7.0,1.0,86.376,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,8.0,8.0,1.0,86.28,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,9.0,9.0,1.0,86.2,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,10.0,10.0,1.0,85.973,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,11.0,11.0,1.0,85.808,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,12.0,12.0,1.0,85.903,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,13.0,13.0,1.0,85.843,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,14.0,14.0,1.0,85.812,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,15.0,15.0,1.0,85.698,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,16.0,16.0,1.0,85.605,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,17.0,17.0,1.0,85.46,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,18.0,18.0,1.0,85.079,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,19.0,19.0,1.0,85.309,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,20.0,20.0,1.0,84.896,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,21.0,21.0,1.0,84.97,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,22.0,22.0,1.0,84.908,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,23.0,23.0,1.0,84.856,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,24.0,24.0,1.0,84.825,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,25.0,25.0,1.0,84.702,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,26.0,26.0,1.0,84.775,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,27.0,27.0,1.0,84.72,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,28.0,28.0,1.0,84.719,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,29.0,29.0,1.0,84.861,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,30.0,30.0,1.0,85.127,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,31.0,31.0,1.0,84.413,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,32.0,32.0,1.0,84.427,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,33.0,33.0,1.0,84.35,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,34.0,34.0,1.0,84.468,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,35.0,35.0,1.0,92.307,False,,14
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,HARD,39.0,4.0,4.0,146.153,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,HARD,40.0,5.0,4.0,99.436,False,,1264
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,HARD,41.0,6.0,4.0,136.076,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,HARD,42.0,7.0,4.0,149.083,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,HARD,43.0,8.0,4.0,84.509,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,HARD,44.0,9.0,4.0,83.533,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,HARD,45.0,10.0,4.0,83.393,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,HARD,46.0,11.0,4.0,83.37,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,HARD,47.0,12.0,4.0,83.303,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,HARD,48.0,13.0,4.0,83.423,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,HARD,49.0,14.0,4.0,83.468,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,HARD,50.0,15.0,4.0,83.321,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,HARD,51.0,16.0,4.0,83.043,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,HARD,52.0,17.0,4.0,83.162,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,HARD,53.0,18.0,4.0,83.132,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,HARD,54.0,19.0,4.0,83.006,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,HARD,55.0,20.0,4.0,82.905,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,HARD,56.0,21.0,4.0,83.369,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,VER,Max Verstappen,1,Red Bull Racing,HARD,57.0,22.0,4.0,83.776,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,1.0,1.0,1.0,130.912,False,,124
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,2.0,2.0,1.0,143.807,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,3.0,3.0,1.0,139.509,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,4.0,4.0,1.0,133.088,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,5.0,5.0,1.0,91.425,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,6.0,6.0,1.0,88.418,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,7.0,7.0,1.0,87.738,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,8.0,8.0,1.0,87.881,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,9.0,9.0,1.0,87.58,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,10.0,10.0,1.0,88.272,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,11.0,11.0,1.0,88.181,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,12.0,12.0,1.0,87.827,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,13.0,13.0,1.0,86.986,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,14.0,14.0,1.0,87.011,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,15.0,15.0,1.0,86.737,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,16.0,16.0,1.0,86.7,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,17.0,17.0,1.0,86.514,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,18.0,18.0,1.0,86.694,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,19.0,19.0,1.0,86.696,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,20.0,20.0,1.0,86.369,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,21.0,21.0,1.0,86.946,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,22.0,22.0,1.0,86.453,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,23.0,23.0,1.0,86.298,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,24.0,24.0,1.0,86.235,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,25.0,25.0,1.0,86.174,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,26.0,26.0,1.0,86.12,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,27.0,27.0,1.0,85.969,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,28.0,28.0,1.0,85.533,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,29.0,29.0,1.0,85.588,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,30.0,30.0,1.0,85.344,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,31.0,31.0,1.0,85.335,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,32.0,32.0,1.0,85.331,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,33.0,33.0,1.0,85.122,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,34.0,34.0,1.0,85.622,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,MEDIUM,35.0,35.0,1.0,111.497,False,,14
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,HARD,36.0,1.0,2.0,142.16,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,HARD,37.0,2.0,3.0,141.304,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,HARD,38.0,3.0,4.0,146.588,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,HARD,39.0,4.0,4.0,139.279,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,HARD,40.0,5.0,4.0,108.476,False,,1264
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,HARD,41.0,6.0,4.0,133.101,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,HARD,42.0,7.0,4.0,143.945,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,HARD,43.0,8.0,4.0,87.285,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,HARD,44.0,9.0,4.0,85.421,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,HARD,45.0,10.0,4.0,84.508,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,HARD,46.0,11.0,4.0,84.238,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,HARD,47.0,12.0,4.0,84.097,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,HARD,48.0,13.0,4.0,84.156,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,HARD,49.0,14.0,4.0,83.942,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,HARD,50.0,15.0,4.0,83.866,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,HARD,51.0,16.0,4.0,83.904,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,HARD,52.0,17.0,4.0,84.057,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,HARD,53.0,18.0,4.0,83.984,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,HARD,54.0,19.0,4.0,84.082,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,HARD,55.0,20.0,4.0,84.158,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,HARD,56.0,21.0,4.0,83.705,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,GAS,Pierre Gasly,10,Alpine,HARD,57.0,22.0,4.0,83.937,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,1.0,1.0,1.0,120.204,False,,124
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,2.0,2.0,1.0,143.708,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,3.0,3.0,1.0,138.267,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,4.0,4.0,1.0,143.573,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,5.0,5.0,1.0,89.55,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,6.0,6.0,1.0,87.827,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,7.0,7.0,1.0,87.28,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,8.0,8.0,1.0,87.403,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,9.0,9.0,1.0,87.124,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,10.0,10.0,1.0,86.884,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,11.0,11.0,1.0,86.788,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,12.0,12.0,1.0,86.729,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,13.0,13.0,1.0,86.631,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,14.0,14.0,1.0,86.483,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,15.0,15.0,1.0,86.409,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,16.0,16.0,1.0,86.359,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,17.0,17.0,1.0,85.929,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,18.0,18.0,1.0,86.455,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,19.0,19.0,1.0,86.152,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,20.0,20.0,1.0,86.049,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,21.0,21.0,1.0,85.714,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,22.0,22.0,1.0,85.973,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,23.0,23.0,1.0,85.85,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,24.0,24.0,1.0,85.642,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,25.0,25.0,1.0,85.498,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,26.0,26.0,1.0,85.458,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,27.0,27.0,1.0,85.576,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,28.0,28.0,1.0,85.555,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,29.0,29.0,1.0,85.507,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,30.0,30.0,1.0,85.409,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,31.0,31.0,1.0,85.288,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,32.0,32.0,1.0,85.39,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,33.0,33.0,1.0,85.382,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,34.0,34.0,1.0,86.5,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,35.0,35.0,1.0,106.636,False,,14
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,HARD,36.0,1.0,2.0,143.642,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PER,Sergio Perez,11,Red Bull Racing,HARD,38.0,3.0,4.0,147.063,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,1.0,1.0,1.0,123.172,False,,124
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,2.0,2.0,1.0,142.483,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,3.0,3.0,1.0,138.215,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,4.0,4.0,1.0,142.341,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,5.0,5.0,1.0,92.386,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,6.0,6.0,1.0,89.044,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,7.0,7.0,1.0,88.057,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,8.0,8.0,1.0,88.028,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,9.0,9.0,1.0,87.644,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,10.0,10.0,1.0,88.156,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,11.0,11.0,1.0,88.253,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,12.0,12.0,1.0,87.906,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,13.0,13.0,1.0,87.721,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,14.0,14.0,1.0,86.802,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,15.0,15.0,1.0,86.7,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,16.0,16.0,1.0,86.867,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,17.0,17.0,1.0,86.687,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,18.0,18.0,1.0,86.744,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,19.0,19.0,1.0,86.629,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,20.0,20.0,1.0,86.855,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,21.0,21.0,1.0,86.37,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,22.0,22.0,1.0,86.481,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,23.0,23.0,1.0,86.268,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,24.0,24.0,1.0,86.377,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,25.0,25.0,1.0,86.245,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,26.0,26.0,1.0,86.3,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,27.0,27.0,1.0,86.085,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,28.0,28.0,1.0,85.941,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,29.0,29.0,1.0,85.957,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,30.0,30.0,1.0,85.893,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,31.0,31.0,1.0,85.724,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,32.0,32.0,1.0,85.649,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,33.0,33.0,1.0,85.797,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,34.0,34.0,1.0,87.518,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,35.0,35.0,1.0,115.097,False,,14
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,HARD,36.0,1.0,2.0,146.362,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,37.0,7.0,3.0,135.542,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,38.0,8.0,4.0,144.47,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,39.0,9.0,4.0,134.005,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,40.0,10.0,4.0,111.269,False,,1264
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,41.0,11.0,4.0,132.579,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,42.0,12.0,4.0,140.832,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,43.0,13.0,4.0,87.771,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,44.0,14.0,4.0,85.477,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,45.0,15.0,4.0,85.0,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,46.0,16.0,4.0,84.44,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,47.0,17.0,4.0,84.383,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,48.0,18.0,4.0,84.472,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,49.0,19.0,4.0,84.395,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,50.0,20.0,4.0,84.057,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,51.0,21.0,4.0,84.054,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,52.0,22.0,4.0,84.196,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,53.0,23.0,4.0,83.993,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,54.0,24.0,4.0,83.871,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,55.0,25.0,4.0,84.078,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,56.0,26.0,4.0,83.885,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,57.0,27.0,4.0,83.667,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,1.0,2.0,1.0,117.439,False,,124
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,2.0,3.0,1.0,142.075,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,3.0,4.0,1.0,137.488,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,4.0,5.0,1.0,147.558,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,5.0,6.0,1.0,89.202,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,6.0,7.0,1.0,87.556,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,7.0,8.0,1.0,86.887,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,8.0,9.0,1.0,87.19,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,9.0,10.0,1.0,86.914,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,10.0,11.0,1.0,86.435,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,11.0,12.0,1.0,86.381,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,12.0,13.0,1.0,86.027,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,13.0,14.0,1.0,86.272,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,14.0,15.0,1.0,85.66,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,15.0,16.0,1.0,85.805,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,16.0,17.0,1.0,85.93,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,17.0,18.0,1.0,85.835,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,18.0,19.0,1.0,85.496,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,19.0,20.0,1.0,85.647,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,20.0,21.0,1.0,85.467,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,21.0,22.0,1.0,85.323,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,22.0,23.0,1.0,85.036,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,23.0,24.0,1.0,85.189,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,24.0,25.0,1.0,85.133,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,25.0,26.0,1.0,84.801,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,26.0,27.0,1.0,85.099,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,27.0,28.0,1.0,84.749,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,28.0,29.0,1.0,84.909,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,29.0,30.0,1.0,84.653,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,30.0,31.0,1.0,85.168,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,31.0,32.0,1.0,84.71,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,32.0,33.0,1.0,84.679,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,33.0,34.0,1.0,84.9,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,34.0,35.0,1.0,84.754,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,MEDIUM,35.0,36.0,1.0,98.515,False,,14
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,HARD,38.0,3.0,4.0,148.35,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,HARD,39.0,4.0,4.0,142.818,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,HARD,40.0,5.0,4.0,101.971,False,,1264
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,HARD,41.0,6.0,4.0,135.614,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,HARD,42.0,7.0,4.0,147.125,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,HARD,43.0,8.0,4.0,85.854,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,HARD,44.0,9.0,4.0,84.012,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,HARD,45.0,10.0,4.0,83.937,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,HARD,46.0,11.0,4.0,83.665,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,HARD,47.0,12.0,4.0,83.722,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,HARD,48.0,13.0,4.0,83.68,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,HARD,49.0,14.0,4.0,83.47,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,HARD,50.0,15.0,4.0,83.405,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,HARD,51.0,16.0,4.0,83.332,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,HARD,52.0,17.0,4.0,83.72,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,HARD,53.0,18.0,4.0,83.242,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,HARD,54.0,19.0,4.0,83.454,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,HARD,55.0,20.0,4.0,83.498,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,HARD,56.0,21.0,4.0,83.356,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LEC,Charles Leclerc,16,Ferrari,HARD,57.0,22.0,4.0,83.559,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,STR,Lance Stroll,18,Aston Martin,MEDIUM,1.0,1.0,1.0,136.793,False,,124
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,STR,Lance Stroll,18,Aston Martin,HARD,2.0,1.0,2.0,147.099,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,STR,Lance Stroll,18,Aston Martin,HARD,3.0,2.0,2.0,136.92,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,STR,Lance Stroll,18,Aston Martin,HARD,4.0,3.0,2.0,129.1,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,STR,Lance Stroll,18,Aston Martin,HARD,5.0,4.0,2.0,93.523,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,STR,Lance Stroll,18,Aston Martin,HARD,6.0,5.0,2.0,90.935,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,STR,Lance Stroll,18,Aston Martin,HARD,7.0,6.0,2.0,96.33,False,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,STR,Lance Stroll,18,Aston Martin,HARD,8.0,1.0,3.0,140.862,False,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,1.0,1.0,1.0,129.92,False,,124
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,2.0,2.0,1.0,143.343,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,3.0,3.0,1.0,138.697,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,4.0,4.0,1.0,134.923,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,5.0,5.0,1.0,90.89,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,6.0,6.0,1.0,88.533,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,7.0,7.0,1.0,88.075,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,8.0,8.0,1.0,87.707,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,9.0,9.0,1.0,87.395,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,10.0,10.0,1.0,87.601,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,11.0,11.0,1.0,88.499,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,12.0,12.0,1.0,87.513,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,13.0,13.0,1.0,87.321,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,14.0,14.0,1.0,86.989,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,15.0,15.0,1.0,86.911,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,16.0,16.0,1.0,86.797,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,17.0,17.0,1.0,86.65,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,18.0,18.0,1.0,86.763,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,19.0,19.0,1.0,86.607,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,20.0,20.0,1.0,86.58,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,21.0,21.0,1.0,86.46,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,22.0,22.0,1.0,86.377,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,23.0,23.0,1.0,86.237,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,24.0,24.0,1.0,86.304,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,25.0,25.0,1.0,86.106,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,26.0,26.0,1.0,86.148,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,27.0,27.0,1.0,90.05,False,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,28.0,1.0,2.0,108.853,False,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,29.0,2.0,2.0,85.682,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,30.0,3.0,2.0,85.602,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,31.0,4.0,2.0,85.307,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,32.0,5.0,2.0,85.877,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,33.0,6.0,2.0,85.58,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,34.0,7.0,2.0,86.137,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,35.0,8.0,2.0,120.651,False,,14
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,36.0,9.0,2.0,125.526,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,37.0,10.0,3.0,130.074,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,38.0,11.0,4.0,146.776,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,39.0,12.0,4.0,132.021,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,40.0,13.0,4.0,113.041,False,,1264
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,41.0,14.0,4.0,133.54,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,42.0,15.0,4.0,138.376,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,43.0,16.0,4.0,89.014,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,44.0,17.0,4.0,86.26,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,45.0,18.0,4.0,85.784,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,46.0,19.0,4.0,85.823,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,47.0,20.0,4.0,85.542,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,48.0,21.0,4.0,85.56,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,49.0,22.0,4.0,84.603,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,50.0,23.0,4.0,84.584,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,51.0,24.0,4.0,84.558,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,52.0,25.0,4.0,84.593,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,53.0,26.0,4.0,84.482,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,54.0,27.0,4.0,84.431,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,55.0,28.0,4.0,84.259,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,56.0,29.0,4.0,84.741,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,57.0,30.0,4.0,84.827,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,1.0,1.0,1.0,127.75,False,,124
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,2.0,2.0,1.0,143.351,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,3.0,3.0,1.0,138.497,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,4.0,4.0,1.0,136.969,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,5.0,5.0,1.0,90.04,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,6.0,6.0,1.0,88.679,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,7.0,7.0,1.0,88.217,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,8.0,8.0,1.0,87.737,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,9.0,9.0,1.0,87.661,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,10.0,10.0,1.0,89.206,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,11.0,11.0,1.0,88.174,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,12.0,12.0,1.0,87.91,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,13.0,13.0,1.0,88.7,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,14.0,14.0,1.0,88.832,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,15.0,15.0,1.0,88.648,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,16.0,16.0,1.0,87.635,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,17.0,17.0,1.0,87.433,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,18.0,18.0,1.0,87.574,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,19.0,19.0,1.0,87.537,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,20.0,20.0,1.0,88.247,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,21.0,21.0,1.0,87.301,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,22.0,22.0,1.0,87.162,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,23.0,23.0,1.0,87.139,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,24.0,24.0,1.0,87.036,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,25.0,25.0,1.0,86.975,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,26.0,26.0,1.0,86.725,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,27.0,27.0,1.0,86.505,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,28.0,28.0,1.0,86.46,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,29.0,29.0,1.0,86.505,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,30.0,30.0,1.0,86.912,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,31.0,31.0,1.0,86.369,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,32.0,32.0,1.0,86.456,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,33.0,33.0,1.0,86.519,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,34.0,34.0,1.0,86.33,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,MEDIUM,35.0,35.0,1.0,121.862,False,,14
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,HARD,36.0,1.0,2.0,143.242,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,HARD,37.0,2.0,3.0,118.996,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,HARD,38.0,3.0,4.0,146.782,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,HARD,39.0,4.0,4.0,129.747,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,HARD,40.0,5.0,4.0,119.241,False,,1264
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,SOFT,41.0,1.0,5.0,134.978,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,SOFT,42.0,2.0,5.0,131.701,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,SOFT,43.0,3.0,5.0,88.689,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,SOFT,44.0,4.0,5.0,87.188,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,SOFT,45.0,5.0,5.0,86.798,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,SOFT,46.0,6.0,5.0,86.367,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,SOFT,47.0,7.0,5.0,86.144,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,SOFT,48.0,8.0,5.0,86.154,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,SOFT,49.0,9.0,5.0,86.28,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,SOFT,50.0,10.0,5.0,87.03,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,SOFT,51.0,11.0,5.0,87.301,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,SOFT,52.0,12.0,5.0,87.78,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,SOFT,53.0,13.0,5.0,87.383,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,SOFT,54.0,14.0,5.0,87.337,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,SOFT,55.0,15.0,5.0,87.433,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,SOFT,56.0,16.0,5.0,87.674,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,TSU,Yuki Tsunoda,22,RB,SOFT,57.0,17.0,5.0,87.125,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,1.0,1.0,1.0,135.384,False,,124
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,2.0,2.0,1.0,146.296,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,3.0,3.0,1.0,137.47,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,4.0,4.0,1.0,129.827,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,5.0,5.0,1.0,91.146,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,6.0,6.0,1.0,89.921,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,7.0,7.0,1.0,88.528,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,8.0,8.0,1.0,88.499,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,9.0,9.0,1.0,88.038,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,10.0,10.0,1.0,87.781,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,11.0,11.0,1.0,89.252,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,12.0,12.0,1.0,87.299,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,13.0,13.0,1.0,87.771,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,14.0,14.0,1.0,87.525,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,15.0,15.0,1.0,87.793,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,16.0,16.0,1.0,87.6,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,17.0,17.0,1.0,87.556,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,18.0,18.0,1.0,87.321,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,19.0,19.0,1.0,87.428,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,20.0,20.0,1.0,87.347,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,21.0,21.0,1.0,87.42,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,22.0,22.0,1.0,87.133,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,23.0,23.0,1.0,86.951,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,24.0,24.0,1.0,86.968,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,25.0,25.0,1.0,86.998,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,26.0,26.0,1.0,86.774,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,27.0,27.0,1.0,86.663,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,28.0,28.0,1.0,86.553,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,29.0,29.0,1.0,86.395,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,30.0,30.0,1.0,86.708,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,31.0,31.0,1.0,86.39,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,32.0,32.0,1.0,86.572,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,33.0,33.0,1.0,86.303,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,34.0,34.0,1.0,87.708,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,MEDIUM,35.0,35.0,1.0,121.917,False,,14
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,SOFT,36.0,1.0,2.0,142.739,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,SOFT,37.0,2.0,3.0,118.603,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,SOFT,38.0,3.0,4.0,146.301,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,SOFT,39.0,4.0,4.0,129.058,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,SOFT,40.0,5.0,4.0,114.034,False,,1264
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,SOFT,41.0,6.0,4.0,134.065,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,SOFT,42.0,7.0,4.0,136.483,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,SOFT,43.0,8.0,4.0,87.968,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,SOFT,44.0,9.0,4.0,86.524,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,SOFT,45.0,10.0,4.0,85.844,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,SOFT,46.0,11.0,4.0,85.701,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,SOFT,47.0,12.0,4.0,85.559,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,SOFT,48.0,13.0,4.0,85.751,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,SOFT,49.0,14.0,4.0,87.222,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,SOFT,50.0,15.0,4.0,86.781,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,SOFT,51.0,16.0,4.0,86.66,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,SOFT,52.0,17.0,4.0,87.51,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,SOFT,53.0,18.0,4.0,90.321,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,SOFT,54.0,19.0,4.0,88.167,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,SOFT,55.0,20.0,4.0,92.223,False,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ALB,Alexander Albon,23,Williams,SOFT,56.0,1.0,5.0,123.543,False,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,1.0,1.0,1.0,134.044,False,,124
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,2.0,2.0,1.0,145.861,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,3.0,3.0,1.0,138.331,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,4.0,4.0,1.0,130.295,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,5.0,5.0,1.0,90.517,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,6.0,6.0,1.0,89.258,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,7.0,7.0,1.0,88.056,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,8.0,8.0,1.0,88.369,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,9.0,9.0,1.0,88.078,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,10.0,10.0,1.0,87.643,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,11.0,11.0,1.0,88.164,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,12.0,12.0,1.0,87.973,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,13.0,13.0,1.0,87.659,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,14.0,14.0,1.0,87.909,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,15.0,15.0,1.0,87.024,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,16.0,16.0,1.0,87.165,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,17.0,17.0,1.0,87.247,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,18.0,18.0,1.0,87.02,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,19.0,19.0,1.0,86.888,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,20.0,20.0,1.0,86.609,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,21.0,21.0,1.0,86.594,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,22.0,22.0,1.0,86.428,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,23.0,23.0,1.0,86.126,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,24.0,24.0,1.0,86.397,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,25.0,25.0,1.0,86.191,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,26.0,26.0,1.0,85.928,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,27.0,27.0,1.0,85.912,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,28.0,28.0,1.0,85.916,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,29.0,29.0,1.0,85.979,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,30.0,30.0,1.0,85.849,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,31.0,31.0,1.0,85.899,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,32.0,32.0,1.0,85.849,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,33.0,33.0,1.0,85.659,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,34.0,34.0,1.0,85.937,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,MEDIUM,35.0,35.0,1.0,115.892,False,,14
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,36.0,1.0,2.0,146.39,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,37.0,2.0,3.0,129.664,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,38.0,3.0,4.0,146.432,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,39.0,4.0,4.0,135.506,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,40.0,5.0,4.0,112.918,False,,1264
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,41.0,6.0,4.0,132.403,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,42.0,7.0,4.0,139.983,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,43.0,8.0,4.0,88.011,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,44.0,9.0,4.0,86.299,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,45.0,10.0,4.0,85.141,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,46.0,11.0,4.0,85.067,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,47.0,12.0,4.0,84.936,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,48.0,13.0,4.0,84.906,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,49.0,14.0,4.0,84.667,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,50.0,15.0,4.0,84.428,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,51.0,16.0,4.0,84.425,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,52.0,17.0,4.0,84.403,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,53.0,18.0,4.0,84.294,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,54.0,19.0,4.0,84.239,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,55.0,20.0,4.0,84.038,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,56.0,21.0,4.0,83.978,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,ZHO,Guanyu Zhou,24,Kick Sauber,HARD,57.0,22.0,4.0,83.889,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,1.0,1.0,1.0,165.271,False,,124
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,2.0,1.0,2.0,127.072,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,3.0,2.0,2.0,131.639,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,4.0,3.0,2.0,126.08,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,5.0,4.0,2.0,91.557,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,6.0,5.0,2.0,90.682,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,7.0,6.0,2.0,88.652,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,8.0,7.0,2.0,88.418,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,9.0,8.0,2.0,87.812,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,10.0,9.0,2.0,88.286,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,11.0,10.0,2.0,88.031,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,12.0,11.0,2.0,88.229,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,13.0,12.0,2.0,87.908,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,14.0,13.0,2.0,87.442,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,15.0,14.0,2.0,87.232,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,16.0,15.0,2.0,86.897,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,17.0,16.0,2.0,87.481,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,18.0,17.0,2.0,87.808,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,19.0,18.0,2.0,87.227,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,20.0,19.0,2.0,87.237,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,21.0,20.0,2.0,87.327,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,22.0,21.0,2.0,87.214,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,23.0,22.0,2.0,87.3,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,24.0,23.0,2.0,87.021,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,25.0,24.0,2.0,86.647,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,26.0,25.0,2.0,86.568,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,27.0,26.0,2.0,86.737,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,28.0,27.0,2.0,86.235,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,29.0,28.0,2.0,86.334,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,30.0,29.0,2.0,86.595,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,31.0,30.0,2.0,90.767,False,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,32.0,1.0,3.0,106.841,False,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,33.0,2.0,3.0,85.767,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,34.0,3.0,3.0,94.689,False,,14
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,35.0,4.0,3.0,118.789,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,36.0,5.0,3.0,116.135,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,37.0,6.0,4.0,119.627,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,38.0,7.0,5.0,144.972,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,39.0,8.0,5.0,127.982,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,1.0,1.0,1.0,133.331,False,,124
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,2.0,2.0,1.0,145.297,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,3.0,3.0,1.0,138.396,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,4.0,4.0,1.0,130.85,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,5.0,5.0,1.0,97.35,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,6.0,6.0,1.0,89.548,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,7.0,7.0,1.0,88.165,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,8.0,8.0,1.0,88.159,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,9.0,9.0,1.0,87.66,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,10.0,10.0,1.0,88.209,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,11.0,11.0,1.0,88.037,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,12.0,12.0,1.0,88.11,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,13.0,13.0,1.0,88.275,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,14.0,14.0,1.0,87.703,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,15.0,15.0,1.0,87.692,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,16.0,16.0,1.0,87.514,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,17.0,17.0,1.0,87.411,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,18.0,18.0,1.0,87.362,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,19.0,19.0,1.0,87.288,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,20.0,20.0,1.0,87.111,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,21.0,21.0,1.0,87.143,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,22.0,22.0,1.0,87.107,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,23.0,23.0,1.0,86.886,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,24.0,24.0,1.0,87.019,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,25.0,25.0,1.0,87.045,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,26.0,26.0,1.0,86.915,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,27.0,27.0,1.0,86.56,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,28.0,28.0,1.0,86.533,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,29.0,29.0,1.0,86.446,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,30.0,30.0,1.0,86.642,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,31.0,31.0,1.0,86.242,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,32.0,32.0,1.0,86.264,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,33.0,33.0,1.0,86.219,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,34.0,34.0,1.0,86.194,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,MEDIUM,35.0,35.0,1.0,123.205,False,,14
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,HARD,37.0,2.0,3.0,115.739,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,HARD,38.0,3.0,4.0,134.297,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,HARD,39.0,4.0,4.0,125.703,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,HARD,40.0,5.0,4.0,120.647,False,,1264
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,SOFT,41.0,1.0,5.0,135.917,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,SOFT,42.0,2.0,5.0,128.759,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,SOFT,43.0,3.0,5.0,89.07,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,SOFT,44.0,4.0,5.0,87.6,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,SOFT,45.0,5.0,5.0,86.207,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,SOFT,46.0,6.0,5.0,86.076,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,SOFT,47.0,7.0,5.0,86.424,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,SOFT,48.0,8.0,5.0,86.369,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,SOFT,49.0,9.0,5.0,86.753,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,SOFT,50.0,10.0,5.0,87.637,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,SOFT,51.0,11.0,5.0,88.245,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,SOFT,52.0,12.0,5.0,87.612,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,SOFT,53.0,13.0,5.0,87.521,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,SOFT,54.0,14.0,5.0,87.69,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,SOFT,55.0,15.0,5.0,87.54,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,SOFT,56.0,16.0,5.0,86.327,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,LAW,Liam Lawson,30,RB,SOFT,57.0,17.0,5.0,86.522,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,1.0,1.0,1.0,113.635,False,,124
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,2.0,2.0,1.0,141.28,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,3.0,3.0,1.0,137.622,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,5.0,5.0,1.0,87.175,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,6.0,6.0,1.0,86.683,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,7.0,7.0,1.0,86.5,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,8.0,8.0,1.0,86.668,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,9.0,9.0,1.0,86.344,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,10.0,10.0,1.0,85.972,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,11.0,11.0,1.0,85.985,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,12.0,12.0,1.0,85.813,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,13.0,13.0,1.0,85.794,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,14.0,14.0,1.0,85.924,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,15.0,15.0,1.0,85.535,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,16.0,16.0,1.0,85.508,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,17.0,17.0,1.0,85.39,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,18.0,18.0,1.0,85.253,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,19.0,19.0,1.0,85.276,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,20.0,20.0,1.0,85.017,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,21.0,21.0,1.0,84.997,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,22.0,22.0,1.0,84.865,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,23.0,23.0,1.0,84.977,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,24.0,24.0,1.0,84.67,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,25.0,25.0,1.0,84.721,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,26.0,26.0,1.0,84.537,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,27.0,27.0,1.0,84.861,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,28.0,28.0,1.0,84.751,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,29.0,29.0,1.0,84.915,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,30.0,30.0,1.0,84.556,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,31.0,31.0,1.0,84.794,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,32.0,32.0,1.0,84.65,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,33.0,33.0,1.0,84.96,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,34.0,34.0,1.0,84.562,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,MEDIUM,35.0,35.0,1.0,93.654,False,,14
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,HARD,38.0,3.0,4.0,149.162,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,HARD,39.0,4.0,4.0,144.447,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,HARD,40.0,5.0,4.0,99.808,False,,1264
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,HARD,41.0,6.0,4.0,137.19,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,HARD,42.0,7.0,4.0,148.012,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,HARD,43.0,8.0,4.0,84.627,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,HARD,44.0,9.0,4.0,83.473,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,HARD,45.0,10.0,4.0,87.666,False,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,HARD,46.0,11.0,5.0,112.677,False,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,HARD,47.0,12.0,5.0,82.936,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,HARD,48.0,13.0,5.0,82.64,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,HARD,49.0,14.0,5.0,82.822,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,HARD,50.0,15.0,5.0,84.692,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,HARD,51.0,16.0,5.0,85.197,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,HARD,52.0,17.0,5.0,82.928,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,HARD,53.0,18.0,5.0,85.089,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,HARD,54.0,19.0,5.0,82.471,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,HARD,55.0,20.0,5.0,82.994,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,HARD,56.0,21.0,5.0,82.384,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,NOR,Lando Norris,4,McLaren,HARD,57.0,22.0,5.0,83.271,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,1.0,1.0,1.0,124.279,False,,124
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,2.0,2.0,1.0,144.03,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,3.0,3.0,1.0,138.93,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,4.0,4.0,1.0,139.017,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,5.0,5.0,1.0,89.473,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,6.0,6.0,1.0,88.084,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,7.0,7.0,1.0,87.872,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,8.0,8.0,1.0,87.043,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,9.0,9.0,1.0,86.983,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,10.0,10.0,1.0,87.154,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,11.0,11.0,1.0,86.816,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,12.0,12.0,1.0,86.532,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,13.0,13.0,1.0,86.514,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,14.0,14.0,1.0,86.558,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,15.0,15.0,1.0,86.8,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,16.0,16.0,1.0,86.585,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,17.0,17.0,1.0,86.276,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,18.0,18.0,1.0,86.47,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,19.0,19.0,1.0,86.323,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,20.0,20.0,1.0,86.383,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,21.0,21.0,1.0,86.026,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,22.0,22.0,1.0,86.189,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,23.0,23.0,1.0,85.618,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,24.0,24.0,1.0,85.734,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,25.0,25.0,1.0,85.378,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,26.0,26.0,1.0,85.326,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,27.0,27.0,1.0,85.227,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,28.0,28.0,1.0,86.598,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,29.0,29.0,1.0,85.25,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,30.0,30.0,1.0,85.396,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,31.0,31.0,1.0,85.272,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,32.0,32.0,1.0,85.253,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,33.0,33.0,1.0,85.713,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,34.0,34.0,1.0,136.781,False,,14
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,HARD,37.0,3.0,4.0,120.881,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,HARD,38.0,4.0,4.0,86.953,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,HARD,39.0,5.0,4.0,91.819,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,HARD,40.0,6.0,4.0,114.351,False,,1264
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,HARD,41.0,7.0,4.0,134.586,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,HARD,42.0,8.0,4.0,135.024,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,HARD,43.0,9.0,4.0,89.654,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,HARD,44.0,10.0,4.0,87.093,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,HARD,45.0,11.0,4.0,85.28,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,HARD,46.0,12.0,4.0,84.726,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,HARD,47.0,13.0,4.0,89.954,False,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,HARD,48.0,14.0,5.0,102.41,False,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,HARD,49.0,15.0,5.0,85.096,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,HARD,50.0,16.0,5.0,84.806,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,HARD,51.0,17.0,5.0,84.462,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,HARD,52.0,18.0,5.0,83.865,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,HARD,53.0,19.0,5.0,84.044,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,HARD,54.0,20.0,5.0,87.079,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,HARD,55.0,21.0,5.0,84.25,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,HARD,56.0,22.0,5.0,84.412,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,HAM,Lewis Hamilton,44,Mercedes,HARD,57.0,23.0,5.0,85.086,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,1.0,2.0,1.0,119.394,False,,124
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,2.0,3.0,1.0,143.307,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,3.0,4.0,1.0,137.994,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,4.0,5.0,1.0,144.487,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,5.0,6.0,1.0,89.355,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,6.0,7.0,1.0,87.634,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,7.0,8.0,1.0,87.189,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,8.0,9.0,1.0,87.142,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,9.0,10.0,1.0,86.794,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,10.0,11.0,1.0,86.466,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,11.0,12.0,1.0,86.378,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,12.0,13.0,1.0,86.223,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,13.0,14.0,1.0,86.126,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,14.0,15.0,1.0,86.19,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,15.0,16.0,1.0,86.112,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,16.0,17.0,1.0,85.887,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,17.0,18.0,1.0,85.873,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,18.0,19.0,1.0,85.568,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,19.0,20.0,1.0,85.852,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,20.0,21.0,1.0,85.559,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,21.0,22.0,1.0,85.369,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,22.0,23.0,1.0,85.353,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,23.0,24.0,1.0,85.373,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,24.0,25.0,1.0,85.279,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,25.0,26.0,1.0,85.331,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,26.0,27.0,1.0,85.13,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,27.0,28.0,1.0,84.859,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,28.0,29.0,1.0,85.144,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,29.0,30.0,1.0,84.982,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,30.0,31.0,1.0,85.235,True,,21
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,31.0,32.0,1.0,84.802,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,32.0,33.0,1.0,84.885,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,33.0,34.0,1.0,85.104,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,MEDIUM,34.0,35.0,1.0,107.696,False,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,HARD,35.0,1.0,2.0,148.364,False,,14
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,HARD,36.0,2.0,2.0,123.309,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,HARD,37.0,3.0,3.0,133.402,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,HARD,38.0,4.0,4.0,146.73,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,HARD,39.0,5.0,4.0,135.775,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,HARD,40.0,6.0,4.0,110.298,False,,1264
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,HARD,41.0,7.0,4.0,133.053,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,HARD,42.0,8.0,4.0,142.05,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,HARD,43.0,9.0,4.0,87.686,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,HARD,44.0,10.0,4.0,85.236,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,HARD,45.0,11.0,4.0,84.607,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,HARD,46.0,12.0,4.0,84.17,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,HARD,47.0,13.0,4.0,84.445,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,HARD,48.0,14.0,4.0,84.094,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,HARD,49.0,15.0,4.0,83.89,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,HARD,50.0,16.0,4.0,83.858,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,HARD,51.0,17.0,4.0,84.922,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,HARD,52.0,18.0,4.0,83.465,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,HARD,53.0,19.0,4.0,83.62,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,HARD,54.0,20.0,4.0,83.745,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,HARD,55.0,21.0,4.0,84.559,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,HARD,56.0,22.0,4.0,83.544,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,SAI,Carlos Sainz,55,Ferrari,HARD,57.0,23.0,4.0,83.905,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,MEDIUM,1.0,2.0,1.0,115.631,False,,124
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,MEDIUM,2.0,3.0,1.0,141.375,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,MEDIUM,3.0,4.0,1.0,137.726,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,MEDIUM,4.0,5.0,1.0,149.191,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,MEDIUM,5.0,6.0,1.0,87.948,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,MEDIUM,6.0,7.0,1.0,86.797,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,MEDIUM,7.0,8.0,1.0,86.561,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,MEDIUM,8.0,9.0,1.0,86.433,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,MEDIUM,9.0,10.0,1.0,86.498,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,MEDIUM,10.0,11.0,1.0,86.274,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,MEDIUM,11.0,12.0,1.0,86.214,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,MEDIUM,12.0,13.0,1.0,85.989,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,MEDIUM,13.0,14.0,1.0,86.182,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,MEDIUM,14.0,15.0,1.0,86.24,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,MEDIUM,15.0,16.0,1.0,85.958,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,MEDIUM,16.0,17.0,1.0,86.022,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,MEDIUM,17.0,18.0,1.0,85.749,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,MEDIUM,18.0,19.0,1.0,85.56,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,MEDIUM,19.0,20.0,1.0,85.546,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,MEDIUM,20.0,21.0,1.0,85.76,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,MEDIUM,21.0,22.0,1.0,85.721,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,MEDIUM,22.0,23.0,1.0,85.576,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,MEDIUM,23.0,24.0,1.0,89.591,False,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,24.0,1.0,2.0,113.294,False,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,25.0,2.0,2.0,85.514,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,26.0,3.0,2.0,85.973,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,27.0,4.0,2.0,86.155,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,28.0,5.0,2.0,85.867,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,29.0,6.0,2.0,85.916,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,30.0,7.0,2.0,86.145,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,31.0,8.0,2.0,85.811,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,32.0,9.0,2.0,85.583,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,33.0,10.0,2.0,85.498,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,34.0,11.0,2.0,85.972,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,35.0,12.0,2.0,114.752,False,,14
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,36.0,1.0,3.0,142.188,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,37.0,2.0,4.0,134.784,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,38.0,3.0,5.0,146.38,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,39.0,4.0,5.0,137.029,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,40.0,5.0,5.0,106.275,False,,1264
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,41.0,6.0,5.0,134.121,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,42.0,7.0,5.0,144.716,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,43.0,8.0,5.0,86.371,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,44.0,9.0,5.0,84.644,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,45.0,10.0,5.0,84.01,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,46.0,11.0,5.0,83.614,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,47.0,12.0,5.0,83.889,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,48.0,13.0,5.0,83.796,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,49.0,14.0,5.0,83.744,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,50.0,15.0,5.0,83.355,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,51.0,16.0,5.0,83.495,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,52.0,17.0,5.0,83.549,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,53.0,18.0,5.0,83.681,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,54.0,19.0,5.0,83.56,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,55.0,20.0,5.0,83.361,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,56.0,21.0,5.0,83.366,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,RUS,George Russell,63,Mercedes,HARD,57.0,22.0,5.0,83.477,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,1.0,1.0,1.0,132.082,False,,124
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,2.0,2.0,1.0,144.412,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,3.0,3.0,1.0,138.818,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,4.0,4.0,1.0,132.447,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,5.0,5.0,1.0,92.024,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,6.0,6.0,1.0,89.4,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,7.0,7.0,1.0,88.25,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,8.0,8.0,1.0,88.501,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,9.0,9.0,1.0,87.855,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,10.0,10.0,1.0,87.717,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,11.0,11.0,1.0,88.141,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,12.0,12.0,1.0,87.842,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,13.0,13.0,1.0,87.753,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,14.0,14.0,1.0,87.79,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,15.0,15.0,1.0,88.029,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,16.0,16.0,1.0,87.96,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,17.0,17.0,1.0,87.339,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,18.0,18.0,1.0,87.489,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,19.0,19.0,1.0,87.16,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,20.0,20.0,1.0,86.295,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,21.0,21.0,1.0,86.958,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,22.0,22.0,1.0,86.843,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,23.0,23.0,1.0,86.299,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,24.0,24.0,1.0,90.542,False,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,HARD,25.0,1.0,2.0,111.494,False,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,HARD,26.0,2.0,2.0,87.079,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,HARD,27.0,3.0,2.0,86.69,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,HARD,28.0,4.0,2.0,89.406,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,HARD,29.0,5.0,2.0,86.93,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,HARD,30.0,6.0,2.0,86.461,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,HARD,31.0,7.0,2.0,86.288,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,HARD,32.0,8.0,2.0,88.647,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,HARD,33.0,9.0,2.0,88.461,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,HARD,34.0,10.0,2.0,97.515,False,,14
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,37.0,10.0,4.0,120.033,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,38.0,11.0,4.0,88.199,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,39.0,12.0,4.0,89.792,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,40.0,13.0,4.0,117.286,False,,1264
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,41.0,14.0,4.0,132.721,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,42.0,15.0,4.0,133.244,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,43.0,16.0,4.0,88.386,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,44.0,17.0,4.0,86.779,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,45.0,18.0,4.0,86.296,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,46.0,19.0,4.0,86.979,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,47.0,20.0,4.0,85.92,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,48.0,21.0,4.0,85.548,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,49.0,22.0,4.0,85.639,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,50.0,23.0,4.0,85.881,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,51.0,24.0,4.0,86.352,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,52.0,25.0,4.0,86.927,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,53.0,26.0,4.0,85.533,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,54.0,27.0,4.0,86.568,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,55.0,28.0,4.0,86.051,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,56.0,29.0,4.0,86.311,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,BOT,Valtteri Bottas,77,Kick Sauber,MEDIUM,57.0,30.0,4.0,87.014,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,1.0,1.0,1.0,118.513,False,,124
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,2.0,2.0,1.0,142.913,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,3.0,3.0,1.0,137.707,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,4.0,4.0,1.0,145.626,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,5.0,5.0,1.0,87.603,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,6.0,6.0,1.0,87.02,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,7.0,7.0,1.0,86.851,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,8.0,8.0,1.0,86.322,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,9.0,9.0,1.0,86.464,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,10.0,10.0,1.0,86.169,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,11.0,11.0,1.0,86.382,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,12.0,12.0,1.0,86.288,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,13.0,13.0,1.0,86.035,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,14.0,14.0,1.0,86.056,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,15.0,15.0,1.0,85.803,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,16.0,16.0,1.0,86.474,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,17.0,17.0,1.0,86.031,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,18.0,18.0,1.0,85.703,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,19.0,19.0,1.0,85.494,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,20.0,20.0,1.0,85.517,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,21.0,21.0,1.0,85.366,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,22.0,22.0,1.0,85.218,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,23.0,23.0,1.0,85.634,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,24.0,24.0,1.0,84.75,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,25.0,25.0,1.0,84.897,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,26.0,26.0,1.0,84.898,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,27.0,27.0,1.0,84.727,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,28.0,28.0,1.0,84.71,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,29.0,29.0,1.0,84.761,True,,12
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,30.0,30.0,1.0,85.129,True,,21
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,31.0,31.0,1.0,84.883,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,32.0,32.0,1.0,84.894,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,33.0,33.0,1.0,85.284,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,MEDIUM,34.0,34.0,1.0,89.34,False,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,HARD,35.0,1.0,2.0,127.624,False,,14
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,HARD,36.0,2.0,2.0,128.14,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,HARD,38.0,4.0,4.0,148.28,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,HARD,39.0,5.0,4.0,141.872,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,HARD,40.0,6.0,4.0,103.378,False,,1264
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,HARD,41.0,7.0,4.0,135.81,False,,4
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,HARD,42.0,8.0,4.0,145.878,False,,41
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,HARD,43.0,9.0,4.0,86.116,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,HARD,44.0,10.0,4.0,84.301,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,HARD,45.0,11.0,4.0,83.98,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,HARD,46.0,12.0,4.0,83.909,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,HARD,47.0,13.0,4.0,83.568,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,HARD,48.0,14.0,4.0,83.624,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,HARD,49.0,15.0,4.0,83.623,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,HARD,50.0,16.0,4.0,83.625,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,HARD,51.0,17.0,4.0,83.218,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,HARD,52.0,18.0,4.0,83.478,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,HARD,53.0,19.0,4.0,83.523,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,HARD,54.0,20.0,4.0,83.37,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,HARD,55.0,21.0,4.0,83.269,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,HARD,56.0,22.0,4.0,83.313,True,,1
+2024,23,Qatar Grand Prix,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Lusail,Qatar,Lusail,2024-12-01,57,PIA,Oscar Piastri,81,McLaren,HARD,57.0,23.0,4.0,83.241,True,,1

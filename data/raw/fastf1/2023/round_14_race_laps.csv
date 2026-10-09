@@ -1,0 +1,949 @@
+Season,Round,Race,EventName,OfficialEventName,Circuit,Country,Location,EventDate,RaceLaps,Driver,DriverName,DriverNumber,Team,Compound,LapNumber,TyreLife,Stint,LapTime,IsAccurate,Deleted,TrackStatus
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,1.0,1.0,1.0,87.905,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,2.0,2.0,1.0,86.163,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,3.0,3.0,1.0,85.702,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,4.0,4.0,1.0,86.05,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,5.0,5.0,1.0,86.176,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,6.0,6.0,1.0,86.837,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,7.0,7.0,1.0,86.368,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,8.0,8.0,1.0,85.99,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,9.0,9.0,1.0,86.605,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,10.0,10.0,1.0,86.603,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,11.0,11.0,1.0,86.643,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,12.0,12.0,1.0,86.442,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,13.0,13.0,1.0,86.666,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,14.0,14.0,1.0,87.028,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,15.0,15.0,1.0,86.782,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,16.0,16.0,1.0,86.718,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,17.0,17.0,1.0,86.733,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,18.0,18.0,1.0,86.273,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,19.0,19.0,1.0,86.438,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,MEDIUM,20.0,20.0,1.0,90.849,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,21.0,1.0,2.0,105.66,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,22.0,2.0,2.0,85.885,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,23.0,3.0,2.0,86.159,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,24.0,4.0,2.0,86.327,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,25.0,5.0,2.0,85.914,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,26.0,6.0,2.0,85.786,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,27.0,7.0,2.0,85.501,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,28.0,8.0,2.0,85.434,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,29.0,9.0,2.0,85.471,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,30.0,10.0,2.0,85.398,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,31.0,11.0,2.0,85.502,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,32.0,12.0,2.0,85.41,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,33.0,13.0,2.0,85.24,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,34.0,14.0,2.0,85.683,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,35.0,15.0,2.0,85.815,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,36.0,16.0,2.0,85.598,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,37.0,17.0,2.0,85.683,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,38.0,18.0,2.0,85.585,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,39.0,19.0,2.0,85.486,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,40.0,20.0,2.0,85.901,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,41.0,21.0,2.0,85.779,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,42.0,22.0,2.0,85.912,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,43.0,23.0,2.0,85.994,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,44.0,24.0,2.0,85.751,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,45.0,25.0,2.0,85.916,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,46.0,26.0,2.0,86.185,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,47.0,27.0,2.0,86.137,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,48.0,28.0,2.0,87.235,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,49.0,29.0,2.0,87.907,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,50.0,30.0,2.0,88.393,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,VER,Max Verstappen,1,Red Bull Racing,HARD,51.0,31.0,2.0,87.525,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,1.0,1.0,1.0,95.974,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,2.0,2.0,1.0,88.696,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,3.0,3.0,1.0,87.916,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,4.0,4.0,1.0,87.472,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,5.0,5.0,1.0,87.694,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,6.0,6.0,1.0,87.324,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,7.0,7.0,1.0,87.21,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,8.0,8.0,1.0,87.24,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,9.0,9.0,1.0,87.366,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,10.0,10.0,1.0,92.034,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,HARD,11.0,4.0,2.0,110.17,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,HARD,12.0,5.0,2.0,87.431,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,HARD,13.0,6.0,2.0,87.368,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,HARD,14.0,7.0,2.0,87.348,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,HARD,15.0,8.0,2.0,87.363,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,HARD,16.0,9.0,2.0,87.088,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,HARD,17.0,10.0,2.0,87.076,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,HARD,18.0,11.0,2.0,87.053,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,HARD,19.0,12.0,2.0,87.136,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,HARD,20.0,13.0,2.0,87.035,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,HARD,21.0,14.0,2.0,87.706,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,HARD,22.0,15.0,2.0,87.219,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,HARD,23.0,16.0,2.0,87.454,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,HARD,24.0,17.0,2.0,87.06,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,HARD,25.0,18.0,2.0,87.223,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,HARD,26.0,19.0,2.0,87.59,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,HARD,27.0,20.0,2.0,87.189,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,HARD,28.0,21.0,2.0,87.521,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,HARD,29.0,22.0,2.0,87.383,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,HARD,30.0,23.0,2.0,87.658,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,HARD,31.0,24.0,2.0,92.204,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,32.0,1.0,3.0,106.72,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,33.0,2.0,3.0,86.439,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,34.0,3.0,3.0,86.877,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,35.0,4.0,3.0,86.903,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,36.0,5.0,3.0,86.797,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,37.0,6.0,3.0,86.499,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,38.0,7.0,3.0,86.357,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,39.0,8.0,3.0,86.736,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,40.0,9.0,3.0,86.548,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,41.0,10.0,3.0,86.346,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,42.0,11.0,3.0,86.425,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,43.0,12.0,3.0,85.921,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,44.0,13.0,3.0,85.758,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,45.0,14.0,3.0,86.297,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,46.0,15.0,3.0,86.292,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,47.0,16.0,3.0,86.144,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,48.0,17.0,3.0,86.288,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,49.0,18.0,3.0,87.913,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,GAS,Pierre Gasly,10,Alpine,MEDIUM,50.0,19.0,3.0,87.375,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,1.0,1.0,1.0,89.806,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,2.0,2.0,1.0,86.881,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,3.0,3.0,1.0,86.143,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,4.0,4.0,1.0,86.019,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,5.0,5.0,1.0,86.354,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,6.0,6.0,1.0,86.465,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,7.0,7.0,1.0,86.333,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,8.0,8.0,1.0,86.887,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,9.0,9.0,1.0,86.564,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,10.0,10.0,1.0,86.454,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,11.0,11.0,1.0,87.245,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,12.0,12.0,1.0,86.968,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,13.0,13.0,1.0,87.014,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,14.0,14.0,1.0,87.451,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,15.0,15.0,1.0,86.779,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,16.0,16.0,1.0,86.823,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,17.0,17.0,1.0,87.011,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,18.0,18.0,1.0,86.765,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,19.0,19.0,1.0,86.669,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,20.0,20.0,1.0,86.509,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,MEDIUM,21.0,21.0,1.0,90.934,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,22.0,1.0,2.0,105.228,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,23.0,2.0,2.0,85.564,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,24.0,3.0,2.0,85.759,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,25.0,4.0,2.0,86.005,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,26.0,5.0,2.0,85.884,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,27.0,6.0,2.0,86.456,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,28.0,7.0,2.0,85.584,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,29.0,8.0,2.0,85.606,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,30.0,9.0,2.0,85.757,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,31.0,10.0,2.0,86.415,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,32.0,11.0,2.0,85.88,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,33.0,12.0,2.0,86.02,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,34.0,13.0,2.0,85.948,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,35.0,14.0,2.0,85.651,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,36.0,15.0,2.0,85.627,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,37.0,16.0,2.0,85.757,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,38.0,17.0,2.0,85.584,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,39.0,18.0,2.0,85.522,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,40.0,19.0,2.0,85.626,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,41.0,20.0,2.0,86.719,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,42.0,21.0,2.0,86.539,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,43.0,22.0,2.0,86.624,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,44.0,23.0,2.0,86.329,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,45.0,24.0,2.0,86.573,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,46.0,25.0,2.0,85.598,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,47.0,26.0,2.0,86.476,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,48.0,27.0,2.0,86.108,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,49.0,28.0,2.0,86.006,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,50.0,29.0,2.0,86.385,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PER,Sergio Perez,11,Red Bull Racing,HARD,51.0,30.0,2.0,85.903,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,1.0,1.0,1.0,93.34,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,2.0,2.0,1.0,88.012,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,3.0,3.0,1.0,87.546,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,4.0,4.0,1.0,87.221,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,5.0,5.0,1.0,87.033,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,6.0,6.0,1.0,87.175,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,7.0,7.0,1.0,86.929,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,8.0,8.0,1.0,86.943,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,9.0,9.0,1.0,87.383,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,10.0,10.0,1.0,87.368,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,11.0,11.0,1.0,87.343,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,12.0,12.0,1.0,87.339,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,13.0,13.0,1.0,87.158,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,14.0,14.0,1.0,87.607,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,15.0,15.0,1.0,86.929,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,16.0,16.0,1.0,87.164,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,17.0,17.0,1.0,87.156,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,18.0,18.0,1.0,87.275,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,19.0,19.0,1.0,87.318,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,20.0,20.0,1.0,88.284,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,MEDIUM,21.0,21.0,1.0,92.377,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,22.0,4.0,2.0,107.272,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,23.0,5.0,2.0,86.849,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,24.0,6.0,2.0,86.949,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,25.0,7.0,2.0,86.899,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,26.0,8.0,2.0,86.792,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,27.0,9.0,2.0,86.666,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,28.0,10.0,2.0,86.723,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,29.0,11.0,2.0,86.997,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,30.0,12.0,2.0,86.915,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,31.0,13.0,2.0,86.848,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,32.0,14.0,2.0,86.747,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,33.0,15.0,2.0,86.769,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,34.0,16.0,2.0,86.563,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,35.0,17.0,2.0,86.517,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,36.0,18.0,2.0,86.457,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,37.0,19.0,2.0,86.38,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,38.0,20.0,2.0,86.574,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,39.0,21.0,2.0,86.707,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,40.0,22.0,2.0,86.61,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,41.0,23.0,2.0,86.815,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,42.0,24.0,2.0,86.403,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,43.0,25.0,2.0,86.105,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,44.0,26.0,2.0,86.155,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,45.0,27.0,2.0,86.277,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,46.0,28.0,2.0,86.453,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,47.0,29.0,2.0,86.912,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,48.0,30.0,2.0,87.183,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,49.0,31.0,2.0,87.245,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,50.0,32.0,2.0,87.36,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALO,Fernando Alonso,14,Aston Martin,HARD,51.0,33.0,2.0,87.395,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,1.0,1.0,1.0,88.755,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,2.0,2.0,1.0,86.312,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,3.0,3.0,1.0,85.719,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,4.0,4.0,1.0,86.025,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,5.0,5.0,1.0,86.266,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,6.0,6.0,1.0,86.483,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,7.0,7.0,1.0,86.473,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,8.0,8.0,1.0,85.972,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,9.0,9.0,1.0,86.678,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,10.0,10.0,1.0,86.787,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,11.0,11.0,1.0,86.838,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,12.0,12.0,1.0,86.694,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,13.0,13.0,1.0,86.557,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,14.0,14.0,1.0,86.94,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,15.0,15.0,1.0,87.314,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,16.0,16.0,1.0,87.155,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,17.0,17.0,1.0,87.67,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,18.0,18.0,1.0,87.498,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,19.0,19.0,1.0,87.702,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,MEDIUM,20.0,20.0,1.0,91.155,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,21.0,1.0,2.0,105.842,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,22.0,2.0,2.0,85.742,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,23.0,3.0,2.0,85.807,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,24.0,4.0,2.0,85.933,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,25.0,5.0,2.0,86.061,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,26.0,6.0,2.0,85.763,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,27.0,7.0,2.0,86.234,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,28.0,8.0,2.0,85.663,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,29.0,9.0,2.0,85.814,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,30.0,10.0,2.0,85.782,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,31.0,11.0,2.0,86.496,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,32.0,12.0,2.0,86.869,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,33.0,13.0,2.0,85.962,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,34.0,14.0,2.0,85.851,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,35.0,15.0,2.0,85.85,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,36.0,16.0,2.0,85.631,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,37.0,17.0,2.0,85.671,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,38.0,18.0,2.0,85.58,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,39.0,19.0,2.0,85.629,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,40.0,20.0,2.0,85.728,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,41.0,21.0,2.0,86.511,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,42.0,22.0,2.0,86.448,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,43.0,23.0,2.0,86.597,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,44.0,24.0,2.0,86.586,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,45.0,25.0,2.0,86.321,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,46.0,26.0,2.0,86.58,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,47.0,27.0,2.0,87.371,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,48.0,28.0,2.0,86.828,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,49.0,29.0,2.0,86.633,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,50.0,30.0,2.0,86.961,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LEC,Charles Leclerc,16,Ferrari,HARD,51.0,31.0,2.0,86.783,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,1.0,1.0,1.0,96.787,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,2.0,2.0,1.0,88.953,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,3.0,3.0,1.0,88.614,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,4.0,4.0,1.0,87.725,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,5.0,5.0,1.0,87.574,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,6.0,6.0,1.0,87.656,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,7.0,7.0,1.0,87.1,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,8.0,8.0,1.0,87.362,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,9.0,9.0,1.0,87.312,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,10.0,10.0,1.0,87.539,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,11.0,11.0,1.0,87.369,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,12.0,12.0,1.0,87.81,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,13.0,13.0,1.0,88.222,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,14.0,14.0,1.0,88.057,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,15.0,15.0,1.0,88.179,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,16.0,16.0,1.0,88.08,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,17.0,17.0,1.0,87.909,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,18.0,18.0,1.0,88.401,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,19.0,19.0,1.0,88.05,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,MEDIUM,20.0,20.0,1.0,93.026,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,21.0,5.0,2.0,108.851,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,22.0,6.0,2.0,86.742,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,23.0,7.0,2.0,86.968,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,24.0,8.0,2.0,87.34,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,25.0,9.0,2.0,87.176,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,26.0,10.0,2.0,87.259,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,27.0,11.0,2.0,86.675,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,28.0,12.0,2.0,87.085,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,29.0,13.0,2.0,86.809,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,30.0,14.0,2.0,86.924,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,31.0,15.0,2.0,86.617,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,32.0,16.0,2.0,86.832,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,33.0,17.0,2.0,87.121,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,34.0,18.0,2.0,87.298,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,35.0,19.0,2.0,86.97,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,36.0,20.0,2.0,87.096,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,37.0,21.0,2.0,87.373,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,38.0,22.0,2.0,86.902,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,39.0,23.0,2.0,86.904,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,40.0,24.0,2.0,87.072,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,41.0,25.0,2.0,86.916,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,42.0,26.0,2.0,87.067,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,43.0,27.0,2.0,91.134,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,44.0,28.0,2.0,88.214,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,45.0,29.0,2.0,88.336,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,46.0,30.0,2.0,87.153,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,47.0,31.0,2.0,87.267,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,48.0,32.0,2.0,87.59,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,49.0,33.0,2.0,89.467,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,STR,Lance Stroll,18,Aston Martin,HARD,50.0,34.0,2.0,90.865,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,MEDIUM,1.0,4.0,1.0,94.407,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,MEDIUM,2.0,5.0,1.0,88.08,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,MEDIUM,3.0,6.0,1.0,87.647,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,MEDIUM,4.0,7.0,1.0,87.389,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,MEDIUM,5.0,8.0,1.0,87.17,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,MEDIUM,6.0,9.0,1.0,87.135,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,MEDIUM,7.0,10.0,1.0,87.251,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,MEDIUM,8.0,11.0,1.0,87.233,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,MEDIUM,9.0,12.0,1.0,87.459,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,MEDIUM,10.0,13.0,1.0,87.685,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,MEDIUM,11.0,14.0,1.0,87.804,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,MEDIUM,12.0,15.0,1.0,88.694,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,MEDIUM,13.0,16.0,1.0,87.799,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,MEDIUM,14.0,17.0,1.0,93.074,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,15.0,4.0,2.0,107.389,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,16.0,5.0,2.0,86.84,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,17.0,6.0,2.0,87.0,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,18.0,7.0,2.0,86.906,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,19.0,8.0,2.0,87.165,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,20.0,9.0,2.0,87.28,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,21.0,10.0,2.0,87.363,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,22.0,11.0,2.0,87.465,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,23.0,12.0,2.0,87.149,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,24.0,13.0,2.0,87.104,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,25.0,14.0,2.0,87.165,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,26.0,15.0,2.0,87.021,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,27.0,16.0,2.0,87.253,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,28.0,17.0,2.0,87.546,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,29.0,18.0,2.0,87.545,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,30.0,19.0,2.0,87.121,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,31.0,20.0,2.0,87.461,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,32.0,21.0,2.0,87.522,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,33.0,22.0,2.0,87.293,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,34.0,23.0,2.0,87.219,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,35.0,24.0,2.0,87.233,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,36.0,25.0,2.0,87.142,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,37.0,26.0,2.0,87.292,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,38.0,27.0,2.0,87.103,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,39.0,28.0,2.0,87.137,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,40.0,29.0,2.0,87.64,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,41.0,30.0,2.0,87.18,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,42.0,31.0,2.0,87.176,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,43.0,32.0,2.0,89.385,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,44.0,33.0,2.0,87.686,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,45.0,34.0,2.0,87.502,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,46.0,35.0,2.0,87.709,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,47.0,36.0,2.0,87.622,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,48.0,37.0,2.0,87.44,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,49.0,38.0,2.0,87.742,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAR,Logan Sargeant,2,Williams,HARD,50.0,39.0,2.0,89.626,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,1.0,5.0,1.0,96.466,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,2.0,6.0,1.0,88.923,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,3.0,7.0,1.0,88.538,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,4.0,8.0,1.0,89.252,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,5.0,9.0,1.0,88.276,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,6.0,10.0,1.0,87.949,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,7.0,11.0,1.0,87.691,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,8.0,12.0,1.0,87.935,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,9.0,13.0,1.0,88.218,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,10.0,14.0,1.0,88.511,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,11.0,15.0,1.0,88.792,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,HARD,12.0,16.0,1.0,93.273,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,13.0,1.0,2.0,108.424,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,14.0,2.0,2.0,88.08,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,15.0,3.0,2.0,87.848,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,16.0,4.0,2.0,87.649,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,17.0,5.0,2.0,87.589,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,18.0,6.0,2.0,87.898,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,19.0,7.0,2.0,87.159,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,20.0,8.0,2.0,87.011,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,21.0,9.0,2.0,87.128,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,22.0,10.0,2.0,87.244,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,23.0,11.0,2.0,87.492,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,24.0,12.0,2.0,87.536,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,25.0,13.0,2.0,87.502,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,26.0,14.0,2.0,87.418,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,27.0,15.0,2.0,87.22,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,28.0,16.0,2.0,87.154,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,29.0,17.0,2.0,87.344,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,30.0,18.0,2.0,87.384,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,31.0,19.0,2.0,87.486,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,32.0,20.0,2.0,87.556,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,33.0,21.0,2.0,93.158,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,34.0,1.0,3.0,107.333,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,35.0,2.0,3.0,86.3,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,36.0,3.0,3.0,86.385,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,37.0,4.0,3.0,86.454,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,38.0,5.0,3.0,86.394,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,39.0,6.0,3.0,90.343,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,40.0,7.0,3.0,86.696,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,41.0,8.0,3.0,86.328,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,42.0,9.0,3.0,86.278,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,43.0,10.0,3.0,86.511,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,44.0,11.0,3.0,86.514,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,45.0,12.0,3.0,86.787,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,46.0,13.0,3.0,86.983,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,47.0,14.0,3.0,86.66,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,48.0,15.0,3.0,86.739,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,49.0,16.0,3.0,87.054,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,MAG,Kevin Magnussen,20,Haas F1 Team,MEDIUM,50.0,17.0,3.0,86.904,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,MEDIUM,1.0,4.0,1.0,90.785,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,MEDIUM,2.0,5.0,1.0,87.067,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,MEDIUM,3.0,6.0,1.0,86.578,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,MEDIUM,4.0,7.0,1.0,86.684,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,MEDIUM,5.0,8.0,1.0,86.868,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,MEDIUM,6.0,9.0,1.0,86.661,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,MEDIUM,7.0,10.0,1.0,86.773,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,MEDIUM,8.0,11.0,1.0,86.676,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,MEDIUM,9.0,12.0,1.0,86.838,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,MEDIUM,10.0,13.0,1.0,87.305,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,MEDIUM,11.0,14.0,1.0,87.389,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,MEDIUM,12.0,15.0,1.0,87.533,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,MEDIUM,13.0,16.0,1.0,87.676,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,MEDIUM,14.0,17.0,1.0,87.723,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,MEDIUM,15.0,18.0,1.0,92.301,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,16.0,4.0,2.0,107.605,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,17.0,5.0,2.0,87.087,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,18.0,6.0,2.0,86.893,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,19.0,7.0,2.0,87.308,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,20.0,8.0,2.0,86.853,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,21.0,9.0,2.0,86.601,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,22.0,10.0,2.0,86.833,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,23.0,11.0,2.0,86.913,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,24.0,12.0,2.0,86.748,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,25.0,13.0,2.0,86.898,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,26.0,14.0,2.0,87.049,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,27.0,15.0,2.0,86.735,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,28.0,16.0,2.0,87.024,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,29.0,17.0,2.0,86.977,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,30.0,18.0,2.0,86.94,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,31.0,19.0,2.0,86.735,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,32.0,20.0,2.0,86.432,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,33.0,21.0,2.0,86.389,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,34.0,22.0,2.0,86.579,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,35.0,23.0,2.0,86.545,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,36.0,24.0,2.0,86.981,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,37.0,25.0,2.0,86.831,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,38.0,26.0,2.0,87.37,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,39.0,27.0,2.0,86.802,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,40.0,28.0,2.0,86.572,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,41.0,29.0,2.0,86.675,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,42.0,30.0,2.0,86.708,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,43.0,31.0,2.0,86.913,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,44.0,32.0,2.0,87.725,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,45.0,33.0,2.0,86.907,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,46.0,34.0,2.0,87.252,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,47.0,35.0,2.0,88.491,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,48.0,36.0,2.0,86.822,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,49.0,37.0,2.0,87.569,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,50.0,38.0,2.0,87.197,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ALB,Alexander Albon,23,Williams,HARD,51.0,39.0,2.0,87.433,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,1.0,1.0,1.0,95.194,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,2.0,2.0,1.0,88.167,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,3.0,3.0,1.0,87.871,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,4.0,4.0,1.0,87.615,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,5.0,5.0,1.0,87.535,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,6.0,6.0,1.0,87.066,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,7.0,7.0,1.0,87.185,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,8.0,8.0,1.0,87.253,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,9.0,9.0,1.0,87.416,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,10.0,10.0,1.0,87.544,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,11.0,11.0,1.0,92.187,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,12.0,4.0,2.0,107.237,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,13.0,5.0,2.0,86.253,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,14.0,6.0,2.0,87.775,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,15.0,7.0,2.0,87.645,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,16.0,8.0,2.0,87.153,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,17.0,9.0,2.0,86.866,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,18.0,10.0,2.0,87.055,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,19.0,11.0,2.0,87.347,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,20.0,12.0,2.0,87.075,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,21.0,13.0,2.0,87.17,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,22.0,14.0,2.0,87.333,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,23.0,15.0,2.0,87.285,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,24.0,16.0,2.0,87.153,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,25.0,17.0,2.0,87.028,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,26.0,18.0,2.0,87.164,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,27.0,19.0,2.0,87.348,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,28.0,20.0,2.0,87.858,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,29.0,21.0,2.0,87.356,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,30.0,22.0,2.0,87.442,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,31.0,23.0,2.0,87.683,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,32.0,24.0,2.0,87.82,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,HARD,33.0,25.0,2.0,92.052,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,34.0,1.0,3.0,107.962,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,35.0,2.0,3.0,85.983,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,36.0,3.0,3.0,86.935,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,37.0,4.0,3.0,86.7,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,38.0,5.0,3.0,86.503,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,39.0,6.0,3.0,86.473,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,40.0,7.0,3.0,86.406,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,41.0,8.0,3.0,86.6,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,42.0,9.0,3.0,86.671,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,43.0,10.0,3.0,86.288,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,44.0,11.0,3.0,86.313,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,45.0,12.0,3.0,86.461,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,46.0,13.0,3.0,86.134,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,47.0,14.0,3.0,86.305,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,48.0,15.0,3.0,86.448,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,49.0,16.0,3.0,88.825,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,ZHO,Guanyu Zhou,24,Alfa Romeo,MEDIUM,50.0,17.0,3.0,86.768,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,1.0,4.0,1.0,92.72,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,2.0,5.0,1.0,87.92,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,3.0,6.0,1.0,87.36,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,4.0,7.0,1.0,87.2,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,5.0,8.0,1.0,87.035,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,6.0,9.0,1.0,87.169,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,7.0,10.0,1.0,87.465,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,8.0,11.0,1.0,88.059,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,9.0,12.0,1.0,87.481,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,10.0,13.0,1.0,87.563,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,11.0,14.0,1.0,88.055,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,12.0,15.0,1.0,89.091,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,13.0,16.0,1.0,88.009,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,14.0,17.0,1.0,92.658,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,15.0,6.0,2.0,109.615,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,16.0,7.0,2.0,86.99,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,17.0,8.0,2.0,86.988,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,18.0,9.0,2.0,87.294,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,19.0,10.0,2.0,87.312,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,20.0,11.0,2.0,87.078,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,21.0,12.0,2.0,87.161,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,22.0,13.0,2.0,87.074,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,23.0,14.0,2.0,87.29,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,24.0,15.0,2.0,87.143,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,25.0,16.0,2.0,87.229,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,26.0,17.0,2.0,87.344,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,27.0,18.0,2.0,87.08,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,28.0,19.0,2.0,87.6,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,29.0,20.0,2.0,87.466,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,30.0,21.0,2.0,87.775,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,31.0,22.0,2.0,87.547,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,32.0,23.0,2.0,87.976,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,33.0,24.0,2.0,88.575,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,34.0,25.0,2.0,87.991,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,35.0,26.0,2.0,87.945,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,36.0,27.0,2.0,88.084,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,37.0,28.0,2.0,88.006,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,38.0,29.0,2.0,88.969,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,HARD,39.0,30.0,2.0,92.506,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,40.0,4.0,3.0,106.37,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,41.0,5.0,3.0,86.395,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,42.0,6.0,3.0,86.102,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,43.0,7.0,3.0,86.234,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,44.0,8.0,3.0,86.459,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,45.0,9.0,3.0,86.723,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,46.0,10.0,3.0,86.645,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,47.0,11.0,3.0,86.251,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,48.0,12.0,3.0,86.359,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,49.0,13.0,3.0,85.981,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HUL,Nico Hulkenberg,27,Haas F1 Team,MEDIUM,50.0,14.0,3.0,85.894,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,1.0,1.0,1.0,95.655,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,2.0,2.0,1.0,88.667,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,3.0,3.0,1.0,87.822,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,4.0,4.0,1.0,87.582,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,5.0,5.0,1.0,87.385,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,6.0,6.0,1.0,87.306,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,7.0,7.0,1.0,87.117,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,8.0,8.0,1.0,87.309,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,9.0,9.0,1.0,87.396,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,10.0,10.0,1.0,87.607,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,11.0,11.0,1.0,87.738,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,12.0,12.0,1.0,88.232,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,13.0,13.0,1.0,87.855,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,14.0,14.0,1.0,88.091,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,15.0,15.0,1.0,88.197,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,16.0,16.0,1.0,88.249,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,17.0,17.0,1.0,88.111,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,18.0,18.0,1.0,88.261,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,19.0,19.0,1.0,88.216,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,20.0,20.0,1.0,89.387,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,21.0,21.0,1.0,88.489,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,22.0,22.0,1.0,88.884,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,23.0,23.0,1.0,89.474,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,MEDIUM,24.0,24.0,1.0,93.499,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,HARD,25.0,4.0,2.0,107.378,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,HARD,26.0,5.0,2.0,87.158,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,HARD,27.0,6.0,2.0,87.119,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,HARD,28.0,7.0,2.0,87.19,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,HARD,29.0,8.0,2.0,87.35,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,HARD,30.0,9.0,2.0,87.308,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,HARD,31.0,10.0,2.0,87.208,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,HARD,32.0,11.0,2.0,87.119,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,HARD,33.0,12.0,2.0,86.963,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,HARD,34.0,13.0,2.0,87.626,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,HARD,35.0,14.0,2.0,87.441,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,HARD,36.0,15.0,2.0,87.476,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,HARD,37.0,16.0,2.0,87.429,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,HARD,38.0,17.0,2.0,87.079,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,OCO,Esteban Ocon,31,Alpine,HARD,39.0,18.0,2.0,106.604,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,MEDIUM,1.0,1.0,1.0,91.513,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,MEDIUM,2.0,2.0,1.0,87.575,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,MEDIUM,3.0,3.0,1.0,87.105,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,MEDIUM,4.0,4.0,1.0,87.069,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,MEDIUM,5.0,5.0,1.0,87.142,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,MEDIUM,6.0,6.0,1.0,86.796,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,MEDIUM,7.0,7.0,1.0,86.864,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,MEDIUM,8.0,8.0,1.0,86.628,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,MEDIUM,9.0,9.0,1.0,86.893,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,MEDIUM,10.0,10.0,1.0,86.965,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,MEDIUM,11.0,11.0,1.0,87.066,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,MEDIUM,12.0,12.0,1.0,87.438,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,MEDIUM,13.0,13.0,1.0,87.359,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,MEDIUM,14.0,14.0,1.0,87.478,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,MEDIUM,15.0,15.0,1.0,87.796,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,MEDIUM,16.0,16.0,1.0,87.199,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,MEDIUM,17.0,17.0,1.0,87.597,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,MEDIUM,18.0,18.0,1.0,87.272,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,MEDIUM,19.0,19.0,1.0,87.28,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,MEDIUM,20.0,20.0,1.0,87.716,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,MEDIUM,21.0,21.0,1.0,87.718,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,MEDIUM,22.0,22.0,1.0,91.647,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,23.0,5.0,2.0,106.282,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,24.0,6.0,2.0,86.144,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,25.0,7.0,2.0,86.424,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,26.0,8.0,2.0,86.402,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,27.0,9.0,2.0,86.485,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,28.0,10.0,2.0,86.396,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,29.0,11.0,2.0,86.472,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,30.0,12.0,2.0,86.968,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,31.0,13.0,2.0,86.909,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,32.0,14.0,2.0,86.586,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,33.0,15.0,2.0,86.455,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,34.0,16.0,2.0,86.366,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,35.0,17.0,2.0,86.464,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,36.0,18.0,2.0,87.06,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,37.0,19.0,2.0,86.595,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,38.0,20.0,2.0,87.567,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,39.0,21.0,2.0,86.792,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,40.0,22.0,2.0,86.761,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,41.0,23.0,2.0,86.562,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,42.0,24.0,2.0,86.623,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,43.0,25.0,2.0,86.81,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,44.0,26.0,2.0,87.991,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,45.0,27.0,2.0,87.466,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,46.0,28.0,2.0,87.017,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,47.0,29.0,2.0,87.886,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,48.0,30.0,2.0,86.733,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,49.0,31.0,2.0,87.661,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,50.0,32.0,2.0,87.174,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,NOR,Lando Norris,4,McLaren,HARD,51.0,33.0,2.0,87.425,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,1.0,4.0,1.0,93.893,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,2.0,5.0,1.0,88.018,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,3.0,6.0,1.0,87.657,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,4.0,7.0,1.0,87.13,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,5.0,8.0,1.0,87.205,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,6.0,9.0,1.0,87.263,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,7.0,10.0,1.0,87.154,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,8.0,11.0,1.0,87.331,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,9.0,12.0,1.0,87.506,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,10.0,13.0,1.0,87.648,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,11.0,14.0,1.0,87.892,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,12.0,15.0,1.0,87.631,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,13.0,16.0,1.0,92.053,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,HARD,14.0,4.0,2.0,107.344,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,HARD,15.0,5.0,2.0,87.03,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,HARD,16.0,6.0,2.0,87.412,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,HARD,17.0,7.0,2.0,87.045,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,HARD,18.0,8.0,2.0,86.815,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,HARD,19.0,9.0,2.0,87.047,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,HARD,20.0,10.0,2.0,86.89,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,HARD,21.0,11.0,2.0,87.171,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,HARD,22.0,12.0,2.0,88.059,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,HARD,23.0,13.0,2.0,87.215,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,HARD,24.0,14.0,2.0,87.049,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,HARD,25.0,15.0,2.0,87.204,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,HARD,26.0,16.0,2.0,87.089,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,HARD,27.0,17.0,2.0,87.025,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,HARD,28.0,18.0,2.0,87.376,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,HARD,29.0,19.0,2.0,87.108,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,HARD,30.0,20.0,2.0,87.487,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,HARD,31.0,21.0,2.0,87.515,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,HARD,32.0,22.0,2.0,87.496,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,HARD,33.0,23.0,2.0,91.843,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,34.0,4.0,3.0,106.71,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,35.0,5.0,3.0,86.26,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,36.0,6.0,3.0,86.384,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,37.0,7.0,3.0,86.253,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,38.0,8.0,3.0,86.103,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,39.0,9.0,3.0,86.245,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,40.0,10.0,3.0,86.273,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,41.0,11.0,3.0,86.417,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,42.0,12.0,3.0,86.121,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,43.0,13.0,3.0,86.143,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,44.0,14.0,3.0,85.842,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,45.0,15.0,3.0,86.134,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,46.0,16.0,3.0,86.018,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,47.0,17.0,3.0,86.656,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,48.0,18.0,3.0,86.098,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,49.0,19.0,3.0,87.235,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,LAW,Liam Lawson,40,AlphaTauri,MEDIUM,50.0,20.0,3.0,86.436,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,1.0,4.0,1.0,92.011,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,2.0,5.0,1.0,87.837,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,3.0,6.0,1.0,87.289,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,4.0,7.0,1.0,87.233,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,5.0,8.0,1.0,87.015,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,6.0,9.0,1.0,86.711,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,7.0,10.0,1.0,86.7,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,8.0,11.0,1.0,86.643,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,9.0,12.0,1.0,86.756,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,10.0,13.0,1.0,86.995,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,11.0,14.0,1.0,87.119,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,12.0,15.0,1.0,87.194,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,13.0,16.0,1.0,87.292,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,14.0,17.0,1.0,87.526,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,15.0,18.0,1.0,88.085,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,16.0,19.0,1.0,87.24,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,17.0,20.0,1.0,87.585,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,18.0,21.0,1.0,87.279,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,19.0,22.0,1.0,87.449,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,20.0,23.0,1.0,87.83,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,21.0,24.0,1.0,87.399,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,22.0,25.0,1.0,87.154,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,23.0,26.0,1.0,87.267,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,24.0,27.0,1.0,87.311,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,25.0,28.0,1.0,87.791,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,26.0,29.0,1.0,87.407,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,HARD,27.0,30.0,1.0,93.228,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,28.0,1.0,2.0,105.978,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,29.0,2.0,2.0,85.582,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,30.0,3.0,2.0,86.34,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,31.0,4.0,2.0,86.404,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,32.0,5.0,2.0,86.62,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,33.0,6.0,2.0,86.584,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,34.0,7.0,2.0,86.236,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,35.0,8.0,2.0,86.016,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,36.0,9.0,2.0,86.205,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,37.0,10.0,2.0,85.999,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,38.0,11.0,2.0,86.274,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,39.0,12.0,2.0,86.249,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,40.0,13.0,2.0,86.658,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,41.0,14.0,2.0,87.501,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,42.0,15.0,2.0,86.216,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,43.0,16.0,2.0,86.093,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,44.0,17.0,2.0,87.152,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,45.0,18.0,2.0,86.333,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,46.0,19.0,2.0,87.193,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,47.0,20.0,2.0,86.12,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,48.0,21.0,2.0,85.815,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,49.0,22.0,2.0,85.888,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,50.0,23.0,2.0,85.927,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,HAM,Lewis Hamilton,44,Mercedes,MEDIUM,51.0,24.0,2.0,86.093,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,1.0,1.0,1.0,87.117,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,2.0,2.0,1.0,86.006,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,3.0,3.0,1.0,85.976,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,4.0,4.0,1.0,86.067,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,5.0,5.0,1.0,86.423,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,6.0,6.0,1.0,86.615,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,7.0,7.0,1.0,86.358,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,8.0,8.0,1.0,86.224,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,9.0,9.0,1.0,86.476,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,10.0,10.0,1.0,86.511,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,11.0,11.0,1.0,86.691,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,12.0,12.0,1.0,86.408,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,13.0,13.0,1.0,86.887,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,14.0,14.0,1.0,86.972,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,15.0,15.0,1.0,88.219,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,16.0,16.0,1.0,87.323,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,17.0,17.0,1.0,87.721,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,18.0,18.0,1.0,87.512,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,MEDIUM,19.0,19.0,1.0,91.912,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,20.0,1.0,2.0,106.762,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,21.0,2.0,2.0,86.146,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,22.0,3.0,2.0,85.558,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,23.0,4.0,2.0,85.793,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,24.0,5.0,2.0,85.902,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,25.0,6.0,2.0,86.005,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,26.0,7.0,2.0,85.836,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,27.0,8.0,2.0,86.165,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,28.0,9.0,2.0,85.77,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,29.0,10.0,2.0,85.72,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,30.0,11.0,2.0,85.501,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,31.0,12.0,2.0,85.718,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,32.0,13.0,2.0,85.896,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,33.0,14.0,2.0,85.926,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,34.0,15.0,2.0,86.126,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,35.0,16.0,2.0,85.789,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,36.0,17.0,2.0,86.011,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,37.0,18.0,2.0,85.886,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,38.0,19.0,2.0,85.705,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,39.0,20.0,2.0,85.924,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,40.0,21.0,2.0,86.122,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,41.0,22.0,2.0,86.738,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,42.0,23.0,2.0,86.479,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,43.0,24.0,2.0,86.589,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,44.0,25.0,2.0,86.43,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,45.0,26.0,2.0,86.632,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,46.0,27.0,2.0,87.303,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,47.0,28.0,2.0,87.096,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,48.0,29.0,2.0,86.8,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,49.0,30.0,2.0,86.77,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,50.0,31.0,2.0,86.776,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,SAI,Carlos Sainz,55,Ferrari,HARD,51.0,32.0,2.0,87.044,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,MEDIUM,1.0,1.0,1.0,89.339,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,MEDIUM,2.0,2.0,1.0,86.686,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,MEDIUM,3.0,3.0,1.0,86.176,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,MEDIUM,4.0,4.0,1.0,86.178,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,MEDIUM,5.0,5.0,1.0,86.249,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,MEDIUM,6.0,6.0,1.0,86.515,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,MEDIUM,7.0,7.0,1.0,86.515,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,MEDIUM,8.0,8.0,1.0,86.594,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,MEDIUM,9.0,9.0,1.0,86.71,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,MEDIUM,10.0,10.0,1.0,86.655,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,MEDIUM,11.0,11.0,1.0,87.186,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,MEDIUM,12.0,12.0,1.0,87.044,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,MEDIUM,13.0,13.0,1.0,86.962,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,MEDIUM,14.0,14.0,1.0,87.285,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,MEDIUM,15.0,15.0,1.0,87.005,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,MEDIUM,16.0,16.0,1.0,87.976,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,MEDIUM,17.0,17.0,1.0,87.055,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,MEDIUM,18.0,18.0,1.0,87.383,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,MEDIUM,19.0,19.0,1.0,91.885,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,20.0,4.0,2.0,105.31,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,21.0,5.0,2.0,86.456,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,22.0,6.0,2.0,86.715,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,23.0,7.0,2.0,86.605,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,24.0,8.0,2.0,86.671,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,25.0,9.0,2.0,86.32,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,26.0,10.0,2.0,86.41,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,27.0,11.0,2.0,86.184,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,28.0,12.0,2.0,86.284,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,29.0,13.0,2.0,86.14,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,30.0,14.0,2.0,85.966,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,31.0,15.0,2.0,86.148,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,32.0,16.0,2.0,86.059,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,33.0,17.0,2.0,86.161,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,34.0,18.0,2.0,86.119,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,35.0,19.0,2.0,86.189,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,36.0,20.0,2.0,86.371,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,37.0,21.0,2.0,85.997,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,38.0,22.0,2.0,85.847,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,39.0,23.0,2.0,86.21,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,40.0,24.0,2.0,86.244,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,41.0,25.0,2.0,86.614,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,42.0,26.0,2.0,86.335,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,43.0,27.0,2.0,86.426,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,44.0,28.0,2.0,86.336,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,45.0,29.0,2.0,86.394,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,46.0,30.0,2.0,86.458,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,47.0,31.0,2.0,86.64,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,48.0,32.0,2.0,86.287,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,49.0,33.0,2.0,86.375,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,50.0,34.0,2.0,86.874,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,RUS,George Russell,63,Mercedes,HARD,51.0,35.0,2.0,86.628,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,1.0,4.0,1.0,94.811,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,2.0,5.0,1.0,88.032,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,3.0,6.0,1.0,87.95,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,4.0,7.0,1.0,87.119,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,5.0,8.0,1.0,87.575,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,6.0,9.0,1.0,87.15,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,7.0,10.0,1.0,87.36,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,8.0,11.0,1.0,87.227,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,9.0,12.0,1.0,87.265,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,10.0,13.0,1.0,87.863,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,11.0,14.0,1.0,87.693,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,12.0,15.0,1.0,88.716,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,13.0,16.0,1.0,88.007,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,14.0,17.0,1.0,87.991,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,15.0,18.0,1.0,87.427,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,16.0,19.0,1.0,87.824,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,17.0,20.0,1.0,87.47,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,18.0,21.0,1.0,87.634,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,19.0,22.0,1.0,87.725,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,20.0,23.0,1.0,88.438,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,21.0,24.0,1.0,89.044,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,22.0,25.0,1.0,88.116,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,23.0,26.0,1.0,88.123,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,24.0,27.0,1.0,88.022,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,HARD,25.0,28.0,1.0,92.814,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,26.0,4.0,2.0,106.575,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,27.0,5.0,2.0,85.988,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,28.0,6.0,2.0,86.486,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,29.0,7.0,2.0,86.201,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,30.0,8.0,2.0,86.643,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,31.0,9.0,2.0,86.648,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,32.0,10.0,2.0,86.606,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,33.0,11.0,2.0,86.873,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,34.0,12.0,2.0,86.621,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,35.0,13.0,2.0,86.523,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,36.0,14.0,2.0,86.782,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,37.0,15.0,2.0,86.545,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,38.0,16.0,2.0,87.093,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,39.0,17.0,2.0,86.981,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,40.0,18.0,2.0,87.862,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,41.0,19.0,2.0,87.203,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,42.0,20.0,2.0,86.864,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,43.0,21.0,2.0,87.753,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,44.0,22.0,2.0,86.962,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,45.0,23.0,2.0,86.889,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,46.0,24.0,2.0,86.806,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,47.0,25.0,2.0,86.736,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,48.0,26.0,2.0,87.005,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,49.0,27.0,2.0,87.134,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,BOT,Valtteri Bottas,77,Alfa Romeo,MEDIUM,50.0,28.0,2.0,86.95,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,1.0,1.0,1.0,90.315,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,2.0,2.0,1.0,88.053,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,3.0,3.0,1.0,86.982,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,4.0,4.0,1.0,87.004,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,5.0,5.0,1.0,86.909,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,6.0,6.0,1.0,86.878,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,7.0,7.0,1.0,86.94,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,8.0,8.0,1.0,86.85,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,9.0,9.0,1.0,86.864,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,10.0,10.0,1.0,86.823,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,11.0,11.0,1.0,87.217,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,12.0,12.0,1.0,87.454,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,13.0,13.0,1.0,87.518,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,14.0,14.0,1.0,87.371,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,15.0,15.0,1.0,87.738,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,16.0,16.0,1.0,87.201,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,17.0,17.0,1.0,87.44,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,18.0,18.0,1.0,87.398,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,19.0,19.0,1.0,87.352,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,20.0,20.0,1.0,87.746,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,21.0,21.0,1.0,87.587,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,22.0,22.0,1.0,87.419,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,23.0,23.0,1.0,91.866,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,HARD,24.0,6.0,2.0,106.854,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,HARD,25.0,7.0,2.0,86.411,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,HARD,26.0,8.0,2.0,86.287,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,HARD,27.0,9.0,2.0,86.248,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,HARD,28.0,10.0,2.0,86.611,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,HARD,29.0,11.0,2.0,86.132,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,HARD,30.0,12.0,2.0,87.074,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,HARD,31.0,13.0,2.0,86.86,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,HARD,32.0,14.0,2.0,86.746,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,HARD,33.0,15.0,2.0,86.445,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,HARD,34.0,16.0,2.0,86.717,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,HARD,35.0,17.0,2.0,86.277,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,HARD,36.0,18.0,2.0,86.639,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,HARD,37.0,19.0,2.0,86.806,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,HARD,38.0,20.0,2.0,87.146,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,HARD,39.0,21.0,2.0,87.166,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,HARD,40.0,22.0,2.0,86.853,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,HARD,41.0,23.0,2.0,94.52,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,42.0,4.0,3.0,113.593,False,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,43.0,5.0,3.0,85.072,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,44.0,6.0,3.0,85.69,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,45.0,7.0,3.0,86.139,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,46.0,8.0,3.0,85.732,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,47.0,9.0,3.0,86.614,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,48.0,10.0,3.0,86.067,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,49.0,11.0,3.0,85.841,True,,1
+2023,14,Italian Grand Prix,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023,Monza,Italy,Monza,2023-09-03,51,PIA,Oscar Piastri,81,McLaren,MEDIUM,50.0,12.0,3.0,85.593,True,,1
