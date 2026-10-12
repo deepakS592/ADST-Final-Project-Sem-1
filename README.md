@@ -1,3 +1,21 @@
+## Installation and startup
+
+Python 3.11 or newer is required for the pinned scikit-learn version used by the included fitted artifacts. From the project root:
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
+python scripts/import_data.py
+python scripts/train_model.py --asof-upcoming
+python app.py
+```
+
+Open `http://127.0.0.1:5000`. The app initializes the schema and performs the local import automatically on first start when the database is empty. `run_dashboard.bat` is a Windows launcher for the same Flask application.
+
+On app startup, a background sync refreshes the current local calendar year and the next published calendar, then checks recently completed schedule entries for missing **Race** session laps. It imports only those race sessions, updates SQLite and the precomputed cutoff fingerprints, and rebuilds bundles only for future event cutoffs that can include the new race. It does not request practice or qualifying sessions, create future driver entries, or block Flask from starting if an upstream source is unavailable. Set `F1_STARTUP_SYNC=0` to disable this background update.
+
+The season selector includes every calendar season present in SQLite. The dashboard keeps the in-progress season primary while a later official calendar is selectable as a **PRE-SEASON** preview. Once the final scheduled race date passes in the configured `F1_APP_TIMEZONE`, focus advances to the next published season. Calendar rows without laps are labeled as calendar data; they do not count as race observations.
 # F1 Pit Stop Strategy System
 
 A Flask application for exploring Formula 1 tyre and pit-stop strategies. It combines the project's real historical lap data, circuit-level tyre profiles, pit-transition history, available weather, and its leak-aware Random Forest models. SQLite is the application database. The browser interface is served by Flask templates and plain JavaScript; Streamlit is not used.
@@ -79,23 +97,7 @@ The original 2026 Singapore check with the supplied 179,886 model-input laps too
 
 Use the **Compare with actual race strategy** control on any event with suitable driver history. The predictor runs first using the strict pre-race cutoff. Only then does the backtest read the selected event to derive its observed stint-compound sequence and pit laps. The report includes the prediction, actual strategy, pit laps, sequence similarity and cutoff. Historical actual stint data remains separate from model features.
 
-## Installation and startup
 
-Python 3.11 or newer is required for the pinned scikit-learn version used by the included fitted artifacts. From the project root:
-
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-python -m pip install -r requirements.txt
-python scripts/import_data.py
-python app.py
-```
-
-Open `http://127.0.0.1:5000`. The app initializes the schema and performs the local import automatically on first start when the database is empty. `run_dashboard.bat` is a Windows launcher for the same Flask application.
-
-On app startup, a background sync refreshes the current local calendar year and the next published calendar, then checks recently completed schedule entries for missing **Race** session laps. It imports only those race sessions, updates SQLite and the precomputed cutoff fingerprints, and rebuilds bundles only for future event cutoffs that can include the new race. It does not request practice or qualifying sessions, create future driver entries, or block Flask from starting if an upstream source is unavailable. Set `F1_STARTUP_SYNC=0` to disable this background update.
-
-The season selector includes every calendar season present in SQLite. The dashboard keeps the in-progress season primary while a later official calendar is selectable as a **PRE-SEASON** preview. Once the final scheduled race date passes in the configured `F1_APP_TIMEZONE`, focus advances to the next published season. Calendar rows without laps are labeled as calendar data; they do not count as race observations.
 
 ## Data import and update
 
